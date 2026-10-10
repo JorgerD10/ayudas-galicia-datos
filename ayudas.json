@@ -1,0 +1,580 @@
+{
+  "version": 1,
+  "revision": "2026-10-10",
+  "ayudas": [
+    {
+      "id": "gal_bono_concilia_2026",
+      "titulo": "Bono Concilia Familia 2026",
+      "tituloGl": "Bono Concilia Familia 2026",
+      "descripcion": "Ayuda directa para pagar servicios de conciliación durante las vacaciones escolares o en situaciones puntuales: cuidador/a a domicilio, campamentos (salvo los organizados por administraciones públicas), ludotecas y otros servicios autorizados. Cubre hasta el 75 % del gasto, y hasta el 100 % en familias numerosas, monoparentales, acogedoras, con hijos con discapacidad superior al 33 % o víctimas de violencia de género. Máximo: 500 € por familia en cuidados a domicilio y 200 € por hijo/a en campamentos o servicios colectivos.",
+      "descripcionGl": "Axuda directa para pagar servizos de conciliación durante as vacacións escolares ou en situacións puntuais: coidador/a a domicilio, campamentos (agás os organizados por administracións públicas), ludotecas e outros servizos autorizados. Cobre ata o 75 % do gasto, e ata o 100 % en familias numerosas, monoparentais, acolledoras, con fillos con discapacidade superior ao 33 % ou vítimas de violencia de xénero. Máximo: 500 € por familia en coidados a domicilio e 200 € por fillo/a en campamentos ou servizos colectivos.",
+      "categoria": "familia",
+      "organismo": "Xunta de Galicia",
+      "enlaceOficial": "https://sede.xunta.gal/detalle-procedemento?langId=es_ES&codtram=BS412A",
+      "plazoInicio": "2026-09-09T00:00:00.000",
+      "plazoFin": "2026-10-09T14:00:00.000",
+      "requisitos": [
+        {
+          "campo": "residenciaGalicia",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Residir en Galicia",
+          "textoExplicativoGl": "Residir en Galicia"
+        },
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2013,
+            2022
+          ],
+          "textoExplicativo": "Tener algún hijo/a de entre 4 y 13 años (nacido/a entre 2013 y 2022)",
+          "textoExplicativoGl": "Ter algún fillo/a de entre 4 e 13 anos (nacido/a entre 2013 e 2022)"
+        },
+        {
+          "campo": "progenitoresTrabajan",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que ambos progenitores trabajen en el período solicitado (solo uno en familias monoparentales)",
+          "textoExplicativoGl": "Que ambos proxenitores traballen no período solicitado (só un en familias monoparentais)"
+        }
+      ]
+    },
+    {
+      "id": "gal_tarxeta_benvida_2026",
+      "titulo": "Tarxeta Benvida 2026",
+      "tituloGl": "Tarxeta Benvida 2026",
+      "descripcion": "Tarjeta monedero para gastos de bebé (pañales, leche, ropa, farmacia infantil...). Son 1.200 € el primer año, y 2.400 € si es el tercer hijo/a o posterior. En municipios de menos de 5.000 habitantes se incrementa un 25 %. Las familias con renta de hasta 22.000 € pueden tener una extensión en el segundo y tercer año. Se puede pedir durante el embarazo desde la semana 21, o en los dos meses siguientes al nacimiento, adopción o acogimiento.",
+      "descripcionGl": "Tarxeta moedeiro para gastos de bebé (cueiros, leite, roupa, farmacia infantil...). Son 1.200 € o primeiro ano, e 2.400 € se é o terceiro fillo/a ou posterior. En concellos de menos de 5.000 habitantes increméntase un 25 %. As familias con renda de ata 22.000 € poden ter unha extensión no segundo e terceiro ano. Pódese pedir durante o embarazo desde a semana 21, ou nos dous meses seguintes ao nacemento, adopción ou acollemento.",
+      "categoria": "familia",
+      "organismo": "Xunta de Galicia",
+      "enlaceOficial": "https://sede.xunta.gal/detalle-procedemento?codtram=BS403B",
+      "requisitos": [
+        {
+          "campo": "hijoOEmbarazo",
+          "operador": "alguno",
+          "valor": [
+            {
+              "campo": "edadHijoMenor",
+              "operador": "menorQue",
+              "valor": 3,
+              "textoExplicativo": "Hijo/a de hasta 3 años",
+              "textoExplicativoGl": "Fillo/a de ata 3 anos"
+            },
+            {
+              "campo": "embarazada",
+              "operador": "igual",
+              "valor": true,
+              "textoExplicativo": "Embarazo de 21 semanas o más",
+              "textoExplicativoGl": "Embarazo de 21 semanas ou máis"
+            }
+          ],
+          "textoExplicativo": "Tener un hijo/a de hasta 3 años, o estar embarazada desde la semana 21",
+          "textoExplicativoGl": "Ter un fillo/a de ata 3 anos, ou estar embarazada desde a semana 21"
+        },
+        {
+          "campo": "residenciaGalicia",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Tener residencia habitual en Galicia",
+          "textoExplicativoGl": "Ter residencia habitual en Galicia"
+        },
+        {
+          "campo": "rentaIRPF",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que en la última declaración del IRPF la renta de la unidad familiar no supere 45.000 € (o 13.500 € por miembro)",
+          "textoExplicativoGl": "Que na última declaración do IRPF a renda da unidade familiar non supere 45.000 € (ou 13.500 € por membro)"
+        },
+        {
+          "campo": "plazoSolicitud",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Solicitarla durante el embarazo o en los 2 meses siguientes al nacimiento",
+          "textoExplicativoGl": "Solicitala durante o embarazo ou nos 2 meses seguintes ao nacemento"
+        }
+      ]
+    },
+    {
+      "id": "gal_escuelas_infantiles_gratuitas",
+      "titulo": "Escuelas infantiles gratuitas (0-3 años)",
+      "tituloGl": "Escolas infantís gratuítas (0-3 anos)",
+      "descripcion": "La atención educativa y la matrícula son gratuitas en las escuelas infantiles de Galicia adheridas al programa (casi todas lo están). No hay que presentar solicitud: la escuela aplica el descuento directamente. No incluye comedor ni otros servicios complementarios.",
+      "descripcionGl": "A atención educativa e a matrícula son gratuítas nas escolas infantís de Galicia adheridas ao programa (case todas o están). Non hai que presentar solicitude: a escola aplica o desconto directamente. Non inclúe comedor nin outros servizos complementarios.",
+      "categoria": "educacion",
+      "organismo": "Xunta de Galicia",
+      "enlaceOficial": "https://politicasocial.xunta.gal/es/temas/familia-e-infancia/escuelas-infantiles/gratuidad-de-las-escuelas-infantiles",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            0,
+            3
+          ],
+          "textoExplicativo": "Tener un hijo/a de entre 3 meses y 3 años",
+          "textoExplicativoGl": "Ter un fillo/a de entre 3 meses e 3 anos"
+        },
+        {
+          "campo": "escuelaAdherida",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el hijo/a esté inscrito en una escuela infantil de Galicia adherida a la gratuidad",
+          "textoExplicativoGl": "Que o fillo/a estea inscrito nunha escola infantil de Galicia adherida á gratuidade"
+        }
+      ]
+    },
+    {
+      "id": "gal_respiro_familiar_2026",
+      "titulo": "Respiro familiar para personas cuidadoras 2026",
+      "tituloGl": "Respiro familiar para persoas coidadoras 2026",
+      "descripcion": "Ayuda para que las personas que cuidan de forma habitual y no profesional a alguien dependiente o con discapacidad puedan descansar. Financia atención puntual en el propio hogar, en un centro de día o una estancia temporal en una residencia. Cubre hasta el 100 % del coste, con un máximo de 1.000 € al año en atención a domicilio o centro de día y de 1.500 € en residencia. Se pagan los gastos de entre el 1 de enero y el 21 de noviembre de 2026, y las solicitudes se atienden por orden de presentación hasta agotar el crédito. Es compatible con otras ayudas, sin superar el coste del servicio.",
+      "descripcionGl": "Axuda para que as persoas que coidan de forma habitual e non profesional a alguén dependente ou con discapacidade poidan descansar. Financia atención puntual no propio fogar, nun centro de día ou unha estadía temporal nunha residencia. Cobre ata o 100 % do custo, cun máximo de 1.000 € ao ano en atención a domicilio ou centro de día e de 1.500 € en residencia. Páganse os gastos de entre o 1 de xaneiro e o 21 de novembro de 2026, e as solicitudes aténdense por orde de presentación ata esgotar o crédito. É compatible con outras axudas, sen superar o custo do servizo.",
+      "categoria": "dependencia",
+      "organismo": "Xunta de Galicia",
+      "enlaceOficial": "https://sede.xunta.gal/detalle-procedemento?codtram=BS614B",
+      "plazoInicio": "2026-08-12T00:00:00.000",
+      "plazoFin": "2026-10-15T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "cuidadora",
+          "operador": "igual",
+          "valor": true,
+          "textoExplicativo": "Ser persona cuidadora habitual, no profesional, de alguien dependiente o con discapacidad",
+          "textoExplicativoGl": "Ser persoa coidadora habitual, non profesional, de alguén dependente ou con discapacidade"
+        },
+        {
+          "campo": "residenciaGalicia",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que tanto la persona cuidadora como la persona atendida residan en Galicia",
+          "textoExplicativoGl": "Que tanto a persoa coidadora como a persoa atendida residan en Galicia"
+        },
+        {
+          "campo": "situacionPersonaAtendida",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la persona atendida tenga una discapacidad del 75 % o más con necesidad de ayuda de terceros, dependencia reconocida de grado II o III, o necesidad de terceros acreditada con informe médico y social",
+          "textoExplicativoGl": "Que a persoa atendida teña unha discapacidade do 75 % ou máis con necesidade de axuda de terceiros, dependencia recoñecida de grao II ou III, ou necesidade de terceiros acreditada con informe médico e social"
+        },
+        {
+          "campo": "gastoRespiro",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Haber pagado en 2026 un servicio de respiro: atención a domicilio, centro de día o estancia temporal en residencia",
+          "textoExplicativoGl": "Ter pagado en 2026 un servizo de respiro: atención a domicilio, centro de día ou estadía temporal en residencia"
+        }
+      ]
+    },
+    {
+      "id": "gal_comedor_escolar_2025_26",
+      "titulo": "Ayuda para el comedor escolar (curso 2025/26)",
+      "tituloGl": "Axuda para o comedor escolar (curso 2025/26)",
+      "descripcion": "Pago único de 150 € por cada hijo/a que haya usado el comedor de su colegio durante el curso 2025/26. Vale para comedores no gestionados por la Consellería de Educación, como los de ANPA, ayuntamientos o centros concertados. El alumno debe haber asistido al menos al 40 % de los días lectivos. Es para alumnado de segundo ciclo de Infantil, Primaria y Educación Especial, y la renta per cápita de la familia (renta de 2024) no puede superar 6.000 €. Convocatoria de 2026 cerrada: conviene vigilar la del próximo curso.",
+      "descripcionGl": "Pagamento único de 150 € por cada fillo/a que usase o comedor do seu colexio durante o curso 2025/26. Vale para comedores non xestionados pola Consellería de Educación, como os de ANPA, concellos ou centros concertados. O alumno debe ter asistido polo menos ao 40 % dos días lectivos. É para alumnado de segundo ciclo de Infantil, Primaria e Educación Especial, e a renda per cápita da familia (renda de 2024) non pode superar os 6.000 €. Convocatoria de 2026 pechada: convén vixiar a do próximo curso.",
+      "categoria": "educacion",
+      "organismo": "Xunta de Galicia",
+      "enlaceOficial": "https://www.xunta.gal/dog/Publicados/2026/20260626/AnuncioG0761-170626-0002_es.html",
+      "plazoInicio": "2026-07-06T00:00:00.000",
+      "plazoFin": "2026-08-06T20:00:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            12
+          ],
+          "textoExplicativo": "Tener algún hijo/a en segundo ciclo de Infantil, Primaria o Educación Especial (aproximadamente de 3 a 12 años)",
+          "textoExplicativoGl": "Ter algún fillo/a en segundo ciclo de Infantil, Primaria ou Educación Especial (aproximadamente de 3 a 12 anos)"
+        },
+        {
+          "campo": "usoComedor",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el hijo/a haya usado el comedor al menos el 40 % de los días lectivos del curso 2025/26",
+          "textoExplicativoGl": "Que o fillo/a usase o comedor polo menos o 40 % dos días lectivos do curso 2025/26"
+        },
+        {
+          "campo": "tipoComedor",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el comedor no esté gestionado por la Consellería de Educación (comedores de ANPA, ayuntamiento o centro concertado)",
+          "textoExplicativoGl": "Que o comedor non estea xestionado pola Consellería de Educación (comedores de ANPA, concello ou centro concertado)"
+        },
+        {
+          "campo": "rentaPerCapita",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita de la familia (renta de 2024) no supere 6.000 €",
+          "textoExplicativoGl": "Que a renda per cápita da familia (renda de 2024) non supere os 6.000 €"
+        }
+      ]
+    },
+    {
+      "id": "gal_reduccion_jornada_2026",
+      "titulo": "Reducción de jornada para cuidar hijos/as 2026",
+      "tituloGl": "Redución de xornada para coidar fillos/as 2026",
+      "descripcion": "Ayuda para personas trabajadoras por cuenta ajena que redujeron su jornada para cuidar a un hijo/a menor de 3 años (o menor de 12 con discapacidad del 33 % o más). Entre 1.700 € y 3.700 €, según el porcentaje y la duración de la reducción y el número de hijos/as menores de 12 años. Cubre reducciones entre el 1 de agosto de 2025 y el 31 de julio de 2026. En parejas de distinto sexo está pensada para que la pida el padre; en parejas del mismo sexo o custodia compartida, cualquiera de los progenitores; y en familias monoparentales, la persona a cargo. Convocatoria de 2026 cerrada: conviene vigilar la del próximo año.",
+      "descripcionGl": "Axuda para persoas traballadoras por conta allea que reduciron a súa xornada para coidar un fillo/a menor de 3 anos (ou menor de 12 con discapacidade do 33 % ou máis). Entre 1.700 € e 3.700 €, segundo a porcentaxe e a duración da redución e o número de fillos/as menores de 12 anos. Cobre reducións entre o 1 de agosto de 2025 e o 31 de xullo de 2026. En parellas de distinto sexo está pensada para que a solicite o pai; en parellas do mesmo sexo ou custodia compartida, calquera dos proxenitores; e en familias monoparentais, a persoa a cargo. Convocatoria de 2026 pechada: convén vixiar a do próximo ano.",
+      "categoria": "familia",
+      "organismo": "Xunta de Galicia",
+      "enlaceOficial": "https://www.xunta.gal/dog/Publicados/2026/20260724/AnuncioG0762-090726-0006_gl.html",
+      "plazoInicio": "2026-07-25T00:00:00.000",
+      "plazoFin": "2026-08-24T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadHijoMenor",
+          "operador": "menorQue",
+          "valor": 4,
+          "textoExplicativo": "Tener un hijo/a que tuviera menos de 3 años durante la reducción de jornada (o menos de 12 con discapacidad del 33 % o más)",
+          "textoExplicativoGl": "Ter un fillo/a que tivese menos de 3 anos durante a redución de xornada (ou menos de 12 con discapacidade do 33 % ou máis)"
+        },
+        {
+          "campo": "empadronamientoGalicia",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronado/a en Galicia",
+          "textoExplicativoGl": "Estar empadroado/a en Galicia"
+        },
+        {
+          "campo": "trabajoCuentaAjena",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Ser persona trabajadora por cuenta ajena, en el sector público o privado",
+          "textoExplicativoGl": "Ser persoa traballadora por conta allea, no sector público ou privado"
+        },
+        {
+          "campo": "reduccionJornada",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Haber reducido la jornada de trabajo entre el 1 de agosto de 2025 y el 31 de julio de 2026 para cuidar al hijo/a",
+          "textoExplicativoGl": "Ter reducido a xornada de traballo entre o 1 de agosto de 2025 e o 31 de xullo de 2026 para coidar o fillo/a"
+        },
+        {
+          "campo": "ingresosIPREM",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los ingresos de la unidad familiar no superen 7 veces el IPREM de 2025",
+          "textoExplicativoGl": "Que os ingresos da unidade familiar non superen 7 veces o IPREM de 2025"
+        }
+      ]
+    },
+    {
+      "id": "vigo_libros_comedor_2026_27",
+      "titulo": "Ayudas municipales de libros, material escolar y comedor de Vigo 2026-2027",
+      "tituloGl": "Axudas municipais de libros, material escolar e comedor de Vigo 2026-2027",
+      "descripcion": "Ayudas del Concello de Vigo para familias empadronadas en Vigo con hijos/as en la segunda etapa de Educación Infantil (3 a 5 años), Primaria o ESO en centros públicos o concertados de Vigo. Libros y material escolar: 100 € por alumno/a. Comedor: hasta 70 € al mes por alumno/a (40 € en diciembre y abril), siempre que el alumno/a tenga plaza en el comedor del centro. Se conceden por orden, de menor a mayor renta per cápita. Convocatoria del curso 2026-2027 cerrada (plazo del 6 de abril al 4 de mayo de 2026): conviene vigilar la del próximo año.",
+      "descripcionGl": "Axudas do Concello de Vigo para familias empadroadas en Vigo con fillos/as na segunda etapa de Educación Infantil (3 a 5 anos), Primaria ou ESO en centros públicos ou concertados de Vigo. Libros e material escolar: 100 € por alumno/a. Comedor: ata 70 € ao mes por alumno/a (40 € en decembro e abril), sempre que o alumno/a teña praza no comedor do centro. Concédense por orde, de menor a maior renda per cápita. Convocatoria do curso 2026-2027 pechada (prazo do 6 de abril ao 4 de maio de 2026): convén vixiar a do próximo ano.",
+      "categoria": "educacion",
+      "organismo": "Concello de Vigo",
+      "enlaceOficial": "https://sede.vigo.org/expedientes/avisos/aviso.jsp?id=4913&lang=es",
+      "municipios": [
+        "Vigo"
+      ],
+      "plazoInicio": "2026-04-06T00:00:00.000",
+      "plazoFin": "2026-05-04T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener algún hijo/a en segunda etapa de Educación Infantil, Primaria o ESO (de 3 a 16 años aproximadamente)",
+          "textoExplicativoGl": "Ter algún fillo/a na segunda etapa de Educación Infantil, Primaria ou ESO (de 3 a 16 anos aproximadamente)"
+        },
+        {
+          "campo": "matriculaVigo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el alumno/a esté matriculado (o con reserva de matrícula) en un centro público o concertado situado en Vigo",
+          "textoExplicativoGl": "Que o alumno/a estea matriculado (ou con reserva de matrícula) nun centro público ou concertado situado en Vigo"
+        },
+        {
+          "campo": "ingresosVigo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los ingresos de la familia no superen el máximo según su tamaño (por ejemplo, 1.407,60 € al mes con 3 miembros o 1.876,80 € con 4; las familias monoparentales cuentan un miembro más)",
+          "textoExplicativoGl": "Que os ingresos da familia non superen o máximo segundo o seu tamaño (por exemplo, 1.407,60 € ao mes con 3 membros ou 1.876,80 € con 4; as familias monoparentais contan un membro máis)"
+        },
+        {
+          "campo": "plazaComedor",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Para la ayuda de comedor: tener plaza en el comedor del centro",
+          "textoExplicativoGl": "Para a axuda de comedor: ter praza no comedor do centro"
+        }
+      ]
+    },
+    {
+      "id": "coruna_beca_comedor_2026_27",
+      "titulo": "Becas de comedor escolar del Ayuntamiento de A Coruña 2026-2027",
+      "tituloGl": "Bolsas comedor do Concello da Coruña 2026-2027",
+      "descripcion": "Becas municipales para el comedor escolar de alumnado empadronado en A Coruña y matriculado en un centro de la ciudad con comedor autorizado: segundo ciclo de Infantil, Primaria, ESO, Bachillerato, FP y Educación Especial. En centros públicos cubre todo el coste del comedor; en centros privados o concertados, 80 € al mes (hasta 98 € en casos como informe de servicios sociales, tutela pública, acogimiento o programa de inclusión). La renta per cápita de la unidad familiar nuclear no puede superar 8.000 € al año, y se puntúa a las familias (menor renta, horario partido de los padres, monoparentalidad, familia numerosa, discapacidad). Convocatoria 2026/27 cerrada (plazo del 23 de febrero al 13 de marzo de 2026): conviene vigilar la del próximo curso.",
+      "descripcionGl": "Bolsas municipais para o comedor escolar de alumnado empadroado na Coruña e matriculado nun centro da cidade con comedor autorizado: segundo ciclo de Infantil, Primaria, ESO, Bacharelato, FP e Educación Especial. En centros públicos cobre todo o custo do comedor; en centros privados ou concertados, 80 € ao mes (ata 98 € en casos como informe de servizos sociais, titela pública, acollemento ou programa de inclusión). A renda per cápita da unidade familiar nuclear non pode superar os 8.000 € ao ano, e puntúanse as familias (menor renda, horario partido dos pais, monoparentalidade, familia numerosa, discapacidade). Convocatoria 2026/27 pechada (prazo do 23 de febreiro ao 13 de marzo de 2026): convén vixiar a do próximo curso.",
+      "categoria": "educacion",
+      "organismo": "Concello da Coruña",
+      "enlaceOficial": "https://sede.coruna.gal/sede/es/tramites-y-servicios-electronicos/guia-de-procedimientos-y-servicios/detalle-de-procedimientos/becas-comedor/contenido/1453739229256",
+      "municipios": [
+        "A Coruña"
+      ],
+      "plazoInicio": "2026-02-23T00:00:00.000",
+      "plazoFin": "2026-03-13T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            18
+          ],
+          "textoExplicativo": "Tener algún hijo/a en segundo ciclo de Infantil, Primaria, ESO, Bachillerato, FP o Educación Especial (desde los 3 años)",
+          "textoExplicativoGl": "Ter algún fillo/a en segundo ciclo de Infantil, Primaria, ESO, Bacharelato, FP ou Educación Especial (desde os 3 anos)"
+        },
+        {
+          "campo": "matriculaCoruna",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el alumno/a esté matriculado (o haya solicitado la matrícula) en un centro de A Coruña con comedor autorizado",
+          "textoExplicativoGl": "Que o alumno/a estea matriculado (ou solicitase a matrícula) nun centro da Coruña con comedor autorizado"
+        },
+        {
+          "campo": "plazaComedor",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Tener plaza asignada en el comedor del centro al comenzar el curso",
+          "textoExplicativoGl": "Ter praza asignada no comedor do centro ao comezar o curso"
+        },
+        {
+          "campo": "rentaPerCapitaCoruna",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita de la unidad familiar nuclear no supere 8.000 € al año",
+          "textoExplicativoGl": "Que a renda per cápita da unidade familiar nuclear non supere os 8.000 € ao ano"
+        }
+      ]
+    },
+    {
+      "id": "santiago_bolsas_comedor_2026_27",
+      "titulo": "Bolsas de comedor, material escolar y actividades extraescolares de Santiago 2026-2027",
+      "tituloGl": "Bolsas de comedor, material escolar e actividades extraescolares de Santiago 2026-2027",
+      "descripcion": "Tres líneas de ayuda del Concello de Santiago para familias empadronadas en Santiago con hijos/as en centros públicos o concertados de la ciudad (2º ciclo de Infantil y Primaria; también ESO en centros de Educación Especial). A) Escasez de recursos: comedor hasta 100 € al mes (180 € en centros de Educación Especial) y actividades extraescolares hasta 35 € al mes por hijo/a. B) Material escolar: hasta 100 € en un pago único (2º ciclo de Infantil). C) Conciliación: 45 € al mes de comedor, si ambos progenitores trabajan. A y C son incompatibles entre sí; B es compatible con ambas. Convocatoria 2026/27 cerrada (plazo del 1 al 14 de julio de 2026; hay un plazo extraordinario de 10 días hábiles para el alumnado que se matricula una vez iniciado el curso): conviene vigilar la del próximo año.",
+      "descripcionGl": "Tres liñas de axuda do Concello de Santiago para familias empadroadas en Santiago con fillos/as en centros públicos ou concertados da cidade (2º ciclo de Infantil e Primaria; tamén ESO en centros de Educación Especial). A) Escaseza de recursos: comedor ata 100 € ao mes (180 € en centros de Educación Especial) e actividades extraescolares ata 35 € ao mes por fillo/a. B) Material escolar: ata 100 € nun pagamento único (2º ciclo de Infantil). C) Conciliación: 45 € ao mes de comedor, se ambos proxenitores traballan. A e C son incompatibles entre si; B é compatible con ambas. Convocatoria 2026/27 pechada (prazo do 1 ao 14 de xullo de 2026; hai un prazo extraordinario de 10 días hábiles para o alumnado que se matricula unha vez iniciado o curso): convén vixiar a do próximo ano.",
+      "categoria": "educacion",
+      "organismo": "Concello de Santiago de Compostela",
+      "enlaceOficial": "https://servizossociais.santiagodecompostela.gal/bolsas-de-comedor-escolar-material-e-actividades-extraescolares-aberto-o-prazo-de-solicitude-do-1-ao-14-de-xullo/",
+      "municipios": [
+        "Santiago de Compostela"
+      ],
+      "plazoInicio": "2026-07-01T00:00:00.000",
+      "plazoFin": "2026-07-14T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            12
+          ],
+          "textoExplicativo": "Tener algún hijo/a en segundo ciclo de Infantil o Primaria (aproximadamente de 3 a 12 años); en centros de Educación Especial, también ESO",
+          "textoExplicativoGl": "Ter algún fillo/a en segundo ciclo de Infantil ou Primaria (aproximadamente de 3 a 12 anos); en centros de Educación Especial, tamén ESO"
+        },
+        {
+          "campo": "matriculaSantiago",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el alumno/a esté matriculado (o tenga reserva de plaza) en un centro público o concertado de Santiago",
+          "textoExplicativoGl": "Que o alumno/a estea matriculado (ou teña reserva de praza) nun centro público ou concertado de Santiago"
+        },
+        {
+          "campo": "ingresosSantiago",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los ingresos no superen el límite de la ayuda: renta per cápita de hasta el 100 % del IPREM anual (unos 7.200 €) para escasez de recursos, o ingresos anuales de la familia de hasta 39.600 € (5,5 veces el IPREM) para material escolar y conciliación",
+          "textoExplicativoGl": "Que os ingresos non superen o límite da axuda: renda per cápita de ata o 100 % do IPREM anual (uns 7.200 €) para escaseza de recursos, ou ingresos anuais da familia de ata 39.600 € (5,5 veces o IPREM) para material escolar e conciliación"
+        },
+        {
+          "campo": "progenitoresTrabajanSantiago",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Solo para la línea de conciliación: que ambos progenitores trabajen (o solo quien solicita, en familias monoparentales o con separación o divorcio)",
+          "textoExplicativoGl": "Só para a liña de conciliación: que ambos proxenitores traballen (ou só quen solicita, en familias monoparentais ou con separación ou divorcio)"
+        }
+      ]
+    },
+    {
+      "id": "ourense_libros_comedor_2026_27",
+      "titulo": "Ayudas municipales de libros, material escolar y comedor de Ourense 2026-2027",
+      "tituloGl": "Axudas municipais de libros, material escolar e comedor de Ourense 2026-2027",
+      "descripcion": "Ayudas del Concello de Ourense para unidades de convivencia en desventaja social y con menor poder adquisitivo, empadronadas en Ourense (toda la unidad familiar, en el mismo domicilio y con al menos 3 meses de antigüedad), con hijos/as en centros públicos o concertados de la ciudad. Libros y material escolar: 110 € para alumnado de segundo ciclo de Infantil (3 a 5 años), pagados con vales en librerías de Ourense. Comedor: 90 € al mes para alumnado de Infantil, Primaria o ESO con plaza de comedor; la ayuda se paga a los centros. La renta anual de la familia no puede superar 4.000 € por miembro. Convocatoria del curso 2026-2027 cerrada (plazo del 30 de abril al 21 de mayo de 2026): conviene vigilar la del próximo año.",
+      "descripcionGl": "Axudas do Concello de Ourense para unidades de convivencia en desvantaxe social e con menor poder adquisitivo, empadroadas en Ourense (toda a unidade familiar, no mesmo domicilio e con polo menos 3 meses de antigüidade), con fillos/as en centros públicos ou concertados da cidade. Libros e material escolar: 110 € para alumnado de segundo ciclo de Infantil (3 a 5 anos), pagados con vales en librarías de Ourense. Comedor: 90 € ao mes para alumnado de Infantil, Primaria ou ESO con praza de comedor; a axuda págase aos centros. A renda anual da familia non pode superar os 4.000 € por membro. Convocatoria do curso 2026-2027 pechada (prazo do 30 de abril ao 21 de maio de 2026): convén vixiar a do próximo ano.",
+      "categoria": "educacion",
+      "organismo": "Concello de Ourense",
+      "enlaceOficial": "https://ourense.gal/gl/actualidad/el-ayuntamiento-abrira-el-30-de-abril-el-plazo-para-solicitar-las-ayudas-para-libros-y-comedores-escolares-para-el-curso-20262027",
+      "municipios": [
+        "Ourense"
+      ],
+      "plazoInicio": "2026-04-30T00:00:00.000",
+      "plazoFin": "2026-05-21T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener algún hijo/a en Educación Infantil (desde los 3 años), Primaria o ESO",
+          "textoExplicativoGl": "Ter algún fillo/a en Educación Infantil (desde os 3 anos), Primaria ou ESO"
+        },
+        {
+          "campo": "matriculaOurense",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el alumno/a esté matriculado en un centro público o concertado situado en Ourense",
+          "textoExplicativoGl": "Que o alumno/a estea matriculado nun centro público ou concertado situado en Ourense"
+        },
+        {
+          "campo": "empadronamientoOurense",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que toda la unidad familiar esté empadronada en Ourense, en el mismo domicilio, desde hace al menos 3 meses",
+          "textoExplicativoGl": "Que toda a unidade familiar estea empadroada en Ourense, no mesmo domicilio, desde hai polo menos 3 meses"
+        },
+        {
+          "campo": "rentaOurense",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta anual de la familia no supere 4.000 € por miembro (cuenta un miembro más si hay discapacidad del 33 % o más, o en familias monoparentales)",
+          "textoExplicativoGl": "Que a renda anual da familia non supere os 4.000 € por membro (conta un membro máis se hai discapacidade do 33 % ou máis, ou en familias monoparentais)"
+        },
+        {
+          "campo": "patrimonioOurense",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "No tener bienes muebles o inmuebles, aparte de la vivienda habitual, que indiquen medios suficientes para cubrir la necesidad",
+          "textoExplicativoGl": "Non ter bens mobles ou inmobles, á parte da vivenda habitual, que indiquen medios suficientes para cubrir a necesidade"
+        },
+        {
+          "campo": "plazaComedor",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Para la ayuda de comedor: tener plaza de comedor solicitada en el centro",
+          "textoExplicativoGl": "Para a axuda de comedor: ter praza de comedor solicitada no centro"
+        }
+      ]
+    },
+    {
+      "id": "lugo_material_infantil_2026_27",
+      "titulo": "Ayuda municipal de material escolar para Infantil de Lugo 2026-2027",
+      "tituloGl": "Axuda municipal de material escolar para Infantil de Lugo 2026-2027",
+      "descripcion": "Ayuda del Concello de Lugo para material escolar del alumnado de segundo ciclo de Educación Infantil (3 a 5 años) en centros sostenidos con fondos públicos de Lugo, para familias con escasos recursos. Se conceden 400 ayudas, entregadas en forma de vales en las oficinas del Servicio de Educación. Material subvencionable: libros de texto, fichas, estuches, mochilas, botella de agua y material de papelería (no vestuario, juguetes ni paraguas). La persona solicitante y el menor deben estar empadronados en Lugo, y la renta no puede superar 7.140 € por miembro (0,85 veces el IPREM de 2026). Convocatoria 2026-2027 cerrada (plazo del 1 al 22 de junio de 2026, ampliado por incidencias técnicas): conviene vigilar la del próximo año.",
+      "descripcionGl": "Axuda do Concello de Lugo para material escolar do alumnado de segundo ciclo de Educación Infantil (3 a 5 anos) en centros sostidos con fondos públicos de Lugo, para familias con escasos recursos. Concédense 400 axudas, entregadas en forma de vales nas oficinas do Servizo de Educación. Material subvencionable: libros de texto, fichas, estoxos, mochilas, botella de auga e material de papelaría (non vestiario, xoguetes nin paraugas). A persoa solicitante e o menor deben estar empadroados en Lugo, e a renda non pode superar os 7.140 € por membro (0,85 veces o IPREM de 2026). Convocatoria 2026-2027 pechada (prazo do 1 ao 22 de xuño de 2026, ampliado por incidencias técnicas): convén vixiar a do próximo ano.",
+      "categoria": "educacion",
+      "organismo": "Concello de Lugo",
+      "enlaceOficial": "https://concellodelugo.gal/es/tramites/solicitud-de-ayuda-para-material-escolar-en-el-segundo-ciclo-de-educacion-infantil-curso-2026-2027",
+      "municipios": [
+        "Lugo"
+      ],
+      "plazoInicio": "2026-06-01T00:00:00.000",
+      "plazoFin": "2026-06-22T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener algún hijo/a en segundo ciclo de Educación Infantil (de 3 a 5 años)",
+          "textoExplicativoGl": "Ter algún fillo/a en segundo ciclo de Educación Infantil (de 3 a 5 anos)"
+        },
+        {
+          "campo": "matriculaLugo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Haber solicitado plaza (o estar matriculado) en segundo ciclo de Infantil en un centro sostenido con fondos públicos de Lugo",
+          "textoExplicativoGl": "Ter solicitado praza (ou estar matriculado) en segundo ciclo de Infantil nun centro sostido con fondos públicos de Lugo"
+        },
+        {
+          "campo": "empadronamientoLugo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que tanto la persona solicitante como el menor estén empadronados en Lugo",
+          "textoExplicativoGl": "Que tanto a persoa solicitante como o menor estean empadroados en Lugo"
+        },
+        {
+          "campo": "rentaLugo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta no supere 7.140 € por miembro de la unidad familiar (0,85 veces el IPREM de 2026; los menores con discapacidad del 33 % o más cuentan por dos)",
+          "textoExplicativoGl": "Que a renda non supere os 7.140 € por membro da unidade familiar (0,85 veces o IPREM de 2026; os menores con discapacidade do 33 % ou máis contan por dous)"
+        },
+        {
+          "campo": "sinOtrasAyudasLugo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "No recibir otras ayudas o subvenciones para la misma finalidad",
+          "textoExplicativoGl": "Non recibir outras axudas ou subvencións para a mesma finalidade"
+        }
+      ]
+    },
+    {
+      "id": "ferrol_comedor_material_2026_27",
+      "titulo": "Becas de comedor y material escolar de Ferrol 2026-2027",
+      "tituloGl": "Bolsas de comedor e material escolar de Ferrol 2026-2027",
+      "descripcion": "Prestaciones asistenciales del Concello de Ferrol para el alumnado empadronado y matriculado en centros públicos o concertados de Ferrol. Hay dos líneas: bolsa de comedor (almuerzo y/o merienda), que cubre el coste completo, para 2.º ciclo de Infantil, Primaria y educación especial; y material escolar, 100 € por menor en un vale canjeable en comercios de Ferrol, para Infantil, Primaria, ESO, Bachillerato, FP Básica y FP de Grado Medio. Los ingresos mensuales de la familia no pueden superar 900 € (2 miembros), 1.035 € (3), 1.190,25 € (4), 1.368,78 € (5) o 1.574,09 € (6 o más), según la renta de 2025 (se pueden descontar hasta 300 € de alquiler o hipoteca). Es incompatible con otras ayudas para la misma finalidad. Convocatoria 2026-2027 cerrada (plazo ordinario de unos 15 días hábiles desde el 15 de mayo de 2026): quedan abiertas solicitudes fuera de plazo durante el curso solo por traslado de residencia o de colegio, violencia de género o cambio de situación socio-familiar con informe técnico. Conviene vigilar la del próximo año.",
+      "descripcionGl": "Prestacións asistenciais do Concello de Ferrol para o alumnado empadroado e matriculado en centros públicos ou concertados de Ferrol. Hai dúas liñas: bolsa de comedor (almorzo e/ou xantar), que cobre o custo completo, para 2.º ciclo de Infantil, Primaria e educación especial; e material escolar, 100 € por menor nun vale canxeable en comercios de Ferrol, para Infantil, Primaria, ESO, Bacharelato, FP Básica e FP de Grao Medio. Os ingresos mensuais da familia non poden superar 900 € (2 membros), 1.035 € (3), 1.190,25 € (4), 1.368,78 € (5) ou 1.574,09 € (6 ou máis), segundo a renda de 2025 (pódense descontar ata 300 € de aluguer ou hipoteca). É incompatible con outras axudas para a mesma finalidade. Convocatoria 2026-2027 pechada (prazo ordinario de uns 15 días hábiles desde o 15 de maio de 2026): quedan abertas solicitudes fóra de prazo durante o curso só por traslado de residencia ou de colexio, violencia de xénero ou cambio de situación socio-familiar con informe técnico. Convén vixiar a do próximo ano.",
+      "categoria": "educacion",
+      "organismo": "Concello de Ferrol",
+      "enlaceOficial": "https://bop.dacoruna.gal/bopportal/publicado/2026/05/15/2026_0000002995.pdf",
+      "municipios": [
+        "Ferrol"
+      ],
+      "plazoInicio": "2026-05-16T00:00:00.000",
+      "plazoFin": "2026-06-05T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            18
+          ],
+          "textoExplicativo": "Tener algún hijo/a escolarizado entre Infantil (3 años) y Bachillerato o FP de Grado Medio",
+          "textoExplicativoGl": "Ter algún fillo/a escolarizado entre Infantil (3 anos) e Bacharelato ou FP de Grao Medio"
+        },
+        {
+          "campo": "matriculaFerrol",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el menor esté matriculado en un centro público o concertado de Ferrol (el comedor, solo en 2.º ciclo de Infantil, Primaria o educación especial)",
+          "textoExplicativoGl": "Que o menor estea matriculado nun centro público ou concertado de Ferrol (o comedor, só en 2.º ciclo de Infantil, Primaria ou educación especial)"
+        },
+        {
+          "campo": "empadronamientoFerrol",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la unidad familiar esté empadronada en Ferrol y conviva con el menor",
+          "textoExplicativoGl": "Que a unidade familiar estea empadroada en Ferrol e conviva co menor"
+        },
+        {
+          "campo": "rentaFerrol",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los ingresos mensuales de la unidad familiar no superen 900 € (2 miembros), 1.035 € (3), 1.190,25 € (4), 1.368,78 € (5) o 1.574,09 € (6 o más), según la renta de 2025",
+          "textoExplicativoGl": "Que os ingresos mensuais da unidade familiar non superen 900 € (2 membros), 1.035 € (3), 1.190,25 € (4), 1.368,78 € (5) ou 1.574,09 € (6 ou máis), segundo a renda de 2025"
+        },
+        {
+          "campo": "sinOtrasAyudasFerrol",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "No recibir otra ayuda pública o privada para la misma finalidad",
+          "textoExplicativoGl": "Non recibir outra axuda pública ou privada para a mesma finalidade"
+        }
+      ]
+    }
+  ]
+}
