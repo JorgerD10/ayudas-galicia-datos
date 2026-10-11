@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-10",
+  "revision": "2026-10-11",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -573,6 +573,54 @@
           "valor": true,
           "textoExplicativo": "No recibir otra ayuda pública o privada para la misma finalidad",
           "textoExplicativoGl": "Non recibir outra axuda pública ou privada para a mesma finalidade"
+        }
+      ]
+    },
+    {
+      "id": "mos_libros_comedor_2026_27",
+      "titulo": "Ayudas municipales de libros, material escolar y comedor de Mos 2026-2027",
+      "tituloGl": "Axudas municipais de libros, material escolar e comedor de Mos 2026-2027",
+      "descripcion": "Ayudas del Concello de Mos para familias con dificultades económicas. Libros y material escolar: hasta 80 € por alumno/a (hasta 40 € en Infantil de 1.º ciclo), sin superar el gasto justificado, para alumnado de Infantil, Primaria y Secundaria; vale si la familia está empadronada en Mos o si el alumno/a estudia en un centro de Mos. Comedor: 2 € por menú y día para alumnado de Infantil (2.º ciclo) y Primaria de los CEIP públicos de Mos con servicio de comedor, siempre que no sea gratuito. Se paga después de presentar las facturas y los justificantes de pago. Los ingresos de 2025 de la familia no pueden superar 16.800 € (2 miembros), 25.200 € (3), 33.600 € (4) o 42.000 € (5 o más); las familias numerosas cuentan un miembro más. Solicitudes hasta el 16 de octubre de 2026.",
+      "descripcionGl": "Axudas do Concello de Mos para familias con dificultades económicas. Libros e material escolar: ata 80 € por alumno/a (ata 40 € en Infantil de 1.º ciclo), sen superar o gasto xustificado, para alumnado de Infantil, Primaria e Secundaria; vale se a familia está empadroada en Mos ou se o alumno/a estuda nun centro de Mos. Comedor: 2 € por menú e día para alumnado de Infantil (2.º ciclo) e Primaria dos CEIP públicos de Mos con servizo de comedor, sempre que non sexa gratuíto. Págase despois de presentar as facturas e os xustificantes de pagamento. Os ingresos de 2025 da familia non poden superar 16.800 € (2 membros), 25.200 € (3), 33.600 € (4) ou 42.000 € (5 ou máis); as familias numerosas contan un membro máis. Solicitudes ata o 16 de outubro de 2026.",
+      "categoria": "educacion",
+      "organismo": "Concello de Mos",
+      "enlaceOficial": "https://xuventude.xunta.gal/gl/node/5095",
+      "municipios": [
+        "Mos"
+      ],
+      "plazoInicio": "2026-10-02T00:00:00.000",
+      "plazoFin": "2026-10-16T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            0,
+            16
+          ],
+          "textoExplicativo": "Tener algún hijo/a en Educación Infantil, Primaria o Secundaria (el comedor, solo en Infantil 2.º ciclo y Primaria)",
+          "textoExplicativoGl": "Ter algún fillo/a en Educación Infantil, Primaria ou Secundaria (o comedor, só en Infantil 2.º ciclo e Primaria)"
+        },
+        {
+          "campo": "matriculaMos",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronado/a en Mos o tener al alumno/a matriculado en un centro de Mos. Para el comedor es imprescindible que estudie en un CEIP público de Mos con comedor no gratuito",
+          "textoExplicativoGl": "Estar empadroado/a en Mos ou ter o alumno/a matriculado nun centro de Mos. Para o comedor é imprescindible que estude nun CEIP público de Mos con comedor non gratuíto"
+        },
+        {
+          "campo": "rentaMos",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los ingresos de 2025 de la unidad familiar no superen 16.800 € (2 miembros), 25.200 € (3), 33.600 € (4) o 42.000 € (5 o más); las familias numerosas cuentan un miembro más",
+          "textoExplicativoGl": "Que os ingresos de 2025 da unidade familiar non superen 16.800 € (2 membros), 25.200 € (3), 33.600 € (4) ou 42.000 € (5 ou máis); as familias numerosas contan un membro máis"
+        },
+        {
+          "campo": "sinDeudasMos",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente de las obligaciones tributarias con el Ayuntamiento y con Hacienda y la Seguridad Social",
+          "textoExplicativoGl": "Estar ao corrente das obrigas tributarias co Concello e coa Facenda e a Seguridade Social"
         }
       ]
     }
