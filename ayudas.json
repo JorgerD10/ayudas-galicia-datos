@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-11b",
+  "revision": "2026-10-13",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -660,6 +660,36 @@
           "textoExplicativo": "Estar al corriente de las obligaciones tributarias con el Ayuntamiento y con Hacienda y la Seguridad Social",
           "textoExplicativoGl": "Estar ao corrente das obrigas tributarias co Concello e coa Facenda e a Seguridade Social"
         }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo del Concello de Mos (sede electrónica o web municipal), presentada en el Registro General o por cualquier medio del artículo 16.4 de la Ley 39/2015.",
+        "DNI de la persona solicitante y, si los hay, de su cónyuge, tutores o familia de acogida.",
+        "Libro de familia. Si hay separación o divorcio, también la sentencia o el convenio regulador donde conste la custodia.",
+        "Certificado de convivencia de la unidad familiar (no hace falta si estáis empadronados en Mos: se comprueba de oficio).",
+        "Declaración de la renta de 2025 de la persona solicitante y de su cónyuge o pareja. Si no la hicisteis: certificado negativo de Hacienda y justificantes de los ingresos de 2025 (Seguridad Social, desempleo, Xunta…).",
+        "Vida laboral de los miembros de la unidad familiar que no hagan la declaración de la renta.",
+        "Justificante de matrícula del alumnado para el que se pide la ayuda.",
+        "Libros y material: facturas a nombre de la persona solicitante o del menor, con el detalle del material y, si procede, justificante de la ANPA o del centro.",
+        "Comedor: justificante de la empresa o de la ANPA de que se ha solicitado el servicio, con los días al mes que acudirá cada menor. Las facturas y los justificantes de pago se presentan después, en tres plazos (el primero, del 10 al 17 de diciembre de 2026).",
+        "Declaración jurada de no tener deudas con la Hacienda Pública (local, Seguridad Social y Hacienda).",
+        "Certificado de la Tesorería municipal de no tener deudas con el Concello, de la persona solicitante y de su cónyuge (no hace falta si estáis empadronados en Mos: se comprueba de oficio).",
+        "Certificado del número de cuenta bancaria, con la persona solicitante como titular.",
+        "Solo si tu situación económica empeoró más de un 30% en 2026: declaración de la renta de 2025 e ingresos de enero a junio de 2026."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo do Concello de Mos (sede electrónica ou web municipal), presentada no Rexistro Xeral ou por calquera medio do artigo 16.4 da Lei 39/2015.",
+        "DNI da persoa solicitante e, se os hai, do seu cónxuxe, titores ou familia de acollida.",
+        "Libro de familia. Se hai separación ou divorcio, tamén a sentenza ou o convenio regulador onde conste a custodia.",
+        "Certificado de convivencia da unidade familiar (non fai falta se estades empadroados en Mos: comprobarase de oficio).",
+        "Declaración da renda de 2025 da persoa solicitante e do seu cónxuxe ou parella. Se non a fixestes: certificado negativo de Facenda e xustificantes dos ingresos de 2025 (Seguridade Social, desemprego, Xunta…).",
+        "Vida laboral dos membros da unidade familiar que non fagan a declaración da renda.",
+        "Xustificante de matrícula do alumnado para o que se pide a axuda.",
+        "Libros e material: facturas a nome da persoa solicitante ou do menor, co detalle do material e, se procede, xustificante da ANPA ou do centro.",
+        "Comedor: xustificante da empresa ou da ANPA de que se solicitou o servizo, cos días ao mes que acudirá cada menor. As facturas e os xustificantes de pagamento presentaranse despois, en tres prazos (o primeiro, do 10 ao 17 de decembro de 2026).",
+        "Declaración xurada de non ter débedas coa Facenda Pública (local, Seguridade Social e Facenda).",
+        "Certificado da Tesouraría municipal de non ter débedas co Concello, da persoa solicitante e do seu cónxuxe (non fai falta se estades empadroados en Mos: comprobarase de oficio).",
+        "Certificado do número de conta bancaria, coa persoa solicitante como titular.",
+        "Só se a túa situación económica empeorou máis dun 30% en 2026: declaración da renda de 2025 e ingresos de xaneiro a xuño de 2026."
       ]
     },
     {
