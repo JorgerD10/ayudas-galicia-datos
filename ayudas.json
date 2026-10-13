@@ -93,6 +93,28 @@
           "textoExplicativo": "Solicitarla durante el embarazo o en los 2 meses siguientes al nacimiento",
           "textoExplicativoGl": "Solicitala durante o embarazo ou nos 2 meses seguintes ao nacemento"
         }
+      ],
+      "documentacion": [
+        "Copia completa del libro o libros de familia, o documentos que acrediten el parentesco con los demás miembros de la unidad familiar.",
+        "Certificado de empadronamiento conjunto de la persona solicitante y del menor que da derecho a la ayuda.",
+        "Anexo II firmado por la otra persona progenitora, si no es solicitante.",
+        "Si procede: sentencia de nulidad, separación o divorcio, resolución sobre medidas paternofiliales o convenio regulador.",
+        "Si la adopción se formalizó fuera de Galicia: resolución judicial o administrativa de adopción o de guarda con fines adoptivos.",
+        "Si procede: pasaporte vigente de la pareja o cónyuge en trámite de autorización de residencia, y justificantes de ingresos obtenidos en el extranjero.",
+        "Si eres persona gallega emigrante retornada o descendiente: documentos que acrediten el nacimiento en Galicia o la descendencia, certificado de retorno y pasaporte si no tienes DNI.",
+        "Traducción al gallego o al castellano de los documentos en otro idioma.",
+        "Un teléfono móvil en la solicitud: la tarjeta solo se activa desde ese número."
+      ],
+      "documentacionGl": [
+        "Copia completa do libro ou libros de familia, ou documentos que acrediten o parentesco cos demais membros da unidade familiar.",
+        "Certificado de empadroamento conxunto da persoa solicitante e do menor que dá dereito á axuda.",
+        "Anexo II asinado pola outra persoa proxenitora, se non é solicitante.",
+        "Se procede: sentenza de nulidade, separación ou divorcio, resolución sobre medidas paternofiliais ou convenio regulador.",
+        "Se a adopción se formalizou fóra de Galicia: resolución xudicial ou administrativa de adopción ou de garda con fins adoptivos.",
+        "Se procede: pasaporte vixente da parella ou cónxuxe en trámite de autorización de residencia, e xustificantes de ingresos obtidos no estranxeiro.",
+        "Se es persoa galega emigrante retornada ou descendente: documentos que acrediten o nacemento en Galicia ou a descendencia, certificado de retorno e pasaporte se non tes DNI.",
+        "Tradución ao galego ou ao castelán dos documentos noutro idioma.",
+        "Un teléfono móbil na solicitude: a tarxeta só se activa desde ese número."
       ]
     },
     {
@@ -164,6 +186,22 @@
           "textoExplicativo": "Haber pagado en 2026 un servicio de respiro: atención a domicilio, centro de día o estancia temporal en residencia",
           "textoExplicativoGl": "Ter pagado en 2026 un servizo de respiro: atención a domicilio, centro de día ou estadía temporal en residencia"
         }
+      ],
+      "documentacion": [
+        "Anexo II, para la comprobación de datos de otras personas interesadas de la persona atendida.",
+        "Contrato firmado del servicio de respiro que uses, que cubra el periodo subvencionable: residencia, ayuda a domicilio (con una entidad o con una persona habilitada) o centro de día.",
+        "Declaración responsable de la situación de respiro o descanso personal.",
+        "Declaración responsable o documento que acredite el vínculo familiar con la persona atendida.",
+        "Solo si procede: informe social (si no hay grado de dependencia reconocido o han cambiado las circunstancias), informe médico del Servizo Galego de Saúde (si no hay grado de dependencia reconocido) y certificado de discapacidad (si no lo expidió la Xunta).",
+        "DNI o NIE, padrón y certificados de estar al corriente con Hacienda y la Seguridad Social: los consulta la Administración, salvo que te opongas."
+      ],
+      "documentacionGl": [
+        "Anexo II, para a comprobación de datos doutras persoas interesadas da persoa atendida.",
+        "Contrato asinado do servizo de respiro que uses, que cubra o período subvencionable: residencia, axuda no fogar (cunha entidade ou cunha persoa habilitada) ou centro de día.",
+        "Declaración responsable da situación de respiro ou descanso persoal.",
+        "Declaración responsable ou documento que acredite o vínculo familiar coa persoa atendida.",
+        "Só se procede: informe social (se non hai grao de dependencia recoñecido ou variaron as circunstancias), informe médico do Servizo Galego de Saúde (se non hai grao de dependencia recoñecido) e certificado de discapacidade (se non o expediu a Xunta).",
+        "DNI ou NIE, padrón e certificados de estar ao corrente coa Facenda e a Seguridade Social: consúltaos a Administración, agás que te opoñas."
       ]
     },
     {
@@ -849,6 +887,20 @@
           "textoExplicativo": "No padecer enfermedad incompatible con la actividad, poder realizar las actividades diarias de forma autónoma (si hay discapacidad con necesidad de ayuda, un familiar presta los cuidados)",
           "textoExplicativoGl": "Non padecer enfermidade incompatible coa actividade, poder realizar as actividades diarias de forma autónoma (se hai discapacidade con necesidade de axuda, un familiar presta os coidados)"
         }
+      ],
+      "documentacion": [
+        "Solicitud en el formulario normalizado de la sede electrónica de la Diputación (sede.depo.gal), con la declaración responsable de requisitos. Una sola solicitud por unidad familiar.",
+        "Libro de familia completo, si hay menores sin DNI o NIE.",
+        "Sentencia de separación o divorcio, solo si algún miembro de la unidad familiar no vive en el mismo domicilio.",
+        "Documentación de la guarda con fines adoptivos o del acogimiento familiar, si participan menores en esa situación.",
+        "El NIF y los datos de convivencia los consulta la Administración, salvo que te opongas."
+      ],
+      "documentacionGl": [
+        "Solicitude no formulario normalizado da sede electrónica da Deputación (sede.depo.gal), coa declaración responsable de requisitos. Unha soa solicitude por unidade familiar.",
+        "Libro de familia completo, se hai menores sen DNI ou NIE.",
+        "Sentenza de separación ou divorcio, só se algún membro da unidade familiar non vive no mesmo domicilio.",
+        "Documentación da garda con fins adoptivos ou do acollemento familiar, se participan menores nesa situación.",
+        "O NIF e os datos de convivencia consúltaos a Administración, agás que te opoñas."
       ]
     }
   ]
