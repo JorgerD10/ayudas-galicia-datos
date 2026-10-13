@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-13",
+  "revision": "2026-10-13b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -815,6 +815,28 @@
           "textoExplicativo": "Estar empadronado/a en un municipio de la provincia de Ourense desde al menos un mes antes de la publicación del extracto de las bases, o desde al menos 6 meses antes del nacimiento",
           "textoExplicativoGl": "Estar empadroado/a nun concello da provincia de Ourense desde polo menos un mes antes da publicación do extracto das bases, ou desde polo menos 6 meses antes do nacemento"
         }
+      ],
+      "documentacion": [
+        "Solicitud por vía electrónica en la plataforma «ChegOU» de la web de la Diputación (depourense.gal); es obligatoria. Con certificado electrónico, o sin él pidiendo cita al 988 317 766 para firmar por voz, o presencialmente en el Área de Benestar.",
+        "Copia del DNI o documento identificativo, solo si no autorizas su consulta.",
+        "Certificado de empadronamiento, solo si no autorizas su consulta.",
+        "Inscripción del menor en el Registro Civil, para comprobar la filiación, solo si no autorizas su consulta.",
+        "Si es adopción o tutela: copia de la resolución judicial o administrativa que la constituye.",
+        "Si procede: carné de familia numerosa en vigor.",
+        "Si procede: acreditación de una discapacidad igual o superior al 33% de la persona solicitante o del recién nacido.",
+        "Declaración responsable de no estar incursa en las prohibiciones para recibir subvenciones (se hace en la propia solicitud).",
+        "Un teléfono móvil en la solicitud: se comunica al banco para emitir y activar la tarjeta ChegOU."
+      ],
+      "documentacionGl": [
+        "Solicitude por vía electrónica na plataforma «ChegOU» da web da Deputación (depourense.gal); é obrigatoria. Con certificado electrónico, ou sen el pedindo cita no 988 317 766 para asinar por voz, ou presencialmente na Área de Benestar.",
+        "Copia do DNI ou documento identificativo, só se non autorizas a súa consulta.",
+        "Certificado de empadroamento, só se non autorizas a súa consulta.",
+        "Inscrición do menor no Rexistro Civil, para comprobar a filiación, só se non autorizas a súa consulta.",
+        "Se é adopción ou tutela: copia da resolución xudicial ou administrativa que a constitúe.",
+        "Se procede: carné de familia numerosa en vigor.",
+        "Se procede: acreditación dunha discapacidade igual ou superior ao 33% da persoa solicitante ou do recén nacido.",
+        "Declaración responsable de non estar incursa nas prohibicións para recibir subvencións (faise na propia solicitude).",
+        "Un teléfono móbil na solicitude: comunícase ao banco para emitir e activar a tarxeta ChegOU."
       ]
     },
     {
