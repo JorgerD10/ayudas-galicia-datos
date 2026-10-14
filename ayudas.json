@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-14c",
+  "revision": "2026-10-14d",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1208,6 +1208,73 @@
         "Declaración responsable de estar ao corrente das obrigas tributarias e coa Seguridade Social, e de non estar incurso en prohibicións para recibir subvencións.",
         "Datos bancarios certificados polo banco, cun representante legal do menor como titular.",
         "Facturas dos gastos de artigos e produtos de infancia para o recén nado/a ou adoptado/a."
+      ]
+    },
+    {
+      "id": "covelo_natalidad_2026",
+      "titulo": "Ayuda municipal a la natalidad 2026 (Covelo)",
+      "tituloGl": "Axuda municipal á natalidade 2026 (Covelo)",
+      "descripcion": "Ayuda del Concello de Covelo de hasta 500 € por cada hijo/a nacido/a o adoptado/a entre el 30 de noviembre de 2025 y el final del plazo de solicitud. Es de concurrencia competitiva con crédito limitado (4.000 € en total, que se reparte entre las solicitudes admitidas si no llega), así que no está garantizada. Hay que estar empadronado/a en Covelo al menos 9 meses antes del parto o la adopción, seguir empadronado/a 2 años y no superar los límites de renta (IRPF 2025). La convocatoria está registrada (BDNS 935266, 14/10/2026), pero el plazo aún no ha empezado: se abre al día siguiente de publicarse el extracto en el BOP de Pontevedra y dura 15 días hábiles. Consulta las fechas en la sede electrónica del Concello.",
+      "descripcionGl": "Axuda do Concello de Covelo de ata 500 € por cada fillo/a nado/a ou adoptado/a entre o 30 de novembro de 2025 e o final do prazo de solicitude. É de concorrencia competitiva con crédito limitado (4.000 € en total, que se reparte entre as solicitudes admitidas se non chega), así que non está garantida. Hai que estar empadroado/a en Covelo polo menos 9 meses antes do parto ou da adopción, seguir empadroado/a 2 anos e non superar os límites de renda (IRPF 2025). A convocatoria está rexistrada (BDNS 935266, 14/10/2026), pero o prazo aínda non comezou: ábrese ao día seguinte de publicarse o extracto no BOP de Pontevedra e dura 15 días hábiles. Consulta as datas na sede electrónica do Concello.",
+      "categoria": "familia",
+      "organismo": "Concello de Covelo",
+      "organismoGl": "Concello de Covelo",
+      "enlaceOficial": "https://covelo.sedelectronica.es/",
+      "municipios": [
+        "Covelo"
+      ],
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a o adoptado/a entre el 30 de noviembre de 2025 y el final del plazo de solicitud",
+          "textoExplicativoGl": "Ter un fillo/a nado/a ou adoptado/a entre o 30 de novembro de 2025 e o final do prazo de solicitude"
+        },
+        {
+          "campo": "empadronamientoCovelo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que uno de los progenitores lleve empadronado/a en Covelo al menos 9 meses antes del parto o la adopción, con el niño/a también empadronado/a, y se comprometa a seguir 2 años",
+          "textoExplicativoGl": "Que un dos proxenitores leve empadroado/a en Covelo polo menos 9 meses antes do parto ou da adopción, co neno/a tamén empadroado/a, e se comprometa a seguir 2 anos"
+        },
+        {
+          "campo": "rentaCovelo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta de la familia (bases imponibles general y del ahorro del IRPF 2025) no supere los 45.000 €, o que, si los supera, la renta por persona no pase de 13.500 € (las personas con discapacidad del 33 % o más cuentan por dos)",
+          "textoExplicativoGl": "Que a renda da familia (bases impoñibles xeral e do aforro do IRPF 2025) non supere os 45.000 €, ou que, se os supera, a renda por persoa non pase de 13.500 € (as persoas con discapacidade do 33 % ou máis contan por dúas)"
+        },
+        {
+          "campo": "corrienteObligacionesCovelo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente con Hacienda, la Seguridad Social y el Concello, y no tener pendiente de justificar otra subvención del Concello",
+          "textoExplicativoGl": "Estar ao corrente coa Facenda, a Seguridade Social e o Concello, e non ter pendente de xustificar outra subvención do Concello"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (Anexo I), en el Registro de Servicios Sociales del Concello o por cualquiera de las vías del artículo 16 de la Ley 39/2015.",
+        "Partida de nacimiento del hijo/a y DNI de la persona solicitante. Si es adopción: auto judicial de adopción.",
+        "Anexo III y certificados de estar al corriente con la Hacienda estatal, la Agencia Tributaria de Galicia y la Seguridad Social, y con el Concello (informe del ORAL).",
+        "Anexo II: compromiso de seguir empadronados en Covelo al menos 2 años.",
+        "Compromiso de devolver la ayuda si se deja de cumplir algún requisito.",
+        "Certificado bancario de la cuenta donde se quiere cobrar, con los datos de la persona que la recibe.",
+        "Copia de la declaración de la renta (IRPF) de 2025, o certificado de imputaciones de la AEAT, de la persona solicitante, del otro progenitor/a y de los hermanos/as hasta 25 años que convivan (salvo discapacidad).",
+        "Documentos que acrediten el número de miembros de la unidad familiar: certificado de convivencia, sentencia de separación o divorcio y/o convenio regulador con la custodia, o informe de los servicios sociales del Concello."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (Anexo I), no Rexistro de Servizos Sociais do Concello ou por calquera das vías do artigo 16 da Lei 39/2015.",
+        "Partida de nacemento do fillo/a e DNI da persoa solicitante. Se é adopción: auto xudicial de adopción.",
+        "Anexo III e certificados de estar ao corrente coa Facenda estatal, a Axencia Tributaria de Galicia e a Seguridade Social, e co Concello (informe do ORAL).",
+        "Anexo II: compromiso de seguir empadroados en Covelo polo menos 2 anos.",
+        "Compromiso de devolver a axuda se se deixa de cumprir algún requisito.",
+        "Certificado bancario da conta onde se quere cobrar, cos datos da persoa que a recibe.",
+        "Copia da declaración da renda (IRPF) de 2025, ou certificado de imputacións da AEAT, da persoa solicitante, do outro proxenitor/a e dos irmáns/ás ata 25 anos que convivan (salvo discapacidade).",
+        "Documentos que acrediten o número de membros da unidade familiar: certificado de convivencia, sentenza de separación ou divorcio e/ou convenio regulador coa custodia, ou informe dos servizos sociais do Concello."
       ]
     }
   ]
