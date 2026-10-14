@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-14",
+  "revision": "2026-10-14b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1045,6 +1045,104 @@
         "Se non tes libro de familia ou a túa situación a 31 de decembro de 2025 non coincide con el: sentenza ou convenio regulador coa custodia, certificado ou volante de convivencia, certificado de defunción ou informe dos servizos sociais.",
         "Se procede: certificado de familia monoparental da Xunta, certificado de discapacidade do 33 % ou máis, ou acreditación de violencia de xénero. Se non hai custodia exclusiva nin familia monoparental acreditada, os ingresos da outra persoa proxenitora.",
         "Despois da concesión: recoller o cheque no Concello e canxealo nunha libraría participante (ata 70 € por alumno/a). A matrícula, o empadroamento e estar ao corrente co Concello compróbaos o propio Concello."
+      ]
+    },
+    {
+      "id": "redondela_comedor_2026_27",
+      "titulo": "Ayuda de comedor escolar de Redondela (Infantil de 3 a 5 años y Primaria), 2026-27",
+      "tituloGl": "Axuda de comedor escolar de Redondela (Infantil de 3 a 5 anos e Primaria), 2026-27",
+      "descripcion": "Ayuda para pagar el comedor escolar en colegios públicos de Redondela (2.º ciclo de Infantil y Primaria): hasta el 100 % del coste justificable durante el curso, de septiembre de 2026 a junio de 2027. Es una convocatoria de Servicios Sociales por concurrencia competitiva: las solicitudes se ordenan por puntuación (renta per cápita y situación socio-familiar) y dependen del crédito disponible (50.000 €), así que no está garantizada. Renta máxima de 2025: 15.120 € (2 miembros), 18.900 € (3), 22.680 € (4), 26.460 € (5) o 30.240 € (6), y 3.500 € más por cada miembro desde el séptimo. Convocatoria 2026-27 cerrada (30 días naturales desde la publicación en el BOP del 6 de julio de 2026): conviene vigilar la del próximo año.",
+      "descripcionGl": "Axuda para pagar o comedor escolar en colexios públicos de Redondela (2.º ciclo de Infantil e Primaria): ata o 100 % do custo xustificable durante o curso, de setembro de 2026 a xuño de 2027. É unha convocatoria de Servizos Sociais por concorrencia competitiva: as solicitudes ordénanse por puntuación (renda per cápita e situación socio-familiar) e dependen do crédito dispoñible (50.000 €), así que non está garantida. Renda máxima de 2025: 15.120 € (2 membros), 18.900 € (3), 22.680 € (4), 26.460 € (5) ou 30.240 € (6), e 3.500 € máis por cada membro desde o sétimo. Convocatoria 2026-27 pechada (30 días naturais desde a publicación no BOP do 6 de xullo de 2026): convén vixiar a do próximo ano.",
+      "categoria": "educacion",
+      "organismo": "Concello de Redondela",
+      "enlaceOficial": "https://redondela.gal",
+      "municipios": [
+        "Redondela"
+      ],
+      "plazoInicio": "2026-07-07T00:00:00.000",
+      "plazoFin": "2026-08-05T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2015,
+            2023
+          ],
+          "textoExplicativo": "Tener un hijo/a en 2.º ciclo de Educación Infantil o en Primaria (nacidos entre 2015 y 2023)",
+          "textoExplicativoGl": "Ter un fillo/a en 2.º ciclo de Educación Infantil ou en Primaria (nados entre 2015 e 2023)"
+        },
+        {
+          "campo": "empadronamientoComedorRedondela",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la unidad familiar esté empadronada y viva en Redondela, con el alumno/a",
+          "textoExplicativoGl": "Que a unidade familiar estea empadroada e viva en Redondela, co alumno/a"
+        },
+        {
+          "campo": "plazaComedorRedondela",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el alumno/a esté matriculado en un colegio público de Redondela, con plaza en su comedor escolar, y vaya al menos tres días por semana durante todo el curso",
+          "textoExplicativoGl": "Que o alumno/a estea matriculado nun colexio público de Redondela, con praza no seu comedor escolar, e vaia polo menos tres días por semana durante todo o curso"
+        },
+        {
+          "campo": "rentaComedorRedondela",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              15120
+            ],
+            [
+              3,
+              18900
+            ],
+            [
+              4,
+              22680
+            ],
+            [
+              5,
+              26460
+            ],
+            [
+              6,
+              30240
+            ]
+          ],
+          "textoExplicativo": "Que la renta de 2025 de la unidad familiar no supere 15.120 € (2 miembros), 18.900 € (3), 22.680 € (4), 26.460 € (5) o 30.240 € (6), más 3.500 € por cada miembro desde el séptimo",
+          "textoExplicativoGl": "Que a renda de 2025 da unidade familiar non supere 15.120 € (2 membros), 18.900 € (3), 22.680 € (4), 26.460 € (5) ou 30.240 € (6), máis 3.500 € por cada membro desde o sétimo"
+        },
+        {
+          "campo": "sinDeudasComedorRedondela",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los miembros mayores de edad estén al corriente con Hacienda (local, autonómica y estatal) y la Seguridad Social",
+          "textoExplicativoGl": "Que os membros maiores de idade estean ao corrente coa Facenda (local, autonómica e estatal) e a Seguridade Social"
+        }
+      ],
+      "documentacion": [
+        "Impreso municipal (Anexo I), con el listado de documentos (Anexo II), las declaraciones responsables (Anexo III) y la declaración de otras ayudas (Anexo IV). Se presenta en el Registro General (oficina de Chapela o Casa do Concello), en la sede electrónica del Concello o por cualquier medio del artículo 16.4 de la Ley 39/2015.",
+        "DNI o NIE de todos los miembros de la unidad familiar y libro de familia completo (o documento oficial con los miembros y sus fechas de nacimiento).",
+        "Declaración de la renta de 2025 o, si no hay obligación de presentarla, certificado negativo de Hacienda de los mayores de 18 años. No hace falta si autorizas el acceso en el Anexo I.",
+        "Si hay personas en desempleo: tarjeta de demandante de empleo con al menos un mes de antigüedad antes de la publicación en el BOP.",
+        "Si procede: sentencia y convenio regulador con la custodia y la pensión de alimentos; en custodia compartida, los justificantes de ingresos de ambos progenitores; en acogimiento, el certificado del organismo competente; en violencia de género, su acreditación.",
+        "Para puntuar la necesidad de conciliación: contrato de trabajo y certificado de empresa con el horario y el lugar de trabajo de ambos progenitores.",
+        "Si procede: certificado de discapacidad o dependencia y título de familia numerosa.",
+        "Opcionales: Anexo V (delegación del pago, por ejemplo en la ANPA) y Anexo VI (anticipo del cobro). Los documentos en otro idioma, con traducción oficial; las fotocopias, cotejadas.",
+        "Lo pide de oficio el Concello: deudas con el Concello, certificado de convivencia y los certificados de la ANPA (plaza de comedor, coste por día y días de asistencia)."
+      ],
+      "documentacionGl": [
+        "Impreso municipal (Anexo I), co listado de documentos (Anexo II), as declaracións responsables (Anexo III) e a declaración doutras axudas (Anexo IV). Preséntase no Rexistro Xeral (oficina de Chapela ou Casa do Concello), na sede electrónica do Concello ou por calquera medio do artigo 16.4 da Lei 39/2015.",
+        "DNI ou NIE de todos os membros da unidade familiar e libro de familia completo (ou documento oficial cos membros e as súas datas de nacemento).",
+        "Declaración da renda de 2025 ou, se non hai obriga de presentala, certificado negativo da Facenda dos maiores de 18 anos. Non fai falta se autorizas o acceso no Anexo I.",
+        "Se hai persoas en desemprego: tarxeta de demandante de emprego con polo menos un mes de antigüidade antes da publicación no BOP.",
+        "Se procede: sentenza e convenio regulador coa custodia e a pensión de alimentos; en custodia compartida, os xustificantes de ingresos de ambos proxenitores; en acollemento, o certificado do organismo competente; en violencia de xénero, a súa acreditación.",
+        "Para puntuar a necesidade de conciliación: contrato de traballo e certificado de empresa co horario e o lugar de traballo de ambos proxenitores.",
+        "Se procede: certificado de discapacidade ou dependencia e título de familia numerosa.",
+        "Opcionais: Anexo V (delegación do pagamento, por exemplo na ANPA) e Anexo VI (anticipo do cobro). Os documentos noutro idioma, con tradución oficial; as fotocopias, cotexadas.",
+        "Pídeo de oficio o Concello: débedas co Concello, certificado de convivencia e os certificados da ANPA (praza de comedor, custo por día e días de asistencia)."
       ]
     }
   ]
