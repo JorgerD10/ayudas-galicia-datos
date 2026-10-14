@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-13c",
+  "revision": "2026-10-14",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -970,6 +970,81 @@
         "Sentenza de separación ou divorcio, só se algún membro da unidade familiar non vive no mesmo domicilio.",
         "Documentación da garda con fins adoptivos ou do acollemento familiar, se participan menores nesa situación.",
         "O NIF e os datos de convivencia consúltaos a Administración, agás que te opoñas."
+      ]
+    },
+    {
+      "id": "redondela_cheque_libros_2026_27",
+      "titulo": "Cheque de libros y material escolar de Redondela (Infantil de 3 a 5 años), 2026-27",
+      "tituloGl": "Cheque de libros e material escolar de Redondela (Infantil de 3 a 5 anos), 2026-27",
+      "descripcion": "Cheque de hasta 70 € por alumno/a para libros y material escolar de Educación Infantil de segunda etapa (3 a 5 años) en colegios públicos de Redondela. Se canjea en las librerías del municipio que participan. Familias empadronadas en Redondela con una renta per cápita de 2025 de hasta 8.800 €. Convocatoria 2026-27 cerrada (el plazo terminó el 31 de julio de 2026): conviene vigilar la del próximo año.",
+      "descripcionGl": "Cheque de ata 70 € por alumno/a para libros e material escolar de Educación Infantil de segunda etapa (3 a 5 anos) en colexios públicos de Redondela. Canxéase nas librarías do municipio que participan. Familias empadroadas en Redondela cunha renda per cápita de 2025 de ata 8.800 €. Convocatoria 2026-27 pechada (o prazo rematou o 31 de xullo de 2026): convén vixiar a do próximo ano.",
+      "categoria": "educacion",
+      "organismo": "Concello de Redondela",
+      "enlaceOficial": "https://redondela.gal/wp-content/uploads/2026/06/20260622_Outros_Publicacion-bases-en-BOP-22_06_2026.pdf",
+      "municipios": [
+        "Redondela"
+      ],
+      "plazoInicio": "2026-06-23T00:00:00.000",
+      "plazoFin": "2026-07-31T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2021,
+            2023
+          ],
+          "textoExplicativo": "Tener un hijo/a en Educación Infantil de segunda etapa (de 3 a 5 años: nacidos entre 2021 y 2023)",
+          "textoExplicativoGl": "Ter un fillo/a en Educación Infantil de segunda etapa (de 3 a 5 anos: nados entre 2021 e 2023)"
+        },
+        {
+          "campo": "matriculaRedondela",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el alumno/a esté matriculado en un colegio público de Educación Infantil de Redondela en el curso 2026-27 (vale la matrícula provisional)",
+          "textoExplicativoGl": "Que o alumno/a estea matriculado nun colexio público de Educación Infantil de Redondela no curso 2026-27 (vale a matrícula provisional)"
+        },
+        {
+          "campo": "empadronamientoRedondela",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la persona solicitante y el alumno/a estén empadronados en Redondela y vivan en el mismo domicilio (en custodia compartida, el menor puede estar empadronado con el otro progenitor)",
+          "textoExplicativoGl": "Que a persoa solicitante e o alumno/a estean empadroados en Redondela e vivan no mesmo domicilio (en custodia compartida, o menor pode estar empadroado co outro proxenitor)"
+        },
+        {
+          "campo": "rentaPerCapitaRedondela",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita de la familia (renta de 2025) no supere 8.800 € (cuentan por dos los miembros con discapacidad del 33 % o más, y las familias monoparentales cuentan un miembro más)",
+          "textoExplicativoGl": "Que a renda per cápita da familia (renda de 2025) non supere 8.800 € (contan por dous os membros con discapacidade do 33 % ou máis, e as familias monoparentais contan un membro máis)"
+        },
+        {
+          "campo": "sinDeudasRedondela",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que toda la unidad familiar esté al corriente con el Concello, con Hacienda y con la Seguridad Social",
+          "textoExplicativoGl": "Que toda a unidade familiar estea ao corrente co Concello, coa Facenda e coa Seguridade Social"
+        }
+      ],
+      "documentacion": [
+        "Anexo I (solicitud), Anexo II (declaración responsable) y, si procede, Anexo III (autorización para que el Concello consulte tus datos de renta a la Agencia Tributaria). Se presentan en el Registro General del Concello o por cualquier medio del artículo 16.4 de la Ley 39/2015.",
+        "DNI o NIE de la persona solicitante y de todas las personas mayores de edad de la unidad familiar.",
+        "Libro de familia completo, o documentación oficial que acredite los miembros de la unidad familiar y sus fechas de nacimiento.",
+        "Declaración de la renta del último ejercicio (2025) de todos los miembros de la unidad familiar, o la autorización del Anexo III para que la consulte el Concello.",
+        "Si no hay obligación de declarar la renta: certificación negativa de la Agencia Tributaria (trabajo por cuenta ajena o autónomos), justificante de la pensión o certificado negativo del INSS, certificado de prestaciones del SEPE con vida laboral y tarjeta de demanda de empleo, o justificante de la RISGA.",
+        "Si no tienes libro de familia o tu situación a 31 de diciembre de 2025 no coincide con él: sentencia o convenio regulador con la custodia, certificado o volante de convivencia, certificado de defunción o informe de los servicios sociales.",
+        "Si procede: certificado de familia monoparental de la Xunta, certificado de discapacidad del 33 % o más, o acreditación de violencia de género. Si no hay custodia exclusiva ni familia monoparental acreditada, los ingresos de la otra persona progenitora.",
+        "Después de la concesión: recoger el cheque en el Concello y canjearlo en una librería participante (hasta 70 € por alumno/a). La matrícula, el empadronamiento y estar al corriente con el Concello los comprueba el propio Concello."
+      ],
+      "documentacionGl": [
+        "Anexo I (solicitude), Anexo II (declaración responsable) e, se procede, Anexo III (autorización para que o Concello consulte os teus datos de renda á Axencia Tributaria). Presentaranse no Rexistro Xeral do Concello ou por calquera medio do artigo 16.4 da Lei 39/2015.",
+        "DNI ou NIE da persoa solicitante e de todas as persoas maiores de idade da unidade familiar.",
+        "Libro de familia completo, ou documentación oficial que acredite os membros da unidade familiar e as súas datas de nacemento.",
+        "Declaración da renda do último exercicio (2025) de todos os membros da unidade familiar, ou a autorización do Anexo III para que a consulte o Concello.",
+        "Se non hai obriga de declarar a renda: certificación negativa da Axencia Tributaria (traballo por conta allea ou autónomos), xustificante da pensión ou certificado negativo do INSS, certificado de prestacións do SEPE con vida laboral e tarxeta de demanda de emprego, ou xustificante da RISGA.",
+        "Se non tes libro de familia ou a túa situación a 31 de decembro de 2025 non coincide con el: sentenza ou convenio regulador coa custodia, certificado ou volante de convivencia, certificado de defunción ou informe dos servizos sociais.",
+        "Se procede: certificado de familia monoparental da Xunta, certificado de discapacidade do 33 % ou máis, ou acreditación de violencia de xénero. Se non hai custodia exclusiva nin familia monoparental acreditada, os ingresos da outra persoa proxenitora.",
+        "Despois da concesión: recoller o cheque no Concello e canxealo nunha libraría participante (ata 70 € por alumno/a). A matrícula, o empadroamento e estar ao corrente co Concello compróbaos o propio Concello."
       ]
     }
   ]
