@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-13b",
+  "revision": "2026-10-13c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -648,8 +648,25 @@
         },
         {
           "campo": "rentaMos",
-          "operador": "confirmar",
-          "valor": true,
+          "operador": "limiteAnualPorMiembrosFN",
+          "valor": [
+            [
+              2,
+              16800
+            ],
+            [
+              3,
+              25200
+            ],
+            [
+              4,
+              33600
+            ],
+            [
+              5,
+              42000
+            ]
+          ],
           "textoExplicativo": "Que los ingresos de 2025 de la unidad familiar no superen 16.800 € (2 miembros), 25.200 € (3), 33.600 € (4) o 42.000 € (5 o más); las familias numerosas cuentan un miembro más",
           "textoExplicativoGl": "Que os ingresos de 2025 da unidade familiar non superen 16.800 € (2 membros), 25.200 € (3), 33.600 € (4) ou 42.000 € (5 ou máis); as familias numerosas contan un membro máis"
         },
