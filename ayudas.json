@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-14b",
+  "revision": "2026-10-14c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1143,6 +1143,71 @@
         "Se procede: certificado de discapacidade ou dependencia e título de familia numerosa.",
         "Opcionais: Anexo V (delegación do pagamento, por exemplo na ANPA) e Anexo VI (anticipo do cobro). Os documentos noutro idioma, con tradución oficial; as fotocopias, cotexadas.",
         "Pídeo de oficio o Concello: débedas co Concello, certificado de convivencia e os certificados da ANPA (praza de comedor, custo por día e días de asistencia)."
+      ]
+    },
+    {
+      "id": "folgoso_natalidad_2026",
+      "titulo": "Ayuda municipal a la natalidad 2026 (Folgoso do Courel)",
+      "tituloGl": "Axuda municipal á natalidade 2026 (Folgoso do Courel)",
+      "descripcion": "Ayuda del Concello de Folgoso do Courel de hasta 500 € por cada hijo/a nacido/a o adoptado/a en 2026, para gastos de artículos y productos de infancia (se justifica con facturas). Hay que llevar empadronado/a en el municipio al menos 6 meses antes del parto o la adopción, y comprometerse a seguir empadronado/a, junto con el niño/a, durante 3 años. Plazo hasta el 23 de noviembre de 2026; si el nacimiento o la adopción es en noviembre o diciembre, hasta el 31 de enero de 2027. Se presenta en el Registro del Concello con el modelo de la sede electrónica.",
+      "descripcionGl": "Axuda do Concello de Folgoso do Courel de ata 500 € por cada fillo/a nado/a ou adoptado/a en 2026, para gastos de artigos e produtos de infancia (xustifícase con facturas). Hai que levar empadroado/a no municipio polo menos 6 meses antes do parto ou da adopción, e comprometerse a seguir empadroado/a, xunto co neno/a, durante 3 anos. Prazo ata o 23 de novembro de 2026; se o nacemento ou a adopción é en novembro ou decembro, ata o 31 de xaneiro de 2027. Preséntase no Rexistro do Concello co modelo da sede electrónica.",
+      "categoria": "familia",
+      "organismo": "Concello de Folgoso do Courel",
+      "organismoGl": "Concello de Folgoso do Courel",
+      "enlaceOficial": "https://folgosodocourel.sedelectronica.es/",
+      "municipios": [
+        "Folgoso do Courel"
+      ],
+      "plazoFin": "2026-11-23T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2026,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a o adoptado/a en 2026",
+          "textoExplicativoGl": "Ter un fillo/a nado/a ou adoptado/a en 2026"
+        },
+        {
+          "campo": "empadronamientoFolgoso",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronado/a en Folgoso do Courel al menos 6 meses antes del parto o la adopción, con el niño/a también empadronado/a, y comprometerse a seguir 3 años",
+          "textoExplicativoGl": "Estar empadroado/a en Folgoso do Courel polo menos 6 meses antes do parto ou da adopción, co neno/a tamén empadroado/a, e comprometerse a seguir 3 anos"
+        },
+        {
+          "campo": "corrienteObligacionesFolgoso",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente con Hacienda, la Seguridad Social y el Concello (todos los miembros de la familia), y no tener pendiente de justificar otra subvención del Concello",
+          "textoExplicativoGl": "Estar ao corrente coa Facenda, a Seguridade Social e o Concello (todos os membros da familia), e non ter pendente de xustificar outra subvención do Concello"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado del Concello (se descarga en la sede electrónica) y se presenta en el Registro General.",
+        "Certificado de empadronamiento de la persona progenitora solicitante y de los hijos/as, con la fecha de alta en el padrón.",
+        "Fotocopia del DNI de todos los miembros de la unidad familiar mayores de edad.",
+        "Fotocopia del libro de familia. Si procede: sentencia de separación o divorcio y/o convenio regulador donde conste la custodia.",
+        "Declaración responsable de las ayudas solicitadas y/o recibidas para la misma finalidad.",
+        "Declaración responsable de compromiso de seguir empadronados 3 años como mínimo (progenitor/a e hijos/as).",
+        "Declaración responsable de compromiso de devolver la ayuda si se deja de cumplir algún requisito.",
+        "Declaración responsable de estar al corriente de las obligaciones tributarias y con la Seguridad Social, y de no estar incurso en prohibiciones para recibir subvenciones.",
+        "Datos bancarios certificados por el banco, con un representante legal del menor como titular.",
+        "Facturas de los gastos de artículos y productos de infancia para el recién nacido/a o adoptado/a."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado do Concello (descárgase na sede electrónica) e preséntase no Rexistro Xeral.",
+        "Certificado de padrón da persoa proxenitora solicitante e dos fillos/as, coa data de alta no padrón.",
+        "Fotocopia do DNI de todos os membros da unidade familiar maiores de idade.",
+        "Fotocopia do libro de familia. Se procede: sentenza de separación ou divorcio e/ou convenio regulador onde conste a custodia.",
+        "Declaración responsable das axudas solicitadas e/ou recibidas para a mesma finalidade.",
+        "Declaración responsable de compromiso de seguir empadroados 3 anos como mínimo (proxenitor/a e fillos/as).",
+        "Declaración responsable de compromiso de devolver a axuda se se deixa de cumprir algún requisito.",
+        "Declaración responsable de estar ao corrente das obrigas tributarias e coa Seguridade Social, e de non estar incurso en prohibicións para recibir subvencións.",
+        "Datos bancarios certificados polo banco, cun representante legal do menor como titular.",
+        "Facturas dos gastos de artigos e produtos de infancia para o recén nado/a ou adoptado/a."
       ]
     }
   ]
