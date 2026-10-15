@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-14d",
+  "revision": "2026-10-15a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1275,6 +1275,70 @@
         "Certificado bancario da conta onde se quere cobrar, cos datos da persoa que a recibe.",
         "Copia da declaración da renda (IRPF) de 2025, ou certificado de imputacións da AEAT, da persoa solicitante, do outro proxenitor/a e dos irmáns/ás ata 25 anos que convivan (salvo discapacidade).",
         "Documentos que acrediten o número de membros da unidade familiar: certificado de convivencia, sentenza de separación ou divorcio e/ou convenio regulador coa custodia, ou informe dos servizos sociais do Concello."
+      ]
+    },
+    {
+      "id": "corgo_natalidad_2025",
+      "titulo": "Ayuda municipal a la natalidad (O Corgo)",
+      "tituloGl": "Axuda municipal á natalidade (O Corgo)",
+      "descripcion": "Ayuda del Concello de O Corgo de 800 € por cada hijo/a nacido/a o adoptado/a, en un pago único. Hay que tener empadronado/a en O Corgo a uno de los progenitores al menos un año antes del nacimiento, el niño/a debe estar empadronado/a y hay que comprometerse a seguir empadronados 1 año más. Se concede por orden de presentación hasta agotar el crédito. Se convoca cada año para los nacimientos del año anterior: la última convocatoria (para nacimientos de 2025) se publicó el 11/09/2026 y su plazo, de un mes, cerró el 12/10/2026. Estate atento/a a la siguiente.",
+      "descripcionGl": "Axuda do Concello do Corgo de 800 € por cada fillo/a nado/a ou adoptado/a, nun pago único. Hai que ter empadroado/a no Corgo a un dos proxenitores polo menos un ano antes do nacemento, o neno/a debe estar empadroado/a e hai que comprometerse a seguir empadroados 1 ano máis. Concédese por orde de presentación ata esgotar o crédito. Convócase cada ano para os nacementos do ano anterior: a última convocatoria (para nacementos de 2025) publicouse o 11/09/2026 e o seu prazo, dun mes, pechou o 12/10/2026. Está atento/a á seguinte.",
+      "categoria": "familia",
+      "organismo": "Concello do Corgo",
+      "organismoGl": "Concello do Corgo",
+      "enlaceOficial": "https://concellodocorgo.sedelectronica.gal/",
+      "municipios": [
+        "O Corgo"
+      ],
+      "plazoInicio": "2026-09-12T00:00:00.000",
+      "plazoFin": "2026-10-12T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2025
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a o adoptado/a en 2025 (la convocatoria es para los nacimientos del año anterior)",
+          "textoExplicativoGl": "Ter un fillo/a nado/a ou adoptado/a en 2025 (a convocatoria é para os nacementos do ano anterior)"
+        },
+        {
+          "campo": "empadronamientoCorgo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que uno de los progenitores llevase empadronado/a en O Corgo al menos un año antes del nacimiento, con el niño/a empadronado/a, y se comprometa a seguir 1 año",
+          "textoExplicativoGl": "Que un dos proxenitores levase empadroado/a no Corgo polo menos un ano antes do nacemento, co neno/a empadroado/a, e se comprometa a seguir 1 ano"
+        },
+        {
+          "campo": "corrienteObligacionesCorgo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente con Hacienda, la Seguridad Social y el Concello",
+          "textoExplicativoGl": "Estar ao corrente coa Facenda, a Seguridade Social e o Concello"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo oficial (Anexo I), en el registro del Concello, en la sede electrónica o por cualquiera de las vías del artículo 16 de la Ley 39/2015.",
+        "Certificado de inscripción del nacimiento del Registro Civil.",
+        "Fotocopia compulsada del libro de familia y del DNI de las personas solicitantes.",
+        "Si es adopción: copia compulsada de la resolución judicial.",
+        "Si procede: convenio regulador o sentencia de nulidad, separación o divorcio.",
+        "Declaración responsable de cumplir los requisitos, de las ayudas recibidas para la misma finalidad y del compromiso de seguir empadronados 1 año desde la concesión.",
+        "Certificado bancario de una cuenta a nombre de la persona beneficiaria.",
+        "Certificados de estar al corriente con la Hacienda estatal, la Hacienda de la Xunta y la Seguridad Social.",
+        "Solo si un progenitor trabaja a más de 60 km y no puede empadronarse en O Corgo: contrato laboral o informe de la empresa y certificado de empadronamiento de su municipio."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo oficial (Anexo I), no rexistro do Concello, na sede electrónica ou por calquera das vías do artigo 16 da Lei 39/2015.",
+        "Certificado de inscrición do nacemento do Rexistro Civil.",
+        "Fotocopia compulsada do libro de familia e do DNI das persoas solicitantes.",
+        "Se é adopción: copia compulsada da resolución xudicial.",
+        "Se procede: convenio regulador ou sentenza de nulidade, separación ou divorcio.",
+        "Declaración responsable de cumprir os requisitos, das axudas recibidas para a mesma finalidade e do compromiso de seguir empadroados 1 ano desde a concesión.",
+        "Certificado bancario dunha conta a nome da persoa beneficiaria.",
+        "Certificados de estar ao corrente coa Facenda estatal, a Facenda da Xunta e a Seguridade Social.",
+        "Só se un proxenitor traballa a máis de 60 km e non pode empadroarse no Corgo: contrato laboral ou informe da empresa e certificado de empadroamento do seu concello."
       ]
     }
   ]
