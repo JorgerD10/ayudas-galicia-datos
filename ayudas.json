@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-15e",
+  "revision": "2026-10-15g",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1580,6 +1580,66 @@
         "Se procede: sentenza de separación ou divorcio e convenio regulador das relacións paternofiliais.",
         "Anexo II: compromiso de todos os membros da unidade familiar de seguir empadroados en Lalín 2 anos.",
         "Anexo III: declaración responsable de non estar incurso/a nas prohibicións para recibir subvencións (substitúe aos certificados de Facenda e Seguridade Social)."
+      ]
+    },
+    {
+      "id": "alama_natalidad_2026",
+      "titulo": "Ayuda a la natalidad y al empadronamiento (A Lama)",
+      "tituloGl": "Axuda á natalidade e ao empadroamento (A Lama)",
+      "descripcion": "Ayuda del Concello de A Lama de hasta 1.000 € por cada hijo/a nacido/a o adoptado/a entre el 1 de enero y el 31 de diciembre de 2025 (un 40 % más por el segundo hijo/a en partos múltiples y un 20 % más por los siguientes). Hay que residir en A Lama y llevar empadronado/a de forma ininterrumpida al menos 12 meses antes del nacimiento o la adopción, y seguir empadronado/a con el niño/a durante los 4 años siguientes a recibirla (salvo causa justificada, como enfermedad o cambio de empleo), o habrá que devolverla. El crédito es de 10.000 € en total: si no llega, el Concello reduce las ayudas proporcionalmente, así que el importe puede ser menor. Se solicita cada año en septiembre y octubre por los nacimientos del año anterior: este año, hasta el 31 de octubre de 2026. Se presenta en el Registro de Entrada del Concello.",
+      "descripcionGl": "Axuda do Concello da Lama de ata 1.000 € por cada fillo/a nado/a ou adoptado/a entre o 1 de xaneiro e o 31 de decembro de 2025 (un 40 % máis polo segundo fillo/a en partos múltiples e un 20 % máis polos seguintes). Hai que residir na Lama e levar empadroado/a de forma ininterrompida polo menos 12 meses antes do nacemento ou da adopción, e seguir empadroado/a co neno/a durante os 4 anos seguintes a recibila (salvo causa xustificada, como enfermidade ou cambio de emprego), ou haberá que devolvela. O crédito é de 10.000 € en total: se non chega, o Concello reduce as axudas proporcionalmente, así que o importe pode ser menor. Solicítase cada ano en setembro e outubro polos nacementos do ano anterior: este ano, ata o 31 de outubro de 2026. Preséntase no Rexistro de Entrada do Concello.",
+      "categoria": "familia",
+      "organismo": "Concello de A Lama",
+      "organismoGl": "Concello da Lama",
+      "enlaceOficial": "https://concellodalama.sedelectronica.es/",
+      "municipios": [
+        "A Lama"
+      ],
+      "plazoInicio": "2026-09-01T00:00:00.000",
+      "plazoFin": "2026-10-31T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2025
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a o adoptado/a en 2025 (la ayuda es para los nacimientos del año anterior)",
+          "textoExplicativoGl": "Ter un fillo/a nado/a ou adoptado/a en 2025 (a axuda é para os nacementos do ano anterior)"
+        },
+        {
+          "campo": "empadronamientoALama",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Residir y estar empadronado/a en A Lama de forma ininterrumpida durante al menos 12 meses antes del nacimiento o la adopción, conviviendo con el niño/a, y seguir 4 años tras recibirla",
+          "textoExplicativoGl": "Residir e estar empadroado/a na Lama de forma ininterrompida durante polo menos 12 meses antes do nacemento ou da adopción, convivindo co neno/a, e seguir 4 anos tras recibila"
+        },
+        {
+          "campo": "corrienteObligacionesALama",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente con Hacienda, la Seguridad Social y el Concello",
+          "textoExplicativoGl": "Estar ao corrente coa Facenda, a Seguridade Social e o Concello"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo del anexo de la convocatoria, firmada por uno de los progenitores o adoptantes y dirigida al Alcalde, en el Registro de Entrada del Concello o por cualquiera de las vías del artículo 16 de la Ley 39/2015.",
+        "Documento que acredite la personalidad de quien solicita (copia del DNI).",
+        "Certificado de nacimiento del recién nacido, expedido por el Registro Civil.",
+        "Si es adopción: resolución judicial.",
+        "Certificado de empadronamiento que acredite la residencia efectiva en el municipio durante los últimos 12 meses de forma ininterrumpida, y la convivencia con el recién nacido o adoptado.",
+        "Certificados de estar al corriente de las obligaciones tributarias y de la Seguridad Social, y de las obligaciones con el Concello (Hacienda del Estado, Hacienda de la Xunta y Tesorería de la Seguridad Social); se piden antes del cobro.",
+        "Certificado de cuenta bancaria (IBAN)."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo do anexo da convocatoria, asinada por un dos proxenitores ou adoptantes e dirixida ao Alcalde, no Rexistro de Entrada do Concello ou por calquera das vías do artigo 16 da Lei 39/2015.",
+        "Documento que acredite a personalidade de quen solicita (copia do DNI).",
+        "Certificado de nacemento do recén nado, expedido polo Rexistro Civil.",
+        "Se é adopción: resolución xudicial.",
+        "Certificado de empadroamento que acredite a residencia efectiva no municipio durante os últimos 12 meses de forma ininterrompida, e a convivencia co recén nado ou adoptado.",
+        "Certificados de estar ao corrente das obrigas tributarias e da Seguridade Social, e das obrigas co Concello (Facenda do Estado, Facenda da Xunta e Tesourería da Seguridade Social); pídense antes do cobro.",
+        "Certificado de conta bancaria (IBAN)."
       ]
     }
   ]
