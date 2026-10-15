@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-15c",
+  "revision": "2026-10-15d",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1470,6 +1470,63 @@
         "Certificado de titularidade da conta bancaria (con IBAN) a nome da persoa solicitante.",
         "Declaración da Renda de 2025 de cada membro computable, ou certificado negativo da Facenda se non está obrigado/a a presentala (ou autorización para que o Concello o comprobe).",
         "Se procede: sentenza de separación ou divorcio e/ou convenio regulador coa custodia, se o libro de familia non reflicte a situación actual."
+      ]
+    },
+    {
+      "id": "paradadesil_natalidad_2026",
+      "titulo": "Ayuda municipal a la natalidad 2026 (Parada de Sil)",
+      "tituloGl": "Axuda municipal á natalidade 2026 (Parada de Sil)",
+      "descripcion": "Ayuda del Concello de Parada de Sil de 1.500 € por cada menor nacido/a, adoptado/a o acogido/a desde el 1 de enero de 2026 (también tutela). Se cobra en tres anualidades de 500 € en una tarjeta monedero del Concello, solo para comprar en comercios físicos (alimentación infantil, pañales, ropa, puericultura, medicamentos no cubiertos…). Hay que llevar empadronado/a en Parada de Sil de forma ininterrumpida al menos un año antes del nacimiento o la adopción, y comprometerse a seguir empadronado/a con el menor 2 años más. Solo hay 2.500 € de crédito, que se reparte entre las solicitudes si no llega. Plazo: hasta el 15 de diciembre de 2026 (15 de enero de 2027 si el nacimiento es en diciembre). Solo se presenta por la sede electrónica y hace falta certificado digital.",
+      "descripcionGl": "Axuda do Concello de Parada de Sil de 1.500 € por cada menor nado/a, adoptado/a ou acollido/a desde o 1 de xaneiro de 2026 (tamén titela). Cóbrase en tres anualidades de 500 € nunha tarxeta moedeiro do Concello, só para mercar en comercios físicos (alimentación infantil, cueiros, roupa, puericultura, medicamentos non cubertos…). Hai que levar empadroado/a en Parada de Sil de forma ininterrompida polo menos un ano antes do nacemento ou da adopción, e comprometerse a seguir empadroado/a co menor 2 anos máis. Só hai 2.500 € de crédito, que se reparte entre as solicitudes se non chega. Prazo: ata o 15 de decembro de 2026 (15 de xaneiro de 2027 se o nacemento é en decembro). Só se presenta pola sede electrónica e fai falta certificado dixital.",
+      "categoria": "familia",
+      "organismo": "Concello de Parada de Sil",
+      "organismoGl": "Concello de Parada de Sil",
+      "enlaceOficial": "https://paradadesil.sedelectronica.gal/",
+      "municipios": [
+        "Parada de Sil"
+      ],
+      "plazoFin": "2026-12-15T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2026,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a, adoptado/a o acogido/a desde el 1 de enero de 2026",
+          "textoExplicativoGl": "Ter un fillo/a nado/a, adoptado/a ou acollido/a desde o 1 de xaneiro de 2026"
+        },
+        {
+          "campo": "empadronamientoParadaDeSil",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronado/a en Parada de Sil de forma ininterrumpida al menos un año antes del nacimiento o la adopción, con el menor empadronado/a, y comprometerse a seguir 2 años",
+          "textoExplicativoGl": "Estar empadroado/a en Parada de Sil de forma ininterrompida polo menos un ano antes do nacemento ou da adopción, co menor empadroado/a, e comprometerse a seguir 2 anos"
+        },
+        {
+          "campo": "corrienteObligacionesParadaDeSil",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente con el Concello, la Agencia Tributaria y la Seguridad Social",
+          "textoExplicativoGl": "Estar ao corrente co Concello, a Axencia Tributaria e a Seguridade Social"
+        }
+      ],
+      "documentacion": [
+        "Solicitud telemática en la sede electrónica del Concello (trámite de instancia general); hace falta certificado electrónico reconocido. No se admiten otras vías.",
+        "Copia del DNI, NIE, pasaporte o documento identificativo de la persona solicitante.",
+        "Certificado de empadronamiento de la persona solicitante, solo si no autorizas su consulta.",
+        "Certificación literal de inscripción del nacimiento expedida por el Registro Civil.",
+        "Si procede: copia de la resolución judicial o administrativa de adopción, tutela o acogimiento.",
+        "Certificación de estar al corriente de las obligaciones tributarias con el Concello, con la Agencia Tributaria estatal y con la Seguridad Social."
+      ],
+      "documentacionGl": [
+        "Solicitude telemática na sede electrónica do Concello (trámite de instancia xeral); fai falta certificado electrónico recoñecido. Non se admiten outras vías.",
+        "Copia do DNI, NIE, pasaporte ou documento identificativo da persoa solicitante.",
+        "Certificado de empadroamento da persoa solicitante, só se non autorizas a súa consulta.",
+        "Certificación literal de inscrición do nacemento expedida polo Rexistro Civil.",
+        "Se procede: copia da resolución xudicial ou administrativa de adopción, titela ou acollemento.",
+        "Certificación de estar ao corrente das obrigas tributarias co Concello, coa Axencia Tributaria estatal e coa Seguridade Social."
       ]
     }
   ]
