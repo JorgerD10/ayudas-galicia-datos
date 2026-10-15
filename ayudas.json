@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-15a",
+  "revision": "2026-10-15b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1339,6 +1339,41 @@
         "Certificado bancario dunha conta a nome da persoa beneficiaria.",
         "Certificados de estar ao corrente coa Facenda estatal, a Facenda da Xunta e a Seguridade Social.",
         "Só se un proxenitor traballa a máis de 60 km e non pode empadroarse no Corgo: contrato laboral ou informe da empresa e certificado de empadroamento do seu concello."
+      ]
+    },
+    {
+      "id": "ordes_natalidad_2026",
+      "titulo": "Ayuda municipal a la natalidad (Ordes)",
+      "tituloGl": "Axuda municipal á natalidade (Ordes)",
+      "descripcion": "Ayuda del Concello de Ordes de hasta 250 € por cada hijo/a nacido/a o adoptado/a entre el 1 de enero y el 31 de diciembre de 2025 (300 € si el menor tiene discapacidad). El presupuesto total es de 24.000 €. Hay que tener empadronado/a en Ordes a uno de los progenitores al menos 6 meses antes del parto o la adopción, el niño/a debe estar empadronado/a y hay que comprometerse a seguir empadronados 3 años. El plazo es de un mes desde el día siguiente a la publicación del extracto en el BOP de A Coruña (24/09/2026), es decir, hasta el 25 de octubre de 2026 aproximadamente: confirma la fecha exacta en el Concello. Se presenta en el Registro del Concello. Los documentos que piden están en las bases (BOP de A Coruña del 16/09/2026).",
+      "descripcionGl": "Axuda do Concello de Ordes de ata 250 € por cada fillo/a nado/a ou adoptado/a entre o 1 de xaneiro e o 31 de decembro de 2025 (300 € se o menor ten discapacidade). O orzamento total é de 24.000 €. Hai que ter empadroado/a en Ordes a un dos proxenitores polo menos 6 meses antes do parto ou da adopción, o neno/a debe estar empadroado/a e hai que comprometerse a seguir empadroados 3 anos. O prazo é dun mes desde o día seguinte á publicación do extracto no BOP da Coruña (24/09/2026), é dicir, ata o 25 de outubro de 2026 aproximadamente: confirma a data exacta no Concello. Preséntase no Rexistro do Concello. Os documentos que piden están nas bases (BOP da Coruña do 16/09/2026).",
+      "categoria": "familia",
+      "organismo": "Concello de Ordes",
+      "organismoGl": "Concello de Ordes",
+      "enlaceOficial": "https://sede.ordes.gal/",
+      "municipios": [
+        "Ordes"
+      ],
+      "plazoInicio": "2026-09-25T00:00:00.000",
+      "plazoFin": "2026-10-25T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2025
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a o adoptado/a en 2025 (la convocatoria es para los nacimientos del año anterior)",
+          "textoExplicativoGl": "Ter un fillo/a nado/a ou adoptado/a en 2025 (a convocatoria é para os nacementos do ano anterior)"
+        },
+        {
+          "campo": "empadronamientoOrdes",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que uno de los progenitores estuviese empadronado/a en Ordes al menos 6 meses antes del parto o la adopción, con el niño/a empadronado/a, y se comprometa a seguir 3 años",
+          "textoExplicativoGl": "Que un dos proxenitores estivese empadroado/a en Ordes polo menos 6 meses antes do parto ou da adopción, co neno/a empadroado/a, e se comprometa a seguir 3 anos"
+        }
       ]
     }
   ]
