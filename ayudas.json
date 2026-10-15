@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-15b",
+  "revision": "2026-10-15c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1374,6 +1374,102 @@
           "textoExplicativo": "Que uno de los progenitores estuviese empadronado/a en Ordes al menos 6 meses antes del parto o la adopción, con el niño/a empadronado/a, y se comprometa a seguir 3 años",
           "textoExplicativoGl": "Que un dos proxenitores estivese empadroado/a en Ordes polo menos 6 meses antes do parto ou da adopción, co neno/a empadroado/a, e se comprometa a seguir 3 anos"
         }
+      ]
+    },
+    {
+      "id": "meano_natalidad_2026",
+      "titulo": "Ayuda municipal a la natalidad 2026 (Meaño)",
+      "tituloGl": "Axuda municipal á natalidade 2026 (Meaño)",
+      "descripcion": "Ayuda del Concello de Meaño por cada hijo/a nacido/a, tutelado/a o adoptado/a entre el 1 de noviembre de 2025 y el 31 de octubre de 2026: 150 € por el primero, 200 € por el segundo y 250 € por el tercero y siguientes (más 50 € por cada niño/a en partos o adopciones múltiples y 75 € si hay discapacidad del 33 % o más o dependencia reconocida). Es de concurrencia competitiva con solo 5.000 € de crédito: si no llega, se dan primero a las familias con menor renta por persona. Hay que estar empadronado/a en Meaño al solicitar, uno de los progenitores desde al menos un año antes del nacimiento, tutela o adopción, y comprometerse a seguir 2 años. La renta por persona (IRPF 2025) no puede superar 13.500 €. Se puede solicitar durante el embarazo con un certificado médico. Plazo hasta el 2 de noviembre de 2026.",
+      "descripcionGl": "Axuda do Concello de Meaño por cada fillo/a nado/a, tutelado/a ou adoptado/a entre o 1 de novembro de 2025 e o 31 de outubro de 2026: 150 € polo primeiro, 200 € polo segundo e 250 € polo terceiro e seguintes (máis 50 € por cada neno/a en partos ou adopcións múltiples e 75 € se hai discapacidade do 33 % ou máis ou dependencia recoñecida). É de concorrencia competitiva con só 5.000 € de crédito: se non chega, dáselles primeiro ás familias con menor renda por persoa. Hai que estar empadroado/a en Meaño ao solicitar, un dos proxenitores desde polo menos un ano antes do nacemento, titela ou adopción, e comprometerse a seguir 2 anos. A renda por persoa (IRPF 2025) non pode superar 13.500 €. Pódese solicitar durante o embarazo cun certificado médico. Prazo ata o 2 de novembro de 2026.",
+      "categoria": "familia",
+      "organismo": "Concello de Meaño",
+      "organismoGl": "Concello de Meaño",
+      "enlaceOficial": "https://meano.gal/cidadania/axudas-e-subvencions/",
+      "municipios": [
+        "Meaño"
+      ],
+      "plazoInicio": "2026-08-20T00:00:00.000",
+      "plazoFin": "2026-11-02T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a, tutelado/a o adoptado/a entre el 1 de noviembre de 2025 y el 31 de octubre de 2026 (o estar embarazada y solicitarla con certificado médico)",
+          "textoExplicativoGl": "Ter un fillo/a nado/a, tutelado/a ou adoptado/a entre o 1 de novembro de 2025 e o 31 de outubro de 2026 (ou estar embarazada e solicitala con certificado médico)"
+        },
+        {
+          "campo": "empadronamientoMeano",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronado/a en Meaño al solicitar (uno de los progenitores desde al menos un año antes del nacimiento, tutela o adopción), con el niño/a empadronado/a, y comprometerse a seguir 2 años",
+          "textoExplicativoGl": "Estar empadroado/a en Meaño ao solicitar (un dos proxenitores desde polo menos un ano antes do nacemento, titela ou adopción), co neno/a empadroado/a, e comprometerse a seguir 2 anos"
+        },
+        {
+          "campo": "rentaMeano",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              27000
+            ],
+            [
+              3,
+              40500
+            ],
+            [
+              4,
+              54000
+            ],
+            [
+              5,
+              67500
+            ],
+            [
+              6,
+              81000
+            ]
+          ],
+          "textoExplicativo": "Que la renta por persona de la familia (IRPF 2025) no supere 13.500 € (las personas con discapacidad del 33 % o más cuentan por dos)",
+          "textoExplicativoGl": "Que a renda por persoa da familia (IRPF 2025) non supere 13.500 € (as persoas con discapacidade do 33 % ou máis contan por dúas)"
+        },
+        {
+          "campo": "corrienteObligacionesMeano",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente con Hacienda, la Seguridad Social y el Concello, y no tener pendiente de justificar otra ayuda del Concello",
+          "textoExplicativoGl": "Estar ao corrente coa Facenda, a Seguridade Social e o Concello, e non ter pendente de xustificar outra axuda do Concello"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (Anexo I), en el Registro General del Concello o por cualquiera de las vías del artículo 16 de la Ley 39/2015.",
+        "Certificado de empadronamiento y convivencia de la unidad familiar (lo aporta de oficio el Concello).",
+        "Fotocopia del DNI, NIE o pasaporte de la persona solicitante y de su pareja o cónyuge.",
+        "Fotocopia del libro de familia o certificado literal de nacimiento de cada hijo/a, incluido el que causa la ayuda.",
+        "Si es adopción o tutela: copia del auto judicial de adopción o de la resolución de la tutela.",
+        "Si se solicita antes del nacimiento: certificado médico del embarazo con la fecha probable de parto.",
+        "Anexo III: acreditación de estar al corriente con la Hacienda estatal y autonómica y con la Seguridad Social.",
+        "Anexo II: compromiso de seguir empadronados 2 años y de devolver la ayuda si se deja de cumplir algún requisito.",
+        "Certificado de titularidad de la cuenta bancaria (con IBAN) a nombre de la persona solicitante.",
+        "Declaración de la Renta de 2025 de cada miembro computable, o certificado negativo de Hacienda si no está obligado/a a presentarla (o autorización para que el Concello lo compruebe).",
+        "Si procede: sentencia de separación o divorcio y/o convenio regulador con la custodia, si el libro de familia no refleja la situación actual."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (Anexo I), no Rexistro Xeral do Concello ou por calquera das vías do artigo 16 da Lei 39/2015.",
+        "Certificado de empadroamento e convivencia da unidade familiar (achégao de oficio o Concello).",
+        "Fotocopia do DNI, NIE ou pasaporte da persoa solicitante e da súa parella ou cónxuxe.",
+        "Fotocopia do libro de familia ou certificado literal de nacemento de cada fillo/a, incluído o que causa a axuda.",
+        "Se é adopción ou titela: copia do auto xudicial de adopción ou da resolución da titela.",
+        "Se se solicita antes do nacemento: certificado médico do embarazo coa data probable de parto.",
+        "Anexo III: acreditación de estar ao corrente coa Facenda estatal e autonómica e coa Seguridade Social.",
+        "Anexo II: compromiso de seguir empadroados 2 anos e de devolver a axuda se se deixa de cumprir algún requisito.",
+        "Certificado de titularidade da conta bancaria (con IBAN) a nome da persoa solicitante.",
+        "Declaración da Renda de 2025 de cada membro computable, ou certificado negativo da Facenda se non está obrigado/a a presentala (ou autorización para que o Concello o comprobe).",
+        "Se procede: sentenza de separación ou divorcio e/ou convenio regulador coa custodia, se o libro de familia non reflicte a situación actual."
       ]
     }
   ]
