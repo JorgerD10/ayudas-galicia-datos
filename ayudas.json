@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-15d",
+  "revision": "2026-10-15e",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1527,6 +1527,59 @@
         "Certificación literal de inscrición do nacemento expedida polo Rexistro Civil.",
         "Se procede: copia da resolución xudicial ou administrativa de adopción, titela ou acollemento.",
         "Certificación de estar ao corrente das obrigas tributarias co Concello, coa Axencia Tributaria estatal e coa Seguridade Social."
+      ]
+    },
+    {
+      "id": "lalin_natalidad_2026",
+      "titulo": "Lote de puericultura por nacimiento 2026 (Lalín)",
+      "tituloGl": "Lote de puericultura por nacemento 2026 (Lalín)",
+      "descripcion": "Ayuda en especie del Concello de Lalín: un lote de productos de puericultura de hasta 160 € (IVA incluido) por cada niño/a nacido/a entre el 1 de enero y el 31 de diciembre de 2026. También para adopciones, guardas con fines de adopción y acogimientos familiares permanentes constituidos en 2026. Toda la unidad familiar, incluido el menor, debe estar empadronada en Lalín al solicitarla y comprometerse a seguir empadronada 2 años. No hay límite de renta. Plazo hasta el 31 de diciembre de 2026 (20 de enero de 2027 si el nacimiento o la adopción es en diciembre). Se presenta preferiblemente por la sede electrónica del Concello, o en su registro general.",
+      "descripcionGl": "Axuda en especie do Concello de Lalín: un lote de produtos de puericultura de ata 160 € (IVE incluído) por cada neno/a nado/a entre o 1 de xaneiro e o 31 de decembro de 2026. Tamén para adopcións, gardas con fins de adopción e acollementos familiares permanentes constituídos en 2026. Toda a unidade familiar, incluído o menor, debe estar empadroada en Lalín ao solicitala e comprometerse a seguir empadroada 2 anos. Non hai límite de renda. Prazo ata o 31 de decembro de 2026 (20 de xaneiro de 2027 se o nacemento ou a adopción é en decembro). Preséntase preferentemente pola sede electrónica do Concello, ou no seu rexistro xeral.",
+      "categoria": "familia",
+      "organismo": "Concello de Lalín",
+      "organismoGl": "Concello de Lalín",
+      "enlaceOficial": "https://lalin.sedelectronica.gal/",
+      "municipios": [
+        "Lalín"
+      ],
+      "plazoInicio": "2026-07-17T00:00:00.000",
+      "plazoFin": "2026-12-31T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2026,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a en 2026 (también cuentan las adopciones, guardas con fines adoptivos y acogimientos permanentes de 2026)",
+          "textoExplicativoGl": "Ter un fillo/a nado/a en 2026 (tamén contan as adopcións, gardas con fins adoptivos e acollementos permanentes de 2026)"
+        },
+        {
+          "campo": "empadronamientoLalin",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que toda la unidad familiar, incluido el menor, esté empadronada en Lalín al solicitarla y se comprometa a seguir 2 años",
+          "textoExplicativoGl": "Que toda a unidade familiar, incluído o menor, estea empadroada en Lalín ao solicitala e se comprometa a seguir 2 anos"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (Anexo I), preferiblemente por la sede electrónica del Concello (formulario de subvención directa), o en el registro general.",
+        "DNI de la persona solicitante.",
+        "Copia del libro de familia o certificado de nacimiento del Registro Civil.",
+        "Si procede: copia de la resolución judicial o administrativa de adopción, guarda con fines adoptivos o acogimiento familiar permanente.",
+        "Si procede: sentencia de separación o divorcio y convenio regulador de las relaciones paternofiliales.",
+        "Anexo II: compromiso de todos los miembros de la unidad familiar de seguir empadronados en Lalín 2 años.",
+        "Anexo III: declaración responsable de no estar incurso/a en las prohibiciones para recibir subvenciones (sustituye a los certificados de Hacienda y Seguridad Social)."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (Anexo I), preferentemente pola sede electrónica do Concello (formulario de subvención directa), ou no rexistro xeral.",
+        "DNI da persoa solicitante.",
+        "Copia do libro de familia ou certificado de nacemento do Rexistro Civil.",
+        "Se procede: copia da resolución xudicial ou administrativa de adopción, garda con fins adoptivos ou acollemento familiar permanente.",
+        "Se procede: sentenza de separación ou divorcio e convenio regulador das relacións paternofiliais.",
+        "Anexo II: compromiso de todos os membros da unidade familiar de seguir empadroados en Lalín 2 anos.",
+        "Anexo III: declaración responsable de non estar incurso/a nas prohibicións para recibir subvencións (substitúe aos certificados de Facenda e Seguridade Social)."
       ]
     }
   ]
