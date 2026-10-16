@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-16g",
+  "revision": "2026-10-16h",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2009,6 +2009,72 @@
         "Declaración xurada das axudas solicitadas ou recibidas para o mesmo fin.",
         "Certificado de titularidade da conta bancaria.",
         "Certificado de estar ao corrente con Facenda e a Seguridade Social (o Concello comproba de oficio a débeda local)."
+      ]
+    },
+    {
+      "id": "covelo_libros_infantil_2026",
+      "titulo": "Ayuda municipal para libros y material de Infantil 2026/27 (Covelo)",
+      "tituloGl": "Axuda municipal para libros e material de Infantil 2026/27 (Covelo)",
+      "descripcion": "Ayuda del Concello de Covelo para comprar libros y material escolar del alumnado de segunda etapa de Educación Infantil (3 a 5 años) matriculado en el centro público de Covelo en el curso 2026/27: hasta 100 € por alumno/a, y hasta 125 € si tiene discapacidad del 33 % o más o es familia numerosa. La renta por persona de la familia (IRPF 2025, divida entre los miembros computables; quien tiene discapacidad del 33 % o más cuenta por dos) no puede pasar de 14.400 €. Hay que convivir con el alumno/a y estar al corriente con Hacienda, la Seguridad Social y el Concello. Se cobra después de justificar el gasto con facturas. El crédito total es de 1.825 €; si no llega, se reparte proporcionalmente. Plazo: 15 días hábiles desde la publicación del extracto en el BOP de Pontevedra (fecha aún sin confirmar).",
+      "descripcionGl": "Axuda do Concello de Covelo para mercar libros e material escolar do alumnado de segunda etapa de Educación Infantil (3 a 5 anos) matriculado no centro público de Covelo no curso 2026/27: ata 100 € por alumno/a, e ata 125 € se ten discapacidade do 33 % ou máis ou é familia numerosa. A renda por persoa da familia (IRPF 2025, dividida entre os membros computables; quen ten discapacidade do 33 % ou máis conta por dous) non pode pasar de 14.400 €. Hai que convivir co alumno/a e estar ao corrente con Facenda, a Seguridade Social e o Concello. Cóbrase despois de xustificar o gasto con facturas. O crédito total é de 1.825 €; se non chega, repártese proporcionalmente. Prazo: 15 días hábiles desde a publicación do extracto no BOP de Pontevedra (data aínda sen confirmar).",
+      "categoria": "educacion",
+      "organismo": "Concello de Covelo",
+      "organismoGl": "Concello de Covelo",
+      "enlaceOficial": "https://covelo.sedelectronica.es/",
+      "municipios": [
+        "Covelo"
+      ],
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a en segunda etapa de Educación Infantil (3 a 5 años), matriculado/a en el centro público de Covelo en 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a en segunda etapa de Educación Infantil (3 a 5 anos), matriculado/a no centro público de Covelo en 2026/27"
+        },
+        {
+          "campo": "rentaPerCapitaCovelo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta por persona de la familia (IRPF 2025) no supere los 14.400 €",
+          "textoExplicativoGl": "Que a renda por persoa da familia (IRPF 2025) non supere os 14.400 €"
+        },
+        {
+          "campo": "corrienteObligacionesCoveloLibros",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Convivir con el alumno/a, estar al corriente con Hacienda, la Seguridad Social y el Concello, y no tener pendiente de justificar otra ayuda del Concello",
+          "textoExplicativoGl": "Convivir co alumno/a, estar ao corrente con Facenda, a Seguridade Social e o Concello, e non ter pendente de xustificar outra axuda do Concello"
+        }
+      ],
+      "documentacion": [
+        "DNI de la persona solicitante.",
+        "Certificado de convivencia de la unidad familiar (no hace falta si estáis empadronados en Covelo y firmáis la autorización del Anexo IV).",
+        "Libro de familia o partida de nacimiento de los miembros de la unidad familiar.",
+        "Si procede: título de familia numerosa y certificado de discapacidad.",
+        "Resguardo de la matrícula del curso 2026/27.",
+        "Anexo III: declaración jurada de otras ayudas para el mismo fin y compromiso de devolver la ayuda si se incumple algún requisito.",
+        "Certificados de estar al corriente con la Seguridad Social, la Agencia Tributaria y ATRIGA, y de no tener deudas con el Concello (Tesorería u ORAL).",
+        "Certificado de cuenta bancaria de la persona que cobra.",
+        "Declaración de la renta 2025 (o certificado de imputaciones de la Agencia Tributaria) de la persona solicitante, del otro progenitor, de hermanos hasta 25 años y de abuelos que convivan.",
+        "Si procede: sentencia o convenio regulador de separación o divorcio, e informe de servicios sociales.",
+        "Facturas del gasto en libros y material escolar (para cobrar, una vez justificado)."
+      ],
+      "documentacionGl": [
+        "DNI da persoa solicitante.",
+        "Certificado de convivencia da unidade familiar (non fai falta se estades empadroados en Covelo e asinades a autorización do Anexo IV).",
+        "Libro de familia ou partida de nacemento dos membros da unidade familiar.",
+        "Se procede: título de familia numerosa e certificado de discapacidade.",
+        "Resgardo da matrícula do curso 2026/27.",
+        "Anexo III: declaración xurada doutras axudas para o mesmo fin e compromiso de devolver a axuda se se incumpre algún requisito.",
+        "Certificados de estar ao corrente coa Seguridade Social, a Axencia Tributaria e ATRIGA, e de non ter débedas co Concello (Tesouraría ou ORAL).",
+        "Certificado de conta bancaria da persoa que cobra.",
+        "Declaración da renda 2025 (ou certificado de imputacións da Axencia Tributaria) da persoa solicitante, do outro proxenitor, de irmáns ata 25 anos e de avós que convivan.",
+        "Se procede: sentenza ou convenio regulador de separación ou divorcio, e informe de servizos sociais.",
+        "Facturas do gasto en libros e material escolar (para cobrar, unha vez xustificado)."
       ]
     }
   ]
