@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-16e",
+  "revision": "2026-10-16g",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1882,6 +1882,133 @@
         "Anexo II: declaración xurada doutras axudas para o mesmo fin e de estar ao corrente con AEAT, ATRIGA e Seguridade Social (ambos proxenitores).",
         "Se procede: certificado de familia monoparental.",
         "Presentación no Rexistro Xeral do Concello (orixinais ou copias compulsadas)."
+      ]
+    },
+    {
+      "id": "assomozas_natalidad_2026",
+      "titulo": "Ayuda municipal a la natalidad 2026 (As Somozas)",
+      "tituloGl": "Axuda municipal á natalidade 2026 (As Somozas)",
+      "descripcion": "Ayuda del Concello de As Somozas por cada hijo/a nacido/a, adoptado/a o acogido/a en 2026: 1.000 € por el primero (2.000 € si tiene discapacidad) y 2.000 € por el segundo y siguientes (3.000 € si tiene discapacidad). No depende de la renta. Quien solicita (al menos uno de los progenitores) y el menor deben estar empadronados en As Somozas desde 12 meses antes del parto, el menor debe inscribirse en el padrón, convivir con quien solicita, y hay que comprometerse a seguir empadronados 3 años desde la concesión. El crédito es de 5.000 € (ampliable); si se agota, se deniega. Compatible con otras ayudas. Plazo: 3 meses desde el nacimiento, la adopción o el acogimiento; para nacidos en el último trimestre de 2026, hasta el 31/03/2027. Si tu hijo/a nació hace poco, no esperes.",
+      "descripcionGl": "Axuda do Concello de As Somozas por cada fillo/a nado/a, adoptado/a ou acollido/a en 2026: 1.000 € polo primeiro (2.000 € se ten discapacidade) e 2.000 € polo segundo e seguintes (3.000 € se ten discapacidade). Non depende da renda. Quen solicita (polo menos un dos proxenitores) e o menor deben estar empadroados en As Somozas desde 12 meses antes do parto, o menor debe inscribirse no padrón, convivir con quen solicita, e hai que comprometerse a seguir empadroados 3 anos desde a concesión. O crédito é de 5.000 € (ampliable); se se esgota, denégase. Compatible con outras axudas. Prazo: 3 meses desde o nacemento, a adopción ou o acollemento; para nados no último trimestre de 2026, ata o 31/03/2027. Se o teu fillo/a naceu hai pouco, non agardes.",
+      "categoria": "familia",
+      "organismo": "Concello de As Somozas",
+      "organismoGl": "Concello de As Somozas",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/884608",
+      "municipios": [
+        "As Somozas"
+      ],
+      "plazoInicio": "2026-02-05T00:00:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2026,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a, adoptado/a o acogido/a en 2026 (y estar dentro de su plazo de 3 meses)",
+          "textoExplicativoGl": "Ter un fillo/a nado/a, adoptado/a ou acollido/a en 2026 (e estar dentro do seu prazo de 3 meses)"
+        },
+        {
+          "campo": "empadronamientoAsSomozas",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Uno de los progenitores, al menos, y el menor empadronados en As Somozas desde 12 meses antes del parto, conviviendo juntos, y compromiso de seguir 3 años",
+          "textoExplicativoGl": "Un dos proxenitores, polo menos, e o menor empadroados en As Somozas desde 12 meses antes do parto, convivindo xuntos, e compromiso de seguir 3 anos"
+        },
+        {
+          "campo": "corrienteObligacionesAsSomozas",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente con la Seguridad Social y con Hacienda estatal, autonómica y local, y no tener pendiente de justificar otra subvención del Concello",
+          "textoExplicativoGl": "Estar ao corrente coa Seguridade Social e coa Facenda estatal, autonómica e local, e non ter pendente de xustificar outra subvención do Concello"
+        }
+      ],
+      "documentacion": [
+        "DNI de los padres, tutores o acogedores del menor.",
+        "Libro de familia o documentación sustitutiva.",
+        "Si procede: copia de la resolución judicial de adopción o de la resolución de acogimiento familiar.",
+        "Volante de empadronamiento colectivo con la fecha de inscripción del menor (si no autorizas al Concello a consultarlo).",
+        "Si procede: resolución judicial sobre guarda y custodia (separación, divorcio o nulidad).",
+        "Certificado de IBAN con la persona solicitante como titular.",
+        "Anexo II: compromiso de seguir empadronados 3 años y de devolver la ayuda si se incumple.",
+        "Certificado de estar al corriente con la Seguridad Social, Hacienda estatal, autonómica y local (si no autorizas su consulta).",
+        "Solicitud (Anexo I), preferentemente en la sede electrónica assomozas.sedelectronica.gal o en el Registro del Concello."
+      ],
+      "documentacionGl": [
+        "DNI dos pais, titores ou acolledores do menor.",
+        "Libro de familia ou documentación substitutiva.",
+        "Se procede: copia da resolución xudicial de adopción ou da resolución de acollemento familiar.",
+        "Volante de empadroamento colectivo coa data de inscrición do menor (se non autorizas o Concello a consultalo).",
+        "Se procede: resolución xudicial sobre garda e custodia (separación, divorcio ou nulidade).",
+        "Certificado de IBAN coa persoa solicitante como titular.",
+        "Anexo II: compromiso de seguir empadroados 3 anos e de devolver a axuda se se incumpre.",
+        "Certificado de estar ao corrente coa Seguridade Social, Facenda estatal, autonómica e local (se non autorizas a súa consulta).",
+        "Solicitude (Anexo I), preferentemente na sede electrónica assomozas.sedelectronica.gal ou no Rexistro do Concello."
+      ]
+    },
+    {
+      "id": "opino_natalidad",
+      "titulo": "Ayuda municipal a la natalidad (O Pino)",
+      "tituloGl": "Axuda municipal á natalidade (O Pino)",
+      "descripcion": "Ayuda del Concello de O Pino por cada hijo/a nacido/a, adoptado/a o acogido/a: hasta 750 € por el primero y hasta 1.000 € por el segundo; hasta 1.500 € si el menor tiene una discapacidad del 33 % o más, y un 100 % adicional por cada hijo/a en partos múltiples. No depende de la renta. Al menos uno de los progenitores debe estar empadronado en O Pino desde 9 meses antes del parto, la adopción o el acogimiento, el menor debe convivir con quien solicita y hay que comprometerse a seguir empadronados 5 años (si no, se devuelve la ayuda). Es una ordenanza permanente con la convocatoria abierta todo el año; los importes son máximos y dependen del crédito que el Concello reserve cada año, y se resuelve por orden de solicitud hasta agotarlo. Compatible con otras ayudas. Conviene confirmar con el Concello el crédito de este año.",
+      "descripcionGl": "Axuda do Concello de O Pino por cada fillo/a nado/a, adoptado/a ou acollido/a: ata 750 € polo primeiro e ata 1.000 € polo segundo; ata 1.500 € se o menor ten unha discapacidade do 33 % ou máis, e un 100 % adicional por cada fillo/a en partos múltiples. Non depende da renda. Polo menos un dos proxenitores debe estar empadroado en O Pino desde 9 meses antes do parto, a adopción ou o acollemento, o menor debe convivir con quen solicita e hai que comprometerse a seguir empadroados 5 anos (se non, devólvese a axuda). É unha ordenanza permanente coa convocatoria aberta todo o ano; os importes son máximos e dependen do crédito que o Concello reserve cada ano, e resólvese por orde de solicitude ata esgotalo. Compatible con outras axudas. Convén confirmar co Concello o crédito deste ano.",
+      "categoria": "familia",
+      "organismo": "Concello de O Pino",
+      "organismoGl": "Concello de O Pino",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/883970",
+      "municipios": [
+        "O Pino"
+      ],
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a, adoptado/a o acogido/a recientemente (2025 o 2026)",
+          "textoExplicativoGl": "Ter un fillo/a nado/a, adoptado/a ou acollido/a recentemente (2025 ou 2026)"
+        },
+        {
+          "campo": "empadronamientoOPino",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Uno de los progenitores, al menos, empadronado en O Pino desde 9 meses antes del parto, el menor conviviendo con quien solicita, y compromiso de seguir empadronados 5 años",
+          "textoExplicativoGl": "Un dos proxenitores, polo menos, empadroado en O Pino desde 9 meses antes do parto, o menor convivindo con quen solicita, e compromiso de seguir empadroados 5 anos"
+        },
+        {
+          "campo": "corrienteObligacionesOPino",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Ser español o extranjero con residencia legal y estar al corriente con Hacienda, la Seguridad Social y el Concello",
+          "textoExplicativoGl": "Ser español ou estranxeiro con residencia legal e estar ao corrente con Facenda, a Seguridade Social e o Concello"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (Anexo I), dirigida al Alcalde, en el Registro General, la sede electrónica o cualquier otro registro habilitado.",
+        "Libro de familia y DNI de quien solicita.",
+        "Certificado de convivencia de la unidad familiar con la fecha de alta en el padrón (lo expide de oficio el Concello).",
+        "Si procede: auto judicial de adopción o resolución administrativa de acogimiento.",
+        "Si procede: convenio regulador o sentencia de nulidad, separación o divorcio, y resolución sobre guarda y custodia.",
+        "Si procede: certificado de grado de discapacidad (33 % o más).",
+        "Compromiso de seguir empadronados 5 años y de devolver la ayuda si se incumple algún requisito.",
+        "Declaración jurada de las ayudas solicitadas o recibidas para el mismo fin.",
+        "Certificado de titularidad de la cuenta bancaria.",
+        "Certificado de estar al corriente con Hacienda y la Seguridad Social (el Concello comprueba de oficio la deuda local)."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (Anexo I), dirixida ao Alcalde, no Rexistro Xeral, na sede electrónica ou en calquera outro rexistro habilitado.",
+        "Libro de familia e DNI de quen solicita.",
+        "Certificado de convivencia da unidade familiar coa data de alta no padrón (expídeo de oficio o Concello).",
+        "Se procede: auto xudicial de adopción ou resolución administrativa de acollemento.",
+        "Se procede: convenio regulador ou sentenza de nulidade, separación ou divorcio, e resolución sobre garda e custodia.",
+        "Se procede: certificado de grao de discapacidade (33 % ou máis).",
+        "Compromiso de seguir empadroados 5 anos e de devolver a axuda se se incumpre algún requisito.",
+        "Declaración xurada das axudas solicitadas ou recibidas para o mesmo fin.",
+        "Certificado de titularidade da conta bancaria.",
+        "Certificado de estar ao corrente con Facenda e a Seguridade Social (o Concello comproba de oficio a débeda local)."
       ]
     }
   ]
