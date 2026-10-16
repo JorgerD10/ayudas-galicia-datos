@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-16h",
+  "revision": "2026-10-16i",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2075,6 +2075,67 @@
         "Declaración da renda 2025 (ou certificado de imputacións da Axencia Tributaria) da persoa solicitante, do outro proxenitor, de irmáns ata 25 anos e de avós que convivan.",
         "Se procede: sentenza ou convenio regulador de separación ou divorcio, e informe de servizos sociais.",
         "Facturas do gasto en libros e material escolar (para cobrar, unha vez xustificado)."
+      ]
+    },
+    {
+      "id": "folgoso_libros_infantil_2026",
+      "titulo": "Ayuda municipal para libros y material de Infantil 2026/27 (Folgoso do Courel)",
+      "tituloGl": "Axuda municipal para libros e material de Infantil 2026/27 (Folgoso do Courel)",
+      "descripcion": "Ayuda del Concello de Folgoso do Courel de hasta 100 € por alumno/a para libros de texto y material escolar (incluida la fiambrera o recipientes de la merienda) del alumnado de segundo ciclo de Educación Infantil (3 a 5 años) del CPI Poeta Uxío Novoneyra. No depende de la renta. Toda la unidad familiar debe estar empadronada y residir en Folgoso do Courel, y ningún miembro puede tener deudas con Hacienda, la Seguridad Social o el Concello. Se cobra por transferencia después de justificar el gasto con facturas. El crédito es de 1.100 € (ampliable). Plazo: hasta el 23 de noviembre de 2026.",
+      "descripcionGl": "Axuda do Concello de Folgoso do Courel de ata 100 € por alumno/a para libros de texto e material escolar (incluída a fiambreira ou recipientes da merenda) do alumnado de segundo ciclo de Educación Infantil (3 a 5 anos) do CPI Poeta Uxío Novoneyra. Non depende da renda. Toda a unidade familiar debe estar empadroada e residir en Folgoso do Courel, e ningún membro pode ter débedas con Facenda, a Seguridade Social ou o Concello. Cóbrase por transferencia despois de xustificar o gasto con facturas. O crédito é de 1.100 € (ampliable). Prazo: ata o 23 de novembro de 2026.",
+      "categoria": "educacion",
+      "organismo": "Concello de Folgoso do Courel",
+      "organismoGl": "Concello de Folgoso do Courel",
+      "enlaceOficial": "https://folgosodocourel.sedelectronica.es/",
+      "municipios": [
+        "Folgoso do Courel"
+      ],
+      "plazoFin": "2026-11-23T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a de 3 a 5 años cursando segundo ciclo de Infantil en el CPI Poeta Uxío Novoneyra",
+          "textoExplicativoGl": "Ter un fillo/a de 3 a 5 anos cursando segundo ciclo de Infantil no CPI Poeta Uxío Novoneyra"
+        },
+        {
+          "campo": "empadronamientoFolgosoLibros",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Toda la unidad familiar empadronada y con residencia efectiva en Folgoso do Courel",
+          "textoExplicativoGl": "Toda a unidade familiar empadroada e con residencia efectiva en Folgoso do Courel"
+        },
+        {
+          "campo": "corrienteObligacionesFolgosoLibros",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Ningún miembro de la familia con deudas con Hacienda, la Seguridad Social o el Concello, ni con otra ayuda del Concello pendiente de justificar",
+          "textoExplicativoGl": "Ningún membro da familia con débedas con Facenda, a Seguridade Social ou o Concello, nin con outra axuda do Concello pendente de xustificar"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado que facilita el Concello (descargable en su sede electrónica), firmada por el padre, madre o tutor/a, y presentada en el Registro General del Concello.",
+        "DNI de todos los miembros de la unidad familiar mayores de edad.",
+        "Libro de familia y, si procede, sentencia de separación o divorcio o convenio regulador donde conste la custodia.",
+        "Certificado del CPI Poeta Uxío Novoneyra de que el alumno/a cursa estudios allí.",
+        "Declaración responsable de estar toda la familia al corriente con Hacienda, la Seguridad Social y el Concello, y de no estar en prohibición para recibir subvenciones.",
+        "Declaración de otras ayudas solicitadas o concedidas para el mismo fin.",
+        "Datos bancarios certificados por el banco, con un representante legal del menor como titular.",
+        "Facturas con el detalle de la compra de libros y/o material escolar del curso."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado que facilita o Concello (descargable na súa sede electrónica), asinada polo pai, nai ou titor/a, e presentada no Rexistro Xeral do Concello.",
+        "DNI de todos os membros da unidade familiar maiores de idade.",
+        "Libro de familia e, se procede, sentenza de separación ou divorcio ou convenio regulador onde conste a custodia.",
+        "Certificado do CPI Poeta Uxío Novoneyra de que o alumno/a cursa estudos nel.",
+        "Declaración responsable de estar toda a familia ao corrente con Facenda, a Seguridade Social e o Concello, e de non estar en prohibición para recibir subvencións.",
+        "Declaración doutras axudas solicitadas ou concedidas para o mesmo fin.",
+        "Datos bancarios certificados polo banco, cun representante legal do menor como titular.",
+        "Facturas co detalle da compra de libros e/ou material escolar do curso."
       ]
     }
   ]
