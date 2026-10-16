@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-15g",
+  "revision": "2026-10-15i",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1640,6 +1640,66 @@
         "Certificado de empadroamento que acredite a residencia efectiva no municipio durante os últimos 12 meses de forma ininterrompida, e a convivencia co recén nado ou adoptado.",
         "Certificados de estar ao corrente das obrigas tributarias e da Seguridade Social, e das obrigas co Concello (Facenda do Estado, Facenda da Xunta e Tesourería da Seguridade Social); pídense antes do cobro.",
         "Certificado de conta bancaria (IBAN)."
+      ]
+    },
+    {
+      "id": "ortigueira_natalidad_2026",
+      "titulo": "Ayuda a la natalidad y al asentamiento (Ortigueira)",
+      "tituloGl": "Axuda á natalidade e ao asentamento (Ortigueira)",
+      "descripcion": "Ayuda del Concello de Ortigueira de 500 € por cada hijo/a nacido/a, adoptado/a o acogido/a entre el 1 de enero y el 31 de diciembre de 2025. Se concede por orden de presentación de las solicitudes completas hasta agotar el crédito (12.000 €). Hay que estar empadronado/a en Ortigueira (al menos uno de los progenitores y el menor), convivir con el niño/a y comprometerse a mantener el empadronamiento y la residencia 2 años. El dinero debe gastarse en necesidades básicas del menor (higiene, alimentación, ropa, puericultura, transporte o salud) y justificarse en 2 meses desde la concesión. La convocatoria de este año (para nacidos en 2025) se publicó el 25/06/2026 y su plazo, de un mes, ya cerró. Estate atento/a a la siguiente.",
+      "descripcionGl": "Axuda do Concello de Ortigueira de 500 € por cada fillo/a nado/a, adoptado/a ou acollido/a entre o 1 de xaneiro e o 31 de decembro de 2025. Concédese por orde de presentación das solicitudes completas ata esgotar o crédito (12.000 €). Hai que estar empadroado/a en Ortigueira (polo menos un dos proxenitores e o menor), convivir co neno/a e comprometerse a manter o empadroamento e a residencia 2 anos. O diñeiro debe gastarse en necesidades básicas do menor (hixiene, alimentación, roupa, puericultura, transporte ou saúde) e xustificarse en 2 meses desde a concesión. A convocatoria deste ano (para nados en 2025) publicouse o 25/06/2026 e o seu prazo, dun mes, xa pechou. Está atento/a á seguinte.",
+      "categoria": "familia",
+      "organismo": "Concello de Ortigueira",
+      "organismoGl": "Concello de Ortigueira",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/914297",
+      "municipios": [
+        "Ortigueira"
+      ],
+      "plazoInicio": "2026-06-26T00:00:00.000",
+      "plazoFin": "2026-07-26T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2025
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a, adoptado/a o acogido/a en 2025 (la ayuda es para los nacimientos del año anterior)",
+          "textoExplicativoGl": "Ter un fillo/a nado/a, adoptado/a ou acollido/a en 2025 (a axuda é para os nacementos do ano anterior)"
+        },
+        {
+          "campo": "empadronamientoOrtigueira",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronado/a en Ortigueira (al menos uno de los progenitores y el menor), convivir con el niño/a y comprometerse a seguir 2 años",
+          "textoExplicativoGl": "Estar empadroado/a en Ortigueira (polo menos un dos proxenitores e o menor), convivir co neno/a e comprometerse a seguir 2 anos"
+        },
+        {
+          "campo": "corrienteObligacionesOrtigueira",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente de las obligaciones tributarias y con la Seguridad Social",
+          "textoExplicativoGl": "Estar ao corrente das obrigas tributarias e coa Seguridade Social"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo oficial (Anexo I).",
+        "DNI, NIE o pasaporte de las personas mayores de edad de la unidad familiar.",
+        "Libro de familia o documentación sustitutiva.",
+        "Si procede: resolución de adopción, acogimiento o tutela.",
+        "Si procede: sentencia y convenio regulador.",
+        "Certificado de titularidad de la cuenta bancaria (IBAN).",
+        "Declaración responsable (Anexo II): veracidad de los datos, no estar incurso/a en prohibiciones para recibir subvenciones, estar al corriente con Hacienda, la Seguridad Social y el Concello, empadronamiento y convivencia, y no haber pedido ni recibido ayudas de otros concellos con el mismo fin."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo oficial (Anexo I).",
+        "DNI, NIE ou pasaporte das persoas maiores de idade da unidade familiar.",
+        "Libro de familia ou documentación substitutiva.",
+        "Se procede: resolución de adopción, acollemento ou titoría.",
+        "Se procede: sentenza e convenio regulador.",
+        "Certificado de titularidade da conta bancaria (IBAN).",
+        "Declaración responsable (Anexo II): veracidade dos datos, non estar incurso/a en prohibicións para recibir subvencións, estar ao corrente coa Facenda, a Seguridade Social e o Concello, empadroamento e convivencia, e non ter pedido nin recibido axudas doutros concellos co mesmo fin."
       ]
     }
   ]
