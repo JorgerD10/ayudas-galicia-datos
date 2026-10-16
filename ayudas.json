@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-16j",
+  "revision": "2026-10-16l",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2229,6 +2229,106 @@
         "Se procede: documentación das situacións específicas marcadas no Anexo I (non fai falta se xa se presentou antes).",
         "Certificado do número de conta con IBAN.",
         "Para os libros de ESO do IES Río Miño: compromiso de devolvelos ao final do curso ao Banco de Libros do instituto."
+      ]
+    },
+    {
+      "id": "ourol_libros_material_2026_27",
+      "titulo": "Ayuda municipal de libros y material escolar 2026/27 (Ourol)",
+      "tituloGl": "Axuda municipal de libros e material escolar 2026/27 (Ourol)",
+      "descripcion": "Ayuda del Concello de Ourol de hasta 100 € por alumno/a para libros de texto, cuadernos y material escolar no subvencionado por otra administración, para alumnado de segundo ciclo de Infantil, Primaria, ESO o Educación Especial en centros sostenidos con fondos públicos. Toda la familia debe estar empadronada en Ourol desde hace al menos 3 meses (en custodia compartida basta con un progenitor y el menor), y la renta per cápita de 2025 (base imponible general más la del ahorro, dividida entre los miembros computables) no puede pasar de 10.000 €; el alumnado de Educación Especial o con discapacidad del 65 % o más la recibe sin límite de renta. La cuantía se reparte por puntos (renta más baja, desempleo, discapacidad, familia monoparental o numerosa, violencia de género) y el crédito es de 1.300 €. Se justifica con la factura en 10 días tras la concesión. Plazo: 15 días hábiles desde la publicación de las bases en el BOP de Lugo (fecha aún sin confirmar).",
+      "descripcionGl": "Axuda do Concello de Ourol de ata 100 € por alumno/a para libros de texto, cadernos e material escolar non subvencionado por outra administración, para alumnado de segundo ciclo de Infantil, Primaria, ESO ou Educación Especial en centros sostidos con fondos públicos. Toda a familia debe estar empadroada en Ourol desde hai polo menos 3 meses (en custodia compartida abonda cun proxenitor e o menor), e a renda per cápita de 2025 (base impoñible xeral máis a do aforro, dividida entre os membros computables) non pode pasar de 10.000 €; o alumnado de Educación Especial ou con discapacidade do 65 % ou máis recíbea sen límite de renda. A contía repártese por puntos (renda máis baixa, desemprego, discapacidade, familia monoparental ou numerosa, violencia de xénero) e o crédito é de 1.300 €. Xustifícase coa factura en 10 días tras a concesión. Prazo: 15 días hábiles desde a publicación das bases no BOP de Lugo (data aínda sen confirmar).",
+      "categoria": "educacion",
+      "organismo": "Concello de Ourol",
+      "organismoGl": "Concello de Ourol",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/929237",
+      "municipios": [
+        "Ourol"
+      ],
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en segundo ciclo de Infantil, Primaria, ESO o Educación Especial (aproximadamente de 3 a 16 años)",
+          "textoExplicativoGl": "Ter un fillo/a en segundo ciclo de Infantil, Primaria, ESO ou Educación Especial (aproximadamente de 3 a 16 anos)"
+        },
+        {
+          "campo": "rentaOurolGrupo",
+          "operador": "alguno",
+          "valor": [
+            {
+              "campo": "rentaOurol",
+              "operador": "limiteAnualPorMiembros",
+              "valor": [
+                [
+                  2,
+                  20000
+                ],
+                [
+                  3,
+                  30000
+                ],
+                [
+                  4,
+                  40000
+                ],
+                [
+                  5,
+                  50000
+                ],
+                [
+                  6,
+                  60000
+                ]
+              ],
+              "textoExplicativo": "Renta per cápita de 2025 de hasta 10.000 €",
+              "textoExplicativoGl": "Renda per cápita de 2025 de ata 10.000 €"
+            },
+            {
+              "campo": "educacionEspecialOurol",
+              "operador": "confirmar",
+              "valor": true,
+              "textoExplicativo": "Alumnado de Educación Especial o con discapacidad del 65 % o más (sin límite de renta)",
+              "textoExplicativoGl": "Alumnado de Educación Especial ou con discapacidade do 65 % ou máis (sen límite de renda)"
+            }
+          ],
+          "textoExplicativo": "Que la renta per cápita de la familia en 2025 no supere los 10.000 € (sin límite si el alumno/a es de Educación Especial o tiene una discapacidad del 65 % o más)",
+          "textoExplicativoGl": "Que a renda per cápita da familia en 2025 non supere os 10.000 € (sen límite se o alumno/a é de Educación Especial ou ten unha discapacidade do 65 % ou máis)"
+        },
+        {
+          "campo": "empadronamientoOurol",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Toda la unidad familiar empadronada en Ourol desde hace al menos 3 meses, con el alumno/a matriculado/a en un centro sostenido con fondos públicos, y al corriente con la Agencia Tributaria, el Concello y la Seguridad Social",
+          "textoExplicativoGl": "Toda a unidade familiar empadroada en Ourol desde hai polo menos 3 meses, co alumno/a matriculado/a nun centro sostido con fondos públicos, e ao corrente coa Axencia Tributaria, o Concello e a Seguridade Social"
+        }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I), única para todos los hijos/as, indicando el nivel de estudios de cada uno/a. La facilita el Departamento de Servicios Sociales o la sede electrónica del Concello.",
+        "Anexo II: autorización para comprobar los datos del resto de miembros de la unidad de convivencia.",
+        "DNI de la persona solicitante y del resto de miembros de la unidad de convivencia obligados a tenerlo.",
+        "Libro de familia.",
+        "Declaración de la renta de 2025 o certificado de imputaciones del IRPF de todos los miembros computables mayores de 18 años.",
+        "Si procede: documentos de las circunstancias alegadas (desempleo, discapacidad o incapacidad permanente, familia monoparental, título de familia numerosa, violencia de género).",
+        "Certificado del número de cuenta bancaria.",
+        "Documento que acredite la matrícula del alumno/a en centro sostenido con fondos públicos.",
+        "Certificado de estar al corriente con la Agencia Tributaria y la Seguridad Social de todos los miembros mayores de 18 años.",
+        "Después de la concesión: factura del gasto en libros o material (o recibo del centro escolar firmado y sellado por la dirección) en un máximo de 10 días."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I), única para todos os fillos/as, indicando o nivel de estudos de cada un/unha. Fai dispoñible o Departamento de Servizos Sociais ou a sede electrónica do Concello.",
+        "Anexo II: autorización para comprobar os datos do resto de membros da unidade de convivencia.",
+        "DNI da persoa solicitante e do resto de membros da unidade de convivencia obrigados a telo.",
+        "Libro de familia.",
+        "Declaración da renda de 2025 ou certificado de imputacións do IRPF de todos os membros computables maiores de 18 anos.",
+        "Se procede: documentos das circunstancias alegadas (desemprego, discapacidade ou incapacidade permanente, familia monoparental, título de familia numerosa, violencia de xénero).",
+        "Certificado do número de conta bancaria.",
+        "Documento que acredite a matrícula do alumno/a en centro sostido con fondos públicos.",
+        "Certificado de estar ao corrente coa Axencia Tributaria e a Seguridade Social de todos os membros maiores de 18 anos.",
+        "Despois da concesión: factura do gasto en libros ou material (ou recibo do centro escolar asinado e selado pola dirección) nun máximo de 10 días."
       ]
     }
   ]
