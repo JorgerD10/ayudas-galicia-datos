@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-16i",
+  "revision": "2026-10-16j",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2136,6 +2136,99 @@
         "Declaración doutras axudas solicitadas ou concedidas para o mesmo fin.",
         "Datos bancarios certificados polo banco, cun representante legal do menor como titular.",
         "Facturas co detalle da compra de libros e/ou material escolar do curso."
+      ]
+    },
+    {
+      "id": "begonte_material_escolar_2026_27",
+      "titulo": "Ayuda municipal de material escolar y libros 2026/27 (Begonte)",
+      "tituloGl": "Axuda municipal de material escolar e libros 2026/27 (Begonte)",
+      "descripcion": "Ayuda del Concello de Begonte de hasta 150 € por alumno/a para material escolar (mochilas, cuadernos, diccionarios, fichas de Infantil…) y, de forma excepcional, para los libros de texto de ESO del IES Río Miño de Rábade que no cubre la Xunta (con compromiso de devolverlos al Banco de Libros del instituto). Pueden pedirla las familias con alumnado matriculado en el CEIP Virxe do Corpiño de Begonte (estén o no empadronadas) y las empadronadas en Begonte con alumnado en el IES Río Miño o en otros centros públicos o concertados. La renta de la familia en 2025 no puede superar: 8.843 € (1 miembro), 13.264 € (2), 17.685 € (3), 22.107 € (4), 25.644 € (5), 29.181 € (6), 32.718 € (7) o 36.255 € (8), y 3.536 € más por cada miembro a partir del octavo. Hay preferencia para huérfanos, familias con discapacidad, desempleo o pensión, familias numerosas y monoparentales; el resto, por menor renta por persona. El crédito es de 4.000 €. Plazo: 30 días naturales desde la publicación del extracto en el BOP de Lugo (fecha aún sin confirmar).",
+      "descripcionGl": "Axuda do Concello de Begonte de ata 150 € por alumno/a para material escolar (mochilas, cadernos, dicionarios, fichas de Infantil…) e, de xeito excepcional, para os libros de texto de ESO do IES Río Miño de Rábade que non cobre a Xunta (con compromiso de devolvelos ao Banco de Libros do instituto). Poden pedila as familias con alumnado matriculado no CEIP Virxe do Corpiño de Begonte (estean ou non empadroadas) e as empadroadas en Begonte con alumnado no IES Río Miño ou noutros centros públicos ou concertados. A renda da familia en 2025 non pode superar: 8.843 € (1 membro), 13.264 € (2), 17.685 € (3), 22.107 € (4), 25.644 € (5), 29.181 € (6), 32.718 € (7) ou 36.255 € (8), e 3.536 € máis por cada membro a partir do oitavo. Hai preferencia para orfos, familias con discapacidade, desemprego ou pensión, familias numerosas e monoparentais; o resto, por menor renda por persoa. O crédito é de 4.000 €. Prazo: 30 días naturais desde a publicación do extracto no BOP de Lugo (data aínda sen confirmar).",
+      "categoria": "educacion",
+      "organismo": "Concello de Begonte",
+      "organismoGl": "Concello de Begonte",
+      "enlaceOficial": "https://begonte.sedelectronica.es/dossier.1",
+      "municipios": [
+        "Begonte"
+      ],
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en Infantil, Primaria o ESO (aproximadamente de 3 a 16 años)",
+          "textoExplicativoGl": "Ter un fillo/a en Infantil, Primaria ou ESO (aproximadamente de 3 a 16 anos)"
+        },
+        {
+          "campo": "rentaBegonte",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              1,
+              8843
+            ],
+            [
+              2,
+              13264
+            ],
+            [
+              3,
+              17685
+            ],
+            [
+              4,
+              22107
+            ],
+            [
+              5,
+              25644
+            ],
+            [
+              6,
+              29181
+            ],
+            [
+              7,
+              32718
+            ],
+            [
+              8,
+              36255
+            ]
+          ],
+          "textoExplicativo": "Que la renta de la familia en 2025 no supere el límite según el número de miembros (de 8.843 € con 1 miembro a 36.255 € con 8)",
+          "textoExplicativoGl": "Que a renda da familia en 2025 non supere o límite segundo o número de membros (de 8.843 € con 1 membro a 36.255 € con 8)"
+        },
+        {
+          "campo": "centroBegonte",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a matriculado/a en el CEIP Virxe do Corpiño de Begonte, o empadronado/a en Begonte y estudiando en el IES Río Miño u otro centro público o concertado",
+          "textoExplicativoGl": "Alumno/a matriculado/a no CEIP Virxe do Corpiño de Begonte, ou empadroado/a en Begonte e estudando no IES Río Miño ou outro centro público ou concertado"
+        }
+      ],
+      "documentacion": [
+        "Solicitud firmada (Anexo I), con la declaración jurada de otras ayudas para el mismo fin. Se presenta en el centro docente, en las oficinas municipales o en la sede electrónica (begonte.sedelectronica.es, trámite «Ayudas de material escolar»).",
+        "DNI de los padres o tutores (no hace falta si ya se presentó en convocatorias anteriores).",
+        "Libro de familia (no hace falta si ya se presentó y no hubo cambios).",
+        "Ingresos de la unidad familiar de 2025: declaración del IRPF o, si no se presentó, certificado de imputaciones, de pensiones, etc.",
+        "Factura original del gasto (no valen tickets), emitida entre agosto de 2026 y el último día del plazo de solicitudes.",
+        "Si procede: documentación de las situaciones específicas marcadas en el Anexo I (no hace falta si ya se presentó antes).",
+        "Certificado del número de cuenta con IBAN.",
+        "Para los libros de ESO del IES Río Miño: compromiso de devolverlos al final del curso al Banco de Libros del instituto."
+      ],
+      "documentacionGl": [
+        "Solicitude asinada (Anexo I), coa declaración xurada doutras axudas para o mesmo fin. Preséntase no centro docente, nas oficinas municipais ou na sede electrónica (begonte.sedelectronica.es, trámite «Axudas de material escolar»).",
+        "DNI dos pais ou titores (non fai falta se xa se presentou en convocatorias anteriores).",
+        "Libro de familia (non fai falta se xa se presentou e non houbo cambios).",
+        "Ingresos da unidade familiar de 2025: declaración do IRPF ou, se non se presentou, certificado de imputacións, de pensións, etc.",
+        "Factura orixinal do gasto (non valen tiques), emitida entre agosto de 2026 e o último día do prazo de solicitudes.",
+        "Se procede: documentación das situacións específicas marcadas no Anexo I (non fai falta se xa se presentou antes).",
+        "Certificado do número de conta con IBAN.",
+        "Para os libros de ESO do IES Río Miño: compromiso de devolvelos ao final do curso ao Banco de Libros do instituto."
       ]
     }
   ]
