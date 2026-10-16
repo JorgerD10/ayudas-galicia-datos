@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-16c",
+  "revision": "2026-10-16e",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1765,6 +1765,123 @@
         "Anexo II (compromiso de seguir empadroados 3 anos e de devolver a axuda se se incumpre) e Anexo III (declaración responsable, non ter débedas coas administracións e autorización para consultalas).",
         "Se procede: certificado de discapacidade igual ou superior ao 33 % (axuda de 500 €).",
         "Para xustificar o gasto: Anexo IV, facturas de comercios de Boqueixón e xustificantes de pagamento (os pagamentos en efectivo non poden superar os 100 €)."
+      ]
+    },
+    {
+      "id": "chantada_natalidad_2026",
+      "titulo": "Ayuda municipal a la natalidad 2026 (Chantada)",
+      "tituloGl": "Axuda municipal á natalidade 2026 (Chantada)",
+      "descripcion": "Ayuda del Concello de Chantada de 800 € por cada hijo/a nacido/a o adoptado/a en 2026 (primer año). No depende de la renta. Al menos uno de los progenitores debe estar en situación regular en España y empadronado en Chantada desde un año antes del parto o la adopción, el niño/a debe estar empadronado/a y hay que comprometerse a seguir empadronados 4 años, con residencia efectiva. Se concede por orden de presentación hasta agotar el crédito (60.000 € en total, compartido con la ayuda de 400 €). Plazo: 4 meses desde el nacimiento o la adopción (para los nacidos antes del 23/02/2026 el plazo cerró en junio de 2026). Si tu hijo/a nació hace poco, no esperes.",
+      "descripcionGl": "Axuda do Concello de Chantada de 800 € por cada fillo/a nado/a ou adoptado/a en 2026 (primeiro ano). Non depende da renda. Polo menos un dos proxenitores debe estar en situación regular en España e empadroado en Chantada desde un ano antes do parto ou da adopción, o neno/a debe estar empadroado/a e hai que comprometerse a seguir empadroados 4 anos, con residencia efectiva. Concédese por orde de presentación ata esgotar o crédito (60.000 € en total, compartido coa axuda de 400 €). Prazo: 4 meses desde o nacemento ou a adopción (para os nados antes do 23/02/2026 o prazo pechou en xuño de 2026). Se o teu fillo/a naceu hai pouco, non agardes.",
+      "categoria": "familia",
+      "organismo": "Concello de Chantada",
+      "organismoGl": "Concello de Chantada",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/888358",
+      "municipios": [
+        "Chantada"
+      ],
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2026,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a o adoptado/a en 2026",
+          "textoExplicativoGl": "Ter un fillo/a nado/a ou adoptado/a en 2026"
+        },
+        {
+          "campo": "empadronamientoChantada",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Uno de los progenitores, al menos, empadronado en Chantada desde un año antes del parto o adopción; el niño/a empadronado/a en Chantada y compromiso de seguir empadronados 4 años",
+          "textoExplicativoGl": "Un dos proxenitores, polo menos, empadroado en Chantada desde un ano antes do parto ou adopción; o neno/a empadroado/a en Chantada e compromiso de seguir empadroados 4 anos"
+        },
+        {
+          "campo": "corrienteObligacionesChantada",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "No tener deudas con las administraciones estatal, autonómica y local, y estar en situación regular en España",
+          "textoExplicativoGl": "Non ter débedas coas administracións estatal, autonómica e local, e estar en situación regular en España"
+        }
+      ],
+      "documentacion": [
+        "DNI o NIE de quien solicita (si es extranjero/a, documento que acredite la residencia legal en España).",
+        "Certificado de nacimiento del Registro Civil o copia del auto judicial de adopción.",
+        "Certificado de titularidad de la cuenta bancaria donde se cobrará la ayuda.",
+        "Anexo I: solicitud, compromiso de seguir empadronados 4 años, compromiso de devolver la ayuda si se incumple y autorizaciones para comprobar el padrón y la deuda con el Concello.",
+        "Anexo II: declaración jurada de otras ayudas para el mismo fin y de estar al corriente con AEAT, ATRIGA y Seguridad Social (ambos progenitores).",
+        "Si procede: certificado de familia monoparental.",
+        "Presentación en el Registro General del Concello (originales o copias compulsadas)."
+      ],
+      "documentacionGl": [
+        "DNI ou NIE de quen solicita (se é estranxeiro/a, documento que acredite a residencia legal en España).",
+        "Certificado de nacemento do Rexistro Civil ou copia do auto xudicial de adopción.",
+        "Certificación de titularidade da conta bancaria na que se cobrará a axuda.",
+        "Anexo I: solicitude, compromiso de seguir empadroados 4 anos, compromiso de devolver a axuda se se incumpre e autorizacións para comprobar o padrón e a débeda co Concello.",
+        "Anexo II: declaración xurada doutras axudas para o mesmo fin e de estar ao corrente con AEAT, ATRIGA e Seguridade Social (ambos proxenitores).",
+        "Se procede: certificado de familia monoparental.",
+        "Presentación no Rexistro Xeral do Concello (orixinais ou copias compulsadas)."
+      ]
+    },
+    {
+      "id": "chantada_natalidad_2025",
+      "titulo": "Ayuda municipal a la natalidad, nacidos en 2025 (Chantada)",
+      "tituloGl": "Axuda municipal á natalidade, nados en 2025 (Chantada)",
+      "descripcion": "Ayuda del Concello de Chantada de 400 € por cada hijo/a nacido/a o adoptado/a en 2025 (segundo año), hayas cobrado o no la ayuda del año anterior. No depende de la renta. Al menos uno de los progenitores debe estar en situación regular en España y empadronado en Chantada desde un año antes de presentar la solicitud, el niño/a debe estar empadronado/a y hay que comprometerse a seguir empadronados 4 años, con residencia efectiva. Se concede por orden de presentación hasta agotar el crédito (60.000 € en total). Plazo: hasta el 30 de octubre de 2026.",
+      "descripcionGl": "Axuda do Concello de Chantada de 400 € por cada fillo/a nado/a ou adoptado/a en 2025 (segundo ano), cobrases ou non a axuda do ano anterior. Non depende da renda. Polo menos un dos proxenitores debe estar en situación regular en España e empadroado en Chantada desde un ano antes de presentar a solicitude, o neno/a debe estar empadroado/a e hai que comprometerse a seguir empadroados 4 anos, con residencia efectiva. Concédese por orde de presentación ata esgotar o crédito (60.000 € en total). Prazo: ata o 30 de outubro de 2026.",
+      "categoria": "familia",
+      "organismo": "Concello de Chantada",
+      "organismoGl": "Concello de Chantada",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/888358",
+      "municipios": [
+        "Chantada"
+      ],
+      "plazoFin": "2026-10-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2025
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a o adoptado/a en 2025",
+          "textoExplicativoGl": "Ter un fillo/a nado/a ou adoptado/a en 2025"
+        },
+        {
+          "campo": "empadronamientoChantada",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Uno de los progenitores, al menos, empadronado en Chantada desde un año antes de presentar la solicitud; el niño/a empadronado/a en Chantada y compromiso de seguir empadronados 4 años",
+          "textoExplicativoGl": "Un dos proxenitores, polo menos, empadroado en Chantada desde un ano antes de presentar a solicitude; o neno/a empadroado/a en Chantada e compromiso de seguir empadroados 4 anos"
+        },
+        {
+          "campo": "corrienteObligacionesChantada",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "No tener deudas con las administraciones estatal, autonómica y local, y estar en situación regular en España",
+          "textoExplicativoGl": "Non ter débedas coas administracións estatal, autonómica e local, e estar en situación regular en España"
+        }
+      ],
+      "documentacion": [
+        "DNI o NIE de quien solicita (si es extranjero/a, documento que acredite la residencia legal en España).",
+        "Certificado de nacimiento del Registro Civil o copia del auto judicial de adopción.",
+        "Certificado de titularidad de la cuenta bancaria donde se cobrará la ayuda.",
+        "Anexo I: solicitud, compromiso de seguir empadronados 4 años, compromiso de devolver la ayuda si se incumple y autorizaciones para comprobar el padrón y la deuda con el Concello.",
+        "Anexo II: declaración jurada de otras ayudas para el mismo fin y de estar al corriente con AEAT, ATRIGA y Seguridad Social (ambos progenitores).",
+        "Si procede: certificado de familia monoparental.",
+        "Presentación en el Registro General del Concello (originales o copias compulsadas)."
+      ],
+      "documentacionGl": [
+        "DNI ou NIE de quen solicita (se é estranxeiro/a, documento que acredite a residencia legal en España).",
+        "Certificado de nacemento do Rexistro Civil ou copia do auto xudicial de adopción.",
+        "Certificación de titularidade da conta bancaria na que se cobrará a axuda.",
+        "Anexo I: solicitude, compromiso de seguir empadroados 4 anos, compromiso de devolver a axuda se se incumpre e autorizacións para comprobar o padrón e a débeda co Concello.",
+        "Anexo II: declaración xurada doutras axudas para o mesmo fin e de estar ao corrente con AEAT, ATRIGA e Seguridade Social (ambos proxenitores).",
+        "Se procede: certificado de familia monoparental.",
+        "Presentación no Rexistro Xeral do Concello (orixinais ou copias compulsadas)."
       ]
     }
   ]
