@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-17a",
+  "revision": "2026-10-17b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2383,6 +2383,87 @@
         "Declaración doutras axudas solicitadas ou concedidas para o mesmo fin.",
         "Datos bancarios de quen cobra (recibo ou certificado de conta).",
         "Facturas orixinais co nome de quen solicita e do alumno/a e o detalle dos libros e material do curso 2026/27 (ou xustificante de pagamento da matrícula en estudos superiores). Prazo de xustificación: ata o 15 de novembro."
+      ]
+    },
+    {
+      "id": "arteixo_libros_infantil_2026_27",
+      "titulo": "Ayuda municipal de libros y material de Infantil 2026/27 (Arteixo)",
+      "tituloGl": "Axuda municipal de libros e material de Infantil 2026/27 (Arteixo)",
+      "descripcion": "Ayuda del Concello de Arteixo para libros y material didáctico del alumnado de segundo ciclo de Educación Infantil (4º, 5º y 6º de Infantil, de 3 a 5 años) en centros sostenidos con fondos públicos. La cuantía depende del gasto justificado con facturas y de la renta per cápita de la familia: hasta 150 € si es inferior al 100 % del IPREM (8.400 € al año) y hasta 90 € si está entre el 100 % y el 130 % (10.920 €). Hay que estar empadronado en Arteixo antes de abrirse el plazo, convivir con el alumno/a y que el alumno/a esté matriculado/a en el curso 2026/27. Crédito de 15.000 €, por concurrencia competitiva: si no llega, tienen prioridad las rentas per cápita más bajas. Pago único. El plazo de este curso fue del 9 al 30 de septiembre de 2026 y ya cerró; suele convocarse cada año.",
+      "descripcionGl": "Axuda do Concello de Arteixo para libros e material didáctico do alumnado de segundo ciclo de Educación Infantil (4º, 5º e 6º de Infantil, de 3 a 5 anos) en centros sostidos con fondos públicos. A contía depende do gasto xustificado con facturas e da renda per cápita da familia: ata 150 € se é inferior ao 100 % do IPREM (8.400 € ao ano) e ata 90 € se está entre o 100 % e o 130 % (10.920 €). Hai que estar empadroado en Arteixo antes de abrirse o prazo, convivir co alumno/a e que o alumno/a estea matriculado/a no curso 2026/27. Crédito de 15.000 €, por concorrencia competitiva: se non chega, teñen prioridade as rendas per cápita máis baixas. Pagamento único. O prazo deste curso foi do 9 ao 30 de setembro de 2026 e xa pechou; adoita convocarse cada ano.",
+      "categoria": "educacion",
+      "organismo": "Concello de Arteixo",
+      "organismoGl": "Concello de Arteixo",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/926543",
+      "municipios": [
+        "Arteixo"
+      ],
+      "plazoInicio": "2026-09-09T00:00:00.000",
+      "plazoFin": "2026-09-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a en segundo ciclo de Educación Infantil (3 a 5 años) en un centro sostenido con fondos públicos",
+          "textoExplicativoGl": "Ter un fillo/a en segundo ciclo de Educación Infantil (3 a 5 anos) nun centro sostido con fondos públicos"
+        },
+        {
+          "campo": "rentaArteixo",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              21840
+            ],
+            [
+              3,
+              32760
+            ],
+            [
+              4,
+              43680
+            ],
+            [
+              5,
+              54600
+            ],
+            [
+              6,
+              65520
+            ]
+          ],
+          "textoExplicativo": "Que la renta per cápita de la familia no supere el 130 % del IPREM (10.920 € al año)",
+          "textoExplicativoGl": "Que a renda per cápita da familia non supere o 130 % do IPREM (10.920 € ao ano)"
+        },
+        {
+          "campo": "empadronamientoArteixo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Familia empadronada en Arteixo antes de abrirse el plazo, conviviendo con el alumno/a, con residencia efectiva",
+          "textoExplicativoGl": "Familia empadroada en Arteixo antes de abrirse o prazo, convivindo co alumno/a, con residencia efectiva"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado del Concello, con la declaración responsable de datos familiares, de cumplimiento de obligaciones y de residencia efectiva en Arteixo.",
+        "Autorizaciones firmadas para que el Concello consulte tus datos en otras administraciones (según modelo).",
+        "Declaración de otras ayudas educativas recibidas de organismos públicos o privados.",
+        "Declaración de cumplimiento de requisitos y de no estar en prohibición para recibir subvenciones (artículo 13 de la Ley 38/2003).",
+        "Facturas originales del gasto en libros y material didáctico, con NIF/CIF y nombre del establecimiento, fecha, número y concepto. Se presentan al solicitar la ayuda.",
+        "Designación de cuenta bancaria (modelo normalizado).",
+        "Certificado de matrícula del curso 2026/27, solo si el centro está fuera de Arteixo."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado do Concello, coa declaración responsable de datos familiares, de cumprimento de obrigas e de residencia efectiva en Arteixo.",
+        "Autorizacións asinadas para que o Concello consulte os teus datos noutras administracións (segundo modelo).",
+        "Declaración doutras axudas educativas recibidas de organismos públicos ou privados.",
+        "Declaración de cumprimento de requisitos e de non estar en prohibición para recibir subvencións (artigo 13 da Lei 38/2003).",
+        "Facturas orixinais do gasto en libros e material didáctico, con NIF/CIF e nome do establecemento, data, número e concepto. Preséntanse ao solicitar a axuda.",
+        "Designación de conta bancaria (modelo normalizado).",
+        "Certificado de matrícula do curso 2026/27, só se o centro está fóra de Arteixo."
       ]
     }
   ]
