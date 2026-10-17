@@ -2525,15 +2525,17 @@
       "id": "barbadas_libros_infantil_2026_27",
       "titulo": "Ayuda municipal de libros y material de Infantil 2026/27 (Barbadás)",
       "tituloGl": "Axuda municipal de libros e material de Infantil 2026/27 (Barbadás)",
-      "descripcion": "Ayuda del Concello de Barbadás de hasta 100 € por alumno/a (sin pasar del gasto justificado con facturas) para libros y material didáctico de Educación Infantil (3, 4 y 5 años) en centros públicos o concertados. La familia debe estar empadronada en Barbadás y la renta por miembro en 2025 no puede pasar de 5.700 € al año (5.700 € x miembros; cuenta un miembro más con discapacidad del 33 % o más o en familias monoparentales). No pueden recibirla familias con obligación de declarar el Impuesto sobre el Patrimonio ni con deudas tributarias o con la Seguridad Social. Las bases dicen que el gasto debe hacerse en comercios de Barbadás. Se tramita por orden de solicitud hasta agotar el crédito de 4.000 €, y se paga en un único pago. Plazo: un mes desde la publicación del extracto en el BOP de Ourense (fecha aún sin confirmar).",
-      "descripcionGl": "Axuda do Concello de Barbadás de ata 100 € por alumno/a (sen pasar do gasto xustificado con facturas) para libros e material didáctico de Educación Infantil (3, 4 e 5 anos) en centros públicos ou concertados. A familia debe estar empadroada en Barbadás e a renda por membro en 2025 non pode pasar de 5.700 € ao ano (5.700 € x membros; conta un membro máis con discapacidade do 33 % ou máis ou en familias monoparentais). Non poden recibila familias con obriga de declarar o Imposto sobre o Patrimonio nin con débedas tributarias ou coa Seguridade Social. As bases din que o gasto debe facerse en comercios de Barbadás. Tramítase por orde de solicitude ata esgotar o crédito de 4.000 €, e págase nun único pagamento. Prazo: un mes desde a publicación do extracto no BOP de Ourense (data aínda sen confirmar).",
+      "descripcion": "Ayuda del Concello de Barbadás de hasta 100 € por alumno/a (sin pasar del gasto justificado con facturas) para libros y material didáctico de Educación Infantil (3, 4 y 5 años) en centros públicos o concertados. La familia debe estar empadronada en Barbadás y la renta por miembro en 2025 no puede pasar de 5.700 € al año (5.700 € x miembros; cuenta un miembro más con discapacidad del 33 % o más o en familias monoparentales). No pueden recibirla familias con obligación de declarar el Impuesto sobre el Patrimonio ni con deudas tributarias o con la Seguridad Social. Las bases dicen que el gasto debe hacerse en comercios de Barbadás. Se tramita por orden de solicitud hasta agotar el crédito de 4.000 €, y se paga en un único pago. Plazo cerrado: del 4 de septiembre al 3 de octubre de 2026 (un mes desde el BOP de Ourense del 3 de septiembre).",
+      "descripcionGl": "Axuda do Concello de Barbadás de ata 100 € por alumno/a (sen pasar do gasto xustificado con facturas) para libros e material didáctico de Educación Infantil (3, 4 e 5 anos) en centros públicos ou concertados. A familia debe estar empadroada en Barbadás e a renda por membro en 2025 non pode pasar de 5.700 € ao ano (5.700 € x membros; conta un membro máis con discapacidade do 33 % ou máis ou en familias monoparentais). Non poden recibila familias con obriga de declarar o Imposto sobre o Patrimonio nin con débedas tributarias ou coa Seguridade Social. As bases din que o gasto debe facerse en comercios de Barbadás. Tramítase por orde de solicitude ata esgotar o crédito de 4.000 €, e págase nun único pagamento. Prazo pechado: do 4 de setembro ao 3 de outubro de 2026 (un mes desde o BOP de Ourense do 3 de setembro).",
       "categoria": "educacion",
       "organismo": "Concello de Barbadás",
       "organismoGl": "Concello de Barbadás",
-      "enlaceOficial": "https://barbadas.sedelectronica.gal",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/925792",
       "municipios": [
         "Barbadás"
       ],
+      "plazoInicio": "2026-09-04T00:00:00.000",
+      "plazoFin": "2026-10-03T00:00:00.000",
       "requisitos": [
         {
           "campo": "edadesHijos",
