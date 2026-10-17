@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-17g",
+  "revision": "2026-10-17h",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -976,15 +976,15 @@
       "id": "redondela_cheque_libros_2026_27",
       "titulo": "Cheque de libros y material escolar de Redondela (Infantil de 3 a 5 años), 2026-27",
       "tituloGl": "Cheque de libros e material escolar de Redondela (Infantil de 3 a 5 anos), 2026-27",
-      "descripcion": "Cheque de hasta 70 € por alumno/a para libros y material escolar de Educación Infantil de segunda etapa (3 a 5 años) en colegios públicos de Redondela. Se canjea en las librerías del municipio que participan. Familias empadronadas en Redondela con una renta per cápita de 2025 de hasta 8.800 €. Convocatoria 2026-27 cerrada (el plazo terminó el 31 de julio de 2026): conviene vigilar la del próximo año.",
-      "descripcionGl": "Cheque de ata 70 € por alumno/a para libros e material escolar de Educación Infantil de segunda etapa (3 a 5 anos) en colexios públicos de Redondela. Canxéase nas librarías do municipio que participan. Familias empadroadas en Redondela cunha renda per cápita de 2025 de ata 8.800 €. Convocatoria 2026-27 pechada (o prazo rematou o 31 de xullo de 2026): convén vixiar a do próximo ano.",
+      "descripcion": "Cheque de hasta 70 € por alumno/a para libros y material escolar de Educación Infantil de segunda etapa (3 a 5 años) en colegios públicos de Redondela. Se canjea en las librerías del municipio que participan. Familias empadronadas en Redondela con una renta per cápita de 2025 de hasta 8.800 €. Convocatoria 2026-27 cerrada (plazo del 30 de junio al 31 de julio de 2026; crédito de 8.500 €): conviene vigilar la del próximo año.",
+      "descripcionGl": "Cheque de ata 70 € por alumno/a para libros e material escolar de Educación Infantil de segunda etapa (3 a 5 anos) en colexios públicos de Redondela. Canxéase nas librarías do municipio que participan. Familias empadroadas en Redondela cunha renda per cápita de 2025 de ata 8.800 €. Convocatoria 2026-27 pechada (o prazo foi do 30 de xuño ao 31 de xullo de 2026; crédito de 8.500 €): convén vixiar a do próximo ano.",
       "categoria": "educacion",
       "organismo": "Concello de Redondela",
-      "enlaceOficial": "https://redondela.gal/wp-content/uploads/2026/06/20260622_Outros_Publicacion-bases-en-BOP-22_06_2026.pdf",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/914866",
       "municipios": [
         "Redondela"
       ],
-      "plazoInicio": "2026-06-23T00:00:00.000",
+      "plazoInicio": "2026-06-30T00:00:00.000",
       "plazoFin": "2026-07-31T23:59:00.000",
       "requisitos": [
         {
