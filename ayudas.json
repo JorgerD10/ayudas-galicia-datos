@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-17c",
+  "revision": "2026-10-17e",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2470,15 +2470,17 @@
       "id": "sandias_libros_material_2026_27",
       "titulo": "Ayuda municipal de libros y material escolar 2026/27 (Sandiás)",
       "tituloGl": "Axuda municipal de libros e material escolar 2026/27 (Sandiás)",
-      "descripcion": "Ayuda del Concello de Sandiás de hasta 60 € por alumno/a para libros de texto y material escolar del alumnado de segunda etapa de Infantil y Primaria del centro público de Sandiás en el curso 2026/27. No depende de la renta. El alumno/a debe estar empadronado/a en Sandiás antes de que acabe el plazo y matriculado/a en el centro, y la familia debe estar al corriente con los tributos municipales. El crédito es de 2.000 € y se reparte entre todos los solicitantes, sin pasar de 60 € cada uno. Se cobra por transferencia tras justificar con la factura original, hasta el 27 de noviembre de 2026. Plazo: 15 días naturales desde la publicación en el BOP de Ourense (fecha aún sin confirmar).",
-      "descripcionGl": "Axuda do Concello de Sandiás de ata 60 € por alumno/a para libros de texto e material escolar do alumnado de segunda etapa de Infantil e Primaria do centro público de Sandiás no curso 2026/27. Non depende da renda. O alumno/a debe estar empadroado/a en Sandiás antes de que remate o prazo e matriculado/a no centro, e a familia debe estar ao corrente cos tributos municipais. O crédito é de 2.000 € e repártese entre todos os solicitantes, sen pasar de 60 € cada un. Cóbrase por transferencia tras xustificar coa factura orixinal, ata o 27 de novembro de 2026. Prazo: 15 días naturais desde a publicación no BOP de Ourense (data aínda sen confirmar).",
+      "descripcion": "Ayuda del Concello de Sandiás de hasta 60 € por alumno/a para libros de texto y material escolar del alumnado de segunda etapa de Infantil y Primaria del centro público de Sandiás en el curso 2026/27. No depende de la renta. El alumno/a debe estar empadronado/a en Sandiás antes de que acabe el plazo y matriculado/a en el centro, y la familia debe estar al corriente con los tributos municipales. El crédito es de 2.000 € y se reparte entre todos los solicitantes, sin pasar de 60 € cada uno. Se cobra por transferencia tras justificar con la factura original, hasta el 27 de noviembre de 2026. Plazo cerrado: del 5 de septiembre al 4 de octubre de 2026 (30 días naturales desde el BOP de Ourense del 4 de septiembre, según BDNS).",
+      "descripcionGl": "Axuda do Concello de Sandiás de ata 60 € por alumno/a para libros de texto e material escolar do alumnado de segunda etapa de Infantil e Primaria do centro público de Sandiás no curso 2026/27. Non depende da renda. O alumno/a debe estar empadroado/a en Sandiás antes de que remate o prazo e matriculado/a no centro, e a familia debe estar ao corrente cos tributos municipais. O crédito é de 2.000 € e repártese entre todos os solicitantes, sen pasar de 60 € cada un. Cóbrase por transferencia tras xustificar coa factura orixinal, ata o 27 de novembro de 2026. Prazo pechado: do 5 de setembro ao 4 de outubro de 2026 (30 días naturais desde o BOP de Ourense do 4 de setembro, segundo BDNS).",
       "categoria": "educacion",
       "organismo": "Concello de Sandiás",
       "organismoGl": "Concello de Sandiás",
-      "enlaceOficial": "https://sandias.sedelectronica.gal/",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/926199",
       "municipios": [
         "Sandiás"
       ],
+      "plazoInicio": "2026-09-05T00:00:00.000",
+      "plazoFin": "2026-10-04T00:00:00.000",
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -2517,6 +2519,89 @@
         "Certificado de empadroamento do alumno/a.",
         "Anexo II: declaración responsable de non estar en prohibición para recibir subvencións e de estar ao corrente co Concello, a Axencia Tributaria, a Xunta e a Seguridade Social.",
         "Para cobrar (ata o 27 de novembro de 2026): factura orixinal do gasto cos datos do establecemento, data, número, IVE e concepto, a nome de quen solicita, e Anexo III (declaración doutras axudas)."
+      ]
+    },
+    {
+      "id": "barbadas_libros_infantil_2026_27",
+      "titulo": "Ayuda municipal de libros y material de Infantil 2026/27 (Barbadás)",
+      "tituloGl": "Axuda municipal de libros e material de Infantil 2026/27 (Barbadás)",
+      "descripcion": "Ayuda del Concello de Barbadás de hasta 100 € por alumno/a (sin pasar del gasto justificado con facturas) para libros y material didáctico de Educación Infantil (3, 4 y 5 años) en centros públicos o concertados. La familia debe estar empadronada en Barbadás y la renta por miembro en 2025 no puede pasar de 5.700 € al año (5.700 € x miembros; cuenta un miembro más con discapacidad del 33 % o más o en familias monoparentales). No pueden recibirla familias con obligación de declarar el Impuesto sobre el Patrimonio ni con deudas tributarias o con la Seguridad Social. Las bases dicen que el gasto debe hacerse en comercios de Barbadás. Se tramita por orden de solicitud hasta agotar el crédito de 4.000 €, y se paga en un único pago. Plazo: un mes desde la publicación del extracto en el BOP de Ourense (fecha aún sin confirmar).",
+      "descripcionGl": "Axuda do Concello de Barbadás de ata 100 € por alumno/a (sen pasar do gasto xustificado con facturas) para libros e material didáctico de Educación Infantil (3, 4 e 5 anos) en centros públicos ou concertados. A familia debe estar empadroada en Barbadás e a renda por membro en 2025 non pode pasar de 5.700 € ao ano (5.700 € x membros; conta un membro máis con discapacidade do 33 % ou máis ou en familias monoparentais). Non poden recibila familias con obriga de declarar o Imposto sobre o Patrimonio nin con débedas tributarias ou coa Seguridade Social. As bases din que o gasto debe facerse en comercios de Barbadás. Tramítase por orde de solicitude ata esgotar o crédito de 4.000 €, e págase nun único pagamento. Prazo: un mes desde a publicación do extracto no BOP de Ourense (data aínda sen confirmar).",
+      "categoria": "educacion",
+      "organismo": "Concello de Barbadás",
+      "organismoGl": "Concello de Barbadás",
+      "enlaceOficial": "https://barbadas.sedelectronica.gal",
+      "municipios": [
+        "Barbadás"
+      ],
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a de 3 a 5 años en Educación Infantil, en un centro público o concertado",
+          "textoExplicativoGl": "Ter un fillo/a de 3 a 5 anos en Educación Infantil, nun centro público ou concertado"
+        },
+        {
+          "campo": "rentaBarbadas",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              11400
+            ],
+            [
+              3,
+              17100
+            ],
+            [
+              4,
+              22800
+            ],
+            [
+              5,
+              28500
+            ],
+            [
+              6,
+              34200
+            ]
+          ],
+          "textoExplicativo": "Que la renta de la familia en 2025 no supere 5.700 € por miembro al año (un miembro más si hay discapacidad del 33 % o más o familia monoparental)",
+          "textoExplicativoGl": "Que a renda da familia en 2025 non supere 5.700 € por membro ao ano (un membro máis se hai discapacidade do 33 % ou máis ou familia monoparental)"
+        },
+        {
+          "campo": "empadronamientoBarbadas",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Familia empadronada en Barbadás, sin obligación de declarar el Impuesto sobre el Patrimonio y al corriente con Hacienda, la Seguridad Social y el Concello",
+          "textoExplicativoGl": "Familia empadroada en Barbadás, sen obriga de declarar o Imposto sobre o Patrimonio e ao corrente con Facenda, a Seguridade Social e o Concello"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el trámite «Solicitud de ayuda económica para libros y material para infantil curso 2026-2027» de la sede electrónica (barbadas.sedelectronica.gal), o en el Registro del Concello (calle Cimadevila 1) o en las oficinas de A Valenzá. Los documentos, en PDF (no valen fotos).",
+        "DNI de la persona solicitante y, si es menor o está incapacitada, del representante legal y el libro de familia.",
+        "Si procede: sentencia de separación o divorcio o convenio regulador (o denuncia por incumplimiento si no se cobra pensión).",
+        "Certificación de la cuenta bancaria donde se cobrará la ayuda.",
+        "Resguardo de matrícula del curso 2026/27 y libro de familia.",
+        "Facturas conformadas de los libros y el material comprados para el niño/a para el curso 2026/27.",
+        "Declaración de la renta 2025 (modelo 100) de todos los miembros con obligación de declarar.",
+        "Quien no declare y sea mayor de 18 años: certificado de empresa, vida laboral, pensiones, RISGA, Ingreso Mínimo Vital, certificado del SEPE u otra prueba de ingresos (o declaración jurada de no tener ingresos).",
+        "Si procede: certificado de discapacidad y certificado de familia monoparental."
+      ],
+      "documentacionGl": [
+        "Solicitude no trámite «Solicitude de axuda económica para libros e material para infantil curso 2026-2027» da sede electrónica (barbadas.sedelectronica.gal), ou no Rexistro do Concello (rúa Cimadevila 1) ou nas oficinas da Valenzá. Os documentos, en PDF (non valen fotos).",
+        "DNI da persoa solicitante e, se é menor ou está incapacitada, do representante legal e o libro de familia.",
+        "Se procede: sentenza de separación ou divorcio ou convenio regulador (ou denuncia por incumprimento se non se cobra pensión).",
+        "Certificación da conta bancaria onde se cobrará a axuda.",
+        "Resgardo de matrícula do curso 2026/27 e libro de familia.",
+        "Facturas conformadas dos libros e o material mercados para o neno/a para o curso 2026/27.",
+        "Declaración da renda 2025 (modelo 100) de todos os membros con obriga de declarar.",
+        "Quen non declare e sexa maior de 18 anos: certificado de empresa, vida laboral, pensións, RISGA, Ingreso Mínimo Vital, certificado do SEPE ou outra proba de ingresos (ou declaración xurada de non ter ingresos).",
+        "Se procede: certificado de discapacidade e certificado de familia monoparental."
       ]
     }
   ]
