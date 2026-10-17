@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-17h",
+  "revision": "2026-10-17i",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2792,6 +2792,97 @@
         "En caso de separación ou divorcio: copia da sentenza ou do convenio regulador.",
         "Se pagas aluguer: contrato de aluguer e xustificante da transferencia ou recibo pagado do mes anterior á apertura do prazo (cos datos do arrendador, arrendatario, enderezo, mes e importe). Se pagas hipoteca: recibo do mes anterior á apertura do prazo.",
         "Para cobrar, antes do 30 de novembro de 2026: factura orixinal (non fotocopia) ao nome de quen recibe a axuda, cos datos do establecemento e o desagregado de conceptos. Se mercas no colexio, certificado asinado do centro co importe e concepto. Máximo 3 establecementos."
+      ]
+    },
+    {
+      "id": "sancibrao_libros_infantil_2026_27",
+      "titulo": "Ayuda municipal de libros y material de Infantil 2026/27 (San Cibrao das Viñas)",
+      "tituloGl": "Axuda municipal de libros e material de Infantil 2026/27 (San Cibrao das Viñas)",
+      "descripcion": "Ayuda del Concello de San Cibrao das Viñas para libros y material escolar del alumnado de segundo ciclo de Educación Infantil en centros públicos o concertados: se paga lo que figure en la factura, con un máximo de 145 € por alumno/a. Quien solicita (padre, madre o tutor/a) debe estar empadronado en el concello desde hace al menos un año antes de la convocatoria y al corriente con Hacienda, Atriga, la Seguridad Social y el Concello. La renta de 2025 (base imponible general más la del ahorro, dividida entre los miembros computables) no puede pasar de 8.400 € por miembro; cuenta un miembro más si alguien tiene discapacidad del 33 % o más o si la familia es monoparental. No pueden recibirla familias con algún miembro obligado a declarar el Impuesto sobre el Patrimonio. Es compatible con otras ayudas, no se dan ayudas para estudiar fuera de la provincia y solo se concede una por niño/a. El crédito es de 4.000 €: se concede a quien cumpla los requisitos hasta agotarlo y, si no llega, tiene preferencia la renta más baja (y el alumnado en guarda o tutela de la Xunta o con discapacidad del 65 % o más). Pago único por transferencia. Plazo cerrado: del 1 al 30 de septiembre de 2026.",
+      "descripcionGl": "Axuda do Concello de San Cibrao das Viñas para libros e material escolar do alumnado de segundo ciclo de Educación Infantil en centros públicos ou concertados: págase o que figure na factura, cun máximo de 145 € por alumno/a. Quen solicita (pai, nai ou titor/a) debe estar empadroado no concello desde hai polo menos un ano antes da convocatoria e ao corrente con Facenda, Atriga, a Seguridade Social e o Concello. A renda de 2025 (base impoñible xeral máis a do aforro, dividida entre os membros computables) non pode pasar de 8.400 € por membro; conta un membro máis se alguén ten discapacidade do 33 % ou máis ou se a familia é monoparental. Non poden recibila familias con algún membro obrigado a declarar o Imposto sobre o Patrimonio. É compatible con outras axudas, non se dan axudas para estudar fóra da provincia e só se concede unha por neno/a. O crédito é de 4.000 €: concédese a quen cumpra os requisitos ata esgotalo e, se non chega, ten preferencia a renda máis baixa (e o alumnado en garda ou titela da Xunta ou con discapacidade do 65 % ou máis). Pagamento único por transferencia. Prazo pechado: do 1 ao 30 de setembro de 2026.",
+      "categoria": "educacion",
+      "organismo": "Concello de San Cibrao das Viñas",
+      "organismoGl": "Concello de San Cibrao das Viñas",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/910929",
+      "municipios": [
+        "San Cibrao das Viñas"
+      ],
+      "plazoInicio": "2026-09-01T00:00:00.000",
+      "plazoFin": "2026-09-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a de 3 a 5 años en el segundo ciclo de Educación Infantil, en un centro público o concertado de la provincia",
+          "textoExplicativoGl": "Ter un fillo/a de 3 a 5 anos no segundo ciclo de Educación Infantil, nun centro público ou concertado da provincia"
+        },
+        {
+          "campo": "rentaSanCibrao",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              16800
+            ],
+            [
+              3,
+              25200
+            ],
+            [
+              4,
+              33600
+            ],
+            [
+              5,
+              42000
+            ],
+            [
+              6,
+              50400
+            ]
+          ],
+          "textoExplicativo": "Que la renta de la familia en 2025 no supere 8.400 € por miembro al año (un miembro más si hay discapacidad del 33 % o más o familia monoparental)",
+          "textoExplicativoGl": "Que a renda da familia en 2025 non supere 8.400 € por membro ao ano (un membro máis se hai discapacidade do 33 % ou máis ou familia monoparental)"
+        },
+        {
+          "campo": "empadronamientoSanCibrao",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Quien solicita, empadronado/a en San Cibrao das Viñas desde hace al menos un año antes de la convocatoria, al corriente con Hacienda, Atriga, la Seguridad Social y el Concello, y sin obligación de declarar el Impuesto sobre el Patrimonio",
+          "textoExplicativoGl": "Quen solicita, empadroado/a en San Cibrao das Viñas desde hai polo menos un ano antes da convocatoria, ao corrente con Facenda, Atriga, a Seguridade Social e o Concello, e sen obriga de declarar o Imposto sobre o Patrimonio"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado, firmada por el padre, madre o tutor/a, preferiblemente por la sede electrónica (sancibrao.sedelectronica.es) o en el Ayuntamiento o por cualquiera de las vías del artículo 16.4 de la Ley 39/2015.",
+        "DNI, NIE o documento equivalente no caducado de quien solicita (padre, madre o tutor/a).",
+        "Libro de familia o documento equivalente donde figuren el alumno/a y los demás miembros computables de la familia.",
+        "Si procede: sentencia de separación o divorcio y/o convenio regulador con la custodia; certificado de acogimiento familiar o resolución judicial.",
+        "Certificación de estar al corriente con la AEAT, Atriga y la Seguridad Social (lo del Ayuntamiento se comprueba de oficio).",
+        "Certificado o informe del colegio con el curso en el que está matriculado el alumno/a.",
+        "Listado de libros y material escolar indicado por el colegio.",
+        "Factura del gasto, sin enmiendas ni borrones, con CIF/NIF del establecimiento, nombre del titular, dirección, fecha, número, IVA desglosado y detalle de la compra, a nombre de quien solicita. No se aceptan facturas con artículos que no sean objeto de la ayuda.",
+        "Declaración firmada de que ningún miembro de la familia está obligado a declarar el Impuesto sobre el Patrimonio.",
+        "Certificado de titularidad de la cuenta bancaria de quien solicita.",
+        "Ingresos de 2025: declaración de la renta de las personas en edad laboral o certificado de imputaciones; certificado de empresa si se trabaja sin declarar; certificado de pensiones (o negativo) de la Seguridad Social; justificantes de RISGA, IMV, RAI, pensión no contributiva, prestación por hijo a cargo, pensiones compensatorias o de orfandad; certificado del SEPE si hay paro; y, en separación o divorcio con pensión no cobrada, denuncia de incumplimiento.",
+        "Si procede: certificado de monoparentalidad de la Xunta, certificado de discapacidad o acreditación de violencia de género."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado, asinada polo pai, nai ou titor/a, preferiblemente pola sede electrónica (sancibrao.sedelectronica.es) ou no Concello ou por calquera das vías do artigo 16.4 da Lei 39/2015.",
+        "DNI, NIE ou documento equivalente non caducado de quen solicita (pai, nai ou titor/a).",
+        "Libro de familia ou documento equivalente onde figuren o alumno/a e os demais membros computables da familia.",
+        "Se procede: sentenza de separación ou divorcio e/ou convenio regulador coa custodia; certificado de acollemento familiar ou resolución xudicial.",
+        "Certificación de estar ao corrente coa AEAT, Atriga e a Seguridade Social (o do Concello compróbase de oficio).",
+        "Certificado ou informe do colexio co curso no que está matriculado o alumno/a.",
+        "Listado de libros e material escolar indicado polo colexio.",
+        "Factura do gasto, sen emendas nin borróns, con CIF/NIF do establecemento, nome do titular, enderezo, data, número, IVE desagregado e detalle da compra, ao nome de quen solicita. Non se aceptan facturas con artigos que non sexan obxecto da axuda.",
+        "Declaración asinada de que ningún membro da familia está obrigado a declarar o Imposto sobre o Patrimonio.",
+        "Certificado de titularidade da conta bancaria de quen solicita.",
+        "Ingresos de 2025: declaración da renda das persoas en idade laboral ou certificado de imputacións; certificado de empresa se se traballa sen declarar; certificado de pensións (ou negativo) da Seguridade Social; xustificantes de RISGA, IMV, RAI, pensión non contributiva, prestación por fillo a cargo, pensións compensatorias ou de orfandade; certificado do SEPE se hai paro; e, en separación ou divorcio con pensión non cobrada, denuncia de incumprimento.",
+        "Se procede: certificado de monoparentalidade da Xunta, certificado de discapacidade ou acreditación de violencia de xénero."
       ]
     }
   ]
