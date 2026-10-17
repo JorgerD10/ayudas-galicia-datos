@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-17i",
+  "revision": "2026-10-17l",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2883,6 +2883,249 @@
         "Certificado de titularidade da conta bancaria de quen solicita.",
         "Ingresos de 2025: declaración da renda das persoas en idade laboral ou certificado de imputacións; certificado de empresa se se traballa sen declarar; certificado de pensións (ou negativo) da Seguridade Social; xustificantes de RISGA, IMV, RAI, pensión non contributiva, prestación por fillo a cargo, pensións compensatorias ou de orfandade; certificado do SEPE se hai paro; e, en separación ou divorcio con pensión non cobrada, denuncia de incumprimento.",
         "Se procede: certificado de monoparentalidade da Xunta, certificado de discapacidade ou acreditación de violencia de xénero."
+      ]
+    },
+    {
+      "id": "bergondo_libros_texto_2026_27",
+      "titulo": "Entrega de libros de texto 2026/27 (Bergondo)",
+      "tituloGl": "Entrega de libros de texto 2026/27 (Bergondo)",
+      "descripcion": "Programa del Concello de Bergondo que entrega un libro de texto, que queda en propiedad del alumno/a, al alumnado de 1.º y 2.º de Primaria del CPI Cruz do Sar y de Educación Infantil del CRA de Bergondo (solo en las escuelas que usan libros de texto), empadronado en Bergondo. No depende de la renta y es compatible con otras ayudas. Quedan fuera el alumnado cuyo vale de la Xunta ya cubre todos los libros del curso 2026/27 y el de Primaria que no haya solicitado la ayuda de libros y material escolar de la Xunta. Se tramita con listado provisional (2 días para reclamar) y definitivo, y el libro se recoge en persona. Plazo cerrado: 20 días hábiles desde el día siguiente al extracto del BOP de A Coruña del 10 de junio de 2026 (del 11 de junio al 9 de julio de 2026, según el Concello).",
+      "descripcionGl": "Programa do Concello de Bergondo que entrega un libro de texto, que queda en propiedade do alumno/a, ao alumnado de 1.º e 2.º de Primaria do CPI Cruz do Sar e de Educación Infantil do CRA de Bergondo (só nas escolas que usan libros de texto), empadroado en Bergondo. Non depende da renda e é compatible con outras axudas. Quedan fóra o alumnado cuxo vale da Xunta xa cobre todos os libros do curso 2026/27 e o de Primaria que non solicitase a axuda de libros e material escolar da Xunta. Tramítase con listaxe provisional (2 días para reclamar) e definitiva, e o libro recóllese en persoa. Prazo pechado: 20 días hábiles desde o día seguinte ao extracto do BOP da Coruña do 10 de xuño de 2026 (do 11 de xuño ao 9 de xullo de 2026, segundo o Concello).",
+      "categoria": "educacion",
+      "organismo": "Concello de Bergondo",
+      "organismoGl": "Concello de Bergondo",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/910871",
+      "municipios": [
+        "Bergondo"
+      ],
+      "plazoInicio": "2026-06-11T00:00:00.000",
+      "plazoFin": "2026-07-09T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            7
+          ],
+          "textoExplicativo": "Tener un hijo/a en Educación Infantil (CRA de Bergondo) o en 1.º o 2.º de Primaria (CPI Cruz do Sar)",
+          "textoExplicativoGl": "Ter un fillo/a en Educación Infantil (CRA de Bergondo) ou en 1.º ou 2.º de Primaria (CPI Cruz do Sar)"
+        },
+        {
+          "campo": "centroBergondo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a empadronado/a en Bergondo y matriculado/a en el CPI Cruz do Sar o en una escuela infantil del CRA de Bergondo que use libros de texto; en Primaria, haber pedido la ayuda de libros de la Xunta, y no tener un vale de la Xunta que cubra todos los libros",
+          "textoExplicativoGl": "Alumno/a empadroado/a en Bergondo e matriculado/a no CPI Cruz do Sar ou nunha escola infantil do CRA de Bergondo que use libros de texto; en Primaria, ter pedido a axuda de libros da Xunta, e non ter un vale da Xunta que cubra todos os libros"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado, que está en bergondo.gal y en la sede electrónica. Se presenta preferiblemente por la sede electrónica (sede.bergondo.gal) o, si no, en el registro general del Concello.",
+        "Fotocopia del DNI del padre, madre o representante legal (bastan el nombre y el número del DNI).",
+        "Fotocopia del DNI del menor, si lo tiene (bastan el nombre y el número). Si no lo tiene, fotocopia del libro de familia.",
+        "La solicitud incluye la autorización para que el Concello consulte los datos con el CPI Cruz do Sar.",
+        "Después de la resolución: recoger el libro de forma individual, por la misma persona que presentó la solicitud, y firmar el modelo de delegación de pago. Quien no lo recoja en el plazo puede ser excluido."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado, que está en bergondo.gal e na sede electrónica. Preséntase preferiblemente pola sede electrónica (sede.bergondo.gal) ou, se non, no rexistro xeral do Concello.",
+        "Fotocopia do DNI do pai, nai ou representante legal (abondan o nome e o número do DNI).",
+        "Fotocopia do DNI do menor, se o ten (abondan o nome e o número). Se non o ten, fotocopia do libro de familia.",
+        "A solicitude inclúe a autorización para que o Concello consulte os datos co CPI Cruz do Sar.",
+        "Despois da resolución: recoller o libro de forma individual, pola mesma persoa que presentou a solicitude, e asinar o modelo de delegación de pagamento. Quen non o recolla no prazo pode ser excluído."
+      ]
+    },
+    {
+      "id": "mino_libros_infantil_bachillerato_2026_27",
+      "titulo": "Becas municipales de libros y material escolar 2026/27 (Miño)",
+      "tituloGl": "Bolsas municipais de libros e material escolar 2026/27 (Miño)",
+      "descripcion": "Becas del Concello de Miño para libros y material escolar del alumnado de Educación Infantil (3, 4 y 5 años) de centros públicos de Miño y de Bachillerato en los centros públicos a los que asista. Importe máximo: 100 € (Infantil 3 años), 80 € (4 y 5 años), 250 € (1.º de Bachillerato) y 270 € (2.º). Hay que estar empadronado en Miño con residencia efectiva y convivir con el menor, y la renta per cápita de 2025 (base imponible general más la del ahorro, dividida entre los miembros computables; los familiares de primer grado con discapacidad del 33 % o más cuentan por dos) no puede pasar de 9.000 €. Se paga un porcentaje según la renta por persona: 100 % si es inferior a 2.250 €, 75 % hasta 4.500 €, 50 % hasta 6.750 € y 25 % hasta 9.000 €; por encima, se deniega. Es compatible con otras ayudas, sin superar el coste de los libros y el material. El crédito es de 2.500 €, con prioridad a la menor renta, y se cobra en un pago único por hijo/a tras justificar con factura y justificante de pago. Plazo cerrado: primera convocatoria del 9 de junio al 3 de julio de 2026; la segunda (del 15 al 30 de septiembre) solo se abría si sobraba crédito.",
+      "descripcionGl": "Bolsas do Concello de Miño para libros e material escolar do alumnado de Educación Infantil (3, 4 e 5 anos) de centros públicos de Miño e de Bacharelato nos centros públicos aos que acuda. Importe máximo: 100 € (Infantil 3 anos), 80 € (4 e 5 anos), 250 € (1.º de Bacharelato) e 270 € (2.º). Hai que estar empadroado en Miño con residencia efectiva e convivir co menor, e a renda per cápita de 2025 (base impoñible xeral máis a do aforro, dividida entre os membros computables; os familiares de primeiro grao con discapacidade do 33 % ou máis contan por dous) non pode pasar de 9.000 €. Págase unha porcentaxe segundo a renda por persoa: 100 % se é inferior a 2.250 €, 75 % ata 4.500 €, 50 % ata 6.750 € e 25 % ata 9.000 €; por riba, denégase. É compatible con outras axudas, sen superar o custo dos libros e o material. O crédito é de 2.500 €, con prioridade á menor renda, e cóbrase nun pagamento único por fillo/a tras xustificar con factura e xustificante de pagamento. Prazo pechado: primeira convocatoria do 9 de xuño ao 3 de xullo de 2026; a segunda (do 15 ao 30 de setembro) só se abría se sobraba crédito.",
+      "categoria": "educacion",
+      "organismo": "Concello de Miño",
+      "organismoGl": "Concello de Miño",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/910318",
+      "municipios": [
+        "Miño"
+      ],
+      "plazoInicio": "2026-06-09T00:00:00.000",
+      "plazoFin": "2026-09-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadInfantilOBachillerato",
+          "operador": "alguno",
+          "valor": [
+            {
+              "campo": "edadesHijos",
+              "operador": "algunoEntre",
+              "valor": [
+                3,
+                5
+              ],
+              "textoExplicativo": "Hijo/a de 3 a 5 años en Educación Infantil",
+              "textoExplicativoGl": "Fillo/a de 3 a 5 anos en Educación Infantil"
+            },
+            {
+              "campo": "edadesHijos",
+              "operador": "algunoEntre",
+              "valor": [
+                16,
+                18
+              ],
+              "textoExplicativo": "Hijo/a en Bachillerato (aprox. de 16 a 18 años)",
+              "textoExplicativoGl": "Fillo/a en Bacharelato (aprox. de 16 a 18 anos)"
+            }
+          ],
+          "textoExplicativo": "Tener un hijo/a en Educación Infantil (3 a 5 años) o en Bachillerato, en un centro público",
+          "textoExplicativoGl": "Ter un fillo/a en Educación Infantil (3 a 5 anos) ou en Bacharelato, nun centro público"
+        },
+        {
+          "campo": "rentaMino",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              18000
+            ],
+            [
+              3,
+              27000
+            ],
+            [
+              4,
+              36000
+            ],
+            [
+              5,
+              45000
+            ],
+            [
+              6,
+              54000
+            ]
+          ],
+          "textoExplicativo": "Que la renta de la familia en 2025 no supere 9.000 € por miembro al año (la ayuda baja del 100 % al 25 % según la renta por persona)",
+          "textoExplicativoGl": "Que a renda da familia en 2025 non supere 9.000 € por membro ao ano (a axuda baixa do 100 % ao 25 % segundo a renda por persoa)"
+        },
+        {
+          "campo": "empadronamientoMino",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Empadronado/a en Miño con residencia efectiva, conviviendo con el menor, que esté matriculado en un centro público, y sin deudas con el Concello",
+          "textoExplicativoGl": "Empadroado/a en Miño con residencia efectiva, convivindo co menor, que estea matriculado nun centro público, e sen débedas co Concello"
+        }
+      ],
+      "documentacion": [
+        "Impreso de solicitud (Anexo 1) y declaración jurada de cumplimiento de obligaciones (Anexo 2). Se piden en el Concello (rúa da Carreira, 38) o se descargan en concellodemino.gal, y se presentan en el registro de entrada del Concello (presencial, con DNI, o electrónico).",
+        "Declaración de la renta de 2025 de los miembros de la unidad familiar o, si no hay obligación de declarar, certificado de imputaciones de renta de 2025 de la Agencia Tributaria.",
+        "Volante de empadronamiento y convivencia (lo aporta el Concello de oficio).",
+        "Declaración de todas las ayudas solicitadas o concedidas para el mismo fin por otras administraciones (Anexo 3).",
+        "Declaración de estar al corriente con las obligaciones tributarias y con la Seguridad Social (Anexo 4).",
+        "Declaración jurada de que los menores están matriculados en 2026/27 en un centro público de Miño (Anexo 5). Si el alumnado de Infantil va a un centro fuera del municipio, justificación de los motivos (laborales, de conciliación…).",
+        "Cualquier otra documentación que acredite las situaciones declaradas (por ejemplo, discapacidad del 33 % o más).",
+        "Para cobrar, en los 30 días naturales siguientes a la lista definitiva: factura de libros y material a nombre de la persona beneficiaria (con número, fecha, razón social, dirección, CIF y sello), justificante del pago (extracto bancario, cheque nominativo o cargo de tarjeta; el recibí del proveedor solo vale por debajo de 500 €) y número de cuenta."
+      ],
+      "documentacionGl": [
+        "Impreso de solicitude (Anexo 1) e declaración xurada de cumprimento de obrigas (Anexo 2). Piden no Concello (rúa da Carreira, 38) ou descárganse en concellodemino.gal, e preséntanse no rexistro de entrada do Concello (presencial, con DNI, ou electrónico).",
+        "Declaración da renda de 2025 dos membros da unidade familiar ou, se non hai obriga de declarar, certificado de imputacións de renda de 2025 da Axencia Tributaria.",
+        "Volante de empadroamento e convivencia (achégao o Concello de oficio).",
+        "Declaración de todas as axudas solicitadas ou concedidas para a mesma finalidade por outras administracións (Anexo 3).",
+        "Declaración de estar ao corrente coas obrigas tributarias e coa Seguridade Social (Anexo 4).",
+        "Declaración xurada de que os menores están matriculados en 2026/27 nun centro público de Miño (Anexo 5). Se o alumnado de Infantil vai a un centro fóra do municipio, xustificación dos motivos (laborais, de conciliación…).",
+        "Calquera outra documentación que acredite as situacións declaradas (por exemplo, discapacidade do 33 % ou máis).",
+        "Para cobrar, nos 30 días naturais seguintes á listaxe definitiva: factura de libros e material ao nome da persoa beneficiaria (con número, data, razón social, enderezo, CIF e selo), xustificante do pagamento (extracto bancario, cheque nominativo ou cargo de tarxeta; o recibí do provedor só vale por baixo de 500 €) e número de conta."
+      ]
+    },
+    {
+      "id": "xunta_fondo_libros_material_2026_27",
+      "titulo": "Fondo solidario de libros y ayudas de libros y material escolar de la Xunta 2026/27",
+      "tituloGl": "Fondo solidario de libros e axudas de libros e material escolar da Xunta 2026/27",
+      "descripcion": "Gratuidad solidaria de libros de texto y material escolar de la Xunta para el alumnado de Primaria, ESO y Educación Especial en centros públicos o concertados de Galicia. Hay tres modalidades. 1) Fondo solidario de libros de 3.º a 6.º de Primaria y de 1.º a 4.º de ESO: préstamo de libros por orden inversa de renta, y si no bastan se compran hasta 6 libros (renta per cápita de hasta 6.000 €) o 4 libros (de 6.000 a 10.000 €). 2) Ayuda para comprar libros en 1.º y 2.º de Primaria: 240 € (renta per cápita hasta 6.000 €) o 160 € (de 6.000 a 10.000 €); en Educación Especial, 300 € sin mirar la renta, y el alumnado con necesidades de apoyo que no use el fondo recibe 240/160 € en Primaria y 270/180 € en ESO (300 € si tiene discapacidad del 33 % o más). 3) Ayuda para material escolar en Primaria, ESO y Educación Especial: 75 € (renta hasta 6.000 €) o 60 € (de 6.000 a 10.000 €); 75 € sin mirar la renta si el alumno/a está en guarda o tutela de la Xunta, es de Educación Especial o tiene discapacidad del 33 % o más. La renta per cápita es la de 2024 (casillas 435 y 460 del IRPF) dividida entre los miembros computables, y quien tenga discapacidad del 33 % o más o incapacidad permanente cuenta por dos. Es compatible con otras ayudas y se obtiene con vales que se canjean en librerías adheridas hasta el 12 de abril de 2027. Hay que devolver los libros del curso anterior. Plazo cerrado: del 19 de mayo al 19 de junio de 2026; quien se incorpore tarde a un centro público (por ejemplo, desde fuera de Galicia o de un centro no sostenido con fondos públicos) tiene un mes desde la matrícula y como muy tarde hasta el 31 de marzo de 2027.",
+      "descripcionGl": "Gratuidade solidaria de libros de texto e material escolar da Xunta para o alumnado de Primaria, ESO e Educación Especial en centros públicos ou concertados de Galicia. Hai tres modalidades. 1) Fondo solidario de libros de 3.º a 6.º de Primaria e de 1.º a 4.º de ESO: préstamo de libros por orde inversa de renda, e se non abondan cómpranse ata 6 libros (renda per cápita de ata 6.000 €) ou 4 libros (de 6.000 a 10.000 €). 2) Axuda para mercar libros en 1.º e 2.º de Primaria: 240 € (renda per cápita ata 6.000 €) ou 160 € (de 6.000 a 10.000 €); en Educación Especial, 300 € sen mirar a renda, e o alumnado con necesidades de apoio que non use o fondo recibe 240/160 € en Primaria e 270/180 € en ESO (300 € se ten discapacidade do 33 % ou máis). 3) Axuda para material escolar en Primaria, ESO e Educación Especial: 75 € (renda ata 6.000 €) ou 60 € (de 6.000 a 10.000 €); 75 € sen mirar a renda se o alumno/a está en garda ou titela da Xunta, é de Educación Especial ou ten discapacidade do 33 % ou máis. A renda per cápita é a de 2024 (caixas 435 e 460 do IRPF) dividida entre os membros computables, e quen teña discapacidade do 33 % ou máis ou incapacidade permanente conta por dous. É compatible con outras axudas e obtense con vales que se canxean en librarías adheridas ata o 12 de abril de 2027. Hai que devolver os libros do curso anterior. Prazo pechado: do 19 de maio ao 19 de xuño de 2026; quen se incorpore tarde a un centro público (por exemplo, desde fóra de Galicia ou dun centro non sostido con fondos públicos) ten un mes desde a matrícula e como moi tarde ata o 31 de marzo de 2027.",
+      "categoria": "educacion",
+      "organismo": "Xunta de Galicia (Consellería de Educación, Ciencia, Universidades y Formación Profesional)",
+      "organismoGl": "Xunta de Galicia (Consellería de Educación, Ciencia, Universidades e Formación Profesional)",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/904906",
+      "plazoInicio": "2026-05-19T00:00:00.000",
+      "plazoFin": "2026-06-19T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            6,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en Primaria o ESO (aproximadamente de 6 a 16 años), o en Educación Especial, en un centro público o concertado de Galicia",
+          "textoExplicativoGl": "Ter un fillo/a en Primaria ou ESO (aproximadamente de 6 a 16 anos), ou en Educación Especial, nun centro público ou concertado de Galicia"
+        },
+        {
+          "campo": "rentaOCasoEspecialXunta",
+          "operador": "alguno",
+          "valor": [
+            {
+              "campo": "rentaXuntaLibros",
+              "operador": "limiteAnualPorMiembros",
+              "valor": [
+                [
+                  2,
+                  20000
+                ],
+                [
+                  3,
+                  30000
+                ],
+                [
+                  4,
+                  40000
+                ],
+                [
+                  5,
+                  50000
+                ],
+                [
+                  6,
+                  60000
+                ]
+              ],
+              "textoExplicativo": "Renta de la familia en 2024 de hasta 10.000 € por miembro al año (las ayudas más altas, hasta 6.000 € por miembro)",
+              "textoExplicativoGl": "Renda da familia en 2024 de ata 10.000 € por membro ao ano (as axudas máis altas, ata 6.000 € por membro)"
+            },
+            {
+              "campo": "casoEspecialXunta",
+              "operador": "confirmar",
+              "valor": true,
+              "textoExplicativo": "Alumno/a de Educación Especial, con discapacidad del 33 % o más o en guarda o tutela de la Xunta (sin límite de renta)",
+              "textoExplicativoGl": "Alumno/a de Educación Especial, con discapacidade do 33 % ou máis ou en garda ou titela da Xunta (sen límite de renda)"
+            }
+          ],
+          "textoExplicativo": "Renta de 2024 de hasta 10.000 € por miembro al año (quien tiene discapacidad del 33 % o más cuenta por dos), o ser alumno/a de Educación Especial, con discapacidad del 33 % o más o en guarda o tutela de la Xunta, sin límite de renta",
+          "textoExplicativoGl": "Renda de 2024 de ata 10.000 € por membro ao ano (quen ten discapacidade do 33 % ou máis conta por dous), ou ser alumno/a de Educación Especial, con discapacidade do 33 % ou máis ou en garda ou titela da Xunta, sen límite de renda"
+        },
+        {
+          "campo": "matriculaGalicia",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a matriculado/a en un centro público o concertado de Galicia para 2026/27 y devolución de los libros del curso anterior",
+          "textoExplicativoGl": "Alumno/a matriculado/a nun centro público ou concertado de Galicia para 2026/27 e devolución dos libros do curso anterior"
+        }
+      ],
+      "documentacion": [
+        "Solicitud ED330B (Anexo I), única para todos los hijos/as admitidos en el mismo centro. Preferiblemente por vía electrónica en la aplicación Fondolibros (edu.xunta.gal/fondolibros) o en la sede electrónica de la Xunta (sede.xunta.gal) con Chave365; también se puede presentar en el centro docente o por cualquiera de las vías de la Ley 39/2015. Si se hace por Fondolibros, una solicitud por alumno/a. Firmada por el padre, madre, tutor/a o representante legal.",
+        "Anexo II: comprobación de datos de los miembros computables de la familia (la Xunta consulta DNI, discapacidad y renta salvo que te opongas, y entonces hay que aportar los documentos).",
+        "Copia del libro de familia o documento equivalente donde figuren el alumno/a y los demás miembros computables. En separación o divorcio, sentencia o convenio regulador con la custodia.",
+        "Si procede: certificado de discapacidad (si no lo expidió la Xunta), documentación de violencia de género, resolución judicial de curatela representativa o patria potestad prorrogada, resolución de acogimiento o certificado del centro de menores, y certificado o informe de convivencia si los progenitores o tutores no tienen DNI ni NIE.",
+        "Renta de 2024: se consulta de oficio (declaración o certificado de imputaciones, casillas 435 y 460). Quien no tenga residencia fiscal en España en 2024 debe acreditar sus ingresos del país de origen o presentar una declaración responsable.",
+        "Devolver al centro, antes del 19 de junio de 2026, los libros del curso 2025/26 recibidos del fondo o comprados con la ayuda (salvo quien recibió la ayuda de libros de 1.º y 2.º de Primaria o es de Educación Especial y los libros no son reutilizables).",
+        "Después de la concesión: usar el vale de libros y el vale de material en una librería adherida, lo antes posible y como muy tarde el 12 de abril de 2027."
+      ],
+      "documentacionGl": [
+        "Solicitude ED330B (Anexo I), única para todos os fillos/as admitidos no mesmo centro. Preferiblemente por vía electrónica na aplicación Fondolibros (edu.xunta.gal/fondolibros) ou na sede electrónica da Xunta (sede.xunta.gal) con Chave365; tamén se pode presentar no centro docente ou por calquera das vías da Lei 39/2015. Se se fai por Fondolibros, unha solicitude por alumno/a. Asinada polo pai, nai, titor/a ou representante legal.",
+        "Anexo II: comprobación de datos dos membros computables da familia (a Xunta consulta DNI, discapacidade e renda salvo que te opoñas, e entón hai que achegar os documentos).",
+        "Copia do libro de familia ou documento equivalente onde figuren o alumno/a e os demais membros computables. En separación ou divorcio, sentenza ou convenio regulador coa custodia.",
+        "Se procede: certificado de discapacidade (se non o expediu a Xunta), documentación de violencia de xénero, resolución xudicial de curatela representativa ou patria potestade prorrogada, resolución de acollemento ou certificado do centro de menores, e certificado ou informe de convivencia se os proxenitores ou titores non teñen DNI nin NIE.",
+        "Renda de 2024: consúltase de oficio (declaración ou certificado de imputacións, caixas 435 e 460). Quen non teña residencia fiscal en España en 2024 debe acreditar os seus ingresos do país de orixe ou presentar unha declaración responsable.",
+        "Devolver ao centro, antes do 19 de xuño de 2026, os libros do curso 2025/26 recibidos do fondo ou mercados coa axuda (salvo quen recibiu a axuda de libros de 1.º e 2.º de Primaria ou é de Educación Especial e os libros non son reutilizables).",
+        "Despois da concesión: usar o vale de libros e o vale de material nunha libraría adherida, o antes posible e como moi tarde o 12 de abril de 2027."
       ]
     }
   ]
