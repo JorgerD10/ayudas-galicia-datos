@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-17e",
+  "revision": "2026-10-17f",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2606,6 +2606,95 @@
         "Declaración da renda 2025 (modelo 100) de todos os membros con obriga de declarar.",
         "Quen non declare e sexa maior de 18 anos: certificado de empresa, vida laboral, pensións, RISGA, Ingreso Mínimo Vital, certificado do SEPE ou outra proba de ingresos (ou declaración xurada de non ter ingresos).",
         "Se procede: certificado de discapacidade e certificado de familia monoparental."
+      ]
+    },
+    {
+      "id": "ocarballino_libros_material_2026_27",
+      "titulo": "Ayuda municipal de libros y material escolar 2026/27 (O Carballiño)",
+      "tituloGl": "Axuda municipal de libros e material escolar 2026/27 (O Carballiño)",
+      "descripcion": "Ayuda del Concello de O Carballiño para libros de texto, libros de lectura, material escolar, uniforme y material deportivo de Educación Física del alumnado de Infantil (3 a 5 años), Primaria y Secundaria en centros del municipio: hasta 120 € por alumno/a de Infantil y hasta 60 € por alumno/a de Primaria o Secundaria. Todos los miembros de la familia deben estar empadronados en O Carballiño desde hace al menos 6 meses y la renta per cápita de 2025 (base imponible general más la del ahorro, dividida entre los miembros computables) no puede pasar de 9.000 €. Se da prioridad a la menor renta por persona hasta agotar el crédito de 40.000 €; en caso de empate cuentan la discapacidad (3 puntos), la familia numerosa (2) y la monoparental (1). Es compatible con otras ayudas sin superar el gasto. El gasto debe hacerse entre el 30 de junio y el 15 de octubre de 2026 y justificarse hasta el 2 de noviembre de 2026. Plazo cerrado: del 27 de agosto al 26 de septiembre de 2026 (BOP de Ourense del 26 de agosto; la ficha de BDNS dice un mes y las bases 15 días hábiles).",
+      "descripcionGl": "Axuda do Concello do Carballiño para libros de texto, libros de lectura, material escolar, uniforme e material deportivo de Educación Física do alumnado de Infantil (3 a 5 anos), Primaria e Secundaria en centros do municipio: ata 120 € por alumno/a de Infantil e ata 60 € por alumno/a de Primaria ou Secundaria. Todos os membros da familia deben estar empadroados no Carballiño desde hai polo menos 6 meses e a renda per cápita de 2025 (base impoñible xeral máis a do aforro, dividida entre os membros computables) non pode pasar de 9.000 €. Dáse prioridade á menor renda por persoa ata esgotar o crédito de 40.000 €; en caso de empate contan a discapacidade (3 puntos), a familia numerosa (2) e a monoparental (1). É compatible con outras axudas sen superar o gasto. O gasto debe facerse entre o 30 de xuño e o 15 de outubro de 2026 e xustificarse ata o 2 de novembro de 2026. Prazo pechado: do 27 de agosto ao 26 de setembro de 2026 (BOP de Ourense do 26 de agosto; a ficha de BDNS di un mes e as bases 15 días hábiles).",
+      "categoria": "educacion",
+      "organismo": "Concello de O Carballiño",
+      "organismoGl": "Concello do Carballiño",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/924223",
+      "municipios": [
+        "O Carballiño"
+      ],
+      "plazoInicio": "2026-08-27T00:00:00.000",
+      "plazoFin": "2026-09-26T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en Infantil (3 a 5 años), Primaria o Secundaria, en un centro público o concertado de O Carballiño",
+          "textoExplicativoGl": "Ter un fillo/a en Infantil (3 a 5 anos), Primaria ou Secundaria, nun centro público ou concertado do Carballiño"
+        },
+        {
+          "campo": "rentaOCarballino",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              18000
+            ],
+            [
+              3,
+              27000
+            ],
+            [
+              4,
+              36000
+            ],
+            [
+              5,
+              45000
+            ],
+            [
+              6,
+              54000
+            ]
+          ],
+          "textoExplicativo": "Que la renta de la familia en 2025 no supere 9.000 € por miembro al año",
+          "textoExplicativoGl": "Que a renda da familia en 2025 non supere 9.000 € por membro ao ano"
+        },
+        {
+          "campo": "empadronamientoOCarballino",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Todos los miembros de la familia empadronados en O Carballiño desde hace al menos 6 meses y al corriente con Hacienda y la Seguridad Social",
+          "textoExplicativoGl": "Todos os membros da familia empadroados no Carballiño desde hai polo menos 6 meses e ao corrente con Facenda e a Seguridade Social"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado del Concello, firmada y completa, presentada en el Registro del Concello (Praza Maior, 1) o por cualquiera de las vías de la Ley 39/2015.",
+        "Certificado del centro educativo con el curso en el que está matriculado el alumno/a.",
+        "Certificado de convivencia de la unidad familiar.",
+        "Libro de familia (fotocopia) o partida de nacimiento.",
+        "DNI, NIE o permiso de residencia en vigor de todos los miembros de la unidad familiar (fotocopia).",
+        "Declaración de otras ayudas para el mismo fin, de otras administraciones o entidades privadas.",
+        "Declaración de la renta de 2025 de los miembros computables (fotocopia).",
+        "Declaración jurada de estar al corriente con Hacienda estatal y autonómica y con la Seguridad Social, y de no estar en las prohibiciones del artículo 13 de la Ley 38/2003 (ya figura en el impreso).",
+        "Si no hay obligación de declarar la renta: certificado de Hacienda de no estar obligado y, por cada miembro computable, certificado de empresa (bruto) de 2025 u otra prueba de ingresos, y certificado del organismo que pague cualquier ayuda pública (o certificación negativa o declaración responsable si no es posible).",
+        "Si hay empate de renta: certificado de discapacidad, de familia numerosa o de familia monoparental, según el caso.",
+        "Para cobrar, hasta el 2 de noviembre de 2026 en el Registro municipal: factura original o copia compulsada del gasto (entre el 30 de junio y el 15 de octubre de 2026), sellada y firmada por la librería o comercio; declaración de las ayudas solicitadas y concedidas; y declaración jurada de estar al corriente con Hacienda y la Seguridad Social."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado do Concello, asinada e completa, presentada no Rexistro do Concello (Praza Maior, 1) ou por calquera das vías da Lei 39/2015.",
+        "Certificado do centro educativo co curso no que está matriculado o alumno/a.",
+        "Certificado de convivencia da unidade familiar.",
+        "Libro de familia (fotocopia) ou partida de nacemento.",
+        "DNI, NIE ou permiso de residencia en vigor de todos os membros da unidade familiar (fotocopia).",
+        "Declaración doutras axudas para o mesmo fin, doutras administracións ou entidades privadas.",
+        "Declaración da renda de 2025 dos membros computables (fotocopia).",
+        "Declaración xurada de estar ao corrente coa Facenda estatal e autonómica e coa Seguridade Social, e de non estar nas prohibicións do artigo 13 da Lei 38/2003 (xa figura no impreso).",
+        "Se non hai obriga de declarar a renda: certificado da Facenda de non estar obrigado e, por cada membro computable, certificado de empresa (bruto) de 2025 ou outra proba de ingresos, e certificado do organismo que pague calquera axuda pública (ou certificación negativa ou declaración responsable se non é posible).",
+        "Se hai empate de renda: certificado de discapacidade, de familia numerosa ou de familia monoparental, segundo o caso.",
+        "Para cobrar, ata o 2 de novembro de 2026 no Rexistro municipal: factura orixinal ou copia compulsada do gasto (entre o 30 de xuño e o 15 de outubro de 2026), selada e asinada pola libraría ou comercio; declaración das axudas solicitadas e concedidas; e declaración xurada de estar ao corrente coa Facenda e a Seguridade Social."
       ]
     }
   ]
