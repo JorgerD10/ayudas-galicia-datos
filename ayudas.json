@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-17b",
+  "revision": "2026-10-17c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2464,6 +2464,59 @@
         "Facturas orixinais do gasto en libros e material didáctico, con NIF/CIF e nome do establecemento, data, número e concepto. Preséntanse ao solicitar a axuda.",
         "Designación de conta bancaria (modelo normalizado).",
         "Certificado de matrícula do curso 2026/27, só se o centro está fóra de Arteixo."
+      ]
+    },
+    {
+      "id": "sandias_libros_material_2026_27",
+      "titulo": "Ayuda municipal de libros y material escolar 2026/27 (Sandiás)",
+      "tituloGl": "Axuda municipal de libros e material escolar 2026/27 (Sandiás)",
+      "descripcion": "Ayuda del Concello de Sandiás de hasta 60 € por alumno/a para libros de texto y material escolar del alumnado de segunda etapa de Infantil y Primaria del centro público de Sandiás en el curso 2026/27. No depende de la renta. El alumno/a debe estar empadronado/a en Sandiás antes de que acabe el plazo y matriculado/a en el centro, y la familia debe estar al corriente con los tributos municipales. El crédito es de 2.000 € y se reparte entre todos los solicitantes, sin pasar de 60 € cada uno. Se cobra por transferencia tras justificar con la factura original, hasta el 27 de noviembre de 2026. Plazo: 15 días naturales desde la publicación en el BOP de Ourense (fecha aún sin confirmar).",
+      "descripcionGl": "Axuda do Concello de Sandiás de ata 60 € por alumno/a para libros de texto e material escolar do alumnado de segunda etapa de Infantil e Primaria do centro público de Sandiás no curso 2026/27. Non depende da renda. O alumno/a debe estar empadroado/a en Sandiás antes de que remate o prazo e matriculado/a no centro, e a familia debe estar ao corrente cos tributos municipais. O crédito é de 2.000 € e repártese entre todos os solicitantes, sen pasar de 60 € cada un. Cóbrase por transferencia tras xustificar coa factura orixinal, ata o 27 de novembro de 2026. Prazo: 15 días naturais desde a publicación no BOP de Ourense (data aínda sen confirmar).",
+      "categoria": "educacion",
+      "organismo": "Concello de Sandiás",
+      "organismoGl": "Concello de Sandiás",
+      "enlaceOficial": "https://sandias.sedelectronica.gal/",
+      "municipios": [
+        "Sandiás"
+      ],
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            12
+          ],
+          "textoExplicativo": "Tener un hijo/a en segunda etapa de Infantil o Primaria (aproximadamente de 3 a 12 años) en el centro público de Sandiás",
+          "textoExplicativoGl": "Ter un fillo/a en segunda etapa de Infantil ou Primaria (aproximadamente de 3 a 12 anos) no centro público de Sandiás"
+        },
+        {
+          "campo": "empadronamientoSandias",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a empadronado/a en Sandiás antes de acabar el plazo y matriculado/a en el centro público, con la familia al corriente con los tributos y tasas municipales",
+          "textoExplicativoGl": "Alumno/a empadroado/a en Sandiás antes de rematar o prazo e matriculado/a no centro público, coa familia ao corrente cos tributos e taxas municipais"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo del Concello (Anexo I), con los datos del alumno/a, sus estudios en 2026/27 y el IBAN, presentada en el Registro General del Concello.",
+        "Certificado o informe del centro escolar con el curso en el que está matriculado el alumno/a.",
+        "Certificado o informe del centro escolar sobre si recibió ayudas y su cantidad, o si no recibió ninguna.",
+        "DNI de quien solicita (padre, madre, tutor/a o persona acogedora).",
+        "Libro de familia.",
+        "Certificado de empadronamiento del alumno/a.",
+        "Anexo II: declaración responsable de no estar en prohibición para recibir subvenciones y de estar al corriente con el Concello, la Agencia Tributaria, la Xunta y la Seguridad Social.",
+        "Para cobrar (hasta el 27 de noviembre de 2026): factura original del gasto con los datos del establecimiento, fecha, número, IVA y concepto, a nombre de quien solicita, y Anexo III (declaración de otras ayudas)."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo do Concello (Anexo I), cos datos do alumno/a, os seus estudos en 2026/27 e o IBAN, presentada no Rexistro Xeral do Concello.",
+        "Certificado ou informe do centro escolar co curso no que está matriculado o alumno/a.",
+        "Certificado ou informe do centro escolar sobre se recibiu axudas e a súa contía, ou se non recibiu ningunha.",
+        "DNI de quen solicita (pai, nai, titor/a ou persoa acolledora).",
+        "Libro de familia.",
+        "Certificado de empadroamento do alumno/a.",
+        "Anexo II: declaración responsable de non estar en prohibición para recibir subvencións e de estar ao corrente co Concello, a Axencia Tributaria, a Xunta e a Seguridade Social.",
+        "Para cobrar (ata o 27 de novembro de 2026): factura orixinal do gasto cos datos do establecemento, data, número, IVE e concepto, a nome de quen solicita, e Anexo III (declaración doutras axudas)."
       ]
     }
   ]
