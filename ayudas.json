@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-17f",
+  "revision": "2026-10-17g",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2695,6 +2695,103 @@
         "Se non hai obriga de declarar a renda: certificado da Facenda de non estar obrigado e, por cada membro computable, certificado de empresa (bruto) de 2025 ou outra proba de ingresos, e certificado do organismo que pague calquera axuda pública (ou certificación negativa ou declaración responsable se non é posible).",
         "Se hai empate de renda: certificado de discapacidade, de familia numerosa ou de familia monoparental, segundo o caso.",
         "Para cobrar, ata o 2 de novembro de 2026 no Rexistro municipal: factura orixinal ou copia compulsada do gasto (entre o 30 de xuño e o 15 de outubro de 2026), selada e asinada pola libraría ou comercio; declaración das axudas solicitadas e concedidas; e declaración xurada de estar ao corrente coa Facenda e a Seguridade Social."
+      ]
+    },
+    {
+      "id": "nigran_libros_infantil_2026_27",
+      "titulo": "Ayuda municipal de libros y material de Infantil 2026/27 (Nigrán)",
+      "tituloGl": "Axuda municipal de libros e material de Infantil 2026/27 (Nigrán)",
+      "descripcion": "Ayuda del Concello de Nigrán de 65 € por niño/a matriculado/a en la segunda etapa de Educación Infantil (3 a 5 años) en un centro público de Nigrán, para libros de texto y/o material escolar (fichas, material fungible, mochilas…). Hay que estar empadronado en Nigrán con toda la familia y convivir con el alumno/a. Los ingresos de 2025 de la familia (casillas 435 y 460 de la renta; se pueden descontar hasta 400 €/mes de alquiler o hipoteca de la vivienda habitual si no hay otros inmuebles) no pueden superar: 21.600 € (2 miembros), 27.600 € (3), 33.600 € (4), 42.000 € (5), 51.000 € (6), 59.400 € (7), 67.800 € (8) o 76.200 € (9 o más). Un miembro con discapacidad del 33 % o más o con incapacidad permanente cuenta por dos, y las familias numerosas o monoparentales cuentan un miembro más. Es incompatible con otras ayudas para el mismo fin. El crédito es de 5.000 €, con prioridad a la menor renta y, en caso de empate, a quien presentó antes. Se cobra en un solo pago tras justificar el gasto con facturas hasta el 30 de noviembre de 2026. Plazo de solicitud: 15 días hábiles desde el día siguiente al extracto del BOPPO del 13 de julio de 2026 (cierre el 3 de agosto de 2026; la ficha de BDNS muestra el 30 de noviembre, que es la fecha de justificación).",
+      "descripcionGl": "Axuda do Concello de Nigrán de 65 € por neno/a matriculado/a na segunda etapa de Educación Infantil (3 a 5 anos) nun centro público de Nigrán, para libros de texto e/ou material escolar (fichas, material funxible, mochilas…). Hai que estar empadroado en Nigrán con toda a familia e convivir co alumno/a. Os ingresos de 2025 da familia (caixas 435 e 460 da renda; pódense descontar ata 400 €/mes de aluguer ou hipoteca da vivenda habitual se non hai outros inmobles) non poden superar: 21.600 € (2 membros), 27.600 € (3), 33.600 € (4), 42.000 € (5), 51.000 € (6), 59.400 € (7), 67.800 € (8) ou 76.200 € (9 ou máis). Un membro con discapacidade do 33 % ou máis ou con incapacidade permanente conta por dous, e as familias numerosas ou monoparentais contan un membro máis. É incompatible con outras axudas para o mesmo fin. O crédito é de 5.000 €, con prioridade á menor renda e, en caso de empate, a quen presentou antes. Cóbrase nun só pagamento tras xustificar o gasto con facturas ata o 30 de novembro de 2026. Prazo de solicitude: 15 días hábiles desde o día seguinte ao extracto do BOPPO do 13 de xullo de 2026 (peche o 3 de agosto de 2026; a ficha de BDNS mostra o 30 de novembro, que é a data de xustificación).",
+      "categoria": "educacion",
+      "organismo": "Concello de Nigrán",
+      "organismoGl": "Concello de Nigrán",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/918047",
+      "municipios": [
+        "Nigrán"
+      ],
+      "plazoInicio": "2026-07-14T00:00:00.000",
+      "plazoFin": "2026-08-03T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a de 3 a 5 años en Educación Infantil, en un centro público de Nigrán",
+          "textoExplicativoGl": "Ter un fillo/a de 3 a 5 anos en Educación Infantil, nun centro público de Nigrán"
+        },
+        {
+          "campo": "rentaNigran",
+          "operador": "limiteAnualPorMiembrosFN",
+          "valor": [
+            [
+              2,
+              21600
+            ],
+            [
+              3,
+              27600
+            ],
+            [
+              4,
+              33600
+            ],
+            [
+              5,
+              42000
+            ],
+            [
+              6,
+              51000
+            ],
+            [
+              7,
+              59400
+            ],
+            [
+              8,
+              67800
+            ],
+            [
+              9,
+              76200
+            ]
+          ],
+          "textoExplicativo": "Que los ingresos de 2025 de la familia no superen el límite según los miembros (21.600 € con 2 miembros, hasta 76.200 € con 9 o más); las familias numerosas cuentan un miembro más",
+          "textoExplicativoGl": "Que os ingresos de 2025 da familia non superen o límite segundo os membros (21.600 € con 2 membros, ata 76.200 € con 9 ou máis); as familias numerosas contan un membro máis"
+        },
+        {
+          "campo": "empadronamientoNigran",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Toda la familia empadronada y residiendo en Nigrán, conviviendo con el alumno/a, y sin otra ayuda para el mismo fin",
+          "textoExplicativoGl": "Toda a familia empadroada e residindo en Nigrán, convivindo co alumno/a, e sen outra axuda para o mesmo fin"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (Anexo I de las bases), dirigida al Alcalde y presentada en el Registro del Concello, en la sede electrónica (nigran.sedelectronica.gal) o por cualquiera de las vías del artículo 16.4 de la Ley 39/2015. Incluye la composición de la unidad familiar y sus ingresos.",
+        "DNI, NIE o pasaporte de la persona solicitante y de su cónyuge o pareja.",
+        "Libro de familia completo o documentación que acredite los miembros de la unidad familiar con sus fechas de nacimiento.",
+        "Declaración de la renta de 2025 o, si no hay obligación de presentarla, certificado negativo de la Agencia Tributaria de todos los miembros mayores de 16 años (salvo que estén estudiando). Si no quedan justificados los ingresos: vida laboral, nóminas, certificado de pensiones o prestaciones, rentas o declaraciones trimestrales de autónomos.",
+        "Certificación bancaria del IBAN, con la persona solicitante como titular.",
+        "Si procede: título de familia numerosa, certificado de familia monoparental de la Xunta y certificado de grado de discapacidad.",
+        "En caso de separación o divorcio: copia de la sentencia o del convenio regulador.",
+        "Si pagas alquiler: contrato de alquiler y justificante de la transferencia o recibo pagado del mes anterior a la apertura del plazo (con datos del arrendador, arrendatario, dirección, mes e importe). Si pagas hipoteca: recibo del mes anterior a la apertura del plazo.",
+        "Para cobrar, antes del 30 de noviembre de 2026: factura original (no fotocopia) a nombre de quien recibe la ayuda, con los datos del establecimiento y el desglose de conceptos. Si compras en el colegio, certificado firmado del centro con el importe y concepto. Máximo 3 establecimientos."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (Anexo I das bases), dirixida ao Alcalde e presentada no Rexistro do Concello, na sede electrónica (nigran.sedelectronica.gal) ou por calquera das vías do artigo 16.4 da Lei 39/2015. Inclúe a composición da unidade familiar e os seus ingresos.",
+        "DNI, NIE ou pasaporte da persoa solicitante e do seu cónxuxe ou parella.",
+        "Libro de familia completo ou documentación que acredite os membros da unidade familiar coas súas datas de nacemento.",
+        "Declaración da renda de 2025 ou, se non hai obriga de presentala, certificado negativo da Axencia Tributaria de todos os membros maiores de 16 anos (salvo que estean estudando). Se non quedan xustificados os ingresos: vida laboral, nóminas, certificado de pensións ou prestacións, rendas ou declaracións trimestrais de autónomos.",
+        "Certificación bancaria do IBAN, coa persoa solicitante como titular.",
+        "Se procede: título de familia numerosa, certificado de familia monoparental da Xunta e certificado de grao de discapacidade.",
+        "En caso de separación ou divorcio: copia da sentenza ou do convenio regulador.",
+        "Se pagas aluguer: contrato de aluguer e xustificante da transferencia ou recibo pagado do mes anterior á apertura do prazo (cos datos do arrendador, arrendatario, enderezo, mes e importe). Se pagas hipoteca: recibo do mes anterior á apertura do prazo.",
+        "Para cobrar, antes do 30 de novembro de 2026: factura orixinal (non fotocopia) ao nome de quen recibe a axuda, cos datos do establecemento e o desagregado de conceptos. Se mercas no colexio, certificado asinado do centro co importe e concepto. Máximo 3 establecementos."
       ]
     }
   ]
