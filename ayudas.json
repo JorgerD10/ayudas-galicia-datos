@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-16l",
+  "revision": "2026-10-17a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2329,6 +2329,60 @@
         "Documento que acredite a matrícula do alumno/a en centro sostido con fondos públicos.",
         "Certificado de estar ao corrente coa Axencia Tributaria e a Seguridade Social de todos os membros maiores de 18 anos.",
         "Despois da concesión: factura do gasto en libros ou material (ou recibo do centro escolar asinado e selado pola dirección) nun máximo de 10 días."
+      ]
+    },
+    {
+      "id": "sober_libros_material_2026_27",
+      "titulo": "Ayuda municipal de libros, material y matrícula 2026/27 (Sober)",
+      "tituloGl": "Axuda municipal de libros, material e matrícula 2026/27 (Sober)",
+      "descripcion": "Ayuda del Concello de Sober para libros de texto y material escolar del curso 2026/27: hasta 100 € por alumno/a de Infantil (3 a 5 años) o Primaria en el CEIP Virxe do Carme, hasta 125 € en Secundaria, FP o Bachillerato, y hasta 250 € en estudios universitarios (incluye gastos de matrícula; no máster). La uniformidad del colegio (babi o chándal) también cuenta. No depende de la renta. Quien solicita y los menores deben estar empadronados y residir en Sober, y no tener deudas con Hacienda, la Seguridad Social ni el Concello. Crédito de 12.600 €; si no llega, se atiende por orden de presentación. Se cobra tras justificar con facturas (hasta el 15 de noviembre). El plazo de solicitud cerró el 15 de octubre de 2026; suele convocarse cada curso, así que conviene estar atento/a a la siguiente.",
+      "descripcionGl": "Axuda do Concello de Sober para libros de texto e material escolar do curso 2026/27: ata 100 € por alumno/a de Infantil (3 a 5 anos) ou Primaria no CEIP Virxe do Carme, ata 125 € en Secundaria, FP ou Bacharelato, e ata 250 € en estudos universitarios (inclúe gastos de matrícula; non máster). A uniformidade do colexio (mandilón ou chándal) tamén conta. Non depende da renda. Quen solicita e os menores deben estar empadroados e residir en Sober, e non ter débedas con Facenda, a Seguridade Social nin o Concello. Crédito de 12.600 €; se non chega, aténdese por orde de presentación. Cóbrase tras xustificar con facturas (ata o 15 de novembro). O prazo de solicitude pechou o 15 de outubro de 2026; adoita convocarse cada curso, así que convén estar atento/a á seguinte.",
+      "categoria": "educacion",
+      "organismo": "Concello de Sober",
+      "organismoGl": "Concello de Sober",
+      "enlaceOficial": "https://concellodesober.sedelectronica.gal",
+      "municipios": [
+        "Sober"
+      ],
+      "plazoFin": "2026-10-15T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            25
+          ],
+          "textoExplicativo": "Tener un hijo/a estudiando Infantil (3 a 5 años) o Primaria en el CEIP Virxe do Carme, o Secundaria, FP, Bachillerato o universidad",
+          "textoExplicativoGl": "Ter un fillo/a estudando Infantil (3 a 5 anos) ou Primaria no CEIP Virxe do Carme, ou Secundaria, FP, Bacharelato ou universidade"
+        },
+        {
+          "campo": "empadronamientoSober",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Quien solicita y los menores empadronados y residiendo en Sober, al corriente con Hacienda, la Seguridad Social y el Concello, y sin otra ayuda del Concello pendiente de justificar",
+          "textoExplicativoGl": "Quen solicita e os menores empadroados e residindo en Sober, ao corrente con Facenda, a Seguridade Social e o Concello, e sen outra axuda do Concello pendente de xustificar"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo oficial (Anexo I), en el Departamento de Servicios Sociales del Concello (de 9:00 a 14:00, de lunes a viernes) o en la sede electrónica.",
+        "DNI o NIE de quien solicita.",
+        "Libro de familia y, si procede, sentencia de separación o divorcio o convenio regulador donde conste la custodia (para libros y material escolar).",
+        "Certificado del centro de que el alumno/a cursa allí estudios (o del pago de la matrícula, en secundaria, FP, BAC o universidad).",
+        "Declaración responsable de estar al corriente con Hacienda, la Seguridad Social y el Concello, y de no estar en prohibición para recibir subvenciones.",
+        "Declaración de otras ayudas solicitadas o concedidas para el mismo fin.",
+        "Datos bancarios de quien cobra (recibo o certificado de cuenta).",
+        "Facturas originales con el nombre de quien solicita y del alumno/a y el detalle de los libros y material del curso 2026/27 (o justificante de pago de la matrícula en estudios superiores). Plazo de justificación: hasta el 15 de noviembre."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo oficial (Anexo I), no Departamento de Servizos Sociais do Concello (de 9:00 a 14:00, de luns a venres) ou na sede electrónica.",
+        "DNI ou NIE de quen solicita.",
+        "Libro de familia e, se procede, sentenza de separación ou divorcio ou convenio regulador onde conste a custodia (para libros e material escolar).",
+        "Certificado do centro de que o alumno/a cursa alí estudos (ou do pagamento da matrícula, en secundaria, FP, BAC ou universidade).",
+        "Declaración responsable de estar ao corrente con Facenda, a Seguridade Social e o Concello, e de non estar en prohibición para recibir subvencións.",
+        "Declaración doutras axudas solicitadas ou concedidas para o mesmo fin.",
+        "Datos bancarios de quen cobra (recibo ou certificado de conta).",
+        "Facturas orixinais co nome de quen solicita e do alumno/a e o detalle dos libros e material do curso 2026/27 (ou xustificante de pagamento da matrícula en estudos superiores). Prazo de xustificación: ata o 15 de novembro."
       ]
     }
   ]
