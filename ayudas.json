@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-18b",
+  "revision": "2026-10-18c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -3338,6 +3338,114 @@
         "Nota ou certificado do colexio co curso que realiza o alumno/a.",
         "Declaración responsable de destinar a axuda a libros e material escolar, de non estar en causa de prohibición (art. 13.2 LXS) e de estar ao corrente das obrigas tributarias.",
         "Despois da concesión (30 días desde a notificación): factura orixinal desagregada da compra (non vale «material escolar» xenérico; tamén vale o xustificante do pagado á ANPA ou ao centro) e certificación bancaria da conta."
+      ]
+    },
+    {
+      "id": "obarco_libros_infantil_2026_27",
+      "titulo": "Becas de libros y material escolar de Infantil 2026/27 (O Barco de Valdeorras)",
+      "tituloGl": "Bolsas de libros e material escolar de Infantil 2026/27 (O Barco de Valdeorras)",
+      "descripcion": "Becas del Concello de O Barco de Valdeorras para libros de texto y material escolar del alumnado de 3, 4 y 5 años (2.º ciclo de Educación Infantil), empadronado y matriculado en un centro del municipio. La renta computable de la unidad familiar (IRPF de 2024, tras los descuentos) debe ser inferior a 21.000 € al año; si la supera, la renta por persona debe ser inferior a 4.630 €. Hay descuentos sobre los ingresos por alquiler o hipoteca (10 %), discapacidad o dependencia, familia monoparental, familia numerosa o violencia de género (20 % cada uno) y desempleo de los progenitores (del 10 % al 40 %); los ingresos de hermanos mayores y abuelos que conviven cuentan al 50 %. Importe máximo por menor: 95 € (renta hasta 12.000 €), 85 € (hasta 17.000 €) y 75 € (hasta 21.000 € o renta por persona inferior a 4.630 €), con un máximo de 300 € por familia. El crédito total es de 8.000 € y se entrega un bono para canjear en las librerías colaboradoras. Es incompatible con otras ayudas para la misma finalidad. Plazo cerrado: desde el día siguiente al extracto del BOP de Ourense del 26 de mayo de 2026 hasta el 30 de junio de 2026 (del 27 de mayo al 30 de junio). Las bases fijan el uso del bono antes del 26 de octubre de 2026 y la justificación de las librerías antes del 31 de octubre de 2026.",
+      "descripcionGl": "Bolsas do Concello de O Barco de Valdeorras para libros de texto e material escolar do alumnado de 3, 4 e 5 anos (2.º ciclo de Educación Infantil), empadroado e matriculado nun centro do municipio. A renda computable da unidade familiar (IRPF de 2024, tras os descontos) debe ser inferior a 21.000 € ao ano; se a supera, a renda por persoa debe ser inferior a 4.630 €. Hai descontos sobre os ingresos por aluguer ou hipoteca (10 %), discapacidade ou dependencia, familia monoparental, familia numerosa ou violencia de xénero (20 % cada un) e desemprego dos proxenitores (do 10 % ao 40 %); os ingresos de irmáns maiores e avós que conviven contan ao 50 %. Importe máximo por menor: 95 € (renda ata 12.000 €), 85 € (ata 17.000 €) e 75 € (ata 21.000 € ou renda por persoa inferior a 4.630 €), cun máximo de 300 € por familia. O crédito total é de 8.000 € e entrégase un bono para canxear nas librarías colaboradoras. É incompatible con outras axudas para a mesma finalidade. Prazo pechado: desde o día seguinte ao extracto do BOP de Ourense do 26 de maio de 2026 ata o 30 de xuño de 2026 (do 27 de maio ao 30 de xuño). As bases fixan o uso do bono antes do 26 de outubro de 2026 e a xustificación das librarías antes do 31 de outubro de 2026.",
+      "categoria": "educacion",
+      "organismo": "Concello de O Barco de Valdeorras",
+      "organismoGl": "Concello de O Barco de Valdeorras",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/904361",
+      "municipios": [
+        "O Barco de Valdeorras"
+      ],
+      "plazoInicio": "2026-05-27T00:00:00.000",
+      "plazoFin": "2026-06-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a de 3, 4 o 5 años en el 2.º ciclo de Educación Infantil",
+          "textoExplicativoGl": "Ter un fillo/a de 3, 4 ou 5 anos no 2.º ciclo de Educación Infantil"
+        },
+        {
+          "campo": "rentaOCasoEspecialOBarco",
+          "operador": "alguno",
+          "valor": [
+            {
+              "campo": "rentaOBarcoLibros",
+              "operador": "limiteAnualPorMiembros",
+              "valor": [
+                [
+                  2,
+                  21000
+                ],
+                [
+                  3,
+                  21000
+                ],
+                [
+                  4,
+                  21000
+                ],
+                [
+                  5,
+                  23150
+                ],
+                [
+                  6,
+                  27780
+                ],
+                [
+                  7,
+                  32410
+                ],
+                [
+                  8,
+                  37040
+                ]
+              ],
+              "textoExplicativo": "Renta de la unidad familiar inferior a 21.000 € al año o, si la supera, inferior a 4.630 € por persona",
+              "textoExplicativoGl": "Renda da unidade familiar inferior a 21.000 € ao ano ou, se a supera, inferior a 4.630 € por persoa"
+            },
+            {
+              "campo": "descuentosOBarco",
+              "operador": "confirmar",
+              "valor": true,
+              "textoExplicativo": "Si tienes alquiler o hipoteca, discapacidad, familia monoparental o numerosa, violencia de género o desempleo, se descuenta entre un 10 % y un 40 % de los ingresos",
+              "textoExplicativoGl": "Se tes aluguer ou hipoteca, discapacidade, familia monoparental ou numerosa, violencia de xénero ou desemprego, descóntase entre un 10 % e un 40 % dos ingresos"
+            }
+          ],
+          "textoExplicativo": "Renta computable inferior a 21.000 € al año (o menos de 4.630 € por persona), tras los descuentos",
+          "textoExplicativoGl": "Renda computable inferior a 21.000 € ao ano (ou menos de 4.630 € por persoa), tras os descontos"
+        },
+        {
+          "campo": "matriculaOBarco",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Menor empadronado/a con residencia efectiva en O Barco de Valdeorras y matriculado/a en 2026/27 en un centro del municipio; no recibir otra ayuda para lo mismo",
+          "textoExplicativoGl": "Menor empadroado/a con residencia efectiva en O Barco de Valdeorras e matriculado/a en 2026/27 nun centro do municipio; non recibir outra axuda para o mesmo"
+        }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I), firmada por el padre, madre, tutor/a o quien tenga la guarda y custodia. Una sola solicitud por familia, con todos los menores. Se presenta en la sede electrónica (sede.concellodobarco.org) o en el Registro General (Plaza del Ayuntamiento n.º 2, de 9:00 a 14:00).",
+        "DNI, NIE o pasaporte de todos los miembros de la unidad familiar mayores de 14 años.",
+        "Volante de empadronamiento colectivo donde conste el menor.",
+        "Libro de familia o documento equivalente.",
+        "Certificado del centro con la matrícula del menor para 2026/27 y el curso.",
+        "Declaración del IRPF de 2024 o, si no hay, certificado de imputaciones de la Agencia Tributaria de todos los miembros computables.",
+        "Si no constan ingresos en el certificado de imputaciones: declaración responsable de ingresos de 2024 (Anexo II) con nóminas, certificados de prestaciones o pensiones, vida laboral u otro documento.",
+        "Si procede: sentencia o convenio de separación o divorcio y justificante de la pensión de alimentos; documentación de custodia compartida; documentación del otro progenitor si el menor solo está empadronado con uno; resolución de acogimiento.",
+        "Solo para los descuentos: contrato de alquiler y último recibo, o certificado bancario de la hipoteca; certificado de discapacidad (33 % o más) o de dependencia; documentación de monoparentalidad; título de familia numerosa; documentación de violencia de género; certificados de desempleo de más de 6 meses (SPEG, SEPE y vida laboral)."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I), asinada polo pai, nai, titor/a ou quen teña a garda e custodia. Unha soa solicitude por familia, con todos os menores. Preséntase na sede electrónica (sede.concellodobarco.org) ou no Rexistro Xeral (Praza do Concello n.º 2, de 9:00 a 14:00).",
+        "DNI, NIE ou pasaporte de todos os membros da unidade familiar maiores de 14 anos.",
+        "Volante de empadroamento colectivo onde conste o menor.",
+        "Libro de familia ou documento equivalente.",
+        "Certificado do centro coa matrícula do menor para 2026/27 e o curso.",
+        "Declaración do IRPF de 2024 ou, se non hai, certificado de imputacións da Axencia Tributaria de todos os membros computables.",
+        "Se non constan ingresos no certificado de imputacións: declaración responsable de ingresos de 2024 (Anexo II) con nóminas, certificados de prestacións ou pensións, vida laboral ou outro documento.",
+        "Se procede: sentenza ou convenio de separación ou divorcio e xustificante da pensión de alimentos; documentación de custodia compartida; documentación do outro proxenitor se o menor só está empadroado cun; resolución de acollemento.",
+        "Só para os descontos: contrato de aluguer e último recibo, ou certificado bancario da hipoteca; certificado de discapacidade (33 % ou máis) ou de dependencia; documentación de monoparentalidade; título de familia numerosa; documentación de violencia de xénero; certificados de desemprego de máis de 6 meses (SPEG, SEPE e vida laboral)."
       ]
     }
   ]
