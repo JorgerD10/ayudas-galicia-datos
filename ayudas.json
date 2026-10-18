@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-18d",
+  "revision": "2026-10-18e",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -3506,6 +3506,60 @@
         "Se non constan ingresos no certificado de imputacións: declaración responsable de ingresos de 2024 (Anexo II) con nóminas, certificados de prestacións ou pensións, vida laboral ou outro documento.",
         "Se procede: sentenza ou convenio de separación ou divorcio e xustificante da pensión de alimentos; documentación de custodia compartida; documentación do outro proxenitor se o menor só está empadroado cun; resolución de acollemento.",
         "Só para os descontos: contrato de aluguer e último recibo, ou certificado bancario da hipoteca; certificado de discapacidade (33 % ou máis) ou de dependencia; documentación de monoparentalidade; título de familia numerosa; documentación de violencia de xénero; certificados de desemprego de máis de 6 meses (SPEG, SEPE e vida laboral)."
+      ]
+    },
+    {
+      "id": "oimbra_libros_material_2026_27",
+      "titulo": "Ayudas de libros y material escolar 2026/27 (Oímbra)",
+      "tituloGl": "Axudas de libros e material escolar 2026/27 (Oímbra)",
+      "descripcion": "Ayudas del Concello de Oímbra para libros y material escolar del curso 2026/27, para familias empadronadas en Oímbra con alumnado en Educación Infantil (2.ª etapa) o Primaria del CEIP de Oímbra, o en ESO en centros de la comarca. Importe máximo: 60 € por niño/a, hasta agotar el crédito de 5.000 €. No hay límite de renta. Es compatible con otras ayudas, siempre que no superen el 100 % del gasto, y hay que comunicarlas al Concello. Se cobra por transferencia una vez aprobada definitivamente (resolución antes del 30 de noviembre de 2026), y hay que justificar el 100 % de la ayuda. Plazo según las bases: del 7 de septiembre al 23 de octubre de 2026. Aviso: según la BDNS, el extracto de la convocatoria todavía no consta publicado en el BOP y el plazo allí figura hasta el 31 de diciembre de 2026; conviene confirmar el plazo en el Concello (988 42 61 60).",
+      "descripcionGl": "Axudas do Concello de Oímbra para libros e material escolar do curso 2026/27, para familias empadroadas en Oímbra con alumnado en Educación Infantil (2.ª etapa) ou Primaria do CEIP de Oímbra, ou en ESO en centros da comarca. Importe máximo: 60 € por neno/a, ata esgotar o crédito de 5.000 €. Non hai límite de renda. É compatible con outras axudas, sempre que non superen o 100 % do gasto, e hai que comunicalas ao Concello. Cóbrase por transferencia unha vez aprobada definitivamente (resolución antes do 30 de novembro de 2026), e hai que xustificar o 100 % da axuda. Prazo segundo as bases: do 7 de setembro ao 23 de outubro de 2026. Aviso: segundo a BDNS, o extracto da convocatoria aínda non consta publicado no BOP e o prazo alí figura ata o 31 de decembro de 2026; convén confirmar o prazo no Concello (988 42 61 60).",
+      "categoria": "educacion",
+      "organismo": "Concello de Oímbra",
+      "organismoGl": "Concello de Oímbra",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/892748",
+      "municipios": [
+        "Oímbra"
+      ],
+      "plazoInicio": "2026-09-07T00:00:00.000",
+      "plazoFin": "2026-10-23T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en Educación Infantil (2.ª etapa), Primaria o ESO",
+          "textoExplicativoGl": "Ter un fillo/a en Educación Infantil (2.ª etapa), Primaria ou ESO"
+        },
+        {
+          "campo": "matriculaOimbra",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a matriculado/a en 2026/27 en el CEIP de Oímbra (Infantil y Primaria) o en un centro de ESO de la comarca, y empadronado/a en Oímbra junto con uno de sus progenitores o tutores",
+          "textoExplicativoGl": "Alumno/a matriculado/a en 2026/27 no CEIP de Oímbra (Infantil e Primaria) ou nun centro de ESO da comarca, e empadroado/a en Oímbra xunto cun dos seus proxenitores ou titores"
+        },
+        {
+          "campo": "corrienteOimbra",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente en el pago de los tributos y tasas municipales",
+          "textoExplicativoGl": "Estar ao corrente no pagamento dos tributos e taxas municipais"
+        }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I) en el modelo del Concello, con los datos de la persona solicitante, el IBAN y los datos del alumno/a (fecha de nacimiento, estudios, centro y curso). Se presenta en el Registro General del Ayuntamiento de Oímbra o por cualquiera de las formas previstas en la ley.",
+        "Certificado o informe del centro donde estudia el alumno/a, con el curso en el que está matriculado.",
+        "Certificado del número de cuenta bancaria.",
+        "Declaración responsable (Anexo II) de no estar en ninguna de las prohibiciones del art. 10 de la Ley 9/2007 y de estar al corriente con el Ayuntamiento, la Agencia Tributaria, la Xunta y la Seguridad Social."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I) no modelo do Concello, cos datos da persoa solicitante, o IBAN e os datos do alumno/a (data de nacemento, estudos, centro e curso). Preséntase no Rexistro Xeral do Concello de Oímbra ou por calquera das formas previstas na lei.",
+        "Certificado ou informe do centro onde estuda o alumno/a, co curso no que está matriculado.",
+        "Certificado do número de conta bancaria.",
+        "Declaración responsable (Anexo II) de non estar en ningunha das prohibicións do art. 10 da Lei 9/2007 e de estar ao corrente co Concello, a Axencia Tributaria, a Xunta e a Seguridade Social."
       ]
     }
   ]
