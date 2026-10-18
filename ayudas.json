@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-18a",
+  "revision": "2026-10-18b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -3224,6 +3224,120 @@
         "Se alguén non está obrigado a declarar ou a situación económica actual é distinta (Anexo III): nómina do mes anterior á apertura do prazo, certificado do servizo de emprego e da Seguridade Social (desemprego), certificado de pensións, de ingreso mínimo vital ou de RISGA, ou declaración responsable doutros ingresos.",
         "Se procede: sentenza e convenio de separación ou divorcio, xustificante da demanda de divorcio, certificado de defunción, certificado de discapacidade do 33 % ou máis, resolución de dependencia ou documentación de violencia de xénero.",
         "Certificado de convivencia e certificado de estar ao día coas obrigas tributarias municipais, se non se autoriza a súa consulta."
+      ]
+    },
+    {
+      "id": "ogrove_libros_material_2026_27",
+      "titulo": "Ayudas de libros y material escolar 2026/27 (O Grove)",
+      "tituloGl": "Axudas de libros e material escolar 2026/27 (O Grove)",
+      "descripcion": "Ayudas del Concello de O Grove para libros de texto y material escolar del alumnado empadronado en O Grove que estudia en centros del municipio financiados con fondos públicos, en Educación Infantil, Primaria o ESO. Importe máximo por hijo/a: 50 € (Infantil 0-3 años, solo material), 120 € (Infantil 4-6 años), 70 € (Primaria) y 90 € (ESO); si el crédito (10.000 €) no alcanza, se reduce en proporción. La renta familiar de 2025 (base imponible general más la del ahorro) no puede superar, según la tabla de las bases: 9.240 € al año con 2 miembros, 10.080 € con 3, 10.920 € con 4, 11.760 € con 5, 12.600 € con 6, 13.440 € con 7 y 14.280 € con 8 (después, 840 € más por miembro). Se puede descontar el alquiler o la hipoteca de la vivienda habitual; el alumnado en guarda o tutela de la Xunta queda exento del límite de renta. Es compatible con otras ayudas por el mismo concepto. Se cobra tras presentar factura desglosada. Plazo cerrado: del 5 al 30 de junio de 2026 (desde el día siguiente al extracto del BOPPO del 4 de junio). Aviso: las bases tienen dos datos que no coinciden: el texto fija el IPREM en 600 € (660 € al mes con 2 miembros), pero la tabla indica 770 € (9.240 € al año), y el descuento de vivienda figura como 300 € y como 400 € al mes. Aquí se usa la tabla; pendiente de confirmar con el Concello.",
+      "descripcionGl": "Axudas do Concello do Grove para libros de texto e material escolar do alumnado empadroado no Grove que estuda en centros do municipio sostidos con fondos públicos, en Educación Infantil, Primaria ou ESO. Importe máximo por fillo/a: 50 € (Infantil 0-3 anos, só material), 120 € (Infantil 4-6 anos), 70 € (Primaria) e 90 € (ESO); se o crédito (10.000 €) non chega, redúcese en proporción. A renda familiar de 2025 (base impoñible xeral máis a do aforro) non pode superar, segundo a táboa das bases: 9.240 € ao ano con 2 membros, 10.080 € con 3, 10.920 € con 4, 11.760 € con 5, 12.600 € con 6, 13.440 € con 7 e 14.280 € con 8 (despois, 840 € máis por membro). Pódese descontar o aluguer ou a hipoteca da vivenda habitual; o alumnado en garda ou titoría da Xunta queda exento do límite de renda. É compatible con outras axudas polo mesmo concepto. Cóbrase tras presentar factura desagregada. Prazo pechado: do 5 ao 30 de xuño de 2026 (desde o día seguinte ao extracto do BOPPO do 4 de xuño). Aviso: as bases teñen dous datos que non coinciden: o texto fixa o IPREM en 600 € (660 € ao mes con 2 membros), pero a táboa indica 770 € (9.240 € ao ano), e o desconto de vivenda figura como 300 € e como 400 € ao mes. Aquí úsase a táboa; pendente de confirmar co Concello.",
+      "categoria": "educacion",
+      "organismo": "Concello do Grove",
+      "organismoGl": "Concello do Grove",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/909407",
+      "municipios": [
+        "O Grove"
+      ],
+      "plazoInicio": "2026-06-05T00:00:00.000",
+      "plazoFin": "2026-06-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            0,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en Educación Infantil, Primaria o ESO",
+          "textoExplicativoGl": "Ter un fillo/a en Educación Infantil, Primaria ou ESO"
+        },
+        {
+          "campo": "rentaOCasoEspecialOGrove",
+          "operador": "alguno",
+          "valor": [
+            {
+              "campo": "rentaOGroveLibros",
+              "operador": "limiteAnualPorMiembros",
+              "valor": [
+                [
+                  2,
+                  9240
+                ],
+                [
+                  3,
+                  10080
+                ],
+                [
+                  4,
+                  10920
+                ],
+                [
+                  5,
+                  11760
+                ],
+                [
+                  6,
+                  12600
+                ],
+                [
+                  7,
+                  13440
+                ],
+                [
+                  8,
+                  14280
+                ],
+                [
+                  9,
+                  15120
+                ],
+                [
+                  10,
+                  15960
+                ]
+              ],
+              "textoExplicativo": "Renta familiar de 2025 de hasta 9.240 € al año con 2 miembros, 10.080 € con 3, 10.920 € con 4, 11.760 € con 5 y 12.600 € con 6",
+              "textoExplicativoGl": "Renda familiar de 2025 de ata 9.240 € ao ano con 2 membros, 10.080 € con 3, 10.920 € con 4, 11.760 € con 5 e 12.600 € con 6"
+            },
+            {
+              "campo": "casoEspecialOGrove",
+              "operador": "confirmar",
+              "valor": true,
+              "textoExplicativo": "Si pagas alquiler o hipoteca de la vivienda habitual, se descuenta de la renta (hasta 300-400 € al mes); el alumnado en guarda o tutela de la Xunta no tiene límite de renta",
+              "textoExplicativoGl": "Se pagas aluguer ou hipoteca da vivenda habitual, descóntase da renda (ata 300-400 € ao mes); o alumnado en garda ou titoría da Xunta non ten límite de renda"
+            }
+          ],
+          "textoExplicativo": "Renta familiar de 2025 dentro del límite según el número de miembros (se puede descontar el alquiler o la hipoteca)",
+          "textoExplicativoGl": "Renda familiar de 2025 dentro do límite segundo o número de membros (pódese descontar o aluguer ou a hipoteca)"
+        },
+        {
+          "campo": "matriculaOGrove",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a empadronado/a en O Grove y matriculado/a en un centro del municipio financiado con fondos públicos; estar al corriente de las obligaciones tributarias",
+          "textoExplicativoGl": "Alumno/a empadroado/a no Grove e matriculado/a nun centro do municipio sostido con fondos públicos; estar ao corrente das obrigas tributarias"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado, en el Registro o en la Sede Electrónica del Ayuntamiento.",
+        "Fotocopia del DNI de la persona solicitante y del libro de familia.",
+        "Volante de empadronamiento familiar (lo pide Servicios Sociales).",
+        "Justificante de los ingresos de 2025 de todos los miembros de la unidad de convivencia: declaración de la renta, nóminas, certificados de empresa, certificado de prestaciones por desempleo o de pensión de la Seguridad Social.",
+        "Contrato o recibo del alquiler, o recibo de la hipoteca de la vivienda.",
+        "Nota o certificado del colegio con el curso que realiza el alumno/a.",
+        "Declaración responsable de destinar la ayuda a libros y material escolar, de no estar en causa de prohibición (art. 13.2 LGS) y de estar al corriente de las obligaciones tributarias.",
+        "Después de la concesión (30 días desde la notificación): factura original desglosada de la compra (no vale «material escolar» genérico; también vale el justificante de lo pagado a la AMPA o al centro) y certificación bancaria de la cuenta."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado, no Rexistro ou na Sede Electrónica do Concello.",
+        "Fotocopia do DNI da persoa solicitante e do libro de familia.",
+        "Volante de empadroamento familiar (pídeo Servizos Sociais).",
+        "Xustificante dos ingresos de 2025 de todos os membros da unidade de convivencia: declaración da renda, nóminas, certificados de empresa, certificado de prestacións por desemprego ou de pensión da Seguridade Social.",
+        "Contrato ou recibo do aluguer, ou recibo da hipoteca da vivenda.",
+        "Nota ou certificado do colexio co curso que realiza o alumno/a.",
+        "Declaración responsable de destinar a axuda a libros e material escolar, de non estar en causa de prohibición (art. 13.2 LXS) e de estar ao corrente das obrigas tributarias.",
+        "Despois da concesión (30 días desde a notificación): factura orixinal desagregada da compra (non vale «material escolar» xenérico; tamén vale o xustificante do pagado á ANPA ou ao centro) e certificación bancaria da conta."
       ]
     }
   ]
