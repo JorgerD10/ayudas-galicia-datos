@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-18c",
+  "revision": "2026-10-18d",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -446,11 +446,11 @@
       "id": "ourense_libros_comedor_2026_27",
       "titulo": "Ayudas municipales de libros, material escolar y comedor de Ourense 2026-2027",
       "tituloGl": "Axudas municipais de libros, material escolar e comedor de Ourense 2026-2027",
-      "descripcion": "Ayudas del Concello de Ourense para unidades de convivencia en desventaja social y con menor poder adquisitivo, empadronadas en Ourense (toda la unidad familiar, en el mismo domicilio y con al menos 3 meses de antigüedad), con hijos/as en centros públicos o concertados de la ciudad. Libros y material escolar: 110 € para alumnado de segundo ciclo de Infantil (3 a 5 años), pagados con vales en librerías de Ourense. Comedor: 90 € al mes para alumnado de Infantil, Primaria o ESO con plaza de comedor; la ayuda se paga a los centros. La renta anual de la familia no puede superar 4.000 € por miembro. Convocatoria del curso 2026-2027 cerrada (plazo del 30 de abril al 21 de mayo de 2026): conviene vigilar la del próximo año.",
-      "descripcionGl": "Axudas do Concello de Ourense para unidades de convivencia en desvantaxe social e con menor poder adquisitivo, empadroadas en Ourense (toda a unidade familiar, no mesmo domicilio e con polo menos 3 meses de antigüidade), con fillos/as en centros públicos ou concertados da cidade. Libros e material escolar: 110 € para alumnado de segundo ciclo de Infantil (3 a 5 anos), pagados con vales en librarías de Ourense. Comedor: 90 € ao mes para alumnado de Infantil, Primaria ou ESO con praza de comedor; a axuda págase aos centros. A renda anual da familia non pode superar os 4.000 € por membro. Convocatoria do curso 2026-2027 pechada (prazo do 30 de abril ao 21 de maio de 2026): convén vixiar a do próximo ano.",
+      "descripcion": "Ayudas del Concello de Ourense para unidades de convivencia en desventaja social y con menor poder adquisitivo, empadronadas en Ourense (toda la unidad familiar, en el mismo domicilio y con al menos 3 meses de antigüedad), con hijos/as en centros públicos o concertados de la ciudad. Libros y material escolar: 110 € para alumnado de segundo ciclo de Infantil (3 a 5 años), pagados con vales en librerías de Ourense. Comedor: 90 € al mes para alumnado de Infantil, Primaria o ESO con plaza de comedor; la ayuda se paga a los centros. La renta anual de la familia no puede superar 4.000 € por miembro. Convocatoria del curso 2026-2027 cerrada (plazo del 30 de abril al 21 de mayo de 2026, con extracto en el BOP del 29 de abril): conviene vigilar la del próximo año.",
+      "descripcionGl": "Axudas do Concello de Ourense para unidades de convivencia en desvantaxe social e con menor poder adquisitivo, empadroadas en Ourense (toda a unidade familiar, no mesmo domicilio e con polo menos 3 meses de antigüidade), con fillos/as en centros públicos ou concertados da cidade. Libros e material escolar: 110 € para alumnado de segundo ciclo de Infantil (3 a 5 anos), pagados con vales en librarías de Ourense. Comedor: 90 € ao mes para alumnado de Infantil, Primaria ou ESO con praza de comedor; a axuda págase aos centros. A renda anual da familia non pode superar os 4.000 € por membro. Convocatoria do curso 2026-2027 pechada (prazo do 30 de abril ao 21 de maio de 2026, con extracto no BOP do 29 de abril): convén vixiar a do próximo ano.",
       "categoria": "educacion",
       "organismo": "Concello de Ourense",
-      "enlaceOficial": "https://ourense.gal/gl/actualidad/o-concello-abrira-o-30-de-abril-o-prazo-para-solicitar-as-axudas-para-libros-e-comedores-escolares-para-o-curso-20262027",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/901430",
       "municipios": [
         "Ourense"
       ],
@@ -482,9 +482,49 @@
           "textoExplicativoGl": "Que toda a unidade familiar estea empadroada en Ourense, no mesmo domicilio, desde hai polo menos 3 meses"
         },
         {
-          "campo": "rentaOurense",
-          "operador": "confirmar",
-          "valor": true,
+          "campo": "rentaOCasoEspecialOurense",
+          "operador": "alguno",
+          "valor": [
+            {
+              "campo": "rentaOurenseLibros",
+              "operador": "limiteAnualPorMiembros",
+              "valor": [
+                [
+                  2,
+                  8000
+                ],
+                [
+                  3,
+                  12000
+                ],
+                [
+                  4,
+                  16000
+                ],
+                [
+                  5,
+                  20000
+                ],
+                [
+                  6,
+                  24000
+                ],
+                [
+                  7,
+                  28000
+                ]
+              ],
+              "textoExplicativo": "Que la renta anual de la familia no supere 4.000 € por miembro (8.000 € con 2 miembros, 12.000 € con 3, 16.000 € con 4 y 20.000 € con 5)",
+              "textoExplicativoGl": "Que a renda anual da familia non supere 4.000 € por membro (8.000 € con 2 membros, 12.000 € con 3, 16.000 € con 4 e 20.000 € con 5)"
+            },
+            {
+              "campo": "casoEspecialOurense",
+              "operador": "confirmar",
+              "valor": true,
+              "textoExplicativo": "Si algún miembro tiene discapacidad del 33 % o más, o es familia monoparental, cuenta un miembro más para el límite",
+              "textoExplicativoGl": "Se algún membro ten discapacidade do 33 % ou máis, ou é familia monoparental, conta un membro máis para o límite"
+            }
+          ],
           "textoExplicativo": "Que la renta anual de la familia no supere 4.000 € por miembro (cuenta un miembro más si hay discapacidad del 33 % o más, o en familias monoparentales)",
           "textoExplicativoGl": "Que a renda anual da familia non supere os 4.000 € por membro (conta un membro máis se hai discapacidade do 33 % ou máis, ou en familias monoparentais)"
         },
@@ -502,6 +542,26 @@
           "textoExplicativo": "Para la ayuda de comedor: tener plaza de comedor solicitada en el centro",
           "textoExplicativoGl": "Para a axuda de comedor: ter praza de comedor solicitada no centro"
         }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo II) firmada por el padre, madre o tutor/a, con el nombre del menor, el centro y el curso. Se presenta en el Registro General del Ayuntamiento de Ourense o por cualquiera de los medios del art. 16.4 de la Ley 39/2015.",
+        "Autorización (Anexo III) firmada por todos los miembros de la unidad de convivencia, incluida la persona solicitante, para que el Ayuntamiento consulte sus datos.",
+        "DNI (mayores de 14 años), NIE o pasaporte en vigor de todos los miembros y libro de familia completo.",
+        "Las dos últimas declaraciones del IRPF de cada miembro computable. Si no están obligados a declarar, y para los mayores de 16 años: certificado de empresa, certificado del SEPE y justificante de pensión, jubilación u otras prestaciones.",
+        "Certificado del centro de estudios con la matrícula del alumno/a, y de cualquier otro miembro que estudie.",
+        "Informe de vida laboral actualizado de todos los miembros mayores de 16 años.",
+        "Certificado integral de prestaciones de los dos últimos años (pensiones, desempleo, RISGA, IMV u otras).",
+        "Si procede: sentencia o convenio de separación o divorcio con los justificantes de los pagos (o de la ejecución en caso de impago), sentencia de guarda y custodia si hay unión de hecho sin convivencia, resolución de acogimiento y certificado de discapacidad del 33 % o más."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo II) asinada polo pai, nai ou titor/a, co nome do menor, o centro e o curso. Preséntase no Rexistro Xeral do Concello de Ourense ou por calquera dos medios do art. 16.4 da Lei 39/2015.",
+        "Autorización (Anexo III) asinada por todos os membros da unidade de convivencia, incluída a persoa solicitante, para que o Concello consulte os seus datos.",
+        "DNI (maiores de 14 anos), NIE ou pasaporte en vigor de todos os membros e libro de familia completo.",
+        "As dúas últimas declaracións do IRPF de cada membro computable. Se non están obrigados a declarar, e para os maiores de 16 anos: certificado de empresa, certificado do SEPE e xustificante de pensión, xubilación ou outras prestacións.",
+        "Certificado do centro de estudos coa matrícula do alumno/a, e de calquera outro membro que estude.",
+        "Informe de vida laboral actualizado de todos os membros maiores de 16 anos.",
+        "Certificado integral de prestacións dos dous últimos anos (pensións, desemprego, RISGA, IMV ou outras).",
+        "Se procede: sentenza ou convenio de separación ou divorcio cos xustificantes dos pagos (ou da execución en caso de impago), sentenza de garda e custodia se hai unión de feito sen convivencia, resolución de acollemento e certificado de discapacidade do 33 % ou máis."
       ]
     },
     {
