@@ -3561,6 +3561,66 @@
         "Certificado do número de conta bancaria.",
         "Declaración responsable (Anexo II) de non estar en ningunha das prohibicións do art. 10 da Lei 9/2007 e de estar ao corrente co Concello, a Axencia Tributaria, a Xunta e a Seguridade Social."
       ]
+    },
+    {
+      "id": "cervo_libros_infantil_2026_27",
+      "titulo": "Ayuda municipal para libros y material de Infantil 2026/27 (Cervo)",
+      "tituloGl": "Axuda municipal para libros e material de Infantil 2026/27 (Cervo)",
+      "descripcion": "Ayuda del Concello de Cervo para libros de texto y material escolar del alumnado de 3 a 5 años (2.º ciclo de Infantil) en el CEIP Cervo o el CEIP Península da Paz, curso 2026/27. Es una ayuda social para familias en situación de vulnerabilidad económica.\n\nCuánto: 130 € por alumno/a si la renta per cápita familiar es igual o inferior al IPREM (7.200 € al año), y 100 € si está entre el 100 % y el 150 % del IPREM (hasta 10.800 €). Se paga lo justificado con facturas de comercios de Cervo, preferiblemente con cheque bancario. Crédito de 2.000 €: si no llega, se empieza por las rentas más bajas.\n\nQuién puede pedirla: toda la unidad familiar empadronada y con residencia efectiva en Cervo, sin deudas con Hacienda ni con la Seguridad Social y sin ninguna subvención del Concello pendiente de justificar.\n\nCuándo se pide: convocatoria registrada en la BDNS el 16 de octubre de 2026 (código 935755). El plazo son 15 días desde la publicación del extracto en el BOP de Lugo, que a 22/10 aún no está publicado. Consulta las fechas en la sede electrónica del Concello.\n\nOjo: las bases calculan la renta con el ejercicio 2025, pero piden el certificado de rentas de 2024. Confirma con el Concello (982 55 77 77).",
+      "descripcionGl": "Axuda do Concello de Cervo para libros de texto e material escolar do alumnado de 3 a 5 anos (2.º ciclo de Infantil) no CEIP Cervo ou o CEIP Península da Paz, curso 2026/27. É unha axuda social para familias en situación de vulnerabilidade económica.\n\nCanto: 130 € por alumno/a se a renda per cápita familiar é igual ou inferior ao IPREM (7.200 € ao ano), e 100 € se está entre o 100 % e o 150 % do IPREM (ata 10.800 €). Págase o xustificado con facturas de comercios de Cervo, preferentemente con cheque bancario. Crédito de 2.000 €: se non chega, comézase polas rendas máis baixas.\n\nQuen pode pedila: toda a unidade familiar empadroada e con residencia efectiva en Cervo, sen débedas con Facenda nin coa Seguridade Social e sen ningunha subvención do Concello pendente de xustificar.\n\nCando se pide: convocatoria rexistrada na BDNS o 16 de outubro de 2026 (código 935755). O prazo son 15 días desde a publicación do extracto no BOP de Lugo, que a 22/10 aínda non está publicado. Consulta as datas na sede electrónica do Concello.\n\nOllo: as bases calculan a renda co exercicio 2025, pero piden o certificado de rendas de 2024. Confirma co Concello (982 55 77 77).",
+      "categoria": "educacion",
+      "organismo": "Concello de Cervo",
+      "organismoGl": "Concello de Cervo",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935755",
+      "municipios": [
+        "Cervo"
+      ],
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a de 3 a 5 años (2.º ciclo de Educación Infantil) en el CEIP Cervo o en el CEIP Península da Paz en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a de 3 a 5 anos (2.º ciclo de Educación Infantil) no CEIP Cervo ou no CEIP Península da Paz no curso 2026/27"
+        },
+        {
+          "campo": "rentaPerCapitaCervo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita de la familia no supere el 150 % del IPREM (10.800 € al año)",
+          "textoExplicativoGl": "Que a renda per cápita da familia non supere o 150 % do IPREM (10.800 € ao ano)"
+        },
+        {
+          "campo": "empadronamientoObligacionesCervo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que toda la unidad familiar esté empadronada y resida en Cervo, sin deudas con Hacienda ni con la Seguridad Social, y sin ninguna subvención del Concello pendiente de justificar",
+          "textoExplicativoGl": "Que toda a unidade familiar estea empadroada e resida en Cervo, sen débedas con Facenda nin coa Seguridade Social, e sen ningunha subvención do Concello pendente de xustificar"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo oficial (Anexo I), con los datos de los hijos/as escolarizados, presentada en el Registro General del Concello (Plaza del Ayuntamiento s/n) o por cualquiera de las vías del artículo 16.4 de la Ley 39/2015.",
+        "Anexo II: declaración responsable de la composición de la unidad familiar y autorización para consultar ingresos y deudas.",
+        "Fotocopia del DNI de todos los miembros de la unidad familiar mayores de edad.",
+        "Fotocopia del libro de familia.",
+        "Certificado de la Agencia Tributaria de las rentas de los miembros computables (las bases dicen ejercicio 2024; solo si no se firma la autorización del Anexo II).",
+        "Factura de compra de los libros y del material escolar en un comercio de Cervo.",
+        "Si procede: certificado de discapacidad o de dependencia de algún miembro de la unidad familiar.",
+        "Si procede: sentencia de separación o divorcio y/o convenio regulador donde conste la custodia del alumno/a."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo oficial (Anexo I), cos datos dos fillos/as escolarizados, presentada no Rexistro Xeral do Concello (Praza do Concello s/n) ou por calquera das vías do artigo 16.4 da Lei 39/2015.",
+        "Anexo II: declaración responsable da composición da unidade familiar e autorización para consultar ingresos e débedas.",
+        "Fotocopia do DNI de todos os membros da unidade familiar maiores de idade.",
+        "Fotocopia do libro de familia.",
+        "Certificado da Axencia Tributaria das rendas dos membros computables (as bases din exercicio 2024; só se non se asina a autorización do Anexo II).",
+        "Factura de compra dos libros e do material escolar nun comercio de Cervo.",
+        "Se procede: certificado de discapacidade ou de dependencia dalgún membro da unidade familiar.",
+        "Se procede: sentenza de separación ou divorcio e/ou convenio regulador onde conste a custodia do alumno/a."
+      ]
     }
   ]
 }
