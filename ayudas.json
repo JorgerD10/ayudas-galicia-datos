@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-23c",
+  "revision": "2026-10-23d",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -3929,6 +3929,104 @@
         "Para puntos de conciliación: certificado da empresa co horario de traballo (ou declaración xurada se es autónomo/a).",
         "Segundo o teu caso: sentenza e convenio regulador con xustificantes de pensións (separación, divorcio ou unión de feito con fillos) ou certificado de acollemento.",
         "Se ta conceden: aceptación ou renuncia (Anexo 6) en 15 días hábiles desde a resolución definitiva."
+      ]
+    },
+    {
+      "id": "ribeira_material_comedor_2026_27",
+      "titulo": "Ayudas de material escolar, informática y comedor 2026/27 (Ribeira)",
+      "tituloGl": "Axudas de material escolar, informática e comedor 2026/27 (Ribeira)",
+      "descripcion": "Ayudas del Concello de Ribeira para el curso 2026/27 a familias con alumnado de 2.º ciclo de Infantil, Primaria y ESO en centros públicos y concertados de Ribeira. Hay tres líneas: libros y material escolar (Infantil), material informático (ESO) y comedor escolar. Se conceden por puntos.\n\nCuánto: libros y material de Infantil (3 a 5 años), 75 € por alumno/a; material informático en ESO, el 75 % de la factura hasta 300 € (ambos solo en comercio local); comedor de septiembre a junio, 3 € por día lectivo con 10 a 12 puntos, 4 € con 13 a 15 y 5 € con 16 o más, y la diferencia con el precio del comedor la pagas tú. Crédito total: 64.000 € (4.000 € libros y material, 3.000 € informática y 57.000 € comedor).\n\nQuién puede pedirla: familias empadronadas en Ribeira, que convivan con el alumno/a matriculado/a en un centro de Ribeira, con una renta per cápita de menos de 8.000 € al año. Hacen falta al menos 10 puntos en total: la renta da de 7 a 11 (hasta 4.000 € son 11; hasta 5.000 €, 10; hasta 6.000 €, 9; hasta 7.000 €, 8; hasta 8.000 €, 7) y se suma 1 punto por incompatibilidad horaria de los progenitores, monoparentalidad, familia numerosa y discapacidad. Acogimiento, tutela de una institución pública y violencia de género acreditada tienen directamente los puntos para el comedor de mayor cuantía.\n\nCuándo se pide: el extracto salió en el BOP de A Coruña el 2/6/2026 y el plazo era de 15 días hábiles, así que cerró el 23/6/2026. Las solicitudes que se quedan sin crédito pasan a lista de espera y se conceden si sobra dinero (libros y material hasta el 1 de diciembre; comedor, durante todo el curso).\n\nOjo: las bases piden no superar 8.000 € de renta de 2024, pero para calcularla y en los documentos piden la declaración de 2025 (usa la de 2025). Con la ayuda de comedor hay que ir de lunes a viernes todo el curso (septiembre y junio son voluntarios). Es incompatible con otra ayuda para lo mismo. Vigila mayo y junio de 2027.",
+      "descripcionGl": "Axudas do Concello de Ribeira para o curso 2026/27 a familias con alumnado de 2.º ciclo de Infantil, Primaria e ESO en centros públicos e concertados de Ribeira. Hai tres liñas: libros e material escolar (Infantil), material informático (ESO) e comedor escolar. Concédense por puntos.\n\nCanto: libros e material de Infantil (3 a 5 anos), 75 € por alumno/a; material informático en ESO, o 75 % da factura ata 300 € (ambos só en comercio local); comedor de setembro a xuño, 3 € por día lectivo con 10 a 12 puntos, 4 € con 13 a 15 e 5 € con 16 ou máis, e a diferenza co prezo do comedor pagas ti. Crédito total: 64.000 € (4.000 € libros e material, 3.000 € informática e 57.000 € comedor).\n\nQuen pode pedila: familias empadroadas en Ribeira, que convivan co alumno/a matriculado/a nun centro de Ribeira, cunha renda per cápita de menos de 8.000 € ao ano. Fan falta polo menos 10 puntos en total: a renda dá de 7 a 11 (ata 4.000 € son 11; ata 5.000 €, 10; ata 6.000 €, 9; ata 7.000 €, 8; ata 8.000 €, 7) e suma 1 punto por incompatibilidade horaria dos proxenitores, monoparentalidade, familia numerosa e discapacidade. Acollemento, titela dunha institución pública e violencia de xénero acreditada teñen directamente os puntos para o comedor de maior contía.\n\nCando se pide: o extracto saíu no BOP da Coruña o 2/6/2026 e o prazo era de 15 días hábiles, así que pechou o 23/6/2026. As solicitudes que se quedan sen crédito pasan a lista de agarda e concédense se sobra diñeiro (libros e material ata o 1 de decembro; comedor, durante todo o curso).\n\nOllo: as bases piden non superar 8.000 € de renda de 2024, pero para calculala e nos documentos piden a declaración de 2025 (usa a de 2025). Coa axuda de comedor hai que ir de luns a venres todo o curso (setembro e xuño son voluntarios). É incompatible con outra axuda para o mesmo. Vixía maio e xuño de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de Ribeira",
+      "organismoGl": "Concello de Ribeira",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/908830",
+      "municipios": [
+        "Ribeira"
+      ],
+      "plazoInicio": "2026-06-03T00:00:00.000",
+      "plazoFin": "2026-06-23T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en 2.º ciclo de Infantil, Primaria o ESO en un centro público o concertado de Ribeira",
+          "textoExplicativoGl": "Ter un fillo/a en 2.º ciclo de Infantil, Primaria ou ESO nun centro público ou concertado de Ribeira"
+        },
+        {
+          "campo": "rentaRibeira",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              16000
+            ],
+            [
+              3,
+              24000
+            ],
+            [
+              4,
+              32000
+            ],
+            [
+              5,
+              40000
+            ],
+            [
+              6,
+              48000
+            ],
+            [
+              7,
+              56000
+            ],
+            [
+              8,
+              64000
+            ]
+          ],
+          "textoExplicativo": "Que la renta per cápita de la familia sea inferior a 8.000 € al año",
+          "textoExplicativoGl": "Que a renda per cápita da familia sexa inferior a 8.000 € ao ano"
+        },
+        {
+          "campo": "empadronamientoRibeira",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Familia empadronada en Ribeira y que conviva con el alumno/a, matriculado/a (o con reserva de plaza) en un centro de Ribeira",
+          "textoExplicativoGl": "Familia empadroada en Ribeira e que conviva co alumno/a, matriculado/a (ou con reserva de praza) nun centro de Ribeira"
+        },
+        {
+          "campo": "puntosRibeira",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Sumar al menos 10 puntos en el baremo (la renta da de 7 a 11; más 1 por incompatibilidad horaria, monoparentalidad, familia numerosa y discapacidad)",
+          "textoExplicativoGl": "Sumar polo menos 10 puntos no baremo (a renda dá de 7 a 11; máis 1 por incompatibilidade horaria, monoparentalidade, familia numerosa e discapacidade)"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo oficial (Anexo I), firmada por quien representa a la unidad de convivencia, en el Registro del Concello o por cualquier vía del art. 16.4 de la Ley 39/2015. Una sola solicitud por familia.",
+        "Fotocopia del DNI, NIE o pasaporte de quien solicita y de todos los miembros de la familia, y fotocopia del libro de familia completo (con las fechas de nacimiento).",
+        "Declaración de la renta de 2025 de todos los miembros (o certificado de rentas de la Agencia Tributaria si no la presentan) y, si procede, certificado de 2025 de pensiones, desempleo, RISGA, Ingreso Mínimo Vital u otras prestaciones.",
+        "Título de familia numerosa en vigor, si procede.",
+        "Para libros, material o informática: documento con el IBAN de la cuenta de quien solicita.",
+        "Según tu caso: certificado de discapacidad (33 % o más), sentencia u orden de protección por violencia de género (de los últimos 24 meses), sentencia de separación o divorcio o convenio regulador, resolución de acogimiento o tutela, o certificado de monoparentalidad de la Xunta.",
+        "Para el comedor: certificado de la empresa con el horario de trabajo del 2026 (o declaración jurada si eres autónomo/a) que acredite la incompatibilidad horaria, y la resolución educativa si es educación combinada.",
+        "Si te la conceden: factura del material a nombre de quien solicita (justificar antes del 15 de diciembre de 2026); el comedor se factura mensualmente por el centro o la entidad."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo oficial (Anexo I), asinada por quen representa a unidade de convivencia, no Rexistro do Concello ou por calquera vía do art. 16.4 da Lei 39/2015. Unha soa solicitude por familia.",
+        "Fotocopia do DNI, NIE ou pasaporte de quen solicita e de todos os membros da familia, e fotocopia do libro de familia completo (coas datas de nacemento).",
+        "Declaración da renda de 2025 de todos os membros (ou certificado de rendas da Axencia Tributaria se non a presentan) e, se procede, certificado de 2025 de pensións, desemprego, RISGA, Ingreso Mínimo Vital ou outras prestacións.",
+        "Título de familia numerosa en vigor, se procede.",
+        "Para libros, material ou informática: documento co IBAN da conta de quen solicita.",
+        "Segundo o teu caso: certificado de discapacidade (33 % ou máis), sentenza ou orde de protección por violencia de xénero (dos últimos 24 meses), sentenza de separación ou divorcio ou convenio regulador, resolución de acollemento ou titela, ou certificado de monoparentalidade da Xunta.",
+        "Para o comedor: certificado da empresa co horario de traballo do 2026 (ou declaración xurada se es autónomo/a) que acredite a incompatibilidade horaria, e a resolución educativa se é educación combinada.",
+        "Se ta conceden: factura do material a nome de quen solicita (xustificar antes do 15 de decembro de 2026); o comedor factúrase mensualmente polo centro ou a entidade."
       ]
     }
   ]
