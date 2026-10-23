@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-23e",
+  "revision": "2026-10-23f",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -4116,6 +4116,67 @@
         "Se os teus ingresos baixaron moito: documentos de 2025 e de 2024 (para comparar) e a proba do motivo (despedimento, liquidación de empresa...).",
         "Casos de problemática social grave: os Servizos Sociais poden presentala de oficio, co informe da educadora familiar en lugar do anterior.",
         "Se che a conceden: aceptación en 10 días e, para o comedor, compromiso de permanencia durante o curso (revísase cada tres meses)."
+      ]
+    },
+    {
+      "id": "xove_estudio_2025_26",
+      "titulo": "Ayudas al estudio: comedor, estancia y transporte, curso 2025/26 (Xove)",
+      "tituloGl": "Axudas ao estudo: comedor, estancia e transporte, curso 2025/26 (Xove)",
+      "descripcion": "Ayudas del Concello de Xove para los gastos del curso 2025/26 de estudiantes empadronados en Xove: comedor (alumnado de centros públicos de la Mariña que come fuera de Xove por sus horarios), estancia (universidad, ciclos que no existen en la comarca, enseñanzas artísticas y deportivas) y transporte.\n\nCuánto: comedor, 240 €. Estancia, 300 € (universitarios, ciclos que no existen en la comarca y enseñanzas artísticas o deportivas). Transporte: 300 € para ciclos en la Mariña Lucense (salvo San Cibrao, Viveiro y Burela) y 200 € para ciclos que no existen en la comarca, enseñanzas artísticas o deportivas y universitarios. Son compatibles entre sí. Crédito total: 15.000 €; se atiende por orden hasta agotarlo.\n\nQuién puede pedirla: familias empadronadas y con residencia efectiva en Xove (quien sea independiente y tenga contrato de trabajo, empadronado él o ella). Para el comedor, la renta per cápita familiar no puede pasar de 8.000 € (declaración de la renta del año de la solicitud). En estancia y transporte no hay límite de renta, pero hay que haberse presentado al menos al 50 % de las materias de la matrícula.\n\nCuándo se pide: el Concello la registró en la BDNS el 8/7/2026, pero a 23/10 aún no consta el extracto en el BOP de Lugo, y sin él la convocatoria no es válida. El plazo serán 20 días hábiles desde el día siguiente a esa publicación. Consulta las fechas en la sede electrónica del Concello.\n\nOjo: es para gastos del curso 2025/26, que ya terminó, y no hay fecha de plazo todavía. Las ayudas de transporte no se suman al bonobús del Concello, salvo que no cubra todo el trayecto. Para cobrar tendrás que aportar después las notas del curso.",
+      "descripcionGl": "Axudas do Concello de Xove para os gastos do curso 2025/26 de estudantes empadroados en Xove: comedor (alumnado de centros públicos da Mariña que come fóra de Xove polos seus horarios), estancia (universidade, ciclos que non existen na comarca, ensinanzas artísticas e deportivas) e transporte.\n\nCanto: comedor, 240 €. Estancia, 300 € (universitarios, ciclos que non existen na comarca e ensinanzas artísticas ou deportivas). Transporte: 300 € para ciclos na Mariña Lucense (agás San Cibrao, Viveiro e Burela) e 200 € para ciclos que non existen na comarca, ensinanzas artísticas ou deportivas e universitarios. Son compatibles entre si. Crédito total: 15.000 €; atendese por orde ata esgotalo.\n\nQuen pode pedila: familias empadroadas e con residencia efectiva en Xove (quen sexa independente e teña contrato de traballo, empadroado el ou ela). Para o comedor, a renda per cápita familiar non pode pasar de 8.000 € (declaración da renda do ano da solicitude). En estancia e transporte non hai límite de renda, pero hai que se ter presentado polo menos ao 50 % das materias da matrícula.\n\nCando se pide: o Concello rexistrouna na BDNS o 8/7/2026, pero a 23/10 aínda non consta o extracto no BOP de Lugo, e sen el a convocatoria non é válida. O prazo serán 20 días hábiles desde o día seguinte a esa publicación. Consulta as datas na sede electrónica do Concello.\n\nOllo: é para gastos do curso 2025/26, que xa rematou, e non hai data de prazo aínda. As axudas de transporte non se suman ao bonobús do Concello, salvo que non cubra todo o traxecto. Para cobrar terás que achegar despois as notas do curso.",
+      "categoria": "educacion",
+      "organismo": "Concello de Xove",
+      "organismoGl": "Concello de Xove",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/917827",
+      "municipios": [
+        "Xove"
+      ],
+      "plazoPendiente": true,
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            12,
+            30
+          ],
+          "textoExplicativo": "Tener un hijo/a o ser estudiante de secundaria, ciclo formativo, enseñanzas artísticas o deportivas, o universidad (según la modalidad)",
+          "textoExplicativoGl": "Ter un fillo/a ou ser estudante de secundaria, ciclo formativo, ensinanzas artísticas ou deportivas, ou universidade (segundo a modalidade)"
+        },
+        {
+          "campo": "empadronamientoXove",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la familia esté empadronada y resida de forma efectiva en Xove",
+          "textoExplicativoGl": "Que a familia estea empadroada e resida de forma efectiva en Xove"
+        },
+        {
+          "campo": "rentaComedorXove",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Solo para el comedor: que la renta per cápita familiar no supere los 8.000 € al año",
+          "textoExplicativoGl": "Só para o comedor: que a renda per cápita familiar non supere os 8.000 € ao ano"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el impreso normalizado del Concello (se recoge en Servicios Sociales), presentada en el Registro Municipal o por cualquiera de las vías del artículo 16.4 de la Ley 39/2015.",
+        "Fotocopia del DNI o NIF de la persona solicitante.",
+        "Certificado de empadronamiento y convivencia (no hace falta si autorizas al Concello a consultarlo).",
+        "Certificado o justificante de estar matriculado/a en los estudios para los que se pide la ayuda.",
+        "Solo para comedor: copia compulsada de la declaración de la renta de todas las personas mayores de edad de la unidad familiar. Si no declaran: nóminas o certificados de ingresos del año pasado y certificado de la Agencia Tributaria de no declarante (o declaración jurada si no se pueden demostrar los ingresos).",
+        "Solo para comedor: justificante de las pensiones contributivas que cobre algún miembro de la familia.",
+        "Certificado de cuenta bancaria.",
+        "Estancia y transporte: boletín de notas o certificado del centro de haberse presentado al menos al 50 % de las materias de la matrícula."
+      ],
+      "documentacionGl": [
+        "Solicitude no impreso normalizado do Concello (recóllese en Servizos Sociais), presentada no Rexistro Municipal ou por calquera das vías do artigo 16.4 da Lei 39/2015.",
+        "Fotocopia do DNI ou NIF da persoa solicitante.",
+        "Certificado de empadroamento e convivencia (non fai falta se autorizas o Concello a consultalo).",
+        "Certificado ou xustificante de estar matriculado/a nos estudos para os que se pide a axuda.",
+        "Só para comedor: copia compulsada da declaración da renda de todas as persoas maiores de idade da unidade familiar. Se non declaran: nóminas ou certificados de ingresos do ano pasado e certificado da Axencia Tributaria de non declarante (ou declaración xurada se non se poden demostrar os ingresos).",
+        "Só para comedor: xustificante das pensións contributivas que cobre algún membro da familia.",
+        "Certificado de conta bancaria.",
+        "Estancia e transporte: boletín de notas ou certificado do centro de se ter presentado polo menos ao 50 % das materias da matrícula."
       ]
     }
   ]
