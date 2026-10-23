@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-23b",
+  "revision": "2026-10-23c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -3829,6 +3829,106 @@
         "Segundo o teu caso: sentenza e convenio regulador con xustificantes de pensións (separación, divorcio ou unión de feito), certificado de acollemento, certificado de monoparentalidade da Xunta, título de familia numerosa, certificado de discapacidade do menor (33 % ou máis) ou acreditación de violencia de xénero.",
         "Se estás en paro: declaración responsable e, se cobras prestación, copia da comunicación da concesión. Se cobras RISGA: declaración responsable.",
         "Se o comedor non é o dun centro público de Arteixo: acreditación de praza, orzamento conformado do prestador e compromiso de adhesión ao sistema de pago."
+      ]
+    },
+    {
+      "id": "mino_comedor_2026_27",
+      "titulo": "Bolsas municipales de comedor escolar 2026/27 (Miño)",
+      "tituloGl": "Bolsas municipais de comedor escolar 2026/27 (Miño)",
+      "descripcion": "Ayuda del Concello de Miño para pagar el comedor escolar del curso 2026/27 del alumnado de 3 a 16 años (2.º ciclo de Infantil, Primaria y ESO) del CEIP Castro Baxoi, cuyo comedor gestiona la ANPA. Es para familias con menos recursos y se concede por puntos.\n\nCuánto: el Concello paga un porcentaje del coste del comedor según los puntos: 100 % con 12 o más, 75 % con 9 a 11, 50 % con 6 a 8 y 25 % con 3 a 5; con menos de 3 puntos no hay ayuda. Solo vale para comedor todos los días lectivos del mes (no días sueltos). Crédito total: 30.000 € (9.000 € en 2026 y 21.000 € en 2027, según el presupuesto de ese año). El Concello paga a la empresa del comedor y tú pagas la diferencia.\n\nQuién puede pedirla: familias empadronadas y con residencia efectiva en Miño, que convivan con el menor, con renta per cápita de 2025 de hasta 17.999,88 € al año (el familiar con discapacidad del 33 % o más cuenta doble). Dan puntos la renta baja, la monoparentalidad, la familia numerosa, la discapacidad, la violencia de género y el horario de trabajo incompatible con el del comedor.\n\nCuándo se pide: el extracto salió en el BOP de A Coruña el 8/6/2026 y la 1.ª convocatoria fue del 9/6 al 3/7/2026. La 2.ª, del 15 al 30/9/2026, solo se abría si sobraba crédito: consulta en concellodemino.gal si llegó a abrirse. Fuera de plazo solo se admiten casos sobrevenidos (cambio de colegio, violencia de género o cambio de situación familiar), con informe de los Servicios Sociales.\n\nOjo: la ayuda no te da la plaza del comedor: tienes que tenerla y empezar a usarla durante el primer mes. Es incompatible con otra ayuda para lo mismo.",
+      "descripcionGl": "Axuda do Concello de Miño para pagar o comedor escolar do curso 2026/27 do alumnado de 3 a 16 anos (2.º ciclo de Infantil, Primaria e ESO) do CEIP Castro Baxoi, cuxo comedor xestiona a ANPA. É para familias con menos recursos e concédese por puntos.\n\nCanto: o Concello paga unha porcentaxe do custo do comedor segundo os puntos: 100 % con 12 ou máis, 75 % con 9 a 11, 50 % con 6 a 8 e 25 % con 3 a 5; con menos de 3 puntos non hai axuda. Só vale para comedor todos os días lectivos do mes (non días soltos). Crédito total: 30.000 € (9.000 € en 2026 e 21.000 € en 2027, segundo o orzamento dese ano). O Concello paga á empresa do comedor e ti pagas a diferenza.\n\nQuen pode pedila: familias empadroadas e con residencia efectiva en Miño, que convivan co menor, con renda per cápita de 2025 de ata 17.999,88 € ao ano (o familiar con discapacidade do 33 % ou máis conta dobre). Dan puntos a renda baixa, a monoparentalidade, a familia numerosa, a discapacidade, a violencia de xénero e o horario de traballo incompatible co do comedor.\n\nCando se pide: o extracto saíu no BOP da Coruña o 8/6/2026 e a 1.ª convocatoria foi do 9/6 ao 3/7/2026. A 2.ª, do 15 ao 30/9/2026, só se abría se sobraba crédito: consulta en concellodemino.gal se chegou a abrirse. Fóra de prazo só se admiten casos sobrevidos (cambio de colexio, violencia de xénero ou cambio de situación familiar), con informe dos Servizos Sociais.\n\nOllo: a axuda non che dá a praza do comedor: tes que telo e empezar a usalo durante o primeiro mes. É incompatible con outra axuda para o mesmo.",
+      "categoria": "educacion",
+      "organismo": "Concello de Miño",
+      "organismoGl": "Concello de Miño",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/910322",
+      "municipios": [
+        "Miño"
+      ],
+      "plazoInicio": "2026-06-09T00:00:00.000",
+      "plazoFin": "2026-07-03T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a de 3 a 16 años (2.º ciclo de Infantil, Primaria o ESO) en el CEIP Castro Baxoi en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a de 3 a 16 anos (2.º ciclo de Infantil, Primaria ou ESO) no CEIP Castro Baxoi no curso 2026/27"
+        },
+        {
+          "campo": "rentaComedorMino",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              36000
+            ],
+            [
+              3,
+              54000
+            ],
+            [
+              4,
+              72000
+            ],
+            [
+              5,
+              89999
+            ],
+            [
+              6,
+              107999
+            ],
+            [
+              7,
+              125999
+            ],
+            [
+              8,
+              143999
+            ]
+          ],
+          "textoExplicativo": "Que la renta per cápita de 2025 no supere los 17.999,88 € al año (el familiar con discapacidad del 33 % o más cuenta doble)",
+          "textoExplicativoGl": "Que a renda per cápita de 2025 non supere os 17.999,88 € ao ano (o familiar con discapacidade do 33 % ou máis conta dobre)"
+        },
+        {
+          "campo": "empadronamientoComedorMino",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronado/a y con residencia efectiva permanente en Miño y convivir con el menor; no deber nada a la Hacienda municipal",
+          "textoExplicativoGl": "Estar empadroado/a e con residencia efectiva permanente en Miño e convivir co menor; non debelo nada á Facenda municipal"
+        },
+        {
+          "campo": "plazaComedorMino",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que el menor use el comedor todos los días lectivos del mes; la ayuda no garantiza la plaza del comedor",
+          "textoExplicativoGl": "Que o menor use o comedor todos os días lectivos do mes; a axuda non garante a praza do comedor"
+        }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo 1) en el Registro del Concello, presencial o electrónico, con el nombre del menor, el curso y tu número de cuenta. Los anexos se piden en la rúa da Carreira 38 o se bajan de concellodemino.gal.",
+        "Declaración jurada de cumplimiento de obligaciones (Anexo 2), de otras ayudas solicitadas o concedidas para lo mismo (Anexo 3) y de estar al corriente con Hacienda y la Seguridad Social (Anexo 4).",
+        "Declaración jurada de que los menores están matriculados en el CEIP Castro Baxoi en el curso 2026/27 (Anexo 5).",
+        "Fotocopia completa del libro de familia (o documento que lo sustituya). El volante de empadronamiento y convivencia lo aporta el Concello de oficio.",
+        "Justificante de ingresos de todos los miembros de la familia: fotocopia de la declaración de la renta de 2025 o, si no estás obligado/a, certificado de imputaciones de renta de 2025 de la Agencia Tributaria.",
+        "Si procede: certificado de discapacidad, título de familia numerosa o de familia monoparental.",
+        "Para puntos de conciliación: certificado de la empresa con el horario de trabajo (o declaración jurada si eres autónomo/a).",
+        "Según tu caso: sentencia y convenio regulador con justificantes de pensiones (separación, divorcio o unión de hecho con hijos) o certificado de acogimiento.",
+        "Si te la conceden: aceptación o renuncia (Anexo 6) en 15 días hábiles desde la resolución definitiva."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo 1) no Rexistro do Concello, presencial ou electrónico, co nome do menor, o curso e o teu número de conta. Os anexos pídense na rúa da Carreira 38 ou descárganse de concellodemino.gal.",
+        "Declaración xurada de cumprimento de obrigas (Anexo 2), doutras axudas solicitadas ou concedidas para o mesmo (Anexo 3) e de estar ao corrente con Facenda e a Seguridade Social (Anexo 4).",
+        "Declaración xurada de que os menores están matriculados no CEIP Castro Baxoi no curso 2026/27 (Anexo 5).",
+        "Fotocopia completa do libro de familia (ou documento que o substitúa). O volante de empadroamento e convivencia achégao o Concello de oficio.",
+        "Xustificante de ingresos de todos os membros da familia: fotocopia da declaración da renda de 2025 ou, se non estás obrigado/a, certificado de imputacións de renda de 2025 da Axencia Tributaria.",
+        "Se procede: certificado de discapacidade, título de familia numerosa ou de familia monoparental.",
+        "Para puntos de conciliación: certificado da empresa co horario de traballo (ou declaración xurada se es autónomo/a).",
+        "Segundo o teu caso: sentenza e convenio regulador con xustificantes de pensións (separación, divorcio ou unión de feito con fillos) ou certificado de acollemento.",
+        "Se ta conceden: aceptación ou renuncia (Anexo 6) en 15 días hábiles desde a resolución definitiva."
       ]
     }
   ]
