@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-23a",
+  "revision": "2026-10-23b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -3729,6 +3729,106 @@
         "Xustificante de inscrición do/da menor no comedor escolar.",
         "Declaración responsable (anexo das bases): non estar en causa de prohibición do art. 13.2 LXS, estar ao corrente das obrigas tributarias, autorizar o Concello a pedir os certificados e comunicar calquera cambio na asistencia ao comedor.",
         "Se xa pediches a axuda de libros ou material do curso 2026-27: abonda coa solicitude e o xustificante de inscrición no comedor."
+      ]
+    },
+    {
+      "id": "arteixo_comedor_2026_27",
+      "titulo": "Ayuda municipal para el comedor escolar 2026/27 (Arteixo)",
+      "tituloGl": "Axuda municipal para o comedor escolar 2026/27 (Arteixo)",
+      "descripcion": "Ayuda del Concello de Arteixo para pagar el comedor escolar (curso 2026/27) del alumnado desde 3 años (2.º ciclo de Infantil) hasta FP, en centros con fondos públicos, cuando el comedor lo lleva una ANPA o un profesional autónomo (no el de la Xunta). Es para familias con pocos ingresos y se concede por puntos.\n\nCuánto: el Concello paga un porcentaje del precio del comedor según los puntos: 100 % con 11 o más, 80 % con 9 a 10,5, 60 % con 7 a 8,5, 50 % con 5 a 6,5, 30 % con 3 a 4,5 y 20 % con 2 a 2,5. Comedor de lunes a viernes: como máximo 90 € al mes si es el 100 % (72 € al 80 %, 54 € al 60 %, 45 € al 50 %, 27 € al 30 % y 18 € al 20 %). Días sueltos: hasta 4,50 € al día al 100 %. El resto lo pagas tú. Crédito total: 200.000 €.\n\nQuién puede pedirla: familias empadronadas en Arteixo antes de abrirse el plazo, que convivan con el alumno/a y sean sus tutores o acogedores, con renta per cápita de hasta el 100 % del IPREM (12 pagas: 7.200 € al año por persona). Puntúan más las rentas bajas, las familias monoparentales, las numerosas, las víctimas de violencia de género, la discapacidad del 33 % o más y no tener prestación por desempleo.\n\nCuándo se pide: el extracto salió en el BOP de A Coruña el 26/06/2026 y el plazo era de 15 días, así que cerró en julio de 2026. Después solo hay ayuda directa por violencia de género sobrevenida o riesgo social del menor, con informe de los Servicios Sociales.\n\nOjo: la ayuda se paga directamente a la ANPA o a la empresa del comedor, no a ti; tú pagas la parte que no cubre. Vigila junio de 2027 por si se convoca de nuevo.",
+      "descripcionGl": "Axuda do Concello de Arteixo para pagar o comedor escolar (curso 2026/27) do alumnado desde 3 anos (2.º ciclo de Infantil) ata FP, en centros con fondos públicos, cando o comedor o leva unha ANPA ou un profesional autónomo (non o da Xunta). É para familias con poucos ingresos e concédese por puntos.\n\nCanto: o Concello paga unha porcentaxe do prezo do comedor segundo os puntos: 100 % con 11 ou máis, 80 % con 9 a 10,5, 60 % con 7 a 8,5, 50 % con 5 a 6,5, 30 % con 3 a 4,5 e 20 % con 2 a 2,5. Comedor de luns a venres: como máximo 90 € ao mes se é o 100 % (72 € ao 80 %, 54 € ao 60 %, 45 € ao 50 %, 27 € ao 30 % e 18 € ao 20 %). Días soltos: ata 4,50 € ao día ao 100 %. O resto págalo ti. Crédito total: 200.000 €.\n\nQuen pode pedila: familias empadroadas en Arteixo antes de abrirse o prazo, que convivan co alumno/a e sexan os seus titores ou acolledores, con renda per cápita de ata o 100 % do IPREM (12 pagas: 7.200 € ao ano por persoa). Puntúan máis as rendas baixas, as familias monoparentais, as numerosas, as vítimas de violencia de xénero, a discapacidade do 33 % ou máis e non ter prestación por desemprego.\n\nCando se pide: o extracto saíu no BOP da Coruña o 26/06/2026 e o prazo era de 15 días, así que pechou en xullo de 2026. Despois só hai axuda directa por violencia de xénero sobrevida ou risco social do menor, con informe dos Servizos Sociais.\n\nOllo: a axuda págase directamente á ANPA ou á empresa do comedor, non a ti; ti pagas a parte que non cobre. Vixía xuño de 2027 por se se convoca de novo.",
+      "categoria": "educacion",
+      "organismo": "Concello de Arteixo",
+      "organismoGl": "Concello de Arteixo",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/914447",
+      "municipios": [
+        "Arteixo"
+      ],
+      "plazoInicio": "2026-06-27T00:00:00.000",
+      "plazoFin": "2026-07-17T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            18
+          ],
+          "textoExplicativo": "Tener un hijo/a desde 3 años (2.º ciclo de Infantil) hasta FP en un centro sostenido con fondos públicos",
+          "textoExplicativoGl": "Ter un fillo/a desde 3 anos (2.º ciclo de Infantil) ata FP nun centro sostido con fondos públicos"
+        },
+        {
+          "campo": "rentaComedorArteixo",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              14400
+            ],
+            [
+              3,
+              21600
+            ],
+            [
+              4,
+              28800
+            ],
+            [
+              5,
+              36000
+            ],
+            [
+              6,
+              43200
+            ],
+            [
+              7,
+              50400
+            ],
+            [
+              8,
+              57600
+            ]
+          ],
+          "textoExplicativo": "Que la renta per cápita de la familia no supere el 100 % del IPREM con 12 pagas (7.200 € al año por persona)",
+          "textoExplicativoGl": "Que a renda per cápita da familia non supere o 100 % do IPREM con 12 pagas (7.200 € ao ano por persoa)"
+        },
+        {
+          "campo": "empadronamientoComedorArteixo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Familia empadronada en Arteixo antes de abrirse el plazo, conviviendo con el alumno/a y con su tutela o acogimiento; al corriente con Hacienda y la Seguridad Social",
+          "textoExplicativoGl": "Familia empadroada en Arteixo antes de abrirse o prazo, convivindo co alumno/a e coa súa titoría ou acollemento; ao corrente con Facenda e a Seguridade Social"
+        },
+        {
+          "campo": "servicioComedorArteixo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Ser usuario/a fijo (continuo o discontinuo) de un comedor gestionado por una ANPA o por un profesional autónomo, no por la Xunta",
+          "textoExplicativoGl": "Ser usuario/a fixo (continuo ou descontinuo) dun comedor xestionado por unha ANPA ou por un profesional autónomo, non pola Xunta"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (declaración responsable con datos familiares y laborales), en el Registro del Concello, en la sede electrónica o por cualquier vía del art. 16.4 de la Ley 39/2015. Firmada por ambos progenitores, salvo custodia de una sola persona.",
+        "Autorizaciones firmadas para que el Concello consulte tus datos en otras administraciones (si no las das, tendrás que aportar certificado tributario del IRPF, certificado de estar al corriente de obligaciones tributarias e informes de la Seguridad Social).",
+        "Declaración de residencia efectiva en Arteixo, de otras ayudas educativas recibidas y de no estar en causa de prohibición (art. 13 de la Ley 38/2003).",
+        "Informe de vida laboral de los miembros de la familia, salvo que autorices la consulta.",
+        "Certificado de matrícula del centro, solo si está fuera de Arteixo.",
+        "Certificación de las empresas con el horario laboral, si quieres puntos por conciliación (solo puntúa si lo acreditan ambos progenitores).",
+        "Según tu caso: sentencia y convenio regulador con justificantes de pensiones (separación, divorcio o unión de hecho), certificado de acogimiento, certificado de monoparentalidad de la Xunta, título de familia numerosa, certificado de discapacidad del menor (33 % o más) o acreditación de violencia de género.",
+        "Si estás en paro: declaración responsable y, si cobras prestación, copia de la comunicación de la concesión. Si cobras RISGA: declaración responsable.",
+        "Si el comedor no es el de un centro público de Arteixo: acreditación de plaza, presupuesto conformado del prestador y compromiso de adhesión al sistema de pago."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (declaración responsable con datos familiares e laborais), no Rexistro do Concello, na sede electrónica ou por calquera vía do art. 16.4 da Lei 39/2015. Asinada por ambos proxenitores, salvo custodia dunha soa persoa.",
+        "Autorizacións asinadas para que o Concello consulte os teus datos noutras administracións (se non as das, terás que achegar certificado tributario do IRPF, certificado de estar ao corrente das obrigas tributarias e informes da Seguridade Social).",
+        "Declaración de residencia efectiva en Arteixo, doutras axudas educativas recibidas e de non estar en causa de prohibición (art. 13 da Lei 38/2003).",
+        "Informe de vida laboral dos membros da familia, salvo que autorices a consulta.",
+        "Certificado de matrícula do centro, só se está fóra de Arteixo.",
+        "Certificación das empresas co horario laboral, se queres puntos por conciliación (só puntúa se o acreditan ambos proxenitores).",
+        "Segundo o teu caso: sentenza e convenio regulador con xustificantes de pensións (separación, divorcio ou unión de feito), certificado de acollemento, certificado de monoparentalidade da Xunta, título de familia numerosa, certificado de discapacidade do menor (33 % ou máis) ou acreditación de violencia de xénero.",
+        "Se estás en paro: declaración responsable e, se cobras prestación, copia da comunicación da concesión. Se cobras RISGA: declaración responsable.",
+        "Se o comedor non é o dun centro público de Arteixo: acreditación de praza, orzamento conformado do prestador e compromiso de adhesión ao sistema de pago."
       ]
     }
   ]
