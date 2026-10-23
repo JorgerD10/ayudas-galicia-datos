@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-23d",
+  "revision": "2026-10-23e",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -4027,6 +4027,95 @@
         "Segundo o teu caso: certificado de discapacidade (33 % ou máis), sentenza ou orde de protección por violencia de xénero (dos últimos 24 meses), sentenza de separación ou divorcio ou convenio regulador, resolución de acollemento ou titela, ou certificado de monoparentalidade da Xunta.",
         "Para o comedor: certificado da empresa co horario de traballo do 2026 (ou declaración xurada se es autónomo/a) que acredite a incompatibilidade horaria, e a resolución educativa se é educación combinada.",
         "Se ta conceden: factura do material a nome de quen solicita (xustificar antes do 15 de decembro de 2026); o comedor factúrase mensualmente polo centro ou a entidade."
+      ]
+    },
+    {
+      "id": "noia_material_comedor_2026_27",
+      "titulo": "Ayudas de material escolar y comedor 2026/27 (Noia)",
+      "tituloGl": "Axudas de material escolar e comedor 2026/27 (Noia)",
+      "descripcion": "Ayudas del Concello de Noia para el curso 2026/27 para libros y material escolar y para el comedor escolar del alumnado de Infantil y Primaria en centros públicos o concertados de Noia. Se ordenan las solicitudes de menor a mayor renta per cápita y se conceden hasta agotar el crédito.\n\nCuánto: libros y material, 40 € por alumno/a si la renta per cápita es de hasta 15.876 € al año. Comedor: 60 € al mes si la renta es de hasta 5.292 € y 40 € al mes si está entre 5.292 € y 9.000 €; en septiembre y junio se cobra el 70 % (42 € y 28 €). Crédito: 15.668 € para material y 77.832 € para comedor (30.636 € en 2026 y 47.196 € en 2027).\n\nQuién puede pedirla: familias con todos sus miembros empadronados en Noia desde hace al menos 6 meses (salvo casos acreditados por los Servicios Sociales), con un hijo/a matriculado/a en Infantil o Primaria en un centro de Noia. La renta bruta per cápita de 2024 no puede pasar de 15.876 € al año. La persona con discapacidad del 33 % al 65 % cuenta como 2 miembros, y con más del 65 %, como 3.\n\nCuándo se pide: el extracto salió en el BOP de A Coruña el 27/4/2026 y el plazo era de 15 días hábiles, así que cerró el 19/5/2026. Si te conceden la ayuda, tienes 10 días para aceptarla y, en el comedor, para comprometerte a usar el servicio todo el curso.\n\nOjo: el material se canjea en una librería colaboradora antes del 30 de noviembre, y el comedor se descuenta del recibo que emite la ANPA o el centro. Vigila abril de 2027.",
+      "descripcionGl": "Axudas do Concello de Noia para o curso 2026/27 para libros e material escolar e para o comedor escolar do alumnado de Infantil e Primaria en centros públicos ou concertados de Noia. Ordénanse as solicitudes de menor a maior renda per cápita e concédense ata esgotar o crédito.\n\nCanto: libros e material, 40 € por alumno/a se a renda per cápita é de ata 15.876 € ao ano. Comedor: 60 € ao mes se a renda é de ata 5.292 € e 40 € ao mes se está entre 5.292 € e 9.000 €; en setembro e xuño cóbrase o 70 % (42 € e 28 €). Crédito: 15.668 € para material e 77.832 € para comedor (30.636 € en 2026 e 47.196 € en 2027).\n\nQuen pode pedila: familias con todos os seus membros empadroados en Noia desde hai polo menos 6 meses (salvo casos acreditados polos Servizos Sociais), cun fillo/a matriculado/a en Infantil ou Primaria nun centro de Noia. A renda bruta per cápita de 2024 non pode pasar de 15.876 € ao ano. A persoa con discapacidade do 33 % ao 65 % conta como 2 membros, e con máis do 65 %, como 3.\n\nCando se pide: o extracto saíu no BOP da Coruña o 27/4/2026 e o prazo era de 15 días hábiles, así que pechou o 19/5/2026. Se che conceden a axuda, tes 10 días para aceptala e, no comedor, para comprometerte a usar o servizo todo o curso.\n\nOllo: o material canxéase nunha libraría colaboradora antes do 30 de novembro, e o comedor descóntase do recibo que emite a ANPA ou o centro. Vixía abril de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de Noia",
+      "organismoGl": "Concello de Noia",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/900675",
+      "municipios": [
+        "Noia"
+      ],
+      "plazoInicio": "2026-04-28T00:00:00.000",
+      "plazoFin": "2026-05-19T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            12
+          ],
+          "textoExplicativo": "Tener un hijo/a en Educación Infantil o Primaria en un centro público o concertado de Noia en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a en Educación Infantil ou Primaria nun centro público ou concertado de Noia no curso 2026/27"
+        },
+        {
+          "campo": "rentaNoia",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              31752
+            ],
+            [
+              3,
+              47628
+            ],
+            [
+              4,
+              63504
+            ],
+            [
+              5,
+              79380
+            ],
+            [
+              6,
+              95256
+            ],
+            [
+              7,
+              111132
+            ],
+            [
+              8,
+              127008
+            ]
+          ],
+          "textoExplicativo": "Que la renta bruta per cápita de la familia (de 2024) no supere los 15.876 € al año",
+          "textoExplicativoGl": "Que a renda bruta per cápita da familia (de 2024) non supere os 15.876 € ao ano"
+        },
+        {
+          "campo": "empadronamientoNoia",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Todos los miembros de la familia empadronados en Noia desde hace al menos 6 meses (salvo casos acreditados por los Servicios Sociales)",
+          "textoExplicativoGl": "Todos os membros da familia empadroados en Noia desde hai polo menos 6 meses (salvo casos acreditados polos Servizos Sociais)"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado, que se da en el Registro General del Concello y está en la sede electrónica (noia.sedelectronica.gal). Se presenta en el Registro, en la sede electrónica o por cualquier vía del art. 16.4 de la Ley 39/2015.",
+        "Fotocopia del DNI de todos los miembros de la familia o, en su defecto, del libro de familia con todos los miembros.",
+        "Renta de 2024: fotocopia de la declaración de la renta de 2024 (puedes autorizar al Concello a pedir los datos a la Agencia Tributaria).",
+        "Si los ingresos no aparecen en la declaración: certificado del INEM (prestación o subsidio de 2024), certificación de la Seguridad Social (pensión contributiva de 2024), certificación de pensiones no contributivas, asistencia social o RISGA, u otro documento que acredite los ingresos de 2024 o que no hubo.",
+        "Si tus ingresos han bajado mucho: documentos de 2025 y de 2024 (para comparar) y la prueba del motivo (despido, liquidación de empresa...).",
+        "Casos de problemática social grave: los Servicios Sociales pueden presentarla de oficio, con el informe de la educadora familiar en lugar de lo anterior.",
+        "Si te la conceden: aceptación en 10 días y, para el comedor, compromiso de permanencia durante el curso (se revisa cada tres meses)."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado, que se dá no Rexistro Xeral do Concello e está na sede electrónica (noia.sedelectronica.gal). Preséntase no Rexistro, na sede electrónica ou por calquera vía do art. 16.4 da Lei 39/2015.",
+        "Fotocopia do DNI de todos os membros da familia ou, no seu defecto, do libro de familia con todos os membros.",
+        "Renda de 2024: fotocopia da declaración da renda de 2024 (podes autorizar o Concello a pedir os datos á Axencia Tributaria).",
+        "Se os ingresos non aparecen na declaración: certificado do INEM (prestación ou subsidio de 2024), certificación da Seguridade Social (pensión contributiva de 2024), certificación de pensións non contributivas, asistencia social ou RISGA, ou outro documento que acredite os ingresos de 2024 ou que non houbo.",
+        "Se os teus ingresos baixaron moito: documentos de 2025 e de 2024 (para comparar) e a proba do motivo (despedimento, liquidación de empresa...).",
+        "Casos de problemática social grave: os Servizos Sociais poden presentala de oficio, co informe da educadora familiar en lugar do anterior.",
+        "Se che a conceden: aceptación en 10 días e, para o comedor, compromiso de permanencia durante o curso (revísase cada tres meses)."
       ]
     }
   ]
