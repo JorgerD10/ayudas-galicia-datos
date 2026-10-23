@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-22b",
+  "revision": "2026-10-23a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -3625,6 +3625,110 @@
         "Factura de compra dos libros e do material escolar nun comercio de Cervo.",
         "Se procede: certificado de discapacidade ou de dependencia dalgún membro da unidade familiar.",
         "Se procede: sentenza de separación ou divorcio e/ou convenio regulador onde conste a custodia do alumno/a."
+      ]
+    },
+    {
+      "id": "ogrove_comedor_2026_27",
+      "titulo": "Ayuda municipal para el comedor escolar 2026/27 (O Grove)",
+      "tituloGl": "Axuda municipal para o comedor escolar 2026/27 (O Grove)",
+      "descripcion": "Ayuda del Concello de O Grove para pagar el comedor escolar del alumnado desde 3 años (2.º ciclo de Infantil) hasta 6.º de Primaria en el CEIP Valle Inclán, el CEIP Rosalía de Castro o el CEIP As Bizocas, curso 2026/27. Es para familias con pocos recursos propuestas por los Servicios Sociales.\n\nCuánto: el Concello paga el 100 % del comedor (hasta 106,70 € al mes durante 10 meses) si la renta familiar no pasa del primer límite, y el 50 % si está entre el primero y el segundo. Con 2 miembros: 100 % hasta 6.120 € al año y 50 % hasta 7.920 €; con 3: 6.840 € y 8.640 €; con 4: 7.560 € y 9.360 €. Crédito total: 10.000 €.\n\nQuién puede pedirla: familias con plaza de comedor en esos tres colegios. Se cuenta la renta de 2025 (base imponible general más la del ahorro). Sin límite de renta: acogimiento familiar o residencial, discapacidad del 33 % o más y víctimas de violencia de género.\n\nCuándo se pide: el extracto salió en el BOP de Pontevedra el 2/10/2026 y el plazo era de 10 días hábiles, así que cerró el 19/10/2026. Si ya habías pedido la ayuda de libros o material del Concello, solo había que presentar la solicitud y el justificante de inscripción en el comedor.\n\nOjo: el Concello paga su parte directamente a la empresa del comedor, y tú pagas el resto. Las tarifas pueden subir entre un 2 % y un 5 % en enero de 2027. Vigila el otoño de 2027 por si se convoca de nuevo.",
+      "descripcionGl": "Axuda do Concello do Grove para pagar o comedor escolar do alumnado desde 3 anos (2.º ciclo de Infantil) ata 6.º de Primaria no CEIP Valle Inclán, o CEIP Rosalía de Castro ou o CEIP As Bizocas, curso 2026/27. É para familias con poucos recursos propostas polos Servizos Sociais.\n\nCanto: o Concello paga o 100 % do comedor (ata 106,70 € ao mes durante 10 meses) se a renda familiar non pasa do primeiro límite, e o 50 % se está entre o primeiro e o segundo. Con 2 membros: 100 % ata 6.120 € ao ano e 50 % ata 7.920 €; con 3: 6.840 € e 8.640 €; con 4: 7.560 € e 9.360 €. Crédito total: 10.000 €.\n\nQuen pode pedila: familias con praza de comedor nestes tres colexios. Cóntase a renda de 2025 (base impoñible xeral máis a do aforro). Sen límite de renda: acollemento familiar ou residencial, discapacidade do 33 % ou máis e vítimas de violencia de xénero.\n\nCando se pide: o extracto saíu no BOP de Pontevedra o 2/10/2026 e o prazo era de 10 días hábiles, así que pechou o 19/10/2026. Se xa pedira a axuda de libros ou material do Concello, só había que presentar a solicitude e o xustificante de inscrición no comedor.\n\nOllo: o Concello paga a súa parte directamente á empresa do comedor, e ti pagas o resto. As tarifas poden subir entre un 2 % e un 5 % en xaneiro de 2027. Vixía o outono de 2027 por se se convoca de novo.",
+      "categoria": "educacion",
+      "organismo": "Concello do Grove",
+      "organismoGl": "Concello do Grove",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/932341",
+      "municipios": [
+        "O Grove"
+      ],
+      "plazoInicio": "2026-10-03T00:00:00.000",
+      "plazoFin": "2026-10-19T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            12
+          ],
+          "textoExplicativo": "Tener un hijo/a desde 3 años (2.º ciclo de Infantil) hasta 6.º de Primaria",
+          "textoExplicativoGl": "Ter un fillo/a desde 3 anos (2.º ciclo de Infantil) ata 6.º de Primaria"
+        },
+        {
+          "campo": "rentaOExentoComedorOGrove",
+          "operador": "alguno",
+          "valor": [
+            {
+              "campo": "rentaComedorOGrove",
+              "operador": "limiteAnualPorMiembros",
+              "valor": [
+                [
+                  2,
+                  7920
+                ],
+                [
+                  3,
+                  8640
+                ],
+                [
+                  4,
+                  9360
+                ],
+                [
+                  5,
+                  10080
+                ],
+                [
+                  6,
+                  10800
+                ],
+                [
+                  7,
+                  11520
+                ],
+                [
+                  8,
+                  12240
+                ]
+              ],
+              "textoExplicativo": "Renta familiar de 2025 de hasta 7.920 € al año con 2 miembros, 8.640 € con 3, 9.360 € con 4, 10.080 € con 5 y 10.800 € con 6 (el 100 % se paga por debajo de 6.120 €, 6.840 €, 7.560 €, 8.280 € y 9.000 €)",
+              "textoExplicativoGl": "Renda familiar de 2025 de ata 7.920 € ao ano con 2 membros, 8.640 € con 3, 9.360 € con 4, 10.080 € con 5 e 10.800 € con 6 (o 100 % págase por debaixo de 6.120 €, 6.840 €, 7.560 €, 8.280 € e 9.000 €)"
+            },
+            {
+              "campo": "exentoRentaComedorOGrove",
+              "operador": "confirmar",
+              "valor": true,
+              "textoExplicativo": "Sin límite de renta: alumnado en acogimiento familiar o residencial, con discapacidad del 33 % o más, o de una familia víctima de violencia de género",
+              "textoExplicativoGl": "Sen límite de renda: alumnado en acollemento familiar ou residencial, con discapacidade do 33 % ou máis, ou dunha familia vítima de violencia de xénero"
+            }
+          ],
+          "textoExplicativo": "Renta familiar de 2025 dentro del límite según el número de miembros (o estar en un caso sin límite de renta)",
+          "textoExplicativoGl": "Renda familiar de 2025 dentro do límite segundo o número de membros (ou estar nun caso sen límite de renda)"
+        },
+        {
+          "campo": "plazaComedorOGrove",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Tener plaza concedida en el comedor del CEIP Valle Inclán, del CEIP Rosalía de Castro o del CEIP As Bizocas; estar al corriente de las obligaciones tributarias",
+          "textoExplicativoGl": "Ter praza concedida no comedor do CEIP Valle Inclán, do CEIP Rosalía de Castro ou do CEIP As Bizocas; estar ao corrente das obrigas tributarias"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo de las bases, en el Registro o en la Sede Electrónica del Ayuntamiento (o en cualquiera de las formas del art. 16.4 de la Ley 39/2015).",
+        "Fotocopia del DNI de la persona solicitante.",
+        "Volante de empadronamiento familiar.",
+        "Justificante de los ingresos de todos los miembros de la unidad familiar (preferiblemente la declaración de la renta de 2025).",
+        "Justificante de inscripción del/de la menor en el comedor escolar.",
+        "Declaración responsable (anexo de las bases): no estar en causa de prohibición del art. 13.2 LGS, estar al corriente de las obligaciones tributarias, autorizar al Concello a pedir los certificados y comunicar cualquier cambio en la asistencia al comedor.",
+        "Si ya pediste la ayuda de libros o material del curso 2026-27: basta con la solicitud y el justificante de inscripción en el comedor."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo das bases, no Rexistro ou na Sede Electrónica do Concello (ou en calquera das formas do art. 16.4 da Lei 39/2015).",
+        "Fotocopia do DNI da persoa solicitante.",
+        "Volante de empadroamento familiar.",
+        "Xustificante dos ingresos de todos os membros da unidade familiar (preferiblemente a declaración da renda de 2025).",
+        "Xustificante de inscrición do/da menor no comedor escolar.",
+        "Declaración responsable (anexo das bases): non estar en causa de prohibición do art. 13.2 LXS, estar ao corrente das obrigas tributarias, autorizar o Concello a pedir os certificados e comunicar calquera cambio na asistencia ao comedor.",
+        "Se xa pediches a axuda de libros ou material do curso 2026-27: abonda coa solicitude e o xustificante de inscrición no comedor."
       ]
     }
   ]
