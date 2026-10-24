@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-24a",
+  "revision": "2026-10-24b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -4472,6 +4472,72 @@
         "Só para comedor: xustificante das pensións contributivas que cobre algún membro da familia.",
         "Certificado de conta bancaria.",
         "Estancia e transporte: boletín de notas ou certificado do centro de se ter presentado polo menos ao 50 % das materias da matrícula."
+      ]
+    },
+    {
+      "id": "pontecesures_escolarizacion_2026_27",
+      "titulo": "Becas de apoyo a la escolarización 2026/27 (Pontecesures)",
+      "tituloGl": "Bolsas de apoio á escolarización 2026/27 (Pontecesures)",
+      "descripcion": "Ayuda del Concello de Pontecesures para libros, material escolar y vestuario del alumnado de 3 a 5 años (2.º ciclo de Infantil), Primaria y ESO, para familias con pocos recursos. Pago único por menor.\n\nCuánto: hasta 100 € por menor en 2.º ciclo de Infantil y 1.º y 2.º de Primaria (libros de texto, material y vestuario), y hasta 80 € en 3.º a 6.º de Primaria y ESO (material escolar, informático y vestuario; sin libros de texto). Se paga lo justificado con facturas. Crédito de 2.000 €: si no llega, se da primero a quien más puntos tenga en el baremo (menor renta, desempleo, hijos en edad escolar).\n\nQuién puede pedirla: familias empadronadas en Pontecesures al menos un año antes del fin del plazo, que convivan con el menor, con ingresos netos de enero a junio de 2026 por debajo de un límite según los miembros (por semestre: 8.547 € con 2, 10.683,75 € con 3, 11.538,45 € con 4). Se puede descontar hasta 350 € al mes de alquiler o hipoteca.\n\nCuándo se pide: del 21 de octubre al 10 de noviembre de 2026 (15 días hábiles desde el extracto del BOP de Pontevedra del 20/10/2026).\n\nOjo: las facturas y los justificantes de pago se presentan con la solicitud, y la documentación justificativa debe estar antes del 15 de noviembre de 2026.",
+      "descripcionGl": "Axuda do Concello de Pontecesures para libros, material escolar e vestiario do alumnado de 3 a 5 anos (2.º ciclo de Infantil), Primaria e ESO, para familias con poucos recursos. Pagamento único por menor.\n\nCanto: ata 100 € por menor en 2.º ciclo de Infantil e 1.º e 2.º de Primaria (libros de texto, material e vestiario), e ata 80 € en 3.º a 6.º de Primaria e ESO (material escolar, informático e vestiario; sen libros de texto). Págase o xustificado con facturas. Crédito de 2.000 €: se non chega, dáselle primeiro a quen máis puntos teña no baremo (menor renda, desemprego, fillos en idade escolar).\n\nQuen pode pedila: familias empadroadas en Pontecesures polo menos un ano antes do fin do prazo, que convivan co menor, con ingresos netos de xaneiro a xuño de 2026 por debaixo dun límite segundo os membros (por semestre: 8.547 € con 2, 10.683,75 € con 3, 11.538,45 € con 4). Pódese descontar ata 350 € ao mes de aluguer ou hipoteca.\n\nCando se pide: do 21 de outubro ao 10 de novembro de 2026 (15 días hábiles desde o extracto do BOP de Pontevedra do 20/10/2026).\n\nOllo: as facturas e os xustificantes de pagamento preséntanse coa solicitude, e a documentación xustificativa debe estar antes do 15 de novembro de 2026.",
+      "categoria": "educacion",
+      "organismo": "Concello de Pontecesures",
+      "organismoGl": "Concello de Pontecesures",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935394",
+      "municipios": [
+        "Pontecesures"
+      ],
+      "plazoInicio": "2026-10-21T00:00:00.000",
+      "plazoFin": "2026-11-10T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en 2.º ciclo de Infantil (3 a 5 años), Primaria o ESO en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a en 2.º ciclo de Infantil (3 a 5 anos), Primaria ou ESO no curso 2026/27"
+        },
+        {
+          "campo": "rentaPontecesures",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los ingresos netos de la unidad familiar de enero a junio de 2026 no superen, por semestre, 8.547 € con 2 miembros, 10.683,75 € con 3, 11.538,45 € con 4, 12.393,15 € con 5, 13.247,85 € con 6 o 14.102,55 € con 7 (se descuentan hasta 350 € al mes de alquiler o hipoteca)",
+          "textoExplicativoGl": "Que os ingresos netos da unidade familiar de xaneiro a xuño de 2026 non superen, por semestre, 8.547 € con 2 membros, 10.683,75 € con 3, 11.538,45 € con 4, 12.393,15 € con 5, 13.247,85 € con 6 ou 14.102,55 € con 7 (descóntanse ata 350 € ao mes de aluguer ou hipoteca)"
+        },
+        {
+          "campo": "empadronamientoPontecesures",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Unidad familiar empadronada en Pontecesures al menos un año antes del fin del plazo, conviviendo con el alumno/a, y al corriente con Hacienda, la Seguridad Social y el Concello",
+          "textoExplicativoGl": "Unidade familiar empadroada en Pontecesures polo menos un ano antes do fin do prazo, convivindo co alumno/a, e ao corrente con Facenda, a Seguridade Social e o Concello"
+        }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I), declaración responsable (Anexo II) y memoria justificativa (Anexo III), en el Registro General del Concello, en la sede electrónica (pontecesures.sedelectronica.gal) o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
+        "DNI de la persona solicitante y de los miembros de la unidad familiar.",
+        "Libro de familia.",
+        "Justificante de matrícula del curso 2026/27.",
+        "Justificantes de ingresos de enero a junio de 2026 de todos los miembros que convivan (nóminas, certificados de prestaciones o pensiones). Si no hay ingresos: extracto de movimientos de las cuentas bancarias de ese periodo.",
+        "Si procede: tarjeta de demanda de empleo, y recibo de alquiler o justificante de la hipoteca de enero a junio.",
+        "Declaración de otras ayudas recibidas para lo mismo (según modelo) y declaración responsable de estar al corriente con Hacienda, la Seguridad Social y el Concello.",
+        "Certificado bancario con el IBAN (Anexo IV).",
+        "Facturas originales del gasto, con los datos del establecimiento y de quien solicita y el detalle del material, y justificante de pago (transferencia, o recibí firmado y sellado si se paga en efectivo). Se presentan con la solicitud; plazo máximo de justificación: 15 de noviembre de 2026.",
+        "Si procede: sentencia o convenio regulador con la custodia, certificado de defunción o informe de los servicios sociales."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I), declaración responsable (Anexo II) e memoria xustificativa (Anexo III), no Rexistro Xeral do Concello, na sede electrónica (pontecesures.sedelectronica.gal) ou por calquera vía do artigo 16.4 da Lei 39/2015.",
+        "DNI da persoa solicitante e dos membros da unidade familiar.",
+        "Libro de familia.",
+        "Xustificante de matrícula do curso 2026/27.",
+        "Xustificantes de ingresos de xaneiro a xuño de 2026 de todos os membros que convivan (nóminas, certificados de prestacións ou pensións). Se non hai ingresos: extracto de movementos das contas bancarias dese período.",
+        "Se procede: tarxeta de demanda de emprego, e recibo de aluguer ou xustificante da hipoteca de xaneiro a xuño.",
+        "Declaración doutras axudas recibidas para o mesmo (segundo modelo) e declaración responsable de estar ao corrente con Facenda, a Seguridade Social e o Concello.",
+        "Certificado bancario co IBAN (Anexo IV).",
+        "Facturas orixinais do gasto, cos datos do establecemento e de quen solicita e o detalle do material, e xustificante de pagamento (transferencia, ou recibín asinado e selado se se paga en efectivo). Preséntanse coa solicitude; prazo máximo de xustificación: 15 de novembro de 2026.",
+        "Se procede: sentenza ou convenio regulador coa custodia, certificado de defunción ou informe dos servizos sociais."
       ]
     }
   ]
