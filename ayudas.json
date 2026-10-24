@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-23f",
+  "revision": "2026-10-24a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -37,6 +37,23 @@
           "valor": true,
           "textoExplicativo": "Que ambos progenitores trabajen en el período solicitado (solo uno en familias monoparentales)",
           "textoExplicativoGl": "Que ambos proxenitores traballen no período solicitado (só un en familias monoparentais)"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Puedes recibir hasta el 100 % del gasto, en vez del 75 %.",
+          "textoGl": "Podes recibir ata o 100 % do gasto, en vez do 75 %."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Puedes recibir hasta el 100 % del gasto, en vez del 75 %.",
+          "textoGl": "Podes recibir ata o 100 % do gasto, en vez do 75 %."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si tienes hijos/as con discapacidad superior al 33 %, puedes recibir hasta el 100 % del gasto, en vez del 75 %.",
+          "textoGl": "Se tes fillos/as con discapacidade superior ao 33 %, podes recibir ata o 100 % do gasto, en vez do 75 %."
         }
       ]
     },
@@ -296,6 +313,18 @@
           "textoExplicativo": "Que los ingresos de la unidad familiar no superen 7 veces el IPREM de 2025",
           "textoExplicativoGl": "Que os ingresos da unidade familiar non superen 7 veces o IPREM de 2025"
         }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "En familias monoparentales, la ayuda la solicita la persona que tiene a cargo al hijo/a.",
+          "textoGl": "En familias monoparentais, a axuda solicítaa a persoa que ten a cargo o fillo/a."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si el hijo/a tiene una discapacidad del 33 % o más, la ayuda llega hasta los 12 años, en vez de los 3.",
+          "textoGl": "Se o fillo/a ten unha discapacidade do 33 % ou máis, a axuda chega ata os 12 anos, en vez dos 3."
+        }
       ]
     },
     {
@@ -391,6 +420,23 @@
           "valor": true,
           "textoExplicativo": "Que la renta per cápita de la unidad familiar nuclear no supere 8.000 € al año",
           "textoExplicativoGl": "Que a renda per cápita da unidade familiar nuclear non supere os 8.000 € ao ano"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma puntos en la valoración de las solicitudes.",
+          "textoGl": "Suma puntos na valoración das solicitudes."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma puntos en la valoración de las solicitudes.",
+          "textoGl": "Suma puntos na valoración das solicitudes."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Suma puntos en la valoración de las solicitudes.",
+          "textoGl": "Suma puntos na valoración das solicitudes."
         }
       ]
     },
@@ -738,6 +784,13 @@
           "textoExplicativoGl": "Estar ao corrente das obrigas tributarias co Concello e coa Facenda e a Seguridade Social"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Cuentas un miembro más para calcular el límite de renta.",
+          "textoGl": "Contas un membro máis para calcular o límite de renda."
+        }
+      ],
       "documentacion": [
         "Solicitud en el modelo del Concello de Mos (sede electrónica o web municipal), presentada en el Registro General o por cualquier medio del artículo 16.4 de la Ley 39/2015.",
         "DNI de la persona solicitante y, si los hay, de su cónyuge, tutores o familia de acogida.",
@@ -891,6 +944,18 @@
           "valor": true,
           "textoExplicativo": "Estar empadronado/a en un municipio de la provincia de Ourense desde al menos un mes antes de la publicación del extracto de las bases, o desde al menos 6 meses antes del nacimiento",
           "textoExplicativoGl": "Estar empadroado/a nun concello da provincia de Ourense desde polo menos un mes antes da publicación do extracto das bases, ou desde polo menos 6 meses antes do nacemento"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Si la familia es numerosa, la cuantía es mayor. Mira el importe exacto en las bases.",
+          "textoGl": "Se a familia é numerosa, a contía é maior. Mira o importe exacto nas bases."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si hay discapacidad acreditada del 33 % o más, la cuantía es mayor. Mira el importe exacto en las bases.",
+          "textoGl": "Se hai discapacidade acreditada do 33 % ou máis, a contía é maior. Mira o importe exacto nas bases."
         }
       ],
       "documentacion": [
@@ -1436,6 +1501,13 @@
           "textoExplicativo": "Que uno de los progenitores estuviese empadronado/a en Ordes al menos 6 meses antes del parto o la adopción, con el niño/a empadronado/a, y se comprometa a seguir 3 años",
           "textoExplicativoGl": "Que un dos proxenitores estivese empadroado/a en Ordes polo menos 6 meses antes do parto ou da adopción, co neno/a empadroado/a, e se comprometa a seguir 3 anos"
         }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Recibes 300 € por hijo/a con discapacidad, en vez de 250 €.",
+          "textoGl": "Recibes 300 € por fillo/a con discapacidade, en vez de 250 €."
+        }
       ]
     },
     {
@@ -1505,6 +1577,13 @@
           "valor": true,
           "textoExplicativo": "Estar al corriente con Hacienda, la Seguridad Social y el Concello, y no tener pendiente de justificar otra ayuda del Concello",
           "textoExplicativoGl": "Estar ao corrente coa Facenda, a Seguridade Social e o Concello, e non ter pendente de xustificar outra axuda do Concello"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Se suman 75 € si hay discapacidad del 33 % o más o dependencia reconocida.",
+          "textoGl": "Súmanse 75 € se hai discapacidade do 33 % ou máis ou dependencia recoñecida."
         }
       ],
       "documentacion": [
@@ -1804,6 +1883,13 @@
           "textoExplicativoGl": "Estar ao corrente coa Facenda estatal e autonómica, a Seguridade Social e o Concello, e non ter pendente de xustificar outra axuda do Concello"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Recibes 500 € por hijo/a con discapacidad del 33 % o más, en vez de 400 €.",
+          "textoGl": "Recibes 500 € por fillo/a con discapacidade do 33 % ou máis, en vez de 400 €."
+        }
+      ],
       "documentacion": [
         "Solicitud en el modelo normalizado, por vía electrónica en la sede del Concello o en el Registro General.",
         "DNI, NIE o pasaporte de los miembros adultos de la unidad familiar.",
@@ -1986,6 +2072,13 @@
           "textoExplicativoGl": "Estar ao corrente coa Seguridade Social e coa Facenda estatal, autonómica e local, e non ter pendente de xustificar outra subvención do Concello"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Si el menor tiene discapacidad, recibes 2.000 € por el primero y 3.000 € por el segundo y siguientes, en vez de 1.000 € y 2.000 €.",
+          "textoGl": "Se o menor ten discapacidade, recibes 2.000 € polo primeiro e 3.000 € polo segundo e seguintes, en vez de 1.000 € e 2.000 €."
+        }
+      ],
       "documentacion": [
         "DNI de los padres, tutores o acogedores del menor.",
         "Libro de familia o documentación sustitutiva.",
@@ -2046,6 +2139,13 @@
           "valor": true,
           "textoExplicativo": "Ser español o extranjero con residencia legal y estar al corriente con Hacienda, la Seguridad Social y el Concello",
           "textoExplicativoGl": "Ser español ou estranxeiro con residencia legal e estar ao corrente con Facenda, a Seguridade Social e o Concello"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Hasta 1.500 € si el menor tiene discapacidad del 33 % o más.",
+          "textoGl": "Ata 1.500 € se o menor ten discapacidade do 33 % ou máis."
         }
       ],
       "documentacion": [
@@ -2111,6 +2211,18 @@
           "valor": true,
           "textoExplicativo": "Convivir con el alumno/a, estar al corriente con Hacienda, la Seguridad Social y el Concello, y no tener pendiente de justificar otra ayuda del Concello",
           "textoExplicativoGl": "Convivir co alumno/a, estar ao corrente con Facenda, a Seguridade Social e o Concello, e non ter pendente de xustificar outra axuda do Concello"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Hasta 125 € por alumno/a, en vez de 100 €.",
+          "textoGl": "Ata 125 € por alumno/a, en vez de 100 €."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Hasta 125 € por alumno/a si la discapacidad es del 33 % o más, y quien la tiene cuenta por dos al calcular la renta por persona.",
+          "textoGl": "Ata 125 € por alumno/a se a discapacidade é do 33 % ou máis, e quen a ten conta por dous ao calcular a renda por persoa."
         }
       ],
       "documentacion": [
@@ -2275,6 +2387,23 @@
           "textoExplicativoGl": "Alumno/a matriculado/a no CEIP Virxe do Corpiño de Begonte, ou empadroado/a en Begonte e estudando no IES Río Miño ou outro centro público ou concertado"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Tienes preferencia al repartir el crédito.",
+          "textoGl": "Tes preferencia ao repartir o crédito."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Tienes preferencia al repartir el crédito.",
+          "textoGl": "Tes preferencia ao repartir o crédito."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Tienes preferencia al repartir el crédito.",
+          "textoGl": "Tes preferencia ao repartir o crédito."
+        }
+      ],
       "documentacion": [
         "Solicitud firmada (Anexo I), con la declaración jurada de otras ayudas para el mismo fin. Se presenta en el centro docente, en las oficinas municipales o en la sede electrónica (begonte.sedelectronica.es, trámite «Ayudas de material escolar»).",
         "DNI de los padres o tutores (no hace falta si ya se presentó en convocatorias anteriores).",
@@ -2370,6 +2499,23 @@
           "valor": true,
           "textoExplicativo": "Toda la unidad familiar empadronada en Ourol desde hace al menos 3 meses, con el alumno/a matriculado/a en un centro sostenido con fondos públicos, y al corriente con la Agencia Tributaria, el Concello y la Seguridad Social",
           "textoExplicativoGl": "Toda a unidade familiar empadroada en Ourol desde hai polo menos 3 meses, co alumno/a matriculado/a nun centro sostido con fondos públicos, e ao corrente coa Axencia Tributaria, o Concello e a Seguridade Social"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma puntos en el reparto de la ayuda.",
+          "textoGl": "Suma puntos no reparto da axuda."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma puntos en el reparto de la ayuda.",
+          "textoGl": "Suma puntos no reparto da axuda."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Suma puntos en el reparto de la ayuda.",
+          "textoGl": "Suma puntos no reparto da axuda."
         }
       ],
       "documentacion": [
@@ -2649,6 +2795,18 @@
           "textoExplicativoGl": "Familia empadroada en Barbadás, sen obriga de declarar o Imposto sobre o Patrimonio e ao corrente con Facenda, a Seguridade Social e o Concello"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Cuentas un miembro más para calcular el límite de renta.",
+          "textoGl": "Contas un membro máis para calcular o límite de renda."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si algún miembro tiene discapacidad del 33 % o más, cuentas un miembro más en el límite de renta.",
+          "textoGl": "Se algún membro ten discapacidade do 33 % ou máis, contas un membro máis no límite de renda."
+        }
+      ],
       "documentacion": [
         "Solicitud en el trámite «Solicitud de ayuda económica para libros y material para infantil curso 2026-2027» de la sede electrónica (barbadas.sedelectronica.gal), o en el Registro del Concello (calle Cimadevila 1) o en las oficinas de A Valenzá. Los documentos, en PDF (no valen fotos).",
         "DNI de la persona solicitante y, si es menor o está incapacitada, del representante legal y el libro de familia.",
@@ -2732,6 +2890,23 @@
           "valor": true,
           "textoExplicativo": "Todos los miembros de la familia empadronados en O Carballiño desde hace al menos 6 meses y al corriente con Hacienda y la Seguridad Social",
           "textoExplicativoGl": "Todos os membros da familia empadroados no Carballiño desde hai polo menos 6 meses e ao corrente con Facenda e a Seguridade Social"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Cuenta como criterio de desempate si hay más solicitudes que crédito.",
+          "textoGl": "Conta como criterio de desempate se hai máis solicitudes que crédito."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Cuenta como criterio de desempate si hay más solicitudes que crédito.",
+          "textoGl": "Conta como criterio de desempate se hai máis solicitudes que crédito."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Cuenta como criterio de desempate si hay más solicitudes que crédito.",
+          "textoGl": "Conta como criterio de desempate se hai máis solicitudes que crédito."
         }
       ],
       "documentacion": [
@@ -2835,6 +3010,23 @@
           "textoExplicativoGl": "Toda a familia empadroada e residindo en Nigrán, convivindo co alumno/a, e sen outra axuda para o mesmo fin"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Esta situación cuenta a tu favor en el cálculo del límite de renta (mira el detalle en los requisitos).",
+          "textoGl": "Esta situación conta a teu favor no cálculo do límite de renda (mira o detalle nos requisitos)."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Esta situación cuenta a tu favor en el cálculo del límite de renta (mira el detalle en los requisitos).",
+          "textoGl": "Esta situación conta a teu favor no cálculo do límite de renda (mira o detalle nos requisitos)."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Esta situación cuenta a tu favor en el cálculo del límite de renta (mira el detalle en los requisitos).",
+          "textoGl": "Esta situación conta a teu favor no cálculo do límite de renda (mira o detalle nos requisitos)."
+        }
+      ],
       "documentacion": [
         "Solicitud en el modelo normalizado (Anexo I de las bases), dirigida al Alcalde y presentada en el Registro del Concello, en la sede electrónica (nigran.sedelectronica.gal) o por cualquiera de las vías del artículo 16.4 de la Ley 39/2015. Incluye la composición de la unidad familiar y sus ingresos.",
         "DNI, NIE o pasaporte de la persona solicitante y de su cónyuge o pareja.",
@@ -2918,6 +3110,13 @@
           "valor": true,
           "textoExplicativo": "Quien solicita, empadronado/a en San Cibrao das Viñas desde hace al menos un año antes de la convocatoria, al corriente con Hacienda, Atriga, la Seguridad Social y el Concello, y sin obligación de declarar el Impuesto sobre el Patrimonio",
           "textoExplicativoGl": "Quen solicita, empadroado/a en San Cibrao das Viñas desde hai polo menos un ano antes da convocatoria, ao corrente con Facenda, Atriga, a Seguridade Social e o Concello, e sen obriga de declarar o Imposto sobre o Patrimonio"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Si el alumno/a tiene discapacidad del 65 % o más, tiene preferencia si el crédito no llega.",
+          "textoGl": "Se o alumno/a ten discapacidade do 65 % ou máis, ten preferencia se o crédito non chega."
         }
       ],
       "documentacion": [
@@ -3173,6 +3372,13 @@
           "textoExplicativoGl": "Alumno/a matriculado/a nun centro público ou concertado de Galicia para 2026/27 e devolución dos libros do curso anterior"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Material escolar de 75 € sin límite de renta si hay discapacidad del 33 % o más.",
+          "textoGl": "Material escolar de 75 € sen límite de renda se hai discapacidade do 33 % ou máis."
+        }
+      ],
       "documentacion": [
         "Solicitud ED330B (Anexo I), única para todos los hijos/as admitidos en el mismo centro. Preferiblemente por vía electrónica en la aplicación Fondolibros (edu.xunta.gal/fondolibros) o en la sede electrónica de la Xunta (sede.xunta.gal) con Chave365; también se puede presentar en el centro docente o por cualquiera de las vías de la Ley 39/2015. Si se hace por Fondolibros, una solicitud por alumno/a. Firmada por el padre, madre, tutor/a o representante legal.",
         "Anexo II: comprobación de datos de los miembros computables de la familia (la Xunta consulta DNI, discapacidad y renta salvo que te opongas, y entonces hay que aportar los documentos).",
@@ -3267,6 +3473,13 @@
           "valor": true,
           "textoExplicativo": "Alumno/a empadronado/a en Monforte de Lemos y matriculado/a en 2026/27 en un centro público o concertado del municipio; estar al día con las obligaciones tributarias municipales",
           "textoExplicativoGl": "Alumno/a empadroado/a en Monforte de Lemos e matriculado/a en 2026/27 nun centro público ou concertado do municipio; estar ao día coas obrigas tributarias municipais"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "150 € si la discapacidad es del 65 % o más, en vez del importe de su etapa.",
+          "textoGl": "150 € se a discapacidade é do 65 % ou máis, en vez do importe da súa etapa."
         }
       ],
       "documentacion": [
@@ -3487,6 +3700,23 @@
           "valor": true,
           "textoExplicativo": "Menor empadronado/a con residencia efectiva en O Barco de Valdeorras y matriculado/a en 2026/27 en un centro del municipio; no recibir otra ayuda para lo mismo",
           "textoExplicativoGl": "Menor empadroado/a con residencia efectiva en O Barco de Valdeorras e matriculado/a en 2026/27 nun centro do municipio; non recibir outra axuda para o mesmo"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Se descuenta de los ingresos al calcular si llegas al límite.",
+          "textoGl": "Descóntase dos ingresos ao calcular se chegas ao límite."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Se descuenta de los ingresos al calcular si llegas al límite.",
+          "textoGl": "Descóntase dos ingresos ao calcular se chegas ao límite."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Se descuenta de los ingresos al calcular si llegas al límite.",
+          "textoGl": "Descóntase dos ingresos ao calcular se chegas ao límite."
         }
       ],
       "documentacion": [
@@ -3712,6 +3942,13 @@
           "textoExplicativoGl": "Ter praza concedida no comedor do CEIP Valle Inclán, do CEIP Rosalía de Castro ou do CEIP As Bizocas; estar ao corrente das obrigas tributarias"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Si la discapacidad es del 33 % o más, no hay límite de renta.",
+          "textoGl": "Se a discapacidade é do 33 % ou máis, non hai límite de renda."
+        }
+      ],
       "documentacion": [
         "Solicitud en el modelo de las bases, en el Registro o en la Sede Electrónica del Ayuntamiento (o en cualquiera de las formas del art. 16.4 de la Ley 39/2015).",
         "Fotocopia del DNI de la persona solicitante.",
@@ -3806,6 +4043,23 @@
           "valor": true,
           "textoExplicativo": "Ser usuario/a fijo (continuo o discontinuo) de un comedor gestionado por una ANPA o por un profesional autónomo, no por la Xunta",
           "textoExplicativoGl": "Ser usuario/a fixo (continuo ou descontinuo) dun comedor xestionado por unha ANPA ou por un profesional autónomo, non pola Xunta"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Puntúa más en la valoración.",
+          "textoGl": "Puntúa máis na valoración."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Puntúa más en la valoración.",
+          "textoGl": "Puntúa máis na valoración."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Puntúa más en la valoración si la discapacidad es del 33 % o más.",
+          "textoGl": "Puntúa máis na valoración se a discapacidade é do 33 % ou máis."
         }
       ],
       "documentacion": [
@@ -3908,6 +4162,23 @@
           "textoExplicativoGl": "Que o menor use o comedor todos os días lectivos do mes; a axuda non garante a praza do comedor"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma puntos.",
+          "textoGl": "Suma puntos."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma puntos.",
+          "textoGl": "Suma puntos."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "La persona con discapacidad del 33 % o más cuenta doble en la renta per cápita, y suma puntos.",
+          "textoGl": "A persoa con discapacidade do 33 % ou máis conta dobre na renda per cápita, e suma puntos."
+        }
+      ],
       "documentacion": [
         "Solicitud (Anexo 1) en el Registro del Concello, presencial o electrónico, con el nombre del menor, el curso y tu número de cuenta. Los anexos se piden en la rúa da Carreira 38 o se bajan de concellodemino.gal.",
         "Declaración jurada de cumplimiento de obligaciones (Anexo 2), de otras ayudas solicitadas o concedidas para lo mismo (Anexo 3) y de estar al corriente con Hacienda y la Seguridad Social (Anexo 4).",
@@ -4008,6 +4279,23 @@
           "textoExplicativoGl": "Sumar polo menos 10 puntos no baremo (a renda dá de 7 a 11; máis 1 por incompatibilidade horaria, monoparentalidade, familia numerosa e discapacidade)"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma 1 punto en la valoración.",
+          "textoGl": "Suma 1 punto na valoración."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma 1 punto en la valoración.",
+          "textoGl": "Suma 1 punto na valoración."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Suma 1 punto en la valoración.",
+          "textoGl": "Suma 1 punto na valoración."
+        }
+      ],
       "documentacion": [
         "Solicitud en el modelo oficial (Anexo I), firmada por quien representa a la unidad de convivencia, en el Registro del Concello o por cualquier vía del art. 16.4 de la Ley 39/2015. Una sola solicitud por familia.",
         "Fotocopia del DNI, NIE o pasaporte de quien solicita y de todos los miembros de la familia, y fotocopia del libro de familia completo (con las fechas de nacimiento).",
@@ -4097,6 +4385,13 @@
           "valor": true,
           "textoExplicativo": "Todos los miembros de la familia empadronados en Noia desde hace al menos 6 meses (salvo casos acreditados por los Servicios Sociales)",
           "textoExplicativoGl": "Todos os membros da familia empadroados en Noia desde hai polo menos 6 meses (salvo casos acreditados polos Servizos Sociais)"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "La persona con discapacidad del 33 % al 65 % cuenta como 2 miembros, y con más del 65 %, como 3, al calcular la renta.",
+          "textoGl": "A persoa con discapacidade do 33 % ao 65 % conta como 2 membros, e con máis do 65 %, como 3, ao calcular a renda."
         }
       ],
       "documentacion": [
