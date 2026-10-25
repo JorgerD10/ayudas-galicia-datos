@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-25d",
+  "revision": "2026-10-25e",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -4860,6 +4860,90 @@
         "Solicitude no modelo oficial (anexo das bases), unha por unidade familiar, que se facilita tamén nas oficinas municipais. Preséntase no Rexistro Xeral do Concello de Aranga ou nos lugares que permite a lei de procedemento administrativo.",
         "Número de conta bancaria de quen solicita: certificación do banco ou copia dun recibo ou libreta onde saian o IBAN e o nome do titular.",
         "Factura do gasto realizado en material escolar para o curso 2026/27."
+      ]
+    },
+    {
+      "id": "cabanas_ayudas_estudio_2026_27",
+      "titulo": "Ayudas al estudio 2026/27 (Cabanas)",
+      "tituloGl": "Axudas ao estudo 2026/27 (Cabanas)",
+      "descripcion": "Ayuda del Concello de Cabanas para material de estudio (cuadernos, folios, libros, estuches, mochilas, material informático) de estudiantes de hasta 23 años, desde Infantil hasta Universidad y centros de Educación Especial.\n\nCuánto: hasta 125 € en Infantil, 150 € en Primaria, 200 € en Secundaria y Bachillerato, y 225 € en FP, Universidad y Educación Especial (en FP también vale el vestuario o material que exija el centro). Se ingresa en tu cuenta después de presentar las facturas. Crédito de 8.000 €: si no llega, tienen prioridad las rentas más bajas y las familias de especial consideración (numerosas, monoparentales...).\n\nQuién puede pedirla: madres, padres o tutores empadronados en Cabanas, con estudiantes a su cargo de hasta 23 años, matriculados en un centro de Cabanas (Infantil, Primaria, ESO) o en un centro público de municipios cercanos (Bachillerato, FP), en la Universidad o en un centro de Educación Especial. Renta per cápita de hasta 12.000 € y al corriente con Hacienda, la Seguridad Social y el Concello.\n\nCuándo se pide: plazo cerrado, a principios de octubre de 2026 (10 días hábiles desde el extracto del BOP de A Coruña; el del 17/09 se corrigió el 23/09).\n\nOjo: las facturas deben ir a nombre de la madre, padre o tutor y detallar el material. Las cuantías del primer extracto (100 a 200 €) eran erróneas; valen las de las bases y la corrección: 125 a 225 €.",
+      "descripcionGl": "Axuda do Concello de Cabanas para material de estudo (cadernos, folios, libros, estoxos, mochilas, material informático) de estudantes de ata 23 anos, desde Infantil ata Universidade e centros de Educación Especial.\n\nCanto: ata 125 € en Infantil, 150 € en Primaria, 200 € en Secundaria e Bacharelato, e 225 € en FP, Universidade e Educación Especial (en FP tamén vale o vestiario ou material que esixa o centro). Ingrésase na túa conta despois de presentar as facturas. Crédito de 8.000 €: se non chega, teñen prioridade as rendas máis baixas e as familias de especial consideración (numerosas, monoparentais...).\n\nQuen pode pedila: nais, pais ou titores empadroados en Cabanas, con estudantes ao seu cargo de ata 23 anos, matriculados nun centro de Cabanas (Infantil, Primaria, ESO) ou nun centro público de municipios próximos (Bacharelato, FP), na Universidade ou nun centro de Educación Especial. Renda per cápita de ata 12.000 € e ao corrente con Facenda, a Seguridade Social e o Concello.\n\nCando se pide: prazo pechado, a comezos de outubro de 2026 (10 días hábiles desde o extracto do BOP da Coruña; o do 17/09 corrixiuse o 23/09).\n\nOllo: as facturas deben ir a nome da nai, pai ou titor e detallar o material. As contías do primeiro extracto (100 a 200 €) eran erróneas; valen as das bases e a corrección: 125 a 225 €.",
+      "categoria": "educacion",
+      "organismo": "Concello de Cabanas",
+      "organismoGl": "Concello de Cabanas",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/930340",
+      "municipios": [
+        "Cabanas"
+      ],
+      "plazoInicio": "2026-09-18T00:00:00.000",
+      "plazoFin": "2026-10-07T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            23
+          ],
+          "textoExplicativo": "Tener un hijo/a estudiante de hasta 23 años en Infantil, Primaria, ESO, Bachillerato, FP, Universidad o Educación Especial",
+          "textoExplicativoGl": "Ter un fillo/a estudante de ata 23 anos en Infantil, Primaria, ESO, Bacharelato, FP, Universidade ou Educación Especial"
+        },
+        {
+          "campo": "empadronamientoCabanas",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronado en Cabanas; si es Infantil, Primaria o ESO, el centro debe ser de Cabanas (salvo falta de plaza); si es Bachillerato o FP, un centro público de municipios cercanos",
+          "textoExplicativoGl": "Estar empadroado en Cabanas; se é Infantil, Primaria ou ESO, o centro debe ser de Cabanas (salvo falta de praza); se é Bacharelato ou FP, un centro público de concellos próximos"
+        },
+        {
+          "campo": "rentaCabanas",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita de la familia (base imponible general y del ahorro del IRPF del último ejercicio, dividida entre los miembros) no supere 12.000 €",
+          "textoExplicativoGl": "Que a renda per cápita da familia (base impoñible xeral e do aforro do IRPF do último exercicio, dividida entre os membros) non supere 12.000 €"
+        },
+        {
+          "campo": "corrienteObligacionesCabanas",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con el Concello de Cabanas, la Agencia Tributaria, la Seguridad Social y la Hacienda de Galicia, y sin prohibición para recibir subvenciones",
+          "textoExplicativoGl": "Ao corrente co Concello de Cabanas, a Axencia Tributaria, a Seguridade Social e a Facenda de Galicia, e sen prohibición para recibir subvencións"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Si el crédito no alcanza para todas las solicitudes, las familias de especial consideración (como las monoparentales) tienen prioridad.",
+          "textoGl": "Se o crédito non chega para todas as solicitudes, as familias de especial consideración (como as monoparentais) teñen prioridade."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Si el crédito no alcanza para todas las solicitudes, las familias de especial consideración (como las numerosas) tienen prioridad.",
+          "textoGl": "Se o crédito non chega para todas as solicitudes, as familias de especial consideración (como as numerosas) teñen prioridade."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si el estudiante tiene discapacidad del 33 % o más y depende de sus padres, cuenta como dos miembros al calcular la renta per cápita.",
+          "textoGl": "Se o estudante ten discapacidade do 33 % ou máis e depende dos seus pais, conta como dous membros ao calcular a renda per cápita."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo del Anexo I, que incluye la declaración responsable de cumplir los requisitos del artículo 13 de la Ley 38/2003 (se firma en la solicitud). Se presenta en el Registro General del Ayuntamiento de lunes a viernes por la mañana, o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
+        "DNI de los miembros de la familia mayores de edad y libro de familia.",
+        "Certificado de matrícula del curso 2026/27 del estudiante, expedido por el centro.",
+        "Justificantes de ingresos de la familia: última declaración de la renta de todos los miembros (si no es conjunta) o certificado de datos fiscales de la Agencia Tributaria.",
+        "Si procede: certificado de discapacidad o dependencia (33 % o más) de algún hijo/a.",
+        "Certificado de la cuenta bancaria de la madre, padre o tutor/a del estudiante.",
+        "Facturas del gasto con el detalle del material, a nombre de la madre, padre o tutor/a."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo do Anexo I, que inclúe a declaración responsable de cumprir os requisitos do artigo 13 da Lei 38/2003 (asínase na solicitude). Preséntase no Rexistro Xeral do Concello de luns a venres pola mañá, ou por calquera vía do artigo 16.4 da Lei 39/2015.",
+        "DNI dos membros da familia maiores de idade e libro de familia.",
+        "Certificado de matrícula do curso 2026/27 do estudante, expedido polo centro.",
+        "Xustificantes de ingresos da familia: última declaración da renda de todos os membros (se non é conxunta) ou certificado de datos fiscais da Axencia Tributaria.",
+        "Se procede: certificado de discapacidade ou dependencia (33 % ou máis) dalgún fillo/a.",
+        "Certificado da conta bancaria da nai, pai ou titor/a do estudante.",
+        "Facturas do gasto co detalle do material, a nome da nai, pai ou titor/a."
       ]
     }
   ]
