@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-25e",
+  "revision": "2026-10-25f",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -4944,6 +4944,119 @@
         "Se procede: certificado de discapacidade ou dependencia (33 % ou máis) dalgún fillo/a.",
         "Certificado da conta bancaria da nai, pai ou titor/a do estudante.",
         "Facturas do gasto co detalle do material, a nome da nai, pai ou titor/a."
+      ]
+    },
+    {
+      "id": "dodro_escolaridad_2026_27",
+      "titulo": "Ayudas a la escolaridad 2026/27 (Dodro)",
+      "tituloGl": "Axudas á escolaridade 2026/27 (Dodro)",
+      "descripcion": "Ayuda del Concello de Dodro para material escolar, actividades extraescolares y vestuario deportivo del alumnado de 2.º ciclo de Infantil, Primaria y ESO, para familias con rentas ajustadas.\n\nCuánto: hasta 125 € por alumno/a, ingresados en tu cuenta después de justificar el gasto con facturas. Valen material didáctico (diccionarios, cuadernos, bolígrafos y también libros de texto que no estén ya subvencionados o en préstamo), actividades extraescolares y vestuario deportivo; instrumentos musicales y equipamiento deportivo no pueden pasar del 75 % de la ayuda. Crédito de 4.000 €: se adjudica por puntos (nº de miembros, familia monoparental, discapacidad, desempleo, familia numerosa e ingresos) y, si no llega, se reparte proporcionalmente.\n\nQuién puede pedirla: madres, padres o tutores empadronados en Dodro desde hace 3 meses como mínimo, con hijos/as de 2.º ciclo de Infantil, Primaria o ESO, y con ingresos por debajo de un límite según los miembros (20.160 € con 2, 25.200 € con 3, 29.520 € con 4, 33.120 € con 5, 36.000 € con 6; 2.160 € más por miembro adicional). Al corriente con Hacienda, la Seguridad Social y el Concello. Las familias en especial vulnerabilidad pueden ser valoradas por los servicios sociales aunque no cumplan algún requisito.\n\nCuándo se pide: plazo cerrado, del 16 al 29 de septiembre de 2026 (10 días hábiles desde el extracto del BOP de A Coruña del 15/09/2026).\n\nOjo: la justificación con facturas se entrega en 5 días hábiles desde la resolución definitiva.",
+      "descripcionGl": "Axuda do Concello de Dodro para material escolar, actividades extraescolares e vestiario deportivo do alumnado de 2.º ciclo de Infantil, Primaria e ESO, para familias con rendas axustadas.\n\nCanto: ata 125 € por alumno/a, ingresados na túa conta despois de xustificar o gasto con facturas. Valen material didáctico (dicionarios, cadernos, bolígrafos e tamén libros de texto que non estean xa subvencionados ou en préstamo), actividades extraescolares e vestiario deportivo; instrumentos musicais e equipamento deportivo non poden pasar do 75 % da axuda. Crédito de 4.000 €: adxudícase por puntos (nº de membros, familia monoparental, discapacidade, desemprego, familia numerosa e ingresos) e, se non chega, repártese proporcionalmente.\n\nQuen pode pedila: nais, pais ou titores empadroados en Dodro desde hai 3 meses como mínimo, con fillos/as de 2.º ciclo de Infantil, Primaria ou ESO, e con ingresos por debaixo dun límite segundo os membros (20.160 € con 2, 25.200 € con 3, 29.520 € con 4, 33.120 € con 5, 36.000 € con 6; 2.160 € máis por membro adicional). Ao corrente con Facenda, a Seguridade Social e o Concello. As familias en especial vulnerabilidade poden ser valoradas polos servizos sociais aínda que non cumpran algún requisito.\n\nCando se pide: prazo pechado, do 16 ao 29 de setembro de 2026 (10 días hábiles desde o extracto do BOP da Coruña do 15/09/2026).\n\nOllo: a xustificación con facturas entrégase en 5 días hábiles desde a resolución definitiva.",
+      "categoria": "educacion",
+      "organismo": "Concello de Dodro",
+      "organismoGl": "Concello de Dodro",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/928704",
+      "municipios": [
+        "Dodro"
+      ],
+      "plazoInicio": "2026-09-16T00:00:00.000",
+      "plazoFin": "2026-09-29T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en 2.º ciclo de Infantil, Primaria o ESO en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a en 2.º ciclo de Infantil, Primaria ou ESO no curso 2026/27"
+        },
+        {
+          "campo": "rentaDodro",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              20160
+            ],
+            [
+              3,
+              25200
+            ],
+            [
+              4,
+              29520
+            ],
+            [
+              5,
+              33120
+            ],
+            [
+              6,
+              36000
+            ],
+            [
+              7,
+              38160
+            ],
+            [
+              8,
+              40320
+            ]
+          ],
+          "textoExplicativo": "Que la renta anual de la familia (base imponible general y del ahorro del IRPF del último ejercicio cerrado) no supere 20.160 € con 2 miembros, 25.200 € con 3, 29.520 € con 4, 33.120 € con 5 o 36.000 € con 6 (2.160 € más por cada miembro adicional)",
+          "textoExplicativoGl": "Que a renda anual da familia (base impoñible xeral e do aforro do IRPF do último exercicio pechado) non supere 20.160 € con 2 membros, 25.200 € con 3, 29.520 € con 4, 33.120 € con 5 ou 36.000 € con 6 (2.160 € máis por cada membro adicional)"
+        },
+        {
+          "campo": "empadronamientoDodro",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Familia empadronada en Dodro; la persona solicitante, desde hace al menos 3 meses",
+          "textoExplicativoGl": "Familia empadroada en Dodro; a persoa solicitante, desde hai polo menos 3 meses"
+        },
+        {
+          "campo": "corrienteObligacionesDodro",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con Hacienda (estatal y autonómica), la Seguridad Social y el Concello, y sin ninguna ayuda del Concello pendiente de justificar",
+          "textoExplicativoGl": "Ao corrente con Facenda (estatal e autonómica), a Seguridade Social e o Concello, e sen ningunha axuda do Concello pendente de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma 1 punto en el baremo si lo acreditas con el certificado de familia monoparental (o la documentación de ausencia de un progenitor).",
+          "textoGl": "Suma 1 punto no baremo se o acreditas co certificado de familia monoparental (ou a documentación de ausencia dun proxenitor)."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma 1 punto en el baremo con el título en vigor.",
+          "textoGl": "Suma 1 punto no baremo co título en vigor."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Suma 1 punto en el baremo por cada miembro de la familia con discapacidad reconocida.",
+          "textoGl": "Suma 1 punto no baremo por cada membro da familia con discapacidade recoñecida."
+        }
+      ],
+      "documentacion": [
+        "Solicitud y declaración responsable en el modelo del Anexo I, en el Registro General del Concello, en la sede electrónica o por cualquier vía del artículo 16 de la Ley 39/2015.",
+        "Libro de familia y, si es familia numerosa, el título en vigor.",
+        "Declaración del IRPF de 2025 (completa) de la persona solicitante y de los miembros computables, o certificado de datos tributarios de la Agencia Tributaria si no hay declaración.",
+        "Certificados de estar al corriente con Hacienda, la Seguridad Social y el Concello (o autorizar al Concello a comprobarlo en el Anexo I).",
+        "Si procede: documentación de la ausencia de un progenitor (certificado de familia monoparental, separación o divorcio, viudedad, orfandad) o de adopción o acogimiento.",
+        "Si procede: certificado de discapacidad (o autorizar su consulta) y certificado del Servicio Público de Empleo de quien esté en paro desde al menos un mes antes de la convocatoria.",
+        "Certificación de los datos bancarios y, tras la resolución definitiva (en 5 días hábiles), las facturas del gasto con el detalle del material, actividades o vestuario."
+      ],
+      "documentacionGl": [
+        "Solicitude e declaración responsable no modelo do Anexo I, no Rexistro Xeral do Concello, na sede electrónica ou por calquera vía do artigo 16 da Lei 39/2015.",
+        "Libro de familia e, se é familia numerosa, o título en vigor.",
+        "Declaración do IRPF de 2025 (completa) da persoa solicitante e dos membros computables, ou certificado de datos tributarios da Axencia Tributaria se non hai declaración.",
+        "Certificados de estar ao corrente con Facenda, a Seguridade Social e o Concello (ou autorizar o Concello a comprobalo no Anexo I).",
+        "Se procede: documentación da ausencia dun proxenitor (certificado de familia monoparental, separación ou divorcio, viuvez, orfandade) ou de adopción ou acollemento.",
+        "Se procede: certificado de discapacidade (ou autorizar a súa consulta) e certificado do Servizo Público de Emprego de quen estea en paro desde polo menos un mes antes da convocatoria.",
+        "Certificación dos datos bancarios e, tras a resolución definitiva (en 5 días hábiles), as facturas do gasto co detalle do material, actividades ou vestiario."
       ]
     }
   ]
