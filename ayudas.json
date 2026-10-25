@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-24c",
+  "revision": "2026-10-25a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -4538,6 +4538,68 @@
         "Certificado bancario co IBAN (Anexo IV).",
         "Facturas orixinais do gasto, cos datos do establecemento e de quen solicita e o detalle do material, e xustificante de pagamento (transferencia, ou recibín asinado e selado se se paga en efectivo). Preséntanse coa solicitude; prazo máximo de xustificación: 15 de novembro de 2026.",
         "Se procede: sentenza ou convenio regulador coa custodia, certificado de defunción ou informe dos servizos sociais."
+      ]
+    },
+    {
+      "id": "folgoso_material_primaria_eso_2026",
+      "titulo": "Ayuda municipal para material escolar de Primaria y ESO 2026/27 (Folgoso do Courel)",
+      "tituloGl": "Axuda municipal para material escolar de Primaria e ESO 2026/27 (Folgoso do Courel)",
+      "descripcion": "Ayuda del Concello de Folgoso do Courel para material escolar (incluida la fiambrera o recipientes de la merienda) del alumnado de Primaria y ESO del CPI Poeta Uxío Novoneyra. No se pagan libros de texto. No depende de la renta.\n\nCuánto: hasta 50 € por hijo/a. Se cobra por transferencia después de justificar el gasto con facturas. Crédito de 1.100 € (ampliable).\n\nQuién puede pedirla: toda la unidad familiar empadronada y residiendo en Folgoso do Courel, y sin deudas con Hacienda, la Seguridad Social o el Concello.\n\nCuándo se pide: hasta el 23 de noviembre de 2026.\n\nOjo: la convocatoria no es válida hasta que se publique su extracto en el BOP de Lugo, y a 25/10/2026 aún no estaba publicado. Las bases dicen \"curso 2026/2026\" (errata; se entiende 2026/27).",
+      "descripcionGl": "Axuda do Concello de Folgoso do Courel para material escolar (incluída a fiambreira ou recipientes da merenda) do alumnado de Primaria e ESO do CPI Poeta Uxío Novoneyra. Non se pagan libros de texto. Non depende da renda.\n\nCanto: ata 50 € por fillo/a. Cóbrase por transferencia despois de xustificar o gasto con facturas. Crédito de 1.100 € (ampliable).\n\nQuen pode pedila: toda a unidade familiar empadroada e residindo en Folgoso do Courel, e sen débedas con Facenda, a Seguridade Social ou o Concello.\n\nCando se pide: ata o 23 de novembro de 2026.\n\nOllo: a convocatoria non é válida ata que se publique o seu extracto no BOP de Lugo, e a 25/10/2026 aínda non estaba publicado. As bases din \"curso 2026/2026\" (errata; enténdese 2026/27).",
+      "categoria": "educacion",
+      "organismo": "Concello de Folgoso do Courel",
+      "organismoGl": "Concello de Folgoso do Courel",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/934875",
+      "municipios": [
+        "Folgoso do Courel"
+      ],
+      "plazoInicio": "2026-10-13T00:00:00.000",
+      "plazoFin": "2026-11-23T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            6,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a cursando Primaria o ESO en el CPI Poeta Uxío Novoneyra",
+          "textoExplicativoGl": "Ter un fillo/a cursando Primaria ou ESO no CPI Poeta Uxío Novoneyra"
+        },
+        {
+          "campo": "empadronamientoFolgosoMaterial",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Toda la unidad familiar empadronada y con residencia efectiva en Folgoso do Courel",
+          "textoExplicativoGl": "Toda a unidade familiar empadroada e con residencia efectiva en Folgoso do Courel"
+        },
+        {
+          "campo": "corrienteObligacionesFolgosoMaterial",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Ningún miembro de la familia con deudas con Hacienda, la Seguridad Social o el Concello, ni con otra ayuda del Concello pendiente de justificar",
+          "textoExplicativoGl": "Ningún membro da familia con débedas con Facenda, a Seguridade Social ou o Concello, nin con outra axuda do Concello pendente de xustificar"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado que facilita el Concello (descargable en su sede electrónica), firmada por el padre, madre o tutor/a, y presentada en el Registro General del Concello.",
+        "DNI de todos los miembros de la unidad familiar mayores de edad.",
+        "Libro de familia y, si procede, sentencia de separación o divorcio o convenio regulador donde conste la custodia.",
+        "Certificado del CPI Poeta Uxío Novoneyra de que el alumno/a cursa estudios allí.",
+        "Declaración responsable de estar toda la familia al corriente con Hacienda, la Seguridad Social y el Concello, y de no estar en prohibición para recibir subvenciones.",
+        "Declaración de otras ayudas solicitadas o concedidas para el mismo fin.",
+        "Datos bancarios certificados por el banco, con un representante legal del menor como titular.",
+        "Facturas con el detalle de la compra del material escolar del curso (no se pagan libros de texto). Se presentan con la solicitud."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado que facilita o Concello (descargable na súa sede electrónica), asinada polo pai, nai ou titor/a, e presentada no Rexistro Xeral do Concello.",
+        "DNI de todos os membros da unidade familiar maiores de idade.",
+        "Libro de familia e, se procede, sentenza de separación ou divorcio ou convenio regulador onde conste a custodia.",
+        "Certificado do CPI Poeta Uxío Novoneyra de que o alumno/a cursa estudos nel.",
+        "Declaración responsable de estar toda a familia ao corrente con Facenda, a Seguridade Social e o Concello, e de non estar en prohibición para recibir subvencións.",
+        "Declaración doutras axudas solicitadas ou concedidas para o mesmo fin.",
+        "Datos bancarios certificados polo banco, cun representante legal do menor como titular.",
+        "Facturas co detalle da compra do material escolar do curso (non se pagan libros de texto). Preséntanse coa solicitude."
       ]
     }
   ]
