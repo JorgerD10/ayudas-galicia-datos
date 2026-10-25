@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-25g",
+  "revision": "2026-10-25h",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -5143,6 +5143,108 @@
         "Se procede: título de familia numerosa, certificado de discapacidade do 33 % ou máis, e acreditación de familia monoparental (sentenza, convenio regulador ou resolución de medidas paterno-filiais).",
         "Se procede: xustificante do aluguer (Anexo 3) ou da hipoteca da vivenda habitual (co Anexo 4), certificado do paro e de prestacións, e matrícula dos membros menores de 25 anos con estudos posteriores á ESO.",
         "Só para dispositivos electrónicos: factura do gasto cos datos de quen solicita e do alumno/a, e xustificante do pagamento (ticket ou xustificante bancario; non vale un «pagado» escrito ou selado na factura)."
+      ]
+    },
+    {
+      "id": "as_somozas_estudiantes_2026_27",
+      "titulo": "Ayudas a estudiantes 2026/27: material escolar y desplazamientos (As Somozas)",
+      "tituloGl": "Axudas a estudantes 2026/27: material escolar e desprazamentos (As Somozas)",
+      "descripcion": "Ayuda del Concello de As Somozas para libros y material escolar del alumnado de Infantil, Primaria, ESO, FP Básica y Bachillerato de centros públicos, y para desplazamientos de quienes estudian ciclos medios, superiores o grados universitarios (presenciales y en centro público).\n\nCuánto: en Infantil, Primaria, ESO y FP Básica, 200 € por alumno/a si la renta familiar no pasa de la mitad del límite y 100 € si está entre la mitad y el límite. En Bachillerato, 250 € y 125 €. En ciclos medios 300 € y en superiores o grados 500 € (para desplazamientos). Con un alumno con discapacidad del 33 % o más se cobra siempre el máximo, sin límite de renta. Valen libros, lecturas, material fungible, mochila y estuche (hasta el 50 % de la ayuda), informática básica y ropa deportiva, con facturas emitidas desde el 1 de julio de 2026. Crédito de 12.000 €: si no llega, se reduce proporcionalmente. Es compatible con otras ayudas mientras no superen el gasto.\n\nQuién puede pedirla: al menos un progenitor o tutor y el alumno/a empadronados en As Somozas, con matrícula 2026/27 en un centro público, y renta familiar (bases imponibles del IRPF) de hasta 29.400 € con 2 miembros, 37.800 € con 3, 46.200 € con 4, 50.400 € con 5 o 54.600 € con 6. En ciclos y grados, hasta 25 años y menos de 5.000 € de rendimientos del trabajo; desde segundo curso hay que haber aprobado el 80 % del curso anterior. Sin deudas con el Concello ni con otras administraciones.\n\nCuándo se pide: plazo cerrado, desde el 28 de agosto hasta el 30 de septiembre de 2026 (el día siguiente al extracto del BOP de A Coruña del 27/08/2026).\n\nOjo: tras la concesión hay 20 días naturales para justificar con facturas; vigila agosto-septiembre de 2027.",
+      "descripcionGl": "Axuda do Concello de As Somozas para libros e material escolar do alumnado de Infantil, Primaria, ESO, FP Básica e Bacharelato de centros públicos, e para desprazamentos de quen estuda ciclos medios, superiores ou graos universitarios (presenciais e en centro público).\n\nCanto: en Infantil, Primaria, ESO e FP Básica, 200 € por alumno/a se a renda familiar non pasa da metade do límite e 100 € se está entre a metade e o límite. En Bacharelato, 250 € e 125 €. En ciclos medios 300 € e en superiores ou graos 500 € (para desprazamentos). Cun alumno con discapacidade do 33 % ou máis cóbrase sempre o máximo, sen límite de renda. Valen libros, lecturas, material funxible, mochila e estoxo (ata o 50 % da axuda), informática básica e roupa deportiva, con facturas emitidas desde o 1 de xullo de 2026. Crédito de 12.000 €: se non chega, redúcese proporcionalmente. É compatible con outras axudas mentres non superen o gasto.\n\nQuen pode pedila: polo menos un proxenitor ou titor e o alumno/a empadroados en As Somozas, con matrícula 2026/27 nun centro público, e renda familiar (bases impoñibles do IRPF) de ata 29.400 € con 2 membros, 37.800 € con 3, 46.200 € con 4, 50.400 € con 5 ou 54.600 € con 6. En ciclos e graos, ata 25 anos e menos de 5.000 € de rendementos do traballo; desde segundo curso hai que ter aprobado o 80 % do curso anterior. Sen débedas co Concello nin con outras administracións.\n\nCando se pide: prazo pechado, desde o 28 de agosto ata o 30 de setembro de 2026 (o día seguinte ao extracto do BOP da Coruña do 27/08/2026).\n\nOllo: tras a concesión hai 20 días naturais para xustificar con facturas; vixía agosto-setembro de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de As Somozas",
+      "organismoGl": "Concello de As Somozas",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/926057",
+      "municipios": [
+        "As Somozas"
+      ],
+      "plazoInicio": "2026-08-28T00:00:00.000",
+      "plazoFin": "2026-09-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            17
+          ],
+          "textoExplicativo": "Tener un hijo/a en Infantil, Primaria, ESO, FP Básica o Bachillerato en un centro público en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a en Infantil, Primaria, ESO, FP Básica ou Bacharelato nun centro público no curso 2026/27"
+        },
+        {
+          "campo": "rentaAsSomozas",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              29400
+            ],
+            [
+              3,
+              37800
+            ],
+            [
+              4,
+              46200
+            ],
+            [
+              5,
+              50400
+            ],
+            [
+              6,
+              54600
+            ]
+          ],
+          "textoExplicativo": "Que la renta anual de la familia (bases imponibles del IRPF de los miembros) no supere 29.400 € con 2 miembros, 37.800 € con 3, 46.200 € con 4, 50.400 € con 5 o 54.600 € con 6; con discapacidad del 33 % o más del alumno/a no hay límite",
+          "textoExplicativoGl": "Que a renda anual da familia (bases impoñibles do IRPF dos membros) non supere 29.400 € con 2 membros, 37.800 € con 3, 46.200 € con 4, 50.400 € con 5 ou 54.600 € con 6; con discapacidade do 33 % ou máis do alumno/a non hai límite"
+        },
+        {
+          "campo": "empadronamientoAsSomozas",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al menos uno de los padres o tutores y el alumno/a empadronados en As Somozas",
+          "textoExplicativoGl": "Polo menos un dos pais ou titores e o alumno/a empadroados en As Somozas"
+        },
+        {
+          "campo": "corrienteObligacionesAsSomozas",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Sin deudas con el Concello ni con otras administraciones, y sin ninguna ayuda del Concello pendiente de justificar",
+          "textoExplicativoGl": "Sen débedas co Concello nin con outras administracións, e sen ningunha axuda do Concello pendente de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Si el otro progenitor no convive con el hijo/a (separación, divorcio, viudedad, familia monoparental), su renta no se cuenta; presenta la documentación que lo acredite (certificado de familia monoparental, sentencia, etc.). En custodia compartida cuentan ambos.",
+          "textoGl": "Se o outro proxenitor non convive co fillo/a (separación, divorcio, viuvez, familia monoparental), a súa renda non se conta; presenta a documentación que o acredite (certificado de familia monoparental, sentenza, etc.). En custodia compartida contan ambos."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si el alumno/a tiene reconocido un grado de discapacidad del 33 % o más, cobra la cuantía máxima de su curso y no hay límite de ingresos (aporta el certificado de discapacidad).",
+          "textoGl": "Se o alumno/a ten recoñecido un grao de discapacidade do 33 % ou máis, cobra a contía máxima do seu curso e non hai límite de ingresos (achega o certificado de discapacidade)."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo del Concello, en el Registro General o en la sede electrónica (assomozas.sedelectronica.gal).",
+        "DNI de la persona solicitante, de la pareja o cónyuge y de los hijos/as, y libro o libros de familia completos.",
+        "Declaración del IRPF de 2025 (completa) de quien solicita y su cónyuge o pareja; si no la presentaron, certificado de imputaciones de renta de la Agencia Tributaria.",
+        "Justificante de la matrícula del curso 2026/27 o certificado del centro educativo.",
+        "Declaración de todas las ayudas solicitadas o concedidas para lo mismo y declaración responsable de no tener prohibiciones para recibir subvenciones ni ayudas del Concello pendientes de justificar.",
+        "Certificación bancaria del IBAN, con la persona solicitante como titular.",
+        "Si procede: documentación de la ausencia de un progenitor (certificado de familia monoparental, separación, divorcio, viudedad, orfandad) y certificado de discapacidad del alumno/a.",
+        "Ciclos y grados: DNI de los miembros de la unidad de convivencia y, desde segundo curso, justificante de haber aprobado al menos el 80 % del curso anterior. Tras la concesión (20 días naturales): facturas desde el 1/07/2026 (Infantil a Bachillerato) o declaración responsable de desplazarse por medios propios (ciclos y grados)."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo do Concello, no Rexistro Xeral ou na sede electrónica (assomozas.sedelectronica.gal).",
+        "DNI da persoa solicitante, da parella ou cónxuxe e dos fillos/as, e libro ou libros de familia completos.",
+        "Declaración do IRPF de 2025 (completa) de quen solicita e o seu cónxuxe ou parella; se non a presentaron, certificado de imputacións de renda da Axencia Tributaria.",
+        "Xustificante da matrícula do curso 2026/27 ou certificado do centro educativo.",
+        "Declaración de todas as axudas solicitadas ou concedidas para o mesmo e declaración responsable de non ter prohibicións para recibir subvencións nin axudas do Concello pendentes de xustificar.",
+        "Certificación bancaria do IBAN, coa persoa solicitante como titular.",
+        "Se procede: documentación da ausencia dun proxenitor (certificado de familia monoparental, separación, divorcio, viuvez, orfandade) e certificado de discapacidade do alumno/a.",
+        "Ciclos e graos: DNI dos membros da unidade de convivencia e, desde segundo curso, xustificante de ter aprobado polo menos o 80 % do curso anterior. Tras a concesión (20 días naturais): facturas desde o 1/07/2026 (Infantil a Bacharelato) ou declaración responsable de desprazarse por medios propios (ciclos e graos)."
       ]
     }
   ]
