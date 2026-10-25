@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-25h",
+  "revision": "2026-10-25i",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -5245,6 +5245,80 @@
         "Certificación bancaria do IBAN, coa persoa solicitante como titular.",
         "Se procede: documentación da ausencia dun proxenitor (certificado de familia monoparental, separación, divorcio, viuvez, orfandade) e certificado de discapacidade do alumno/a.",
         "Ciclos e graos: DNI dos membros da unidade de convivencia e, desde segundo curso, xustificante de ter aprobado polo menos o 80 % do curso anterior. Tras a concesión (20 días naturais): facturas desde o 1/07/2026 (Infantil a Bacharelato) ou declaración responsable de desprazarse por medios propios (ciclos e graos)."
+      ]
+    },
+    {
+      "id": "vimianzo_inicio_curso_2026_27",
+      "titulo": "Ayudas para el inicio del curso 2026/27 (Vimianzo)",
+      "tituloGl": "Axudas para o inicio do curso 2026/27 (Vimianzo)",
+      "descripcion": "Ayuda del Concello de Vimianzo para material escolar, material musical, material informático, ropa y calzado del alumnado de 2.º ciclo de Infantil, Primaria, ESO, Bachillerato y ciclos formativos de centros públicos, para familias con rentas bajas.\n\nCuánto: por alumno/a, 200 € si la renta per cápita familiar es inferior a 4.500 € al año, 130 € si está entre 4.500 y 6.750 € y 75 € si está entre 6.750 y 9.000 €. Se cobra por transferencia después de justificar el gasto con facturas por un importe igual o superior, emitidas desde el 1 de julio de 2026 (si hay necesidad, el Concello puede pagar directamente a la tienda). Crédito de 35.000 €: si no llega, se estudia ampliarlo. Es compatible con otras ayudas mientras no superen el gasto real.\n\nQuién puede pedirla: padres, madres o tutores con el alumno/a empadronado en Vimianzo desde hace al menos 3 meses y matriculado en 2026/27 en un centro público, con renta per cápita familiar inferior a 9.000 € anuales (renta del último ejercicio fiscal dividida entre los miembros). Sin deudas con Hacienda, la Seguridad Social ni el Concello, y sin ayudas del Concello pendientes de justificar.\n\nCuándo se pide: plazo cerrado, del 27 de agosto al 30 de septiembre de 2026 (el día siguiente al extracto del BOP de A Coruña del 26/08/2026).\n\nOjo: las bases solo están en gallego, y el enlace de bases de la BDNS apunta por error a un BOP de 2016; las buenas se aprobaron el 17/08/2026. Si no justificaste el gasto al solicitar, tienes 15 días hábiles desde que se publica la concesión.",
+      "descripcionGl": "Axuda do Concello de Vimianzo para material escolar, material musical, material informático, roupa e calzado do alumnado de 2.º ciclo de Infantil, Primaria, ESO, Bacharelato e ciclos formativos de centros públicos, para familias con rendas baixas.\n\nCanto: por alumno/a, 200 € se a renda per cápita familiar é inferior a 4.500 € ao ano, 130 € se está entre 4.500 e 6.750 € e 75 € se está entre 6.750 e 9.000 €. Cóbrase por transferencia despois de xustificar o gasto con facturas por un importe igual ou superior, emitidas desde o 1 de xullo de 2026 (se hai necesidade, o Concello pode pagar directamente á tenda). Crédito de 35.000 €: se non chega, estúdase ampliar. É compatible con outras axudas mentres non superen o gasto real.\n\nQuen pode pedila: pais, nais ou titores co alumno/a empadroado en Vimianzo desde hai polo menos 3 meses e matriculado en 2026/27 nun centro público, con renda per cápita familiar inferior a 9.000 € anuais (renda do último exercicio fiscal dividida entre os membros). Sen débedas coa Facenda, a Seguridade Social nin o Concello, e sen axudas do Concello pendentes de xustificar.\n\nCando se pide: prazo pechado, do 27 de agosto ao 30 de setembro de 2026 (o día seguinte ao extracto do BOP da Coruña do 26/08/2026).\n\nOllo: as bases só están en galego, e a ligazón de bases da BDNS apunta por erro a un BOP de 2016; as boas aprobáronse o 17/08/2026. Se non xustificaches o gasto ao solicitar, tes 15 días hábiles desde que se publica a concesión.",
+      "categoria": "educacion",
+      "organismo": "Concello de Vimianzo",
+      "organismoGl": "Concello de Vimianzo",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/925863",
+      "municipios": [
+        "Vimianzo"
+      ],
+      "plazoInicio": "2026-08-27T00:00:00.000",
+      "plazoFin": "2026-09-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            17
+          ],
+          "textoExplicativo": "Tener un hijo/a en 2.º ciclo de Infantil, Primaria, ESO, Bachillerato o ciclos formativos, matriculado/a en un centro público en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a en 2.º ciclo de Infantil, Primaria, ESO, Bacharelato ou ciclos formativos, matriculado/a nun centro público no curso 2026/27"
+        },
+        {
+          "campo": "rentaVimianzo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita familiar (renta del último ejercicio fiscal dividida entre los miembros; con discapacidad del 33 % o más o dependencia, cuentan doble) sea inferior a 9.000 € al año",
+          "textoExplicativoGl": "Que a renda per cápita familiar (renda do último exercicio fiscal dividida entre os membros; con discapacidade do 33 % ou máis ou dependencia, contan dobre) sexa inferior a 9.000 € ao ano"
+        },
+        {
+          "campo": "empadronamientoVimianzo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a empadronado/a en Vimianzo desde hace al menos 3 meses antes de la convocatoria",
+          "textoExplicativoGl": "Alumno/a empadroado/a en Vimianzo desde hai polo menos 3 meses antes da convocatoria"
+        },
+        {
+          "campo": "corrienteObligacionesVimianzo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con Hacienda, la Seguridad Social y el Concello, y sin ninguna ayuda del Concello pendiente de justificar",
+          "textoExplicativoGl": "Ao corrente coa Facenda, a Seguridade Social e o Concello, e sen ningunha axuda do Concello pendente de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Para calcular la renta per cápita, cada miembro de la familia con discapacidad del 33 % o más, o con dependencia reconocida, cuenta como dos personas (aporta el certificado).",
+          "textoGl": "Para calcular a renda per cápita, cada membro da familia con discapacidade do 33 % ou máis, ou con dependencia recoñecida, conta como dúas persoas (achega o certificado)."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo del Concello, por la sede electrónica, en el Registro General o por cualquier vía del artículo 16 de la Ley 39/2015. Incluye las declaraciones responsables (otras ayudas, sin prohibiciones y sin deudas) y la autorización para consultar tu renta a la Agencia Tributaria (Anexos I y IV).",
+        "DNI de los miembros mayores de edad de la unidad familiar, si no autorizas su consulta, y libro de familia.",
+        "Si procede: documentación de adopción o acogimiento.",
+        "Si procede: certificado de discapacidad o de dependencia de algún miembro computable (Xunta de Galicia u otra comunidad).",
+        "Certificado del centro público con la matrícula del alumno/a en el curso 2026/27.",
+        "Documento bancario con el IBAN que acredite que quien solicita es titular de la cuenta.",
+        "Facturas originales o fotocopias compulsadas del gasto (emitidas desde el 1/07/2026) por un importe igual o superior a la ayuda; si no las tienes al solicitar, hay 15 días hábiles desde la publicación de la concesión."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo do Concello, pola sede electrónica, no Rexistro Xeral ou por calquera vía do artigo 16 da Lei 39/2015. Inclúe as declaracións responsables (outras axudas, sen prohibicións e sen débedas) e a autorización para consultar a túa renda á Axencia Tributaria (Anexos I e IV).",
+        "DNI dos membros maiores de idade da unidade familiar, se non autorizas a súa consulta, e libro de familia.",
+        "Se procede: documentación de adopción ou acollemento.",
+        "Se procede: certificado de discapacidade ou de dependencia de algún membro computable (Xunta de Galicia ou outra comunidade).",
+        "Certificado do centro público coa matrícula do alumno/a no curso 2026/27.",
+        "Documento bancario co IBAN que acredite que quen solicita é titular da conta.",
+        "Facturas orixinais ou fotocopias compulsadas do gasto (emitidas desde o 1/07/2026) por un importe igual ou superior á axuda; se non as tes ao solicitar, hai 15 días hábiles desde a publicación da concesión."
       ]
     }
   ]
