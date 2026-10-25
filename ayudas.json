@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-25f",
+  "revision": "2026-10-25g",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -5057,6 +5057,92 @@
         "Se procede: documentación da ausencia dun proxenitor (certificado de familia monoparental, separación ou divorcio, viuvez, orfandade) ou de adopción ou acollemento.",
         "Se procede: certificado de discapacidade (ou autorizar a súa consulta) e certificado do Servizo Público de Emprego de quen estea en paro desde polo menos un mes antes da convocatoria.",
         "Certificación dos datos bancarios e, tras a resolución definitiva (en 5 días hábiles), as facturas do gasto co detalle do material, actividades ou vestiario."
+      ]
+    },
+    {
+      "id": "rianxo_material_dispositivos_2026_27",
+      "titulo": "Ayudas de material, dispositivos y ropa deportiva 2026/27 (Rianxo)",
+      "tituloGl": "Axudas de material, dispositivos e roupa deportiva 2026/27 (Rianxo)",
+      "descripcion": "Ayuda del Concello de Rianxo para material escolar, ropa y material deportivo (Infantil, Primaria y ESO) y dispositivos electrónicos (solo Primaria y ESO), para familias con rentas ajustadas del alumnado de centros de Rianxo.\n\nCuánto: hasta 50 € en material escolar y hasta 75 € en ropa y material deportivo para Educación Física, por alumno/a. En dispositivos electrónicos (ordenador, portátil, tableta, impresora, altavoces, webcam...), el 75 % de la factura con un máximo de 300 € por familia. Para material y ropa no hay que presentar facturas; para dispositivos sí. Crédito de 10.000 € (8.000 € para material y ropa, 2.000 € para dispositivos): se da por puntos (renta, nº de miembros, situación familiar y vivienda).\n\nQuién puede pedirla: familias con el alumno empadronado y residiendo en Rianxo, matriculado en un centro del municipio en el curso 2026/27, con renta per cápita mensual de hasta 1,5 veces el IPREM (unos 900 € por persona al mes). El límite sube un 10 % en familias monoparentales, con un menor con discapacidad o con menores en situación de violencia de género.\n\nCuándo se pide: plazo cerrado, del 4 al 24 de septiembre de 2026 (15 días hábiles desde el extracto del BOP de A Coruña del 3/09/2026).\n\nOjo: las bases se contradicen sobre qué IRPF presentar (2024 en la lista de documentos, 2025 en el baremo); confirma con el Concello al abrirse la próxima convocatoria.",
+      "descripcionGl": "Axuda do Concello de Rianxo para material escolar, roupa e material deportivo (Infantil, Primaria e ESO) e dispositivos electrónicos (só Primaria e ESO), para familias con rendas axustadas do alumnado de centros de Rianxo.\n\nCanto: ata 50 € en material escolar e ata 75 € en roupa e material deportivo para Educación Física, por alumno/a. En dispositivos electrónicos (ordenador, portátil, tableta, impresora, altofalantes, webcam...), o 75 % da factura cun máximo de 300 € por familia. Para material e roupa non hai que presentar facturas; para dispositivos si. Crédito de 10.000 € (8.000 € para material e roupa, 2.000 € para dispositivos): dáse por puntos (renda, nº de membros, situación familiar e vivenda).\n\nQuen pode pedila: familias co alumno empadroado e residindo en Rianxo, matriculado nun centro do municipio no curso 2026/27, con renda per cápita mensual de ata 1,5 veces o IPREM (uns 900 € por persoa ao mes). O límite sobe un 10 % en familias monoparentais, cun menor con discapacidade ou con menores en situación de violencia de xénero.\n\nCando se pide: prazo pechado, do 4 ao 24 de setembro de 2026 (15 días hábiles desde o extracto do BOP da Coruña do 3/09/2026).\n\nOllo: as bases contradícense sobre que IRPF presentar (2024 na lista de documentos, 2025 no baremo); confirma co Concello cando se abra a próxima convocatoria.",
+      "categoria": "educacion",
+      "organismo": "Concello de Rianxo",
+      "organismoGl": "Concello de Rianxo",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/926971",
+      "municipios": [
+        "Rianxo"
+      ],
+      "plazoInicio": "2026-09-04T00:00:00.000",
+      "plazoFin": "2026-09-24T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en Educación Infantil, Primaria o ESO, matriculado/a en un centro de Rianxo en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a en Educación Infantil, Primaria ou ESO, matriculado/a nun centro de Rianxo no curso 2026/27"
+        },
+        {
+          "campo": "rentaRianxo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita mensual de la familia no supere 1,5 veces el IPREM (unos 900 € por persona al mes); un 10 % más en familias monoparentales, con un menor con discapacidad o con violencia de género",
+          "textoExplicativoGl": "Que a renda per cápita mensual da familia non supere 1,5 veces o IPREM (uns 900 € por persoa ao mes); un 10 % máis en familias monoparentais, cun menor con discapacidade ou con violencia de xénero"
+        },
+        {
+          "campo": "empadronamientoRianxo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Residencia y empadronamiento real y efectivo en Rianxo, con el alumno/a matriculado/a en un centro del municipio",
+          "textoExplicativoGl": "Residencia e empadroamento real e efectivo en Rianxo, co alumno/a matriculado/a nun centro do municipio"
+        },
+        {
+          "campo": "corrienteObligacionesRianxo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con las obligaciones tributarias (estatales, provinciales y municipales) y sin ninguna ayuda del Concello pendiente de justificar",
+          "textoExplicativoGl": "Ao corrente coas obrigas tributarias (estatais, provinciais e municipais) e sen ningunha axuda do Concello pendente de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "El límite de renta sube un 10 %, cada miembro puntúa 0,8 en vez de 0,5 y suma 1 punto más por ser familia monoparental (con sentencia, convenio o resolución que lo acredite).",
+          "textoGl": "O límite de renda sobe un 10 %, cada membro puntúa 0,8 en vez de 0,5 e suma 1 punto máis por ser familia monoparental (con sentenza, convenio ou resolución que o acredite)."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma 1 punto si es categoría general y 2 si es especial (con el título).",
+          "textoGl": "Suma 1 punto se é categoría xeral e 2 se é especial (co título)."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si un menor tiene discapacidad, el límite de renta sube un 10 %; además, cada miembro con discapacidad del 33 % o más suma 1 punto.",
+          "textoGl": "Se un menor ten discapacidade, o límite de renda sobe un 10 %; ademais, cada membro con discapacidade do 33 % ou máis suma 1 punto."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo del Concello (en su web, en el Registro General o en Servicios Sociales), firmada por el padre, madre o tutor/a. Se presenta en la sede electrónica o en el Registro General.",
+        "Anexo 2: declaración responsable de otras ayudas solicitadas o concedidas para lo mismo y de no tener prohibiciones para recibir subvenciones.",
+        "DNI, pasaporte o NIE de todas las personas de la unidad familiar.",
+        "Certificación bancaria del IBAN a nombre de quien solicita, sellada por el banco.",
+        "Ingresos: copia de la declaración del IRPF (las bases piden el ejercicio 2024 en la lista y 2025 en el baremo; confirma con el Concello). Si no se presentó: certificado de la Agencia Tributaria de no haberla presentado de 2025 y justificantes de ingresos de 2025 de los mayores de edad.",
+        "Si procede: título de familia numerosa, certificado de discapacidad del 33 % o más, y acreditación de familia monoparental (sentencia, convenio regulador o resolución de medidas paternofiliales).",
+        "Si procede: justificante del alquiler (Anexo 3) o de la hipoteca de la vivienda habitual (con el Anexo 4), certificado del paro y de prestaciones, y matrícula de los miembros menores de 25 años con estudios posteriores a la ESO.",
+        "Solo para dispositivos electrónicos: factura del gasto con los datos de quien solicita y del alumno/a, y justificante del pago (ticket o justificante bancario; no vale un «pagado» escrito o sellado en la factura)."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo do Concello (na súa web, no Rexistro Xeral ou en Servizos Sociais), asinada polo pai, nai ou titor/a. Preséntase na sede electrónica ou no Rexistro Xeral.",
+        "Anexo 2: declaración responsable doutras axudas solicitadas ou concedidas para o mesmo e de non ter prohibicións para recibir subvencións.",
+        "DNI, pasaporte ou NIE de todas as persoas da unidade familiar.",
+        "Certificación bancaria do IBAN a nome de quen solicita, selada polo banco.",
+        "Ingresos: copia da declaración do IRPF (as bases piden o exercicio 2024 na lista e 2025 no baremo; confirma co Concello). Se non se presentou: certificado da Axencia Tributaria de non a ter presentado de 2025 e xustificantes de ingresos de 2025 dos maiores de idade.",
+        "Se procede: título de familia numerosa, certificado de discapacidade do 33 % ou máis, e acreditación de familia monoparental (sentenza, convenio regulador ou resolución de medidas paterno-filiais).",
+        "Se procede: xustificante do aluguer (Anexo 3) ou da hipoteca da vivenda habitual (co Anexo 4), certificado do paro e de prestacións, e matrícula dos membros menores de 25 anos con estudos posteriores á ESO.",
+        "Só para dispositivos electrónicos: factura do gasto cos datos de quen solicita e do alumno/a, e xustificante do pagamento (ticket ou xustificante bancario; non vale un «pagado» escrito ou selado na factura)."
       ]
     }
   ]
