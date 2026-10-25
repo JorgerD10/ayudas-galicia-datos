@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-25b",
+  "revision": "2026-10-25c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -4713,6 +4713,94 @@
         "Autorización para consultar a renda das persoas adultas da unidade familiar ou, se non se autoriza, a súa documentación fiscal.",
         "Se queres puntos e non se pode consultar: certificado de discapacidade ou de desemprego (demandante inscrito polo menos dous meses antes do fin do prazo).",
         "En custodia compartida: conformidade de ambos proxenitores ou documentación que acredite quen asume o gasto."
+      ]
+    },
+    {
+      "id": "ordes_material_escolar_2026_27",
+      "titulo": "Ayuda municipal de material escolar 2026/27 (Ordes)",
+      "tituloGl": "Axuda municipal de material escolar 2026/27 (Ordes)",
+      "descripcion": "Ayuda del Concello de Ordes para material escolar del alumnado de Infantil, Primaria y ESO en centros públicos del municipio. Se cobra en un vale que se canjea en comercios adheridos de Ordes.\n\nCuánto: en Infantil, 90 € si la renta per cápita es de hasta 6.000 € y 70 € si está entre 6.000 y 10.000 €. En Primaria y ESO, 50 € (hasta 6.000 €) o 60 € (de 6.000 a 10.000 €). Crédito de 25.000 €: si no llega, se da primero a quien más puntos tenga en el baremo (renta, familia numerosa y discapacidad).\n\nQuién puede pedirla: familias con todos sus miembros empadronados en el mismo domicilio de Ordes, con hijos/as en un centro público del municipio que no estén repitiendo curso, y renta per cápita de hasta 10.000 € (base imponible del IRPF 2025, casillas 435 + 460, entre los miembros). Los valores catastrales no pueden pasar de 35.000 € en urbanas y 13.000 € en rústicas, sin contar la vivienda habitual.\n\nCuándo se pide: plazo cerrado, del 25 de septiembre al 16 de octubre de 2026 (extracto en el BOP de A Coruña del 24/09/2026).\n\nOjo: el vale no se divide, se usa en un solo comercio y se puede canjear hasta el 15 de diciembre de 2026. Si ya recibes la gratuidad de libros de texto, solo puedes pedir esta ayuda para material.",
+      "descripcionGl": "Axuda do Concello de Ordes para material escolar do alumnado de Infantil, Primaria e ESO en centros públicos do municipio. Cóbrase nun vale que se canxea en comercios adheridos de Ordes.\n\nCanto: en Infantil, 90 € se a renda per cápita é de ata 6.000 € e 70 € se está entre 6.000 e 10.000 €. En Primaria e ESO, 50 € (ata 6.000 €) ou 60 € (de 6.000 a 10.000 €). Crédito de 25.000 €: se non chega, dáselle primeiro a quen máis puntos teña no baremo (renda, familia numerosa e discapacidade).\n\nQuen pode pedila: familias con todos os seus membros empadroados no mesmo domicilio de Ordes, con fillos/as nun centro público do municipio que non estean repetindo curso, e renda per cápita de ata 10.000 € (base impoñible do IRPF 2025, recadros 435 + 460, entre os membros). Os valores catastrais non poden pasar de 35.000 € en urbanas e 13.000 € en rústicas, sen contar a vivenda habitual.\n\nCando se pide: prazo pechado, do 25 de setembro ao 16 de outubro de 2026 (extracto no BOP da Coruña do 24/09/2026).\n\nOllo: o vale non se divide, úsase nun só comercio e pódese canxear ata o 15 de decembro de 2026. Se xa recibes a gratuidade de libros de texto, só podes pedir esta axuda para material.",
+      "categoria": "educacion",
+      "organismo": "Concello de Ordes",
+      "organismoGl": "Concello de Ordes",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/930621",
+      "municipios": [
+        "Ordes"
+      ],
+      "plazoInicio": "2026-09-25T00:00:00.000",
+      "plazoFin": "2026-10-16T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a o tutelado/a en Infantil, Primaria o ESO en un centro público de Ordes, sin repetir curso",
+          "textoExplicativoGl": "Ter un fillo/a ou tutelado/a en Infantil, Primaria ou ESO nun centro público de Ordes, sen repetir curso"
+        },
+        {
+          "campo": "rentaOrdes",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita de la familia (suma de las casillas 435 + 460 del IRPF 2025 dividida entre los miembros) no supere 10.000 €; los miembros con discapacidad del 33 % o más cuentan doble",
+          "textoExplicativoGl": "Que a renda per cápita da familia (suma dos recadros 435 + 460 do IRPF 2025 dividida entre os membros) non supere 10.000 €; os membros con discapacidade do 33 % ou máis contan dobre"
+        },
+        {
+          "campo": "patrimonioOrdes",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la suma de los valores catastrales no supere 35.000 € en fincas urbanas ni 13.000 € en rústicas (sin contar la vivienda habitual)",
+          "textoExplicativoGl": "Que a suma dos valores catastrais non supere 35.000 € en fincas urbanas nin 13.000 € en rústicas (sen contar a vivenda habitual)"
+        },
+        {
+          "campo": "empadronamientoOrdes",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Todos los miembros de la familia empadronados en el mismo domicilio de Ordes y residiendo allí al acabar el plazo",
+          "textoExplicativoGl": "Todos os membros da familia empadroados no mesmo domicilio de Ordes e residindo alí ao rematar o prazo"
+        },
+        {
+          "campo": "corrienteObligacionesOrdes",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Sin deudas con Hacienda (municipal, autonómica o estatal) ni con la Seguridad Social, y sin ninguna ayuda del Concello de Ordes pendiente de justificar",
+          "textoExplicativoGl": "Sen débedas con Facenda (municipal, autonómica ou estatal) nin coa Seguridade Social, e sen ningunha axuda do Concello de Ordes pendente de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma puntos en el baremo: 4 si es categoría especial y 2 si es general.",
+          "textoGl": "Suma puntos no baremo: 4 se é categoría especial e 2 se é xeral."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si algún miembro (incluido el alumno/a) tiene discapacidad del 33 % o más a 31/12/2025, cuenta doble al calcular la renta per cápita, y si la tiene la persona solicitante suma 4 puntos.",
+          "textoGl": "Se algún membro (incluído o alumno/a) ten discapacidade do 33 % ou máis a 31/12/2025, conta dobre ao calcular a renda per cápita, e se a ten a persoa solicitante suma 4 puntos."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (Anexo I), que se facilita en el Registro municipal; se presenta en el Registro General del Concello (calle Alfonso Senra, 108) o por cualquier vía del artículo 16 de la Ley 39/2015.",
+        "DNI, NIE o pasaporte de la persona solicitante y de todos los miembros de la familia mayores de 16 años, y libro de familia (o documento equivalente).",
+        "Presupuesto del material escolar de un comercio del municipio, con el material que se va a comprar.",
+        "Certificado del centro escolar con la matrícula, si el alumno/a tiene beca o no, y si repite curso.",
+        "Justificantes de ingresos de todos los miembros: copia de la declaración de la renta de 2025 y vida laboral pedida después de publicarse la convocatoria (con certificados de empresa, nóminas o de prestaciones si hay cotización en 2025). Si procede: certificado de pensión, de la RISGA o del INSS.",
+        "Si procede: carné de familia numerosa, certificado de discapacidad del 33 % o más a 31/12/2025, sentencia y convenio regulador (o denuncia por incumplimiento), o resolución de tutela o guarda.",
+        "Declaración de otras ayudas solicitadas o concedidas para lo mismo, y declaración de estar al corriente con Hacienda y la Seguridad Social.",
+        "Autorización para consultar datos tributarios y de la Seguridad Social, y autorización de cada progenitor para que el Concello pida el certificado catastral de sus bienes."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (Anexo I), que se facilita no Rexistro municipal; preséntase no Rexistro Xeral do Concello (rúa Alfonso Senra, 108) ou por calquera vía do artigo 16 da Lei 39/2015.",
+        "DNI, NIE ou pasaporte da persoa solicitante e de todos os membros da familia maiores de 16 anos, e libro de familia (ou documento equivalente).",
+        "Orzamento do material escolar dun comercio do municipio, co material que se vai comprar.",
+        "Certificado do centro escolar coa matrícula, se o alumno/a ten bolsa ou non, e se repite curso.",
+        "Xustificantes de ingresos de todos os membros: copia da declaración da renda de 2025 e vida laboral pedida despois de publicarse a convocatoria (con certificados de empresa, nóminas ou de prestacións se hai cotización en 2025). Se procede: certificado de pensión, da RISGA ou do INSS.",
+        "Se procede: carné de familia numerosa, certificado de discapacidade do 33 % ou máis a 31/12/2025, sentenza e convenio regulador (ou denuncia por incumprimento), ou resolución de titoría ou garda.",
+        "Declaración doutras axudas solicitadas ou concedidas para o mesmo, e declaración de estar ao corrente con Facenda e a Seguridade Social.",
+        "Autorización para consultar datos tributarios e da Seguridade Social, e autorización de cada proxenitor para que o Concello pida o certificado catastral dos seus bens."
       ]
     }
   ]
