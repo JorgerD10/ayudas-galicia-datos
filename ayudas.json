@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-25a",
+  "revision": "2026-10-25b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -4600,6 +4600,119 @@
         "Declaración doutras axudas solicitadas ou concedidas para o mesmo fin.",
         "Datos bancarios certificados polo banco, cun representante legal do menor como titular.",
         "Facturas co detalle da compra do material escolar do curso (non se pagan libros de texto). Preséntanse coa solicitude."
+      ]
+    },
+    {
+      "id": "ortigueira_material_2026_27",
+      "titulo": "Vale de material escolar 2026/27 (Ortigueira)",
+      "tituloGl": "Vale de material escolar 2026/27 (Ortigueira)",
+      "descripcion": "Ayuda del Concello de Ortigueira para material escolar nuevo del alumnado de 2.º ciclo de Infantil, Primaria, ESO y FP Básica, mediante un vale nominativo que se canjea en comercios adheridos del municipio.\n\nCuánto: hasta 100 € por alumno/a, en un único vale de un solo uso. Se paga el importe real de la compra y lo que no se gaste se pierde; si te pasas, lo pagas tú. No valen libros de texto, aparatos electrónicos, ropa ni uniformes. Crédito de 40.000 €: se da por puntos (máximo 15) según renta, tamaño de la familia, monoparentalidad, discapacidad, desempleo y familia numerosa.\n\nQuién puede pedirla: familias con el alumno empadronado y residiendo en Ortigueira, sin antigüedad mínima, y con renta de la unidad familiar por debajo de un límite según los miembros (20.160 € con 2, 25.200 € con 3, 29.520 € con 4).\n\nCuándo se pide: del 24 de octubre al 13 de noviembre de 2026 (15 días hábiles desde el extracto del BOP de A Coruña del 23/10/2026).\n\nOjo: el vale es de un solo establecimiento y los comercios deben presentar el cobro antes del 10 de diciembre de 2026, así que úsalo pronto. La resolución puede tardar hasta tres meses y, si no hay respuesta, se entiende denegada.",
+      "descripcionGl": "Axuda do Concello de Ortigueira para material escolar novo do alumnado de 2.º ciclo de Infantil, Primaria, ESO e FP Básica, mediante un vale nominal que se canxea en comercios adheridos do municipio.\n\nCanto: ata 100 € por alumno/a, nun único vale de un só uso. Págase o importe real da compra e o que non se gaste perdése; se te pasas, pagas ti. Non valen libros de texto, aparellos electrónicos, roupa nin uniformes. Crédito de 40.000 €: dáse por puntos (máximo 15) segundo renda, tamaño da familia, monoparentalidade, discapacidade, desemprego e familia numerosa.\n\nQuen pode pedila: familias co alumno empadroado e residindo en Ortigueira, sen antigüidade mínima, e con renda da unidade familiar por debaixo dun límite segundo os membros (20.160 € con 2, 25.200 € con 3, 29.520 € con 4).\n\nCando se pide: do 24 de outubro ao 13 de novembro de 2026 (15 días hábiles desde o extracto do BOP da Coruña do 23/10/2026).\n\nOllo: o vale é dun só establecemento e os comercios deben presentar o cobro antes do 10 de decembro de 2026, así que úsao pronto. A resolución pode tardar ata tres meses e, se non hai resposta, enténdese denegada.",
+      "categoria": "educacion",
+      "organismo": "Concello de Ortigueira",
+      "organismoGl": "Concello de Ortigueira",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/934750",
+      "municipios": [
+        "Ortigueira"
+      ],
+      "plazoInicio": "2026-10-24T00:00:00.000",
+      "plazoFin": "2026-11-13T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            17
+          ],
+          "textoExplicativo": "Tener un hijo/a de 3 a 17 años en 2.º ciclo de Infantil, Primaria, ESO o FP Básica, matriculado/a en un centro de Ortigueira (normalmente)",
+          "textoExplicativoGl": "Ter un fillo/a de 3 a 17 anos en 2.º ciclo de Infantil, Primaria, ESO ou FP Básica, matriculado/a nun centro de Ortigueira (normalmente)"
+        },
+        {
+          "campo": "rentaOrtigueira",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              20160
+            ],
+            [
+              3,
+              25200
+            ],
+            [
+              4,
+              29520
+            ],
+            [
+              5,
+              33120
+            ],
+            [
+              6,
+              36000
+            ],
+            [
+              7,
+              38160
+            ],
+            [
+              8,
+              40320
+            ]
+          ],
+          "textoExplicativo": "Que la renta de la unidad familiar no supere 20.160 € con 2 miembros, 25.200 € con 3, 29.520 € con 4, 33.120 € con 5, 36.000 € con 6, 38.160 € con 7 o 40.320 € con 8 (2.160 € más por cada miembro adicional; 15.840 € si es una persona sola en casos excepcionales)",
+          "textoExplicativoGl": "Que a renda da unidade familiar non supere 20.160 € con 2 membros, 25.200 € con 3, 29.520 € con 4, 33.120 € con 5, 36.000 € con 6, 38.160 € con 7 ou 40.320 € con 8 (2.160 € máis por cada membro adicional; 15.840 € se é unha persoa soa en casos excepcionais)"
+        },
+        {
+          "campo": "empadronamientoOrtigueira",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a empadronado/a y residiendo de forma efectiva en Ortigueira (sin antigüedad mínima)",
+          "textoExplicativoGl": "Alumno/a empadroado/a e residindo de forma efectiva en Ortigueira (sen antigüidade mínima)"
+        },
+        {
+          "campo": "corrienteObligacionesOrtigueira",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Sin obligaciones de reintegro pendientes ni ninguna subvención municipal vencida sin justificar",
+          "textoExplicativoGl": "Sen obrigas de reintegro pendentes nin ningunha subvención municipal vencida sen xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma 1 punto en el baremo si lo acreditas con título, resolución o certificado.",
+          "textoGl": "Suma 1 punto no baremo se o acreditas con título, resolución ou certificado."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma 1 punto en el baremo por título vigente.",
+          "textoGl": "Suma 1 punto no baremo por título vixente."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Suma 1 punto por cada miembro con discapacidad del 33 % o más (hasta 3 puntos).",
+          "textoGl": "Suma 1 punto por cada membro con discapacidade do 33 % ou máis (ata 3 puntos)."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado del Concello, presencial o por la sede electrónica (ortigueira.sedelectronica.es) o por cualquier vía del artículo 16.4 de la Ley 39/2015. Incluye la orden para que el Concello pague al comercio adherido y la declaración responsable de no tener prohibiciones, deudas ni otras ayudas incompatibles.",
+        "DNI de quien presenta la solicitud y del alumno/a, y libro de familia o documento de tutela, acogimiento o representación.",
+        "Matrícula del curso 2026/27 (o autorización para que el Concello la consulte).",
+        "Composición de la unidad familiar y, si procede, custodia (sentencia o convenio), monoparentalidad, familia numerosa o situaciones especiales.",
+        "Autorización para consultar la renta de las personas adultas de la unidad familiar o, si no se autoriza, su documentación fiscal.",
+        "Si quieres puntos y no se puede consultar: certificado de discapacidad o de desempleo (demandante inscrito al menos dos meses antes del fin del plazo).",
+        "En custodia compartida: conformidad de ambos progenitores o documentación que acredite quién asume el gasto."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado do Concello, presencial ou pola sede electrónica (ortigueira.sedelectronica.es) ou por calquera vía do artigo 16.4 da Lei 39/2015. Inclúe a orde para que o Concello pague ao comercio adherido e a declaración responsable de non ter prohibicións, débedas nin outras axudas incompatibles.",
+        "DNI de quen presenta a solicitude e do alumno/a, e libro de familia ou documento de titoría, acollemento ou representación.",
+        "Matrícula do curso 2026/27 (ou autorización para que o Concello a consulte).",
+        "Composición da unidade familiar e, se procede, custodia (sentenza ou convenio), monoparentalidade, familia numerosa ou situacións especiais.",
+        "Autorización para consultar a renda das persoas adultas da unidade familiar ou, se non se autoriza, a súa documentación fiscal.",
+        "Se queres puntos e non se pode consultar: certificado de discapacidade ou de desemprego (demandante inscrito polo menos dous meses antes do fin do prazo).",
+        "En custodia compartida: conformidade de ambos proxenitores ou documentación que acredite quen asume o gasto."
       ]
     }
   ]
