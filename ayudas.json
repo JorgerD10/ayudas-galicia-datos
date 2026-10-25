@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-25c",
+  "revision": "2026-10-25d",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -4801,6 +4801,65 @@
         "Se procede: carné de familia numerosa, certificado de discapacidade do 33 % ou máis a 31/12/2025, sentenza e convenio regulador (ou denuncia por incumprimento), ou resolución de titoría ou garda.",
         "Declaración doutras axudas solicitadas ou concedidas para o mesmo, e declaración de estar ao corrente con Facenda e a Seguridade Social.",
         "Autorización para consultar datos tributarios e da Seguridade Social, e autorización de cada proxenitor para que o Concello pida o certificado catastral dos seus bens."
+      ]
+    },
+    {
+      "id": "aranga_material_escolar_2026_27",
+      "titulo": "Ayuda municipal de material escolar 2026/27 (Aranga)",
+      "tituloGl": "Axuda municipal de material escolar 2026/27 (Aranga)",
+      "descripcion": "Ayuda del Concello de Aranga para material escolar del alumnado de Infantil y Primaria del CEIP A Castellana (centro público del municipio). Incluye el material que pide el colegio: mandilón, chándal, material informático, etc.\n\nCuánto: hasta 85 € por alumno/a y curso, ingresados en tu cuenta bancaria después de presentar la factura del gasto. Crédito de 4.800 €. Es compatible con otras ayudas mientras no superen el coste del material.\n\nQuién puede pedirla: familias con al menos uno de los padres, madres o tutores y el hijo/a empadronados en Aranga desde hace 6 meses como mínimo (con excepciones acreditadas por la educadora familiar), con la guardia y custodia del menor, con el menor matriculado en Infantil o Primaria del colegio público, y al corriente con los tributos municipales.\n\nCuándo se pide: plazo cerrado, del 24 de septiembre al 23 de octubre de 2026 (30 días naturales desde el extracto del BOP de A Coruña del 23/09/2026).\n\nOjo: la factura es de un gasto ya hecho para el curso 2026/27 y se entrega con la solicitud. Si no se justifica el gasto, hay que devolver el dinero con intereses.",
+      "descripcionGl": "Axuda do Concello de Aranga para material escolar do alumnado de Infantil e Primaria do CEIP A Castellana (centro público do municipio). Inclúe o material que pide o colexio: mandilón, chándal, material informático, etc.\n\nCanto: ata 85 € por alumno/a e curso, ingresados na túa conta bancaria despois de presentar a factura do gasto. Crédito de 4.800 €. É compatible con outras axudas mentres non superen o custo do material.\n\nQuen pode pedila: familias con polo menos un dos pais, nais ou titores e o fillo/a empadroados en Aranga desde hai 6 meses como mínimo (con excepcións acreditadas pola educadora familiar), coa garda e custodia do menor, co menor matriculado en Infantil ou Primaria do colexio público, e ao corrente cos tributos municipais.\n\nCando se pide: prazo pechado, do 24 de setembro ao 23 de outubro de 2026 (30 días naturais desde o extracto do BOP da Coruña do 23/09/2026).\n\nOllo: a factura é dun gasto xa feito para o curso 2026/27 e entrégase coa solicitude. Se non se xustifica o gasto, hai que devolver o diñeiro con xuros.",
+      "categoria": "educacion",
+      "organismo": "Concello de Aranga",
+      "organismoGl": "Concello de Aranga",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/930449",
+      "municipios": [
+        "Aranga"
+      ],
+      "plazoInicio": "2026-09-24T00:00:00.000",
+      "plazoFin": "2026-10-23T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            11
+          ],
+          "textoExplicativo": "Tener un hijo/a matriculado en Infantil o Primaria en el CEIP A Castellana (centro público de Aranga)",
+          "textoExplicativoGl": "Ter un fillo/a matriculado en Infantil ou Primaria no CEIP A Castellana (centro público de Aranga)"
+        },
+        {
+          "campo": "empadronamientoAranga",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al menos uno de los padres, madres o tutores y el hijo/a empadronados en Aranga desde hace 6 meses como mínimo (salvo casos excepcionales acreditados por la educadora familiar)",
+          "textoExplicativoGl": "Polo menos un dos pais, nais ou titores e o fillo/a empadroados en Aranga desde hai 6 meses como mínimo (agás casos excepcionais acreditados pola educadora familiar)"
+        },
+        {
+          "campo": "custodiaAranga",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Tener la guardia y custodia del menor",
+          "textoExplicativoGl": "Ter a garda e custodia do menor"
+        },
+        {
+          "campo": "tributosAranga",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente en el pago de los tributos municipales",
+          "textoExplicativoGl": "Estar ao corrente no pago dos tributos municipais"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo oficial (anexo de las bases), una por unidad familiar, que se facilita también en las oficinas municipales. Se presenta en el Registro General del Concello de Aranga o en los lugares que permite la ley de procedimiento administrativo.",
+        "Número de cuenta bancaria de quien solicita: certificación del banco o copia de un recibo o libreta donde salgan el IBAN y el nombre del titular.",
+        "Factura del gasto realizado en material escolar para el curso 2026/27."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo oficial (anexo das bases), unha por unidade familiar, que se facilita tamén nas oficinas municipais. Preséntase no Rexistro Xeral do Concello de Aranga ou nos lugares que permite a lei de procedemento administrativo.",
+        "Número de conta bancaria de quen solicita: certificación do banco ou copia dun recibo ou libreta onde saian o IBAN e o nome do titular.",
+        "Factura do gasto realizado en material escolar para o curso 2026/27."
       ]
     }
   ]
