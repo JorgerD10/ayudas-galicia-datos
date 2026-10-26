@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-26c",
+  "revision": "2026-10-26e",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -55,6 +55,28 @@
           "texto": "Si tienes hijos/as con discapacidad superior al 33 %, puedes recibir hasta el 100 % del gasto, en vez del 75 %.",
           "textoGl": "Se tes fillos/as con discapacidade superior ao 33 %, podes recibir ata o 100 % do gasto, en vez do 75 %."
         }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I) solo por vía electrónica en la sede de la Xunta (sede.xunta.gal), con Chave365 u otro sistema de identificación admitido. Una solicitud por niño/a y por un único tipo de gasto (en custodia compartida, cada progenitor presenta la suya). Va dirigida al departamento territorial de tu provincia.",
+        "Libro o libros de familia o, si no, otro documento oficial que acredite la situación familiar.",
+        "Si procede: sentencia de separación o divorcio, convenio regulador o resolución de medidas paternofiliales (custodia compartida o familia con un solo progenitor por separación o divorcio).",
+        "Si procede, solo cuando lo expidió otra comunidad autónoma: resolución de adopción, tutela o acogimiento, certificado de monoparentalidad, título de familia numerosa o certificado de discapacidad del hijo/a. Si lo expidió Galicia, lo consulta la Xunta.",
+        "Si procede: acreditación de violencia de género (orden de protección, sentencia, informe de servicios sociales o sanitarios, informe del Ministerio Fiscal u otros de los admitidos) y certificado de afiliación a Muxexu o Isfas.",
+        "Según el motivo: justificante médico de enfermedad o accidente del niño/a o del cuidador/a habitual; documento de la entrevista o curso con fecha y horas; resolución de incapacidad permanente absoluta o gran invalidez; o declaración responsable si hay una situación laboral puntual del cuidador/a.",
+        "Cuidador/a a domicilio, servicios de conciliación autorizados o campamentos: facturas con tu nombre y DNI/NIE, el del niño/a y los días del servicio, y justificante de pago (bancario siempre desde 1.000 €; por debajo, también vale la factura firmada, sellada y con «pagado»).",
+        "Persona empleada del hogar: contrato de trabajo con el periodo, el objeto de cuidado de menores y el horario, y justificantes bancarios del pago del salario y de las cuotas de la Seguridad Social.",
+        "Anexo II: documento firmado por tu cónyuge o pareja (u otro miembro de la unidad familiar) que autorice u oponga la comprobación de sus datos. Si se opone, presenta los documentos tú."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I) só por vía electrónica na sede da Xunta (sede.xunta.gal), con Chave365 ou outro sistema de identificación admitido. Unha solicitude por neno/a e por un único tipo de gasto (en custodia compartida, cada proxenitor presenta a súa). Vai dirixida ao departamento territorial da túa provincia.",
+        "Libro ou libros de familia ou, se non, outro documento oficial que acredite a situación familiar.",
+        "Se procede: sentenza de separación ou divorcio, convenio regulador ou resolución de medidas paterno-filiais (custodia compartida ou familia cun só proxenitor por separación ou divorcio).",
+        "Se procede, só cando o expediu outra comunidade autónoma: resolución de adopción, tutela ou acollemento, certificado de monoparentalidade, título de familia numerosa ou certificado de discapacidade do fillo/a. Se o expediu Galicia, consúltao a Xunta.",
+        "Se procede: acreditación de violencia de xénero (orde de protección, sentenza, informe de servizos sociais ou sanitarios, informe do Ministerio Fiscal ou outros dos admitidos) e certificado de afiliación a Muxexu ou Isfas.",
+        "Segundo o motivo: xustificante médico de enfermidade ou accidente do neno/a ou do coidador/a habitual; documento da entrevista ou curso con data e horas; resolución de incapacidade permanente absoluta ou gran invalidez; ou declaración responsable se hai unha situación laboral puntual do coidador/a.",
+        "Coidador/a a domicilio, servizos de conciliación autorizados ou campamentos: facturas co teu nome e DNI/NIE, o do neno/a e os días do servizo, e xustificante de pagamento (bancario sempre desde 1.000 €; por debaixo, tamén vale a factura asinada, selada e con «pagado»).",
+        "Persoa empregada do fogar: contrato de traballo co período, o obxecto de coidado de menores e o horario, e xustificantes bancarios do pagamento do salario e das cotas da Seguridade Social.",
+        "Anexo II: documento asinado polo teu cónxuxe ou parella (ou outro membro da unidade familiar) que autorice ou se opoña á comprobación dos seus datos. Se se opón, presentas ti os documentos."
       ]
     },
     {
