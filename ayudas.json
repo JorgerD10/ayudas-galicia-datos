@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-26g",
+  "revision": "2026-10-26h",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -723,6 +723,24 @@
           "textoExplicativo": "No recibir otras ayudas o subvenciones para la misma finalidad",
           "textoExplicativoGl": "Non recibir outras axudas ou subvencións para a mesma finalidade"
         }
+      ],
+      "documentacion": [
+        "Solicitud en el Modelo 352 firmada. La página del trámite indica presentación presencial en el Registro del Concello; si se presenta en versión digital, el Anexo I debe ir igualmente firmado por ambos progenitores.",
+        "Fotocopia del DNI o NIE de los dos progenitores o de quienes representen legalmente al niño/a. Con solo pasaporte no se puede participar.",
+        "Fotocopia del libro de familia o certificado de nacimiento de todos los menores de la unidad familiar (no vale el pasaporte ni el permiso de residencia del menor si no identifica a sus progenitores).",
+        "Anexo I: declaraciones responsables (no tener otras ayudas para lo mismo, estar al corriente con Hacienda, la Seguridad Social y el Concello, y no tener prohibición para recibir subvenciones) y autorización para que el Concello obtenga los datos de la unidad familiar. Lo firman ambos progenitores; solo el solicitante si es familia monoparental o tiene la custodia exclusiva (sentencia o convenio); ambos si hay custodia compartida.",
+        "Si procede: copia de la sentencia o convenio regulador, o del certificado de acogimiento, que confíe al solicitante la guarda y protección del menor.",
+        "Si un progenitor no reside en España: poder o documento judicial que acredite que el otro puede decidir en solitario sobre el menor.",
+        "Si procede: certificado de discapacidad del 33 % o más del niño/a (cuenta doble en la renta), o certificado de acogimiento o tutela de la Xunta, o informe de servicios sociales en una situación excepcional (da la ayuda sin valoración de renta)."
+      ],
+      "documentacionGl": [
+        "Solicitude no Modelo 352 asinada. A páxina do trámite indica presentación presencial no Rexistro do Concello; se se presenta en versión dixital, o Anexo I debe ir igualmente asinado por ambos proxenitores.",
+        "Fotocopia do DNI ou NIE dos dous proxenitores ou de quen represente legalmente ao neno/a. Con só pasaporte non se pode participar.",
+        "Fotocopia do libro de familia ou certificado de nacemento de todos os menores da unidade familiar (non vale o pasaporte nin o permiso de residencia do menor se non identifica os seus proxenitores).",
+        "Anexo I: declaracións responsables (non ter outras axudas para o mesmo, estar ao corrente coa Facenda, a Seguridade Social e o Concello, e non ter prohibición para recibir subvencións) e autorización para que o Concello obteña os datos da unidade familiar. Asínano ambos proxenitores; só o solicitante se é familia monoparental ou ten a custodia exclusiva (sentenza ou convenio); ambos se hai custodia compartida.",
+        "Se procede: copia da sentenza ou convenio regulador, ou do certificado de acollemento, que confíe ao solicitante a garda e protección do menor.",
+        "Se un proxenitor non reside en España: poder ou documento xudicial que acredite que o outro pode decidir en solitario sobre o menor.",
+        "Se procede: certificado de discapacidade do 33 % ou máis do neno/a (conta dobre na renda), ou certificado de acollemento ou tutela da Xunta, ou informe de servizos sociais nunha situación excepcional (dá a axuda sen valoración de renda)."
       ]
     },
     {
