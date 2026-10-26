@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-26a",
+  "revision": "2026-10-26b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -5400,6 +5400,92 @@
         "Declaración da renda de 2025 de todos os membros maiores de 18 anos ou certificado negativo da Axencia Tributaria; se é o caso, certificado de imputacións, pensións do INSS, prestacións do SEPE con vida laboral e tarxeta de demanda de emprego, ou xustificante da RISGA. Se a situación empeorou, nóminas dos 4 meses anteriores.",
         "Se o libro de familia non reflicte a situación a 31/12/2025: sentenza ou convenio regulador coa custodia, certificado de convivencia ou informe de servizos sociais. Familia monoparental: certificado de familia monoparental.",
         "Se procede: certificado de discapacidade do 33 % ou máis, ou resolución de incapacidade permanente. Para cobrar (ata o 30/10/2026): conta xustificativa (Anexo II), facturas con proba de pagamento, certificado bancario con IBAN e estar ao corrente coa Facenda e a Seguridade Social."
+      ]
+    },
+    {
+      "id": "laracha_escolarizacion_2026_27",
+      "titulo": "Ayudas a las familias para la escolarización 2026/27 (A Laracha)",
+      "tituloGl": "Axudas ás familias para a escolarización 2026/27 (A Laracha)",
+      "descripcion": "Ayuda del Concello de A Laracha para libros de texto, material didáctico, ropa y material deportivo de Educación Física y material informático (de Primaria en adelante), para estudiantes desde 2.º ciclo de Infantil hasta la universidad.\n\nCuánto: una ayuda por familia, que depende del nivel de estudios y no de la renta: 165 € en Infantil (3, 4 y 5 años), 150 € en Primaria, ESO y FP Básica, 225 € en Bachillerato y ciclos medios o superiores, 400 € en grado o máster universitario y 350 € para alumnado con necesidades educativas especiales (discapacidad del 33 % o más) o de apoyo educativo. Si hay hermanos, se concede la de mayor importe. Se cobra tras justificar el gasto con facturas por un importe igual o superior (fechadas entre el 1/06 y el 30/11/2026); en las de necesidades especiales, la mitad debe ser gasto de esa necesidad (terapias, especialistas...).\n\nOjo, es competitiva: hay solo 403 ayudas (80 Infantil, 210 Primaria-ESO-FPB, 50 Bachillerato-ciclos, 40 universidad y 23 necesidades especiales), con 80.000 € de crédito, y se dan por puntos (notas, renta per cápita, miembros empadronados, monoparental, numerosa, discapacidad, violencia de género, orfandad y vivienda de alquiler). Cumplir los requisitos no garantiza cobrar.\n\nQuién puede pedirla: familias con renta anual per cápita de hasta 13.000 € (bases imponibles del IRPF de 2025 divididas entre los miembros; +602 € de límite por cada hijo desde el tercero en familia numerosa), con estudios en curso (si no es curso completo, mínimo 3 materias). Las bases piden estar empadronado en A Laracha antes del 1 de agosto de 2025, que parece una errata por 2026: confirma con el Concello.\n\nCuándo se pide: plazo cerrado, del 13 de agosto al 30 de septiembre de 2026 a las 15:00 (desde el día siguiente al extracto del BOP de A Coruña del 12/08/2026). Quien ya la pidió justifica hasta el 30 de noviembre. Vigila agosto de 2027.",
+      "descripcionGl": "Axuda do Concello de A Laracha para libros de texto, material didáctico, roupa e material deportivo de Educación Física e material informático (de Primaria en diante), para estudantes desde 2.º ciclo de Infantil ata a universidade.\n\nCanto: unha axuda por familia, que depende do nivel de estudos e non da renda: 165 € en Infantil (3, 4 e 5 anos), 150 € en Primaria, ESO e FP Básica, 225 € en Bacharelato e ciclos medios ou superiores, 400 € en grao ou máster universitario e 350 € para alumnado con necesidades educativas especiais (discapacidade do 33 % ou máis) ou de apoio educativo. Se hai irmáns, concédese a de maior importe. Cóbrase tras xustificar o gasto con facturas por un importe igual ou superior (datadas entre o 1/06 e o 30/11/2026); nas de necesidades especiais, a metade debe ser gasto desa necesidade (terapias, especialistas...).\n\nOllo, é competitiva: hai só 403 axudas (80 Infantil, 210 Primaria-ESO-FPB, 50 Bacharelato-ciclos, 40 universidade e 23 necesidades especiais), con 80.000 € de crédito, e dánse por puntos (notas, renda per cápita, membros empadroados, monoparental, numerosa, discapacidade, violencia de xénero, orfandade e vivenda de aluguer). Cumprir os requisitos non garante cobrar.\n\nQuen pode pedila: familias con renda anual per cápita de ata 13.000 € (bases impoñibles do IRPF de 2025 divididas entre os membros; +602 € de límite por cada fillo desde o terceiro en familia numerosa), con estudos en curso (se non é curso completo, mínimo 3 materias). As bases piden estar empadroado en A Laracha antes do 1 de agosto de 2025, que parece unha errata por 2026: confirma co Concello.\n\nCando se pide: prazo pechado, do 13 de agosto ao 30 de setembro de 2026 ás 15:00 (desde o día seguinte ao extracto do BOP da Coruña do 12/08/2026). Quen xa a pediu xustifica ata o 30 de novembro. Vixía agosto de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de A Laracha",
+      "organismoGl": "Concello de A Laracha",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/923884",
+      "municipios": [
+        "A Laracha"
+      ],
+      "plazoInicio": "2026-08-13T00:00:00.000",
+      "plazoFin": "2026-09-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            30
+          ],
+          "textoExplicativo": "Tener un hijo/a que curse 2.º ciclo de Infantil, Primaria, ESO, FP, Bachillerato, ciclos o universidad (grado o máster) en 2026/27; si no es curso completo, al menos 3 materias",
+          "textoExplicativoGl": "Ter un fillo/a que curse 2.º ciclo de Infantil, Primaria, ESO, FP, Bacharelato, ciclos ou universidade (grao ou máster) en 2026/27; se non é curso completo, polo menos 3 materias"
+        },
+        {
+          "campo": "rentaLaracha",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta anual per cápita de la familia (bases imponibles general y del ahorro del IRPF de 2025 divididas entre los miembros) no supere 13.000 € (+602 € por hijo desde el tercero en familia numerosa)",
+          "textoExplicativoGl": "Que a renda anual per cápita da familia (bases impoñibles xeral e do aforro do IRPF de 2025 divididas entre os membros) non supere 13.000 € (+602 € por fillo desde o terceiro en familia numerosa)"
+        },
+        {
+          "campo": "empadronamientoLaracha",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Uno de los padres o tutores y los hijos menores empadronados en A Laracha antes del 1 de agosto de 2025 (según las bases; posible errata por 2026, confirma con el Concello)",
+          "textoExplicativoGl": "Un dos pais ou titores e os fillos menores empadroados en A Laracha antes do 1 de agosto de 2025 (segundo as bases; posible errata por 2026, confirma co Concello)"
+        },
+        {
+          "campo": "corrienteObligacionesLaracha",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con la Agencia Tributaria, la Seguridad Social y el Concello (la solicitud autoriza al Concello a comprobarlo)",
+          "textoExplicativoGl": "Ao corrente coa Axencia Tributaria, a Seguridade Social e o Concello (a solicitude autoriza o Concello a comprobalo)"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Con el certificado de familia monoparental de la Xunta, la familia cuenta 0,5 miembros más para la renta per cápita y suma 1 punto en el baremo. En violencia de género pasa lo mismo (1,5 puntos) y no cuenta el agresor como miembro.",
+          "textoGl": "Co certificado de familia monoparental da Xunta, a familia conta 0,5 membros máis para a renda per cápita e suma 1 punto no baremo. En violencia de xénero pasa o mesmo (1,5 puntos) e non conta o agresor como membro."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "El límite de renta per cápita sube 602 € por cada hijo a partir del tercero y suma 1 punto en el baremo (con la tarjeta de familia numerosa). Si sobra crédito, puede recibir una segunda ayuda.",
+          "textoGl": "O límite de renda per cápita sobe 602 € por cada fillo a partir do terceiro e suma 1 punto no baremo (coa tarxeta de familia numerosa). Se sobra crédito, pode recibir unha segunda axuda."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si el alumno/a tiene discapacidad del 33 % o más, cuenta 0,5 miembros más en la renta per cápita, suma 1,5 puntos y puede optar a la ayuda de 350 € de necesidades educativas especiales (con el certificado).",
+          "textoGl": "Se o alumno/a ten discapacidade do 33 % ou máis, conta 0,5 membros máis na renda per cápita, suma 1,5 puntos e pode optar á axuda de 350 € de necesidades educativas especiais (co certificado)."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo del Concello (en su web, en el Registro General o en la OMIX), presentada en la OMIX (Casa de la Cultura), el Registro General o la sede electrónica. Incluye la autorización para comprobar padrón, Hacienda, Seguridad Social y renta de 2025.",
+        "DNI o NIE del alumno/a (original y copia); si es menor, copia del DNI del padre, madre o tutor/a. El pasaporte no vale. Libro de familia (original y copia).",
+        "Matrícula o documento oficial del centro; en grado o máster, matrícula de 2025-26 y 2026-27 con las materias. Notas del curso 2025-26 (libro de calificaciones, boletín o expediente).",
+        "Si no hay declaración del IRPF de 2025 o hay algún pensionista: nóminas, certificados del SEPE o de la Seguridad Social; en su defecto, declaración jurada de ingresos.",
+        "Certificación bancaria de la cuenta del alumno/a (o, si no tiene, del tutor/a).",
+        "Si procede: certificado de discapacidad del 33 % o más, o informe del equipo de orientación para necesidades de apoyo educativo.",
+        "Si procede: contrato y recibo de alquiler del alumno/a, título de familia numerosa, certificado de defunción (orfandad), convenio o sentencia (divorcio), certificado de familia monoparental de la Xunta o acreditación de violencia de género.",
+        "Para cobrar (hasta el 30/11/2026): impreso de justificación, facturas con fecha entre el 1/06 y el 30/11/2026 por un importe igual o superior y declaración jurada de otras ayudas."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo do Concello (na súa web, no Rexistro Xeral ou na OMIX), presentada na OMIX (Casa da Cultura), o Rexistro Xeral ou a sede electrónica. Inclúe a autorización para comprobar padrón, Facenda, Seguridade Social e renda de 2025.",
+        "DNI ou NIE do alumno/a (orixinal e copia); se é menor, copia do DNI do pai, nai ou titor/a. O pasaporte non vale. Libro de familia (orixinal e copia).",
+        "Matrícula ou documento oficial do centro; en grao ou máster, matrícula de 2025-26 e 2026-27 coas materias. Notas do curso 2025-26 (libro de cualificacións, boletín ou expediente).",
+        "Se non hai declaración do IRPF de 2025 ou hai algún pensionista: nóminas, certificados do SEPE ou da Seguridade Social; en defecto, declaración xurada de ingresos.",
+        "Certificación bancaria da conta do alumno/a (ou, se non ten, do titor/a).",
+        "Se procede: certificado de discapacidade do 33 % ou máis, ou informe do equipo de orientación para necesidades de apoio educativo.",
+        "Se procede: contrato e recibo de aluguer do alumno/a, título de familia numerosa, certificado de defunción (orfandade), convenio ou sentenza (divorcio), certificado de familia monoparental da Xunta ou acreditación de violencia de xénero.",
+        "Para cobrar (ata o 30/11/2026): impreso de xustificación, facturas con data entre o 1/06 e o 30/11/2026 por un importe igual ou superior e declaración xurada doutras axudas."
       ]
     }
   ]
