@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-26b",
+  "revision": "2026-10-26c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -5486,6 +5486,110 @@
         "Se procede: certificado de discapacidade do 33 % ou máis, ou informe do equipo de orientación para necesidades de apoio educativo.",
         "Se procede: contrato e recibo de aluguer do alumno/a, título de familia numerosa, certificado de defunción (orfandade), convenio ou sentenza (divorcio), certificado de familia monoparental da Xunta ou acreditación de violencia de xénero.",
         "Para cobrar (ata o 30/11/2026): impreso de xustificación, facturas con data entre o 1/06 e o 30/11/2026 por un importe igual ou superior e declaración xurada doutras axudas."
+      ]
+    },
+    {
+      "id": "bergondo_escolarizacion_2026_27",
+      "titulo": "Ayudas para la escolarización de menores 2026/27 (Bergondo)",
+      "tituloGl": "Axudas para a escolarización de menores 2026/27 (Bergondo)",
+      "descripcion": "Ayuda del Concello de Bergondo para libros y material escolar del alumnado de Infantil, Primaria y ESO de los centros públicos del municipio (CPI Cruz do Sar y CRA de Bergondo).\n\nCuánto: se da en un bono para canjear en las librerías de Bergondo. Con ingresos bajos cobras el 100 % y con ingresos medios el 50 %: Infantil (3, 4 y 5 años) 60 € o 30 €, 1.º y 2.º de Primaria 100 € o 50 €, 3.º a 6.º de Primaria 80 € o 40 €, y 1.º a 4.º de ESO 120 € o 60 €. Nunca puede superar el gasto real en libros y material. Crédito de 12.000 €: si no llega, se prioriza a las familias con menos ingresos.\n\nQuién puede pedirla: alumnado empadronado en Bergondo y escolarizado en un centro público del municipio, con ingresos familiares (bases imponibles general y del ahorro del IRPF de 2024 de todos los miembros) de hasta 23.724 € con 2 miembros, 32.201 € con 3, 38.242 € con 4, 42.743 € con 5 o 46.142 € con 6. Cobras el 100 % hasta 13.264 € (2 miembros), 17.685 € (3), 22.107 € (4), 25.644 € (5) o 29.181 € (6). También pueden pedirla las familias incluidas en programas de intervención familiar de los Servicios Sociales aunque superen esos ingresos.\n\nCuándo se pide: plazo cerrado, del 11 de junio al 9 de julio de 2026 (20 días hábiles desde el extracto del BOP de A Coruña del 10/06/2026). Quien ya la pidió debe canjear el bono y entregar la factura con el Anexo III antes del 30 de septiembre de 2026; si no, devuelve la ayuda y pierde la del año siguiente.\n\nOjo: es distinta de la ayuda de entrega de libros de texto (910871) y son compatibles, pero el bono no puede pasar del gasto real. Vigila junio de 2027.",
+      "descripcionGl": "Axuda do Concello de Bergondo para libros e material escolar do alumnado de Infantil, Primaria e ESO dos centros públicos do municipio (CPI Cruz do Sar e CRA de Bergondo).\n\nCanto: dáse nun bono para canxear nas librarías de Bergondo. Con ingresos baixos cobras o 100 % e con ingresos medios o 50 %: Infantil (3, 4 e 5 anos) 60 € ou 30 €, 1.º e 2.º de Primaria 100 € ou 50 €, 3.º a 6.º de Primaria 80 € ou 40 €, e 1.º a 4.º de ESO 120 € ou 60 €. Nunca pode superar o gasto real en libros e material. Crédito de 12.000 €: se non chega, priorízase ás familias con menos ingresos.\n\nQuen pode pedila: alumnado empadroado en Bergondo e escolarizado nun centro público do municipio, con ingresos familiares (bases impoñibles xeral e do aforro do IRPF de 2024 de todos os membros) de ata 23.724 € con 2 membros, 32.201 € con 3, 38.242 € con 4, 42.743 € con 5 ou 46.142 € con 6. Cobras o 100 % ata 13.264 € (2 membros), 17.685 € (3), 22.107 € (4), 25.644 € (5) ou 29.181 € (6). Tamén poden pedila as familias incluídas en programas de intervención familiar dos Servizos Sociais aínda que superen eses ingresos.\n\nCando se pide: prazo pechado, do 11 de xuño ao 9 de xullo de 2026 (20 días hábiles desde o extracto do BOP da Coruña do 10/06/2026). Quen xa a pediu debe canxear o bono e entregar a factura co Anexo III antes do 30 de setembro de 2026; se non, devolve a axuda e perde a do ano seguinte.\n\nOllo: é distinta da axuda de entrega de libros de texto (910871) e son compatibles, pero o bono non pode pasar do gasto real. Vixía xuño de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de Bergondo",
+      "organismoGl": "Concello de Bergondo",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/910881",
+      "municipios": [
+        "Bergondo"
+      ],
+      "plazoInicio": "2026-06-11T00:00:00.000",
+      "plazoFin": "2026-07-09T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            16
+          ],
+          "textoExplicativo": "Tener un hijo/a en Educación Infantil (3, 4 o 5 años), Primaria o ESO en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a en Educación Infantil (3, 4 ou 5 anos), Primaria ou ESO no curso 2026/27"
+        },
+        {
+          "campo": "centroBergondoEscolarizacion",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a empadronado/a en Bergondo y escolarizado/a en un centro público del municipio (CPI Cruz do Sar o CRA de Bergondo)",
+          "textoExplicativoGl": "Alumno/a empadroado/a en Bergondo e escolarizado/a nun centro público do municipio (CPI Cruz do Sar ou CRA de Bergondo)"
+        },
+        {
+          "campo": "rentaBergondoEscolarizacion",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              23724
+            ],
+            [
+              3,
+              32201
+            ],
+            [
+              4,
+              38242
+            ],
+            [
+              5,
+              42743
+            ],
+            [
+              6,
+              46142
+            ],
+            [
+              7,
+              49503
+            ],
+            [
+              8,
+              52850
+            ]
+          ],
+          "textoExplicativo": "Que los ingresos anuales de la familia (bases imponibles general y del ahorro del IRPF de 2024 de todos los miembros) no superen 23.724 € con 2 miembros, 32.201 € con 3, 38.242 € con 4, 42.743 € con 5 o 46.142 € con 6; también pueden pedirla las familias en programas de intervención familiar de los Servicios Sociales aunque superen esos ingresos",
+          "textoExplicativoGl": "Que os ingresos anuais da familia (bases impoñibles xeral e do aforro do IRPF de 2024 de todos os membros) non superen 23.724 € con 2 membros, 32.201 € con 3, 38.242 € con 4, 42.743 € con 5 ou 46.142 € con 6; tamén poden pedila as familias en programas de intervención familiar dos Servizos Sociais aínda que superen eses ingresos"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Para calcular los ingresos, se cuenta 1 miembro más que los reales (con el certificado de familia monoparental de la Xunta). En violencia de género no cuenta el agresor y la familia se considera monoparental.",
+          "textoGl": "Para calcular os ingresos, conta 1 membro máis que os reais (co certificado de familia monoparental da Xunta). En violencia de xénero non conta o agresor e a familia considérase monoparental."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Para calcular los ingresos, se cuenta 1 miembro más que los reales, así que se aplica el límite de la fila siguiente de la tabla.",
+          "textoGl": "Para calcular os ingresos, conta 1 membro máis que os reais, así que se aplica o límite da fila seguinte da táboa."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si algún miembro tiene discapacidad del 33 % o más, o dependencia reconocida, se cuenta 1 miembro más que los reales para calcular los ingresos.",
+          "textoGl": "Se algún membro ten discapacidade do 33 % ou máis, ou dependencia recoñecida, conta 1 membro máis que os reais para calcular os ingresos."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo oficial (Anexo I), preferentemente por la sede electrónica del Concello; presencial con cita previa en el Registro (981 79 12 52, ext. 2, de 9:00 a 14:30, o cita.previa@bergondo.gal).",
+        "DNI del miembro de la familia que solicita en nombre del alumno/a y libro de familia.",
+        "Declaración de la renta del ejercicio 2024, o justificante de no haberla presentado si no estás obligado/a.",
+        "Si no autorizas la consulta: justificante de empadronamiento y justificante de matrícula en un centro público del municipio.",
+        "Si procede: certificado de familia monoparental de la Xunta, y otra documentación que pidan los Servicios Sociales según la situación familiar.",
+        "Tras la concesión: canjear el bono en una librería de Bergondo y entregar la factura con el modelo de delegación de pago (Anexo III) a los Servicios Sociales antes del 30/09/2026."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo oficial (Anexo I), preferentemente pola sede electrónica do Concello; presencial con cita previa no Rexistro (981 79 12 52, ext. 2, de 9:00 a 14:30, ou cita.previa@bergondo.gal).",
+        "DNI do membro da familia que solicita en nome do alumno/a e libro de familia.",
+        "Declaración da renda do exercicio 2024, ou xustificante de non a ter presentado se non estás obrigado/a.",
+        "Se non autorizas a consulta: xustificante de empadroamento e xustificante de matrícula nun centro público do municipio.",
+        "Se procede: certificado de familia monoparental da Xunta, e outra documentación que pidan os Servizos Sociais segundo a situación familiar.",
+        "Tras a concesión: canxear o bono nunha libraría de Bergondo e entregar a factura co modelo de delegación de pago (Anexo III) aos Servizos Sociais antes do 30/09/2026."
       ]
     }
   ]
