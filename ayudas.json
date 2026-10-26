@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-26e",
+  "revision": "2026-10-26f",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -286,6 +286,24 @@
           "textoExplicativo": "Que la renta per cápita de la familia (renta de 2024) no supere 6.000 €",
           "textoExplicativoGl": "Que a renda per cápita da familia (renda de 2024) non supere os 6.000 €"
         }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I) solo por vía electrónica en la sede de la Xunta (sede.xunta.gal), con Chave365 u otro sistema de identificación admitido. Una única solicitud para todos los hijos/as del mismo centro, presentada por el padre, madre, tutor/a o representante legal.",
+        "Anexo III: declaración responsable de la entidad que gestiona el comedor (ANPA, ayuntamiento, centro concertado o la empresa contratada) con los días que el alumno/a usó el comedor, el precio diario, el importe total pagado y los datos de quien pagó.",
+        "Declaración responsable con el alumno/a y los demás miembros de la unidad familiar que cuentan para la renta.",
+        "Anexo II: documento firmado por tu cónyuge o pareja (u otro miembro de la unidad familiar) que autorice u oponga la comprobación de sus datos. Si se opone, presenta los documentos tú.",
+        "Si procede: certificado de discapacidad del alumno/a o de un miembro de la familia cuando no lo expidió la Xunta, y documentación de violencia de género si el agresor forma parte de la unidad familiar.",
+        "Si procede: resolución judicial de curatela representativa o de patria potestad prorrogada o rehabilitada; resolución de acogimiento o certificado del centro de menores (alumnado tutelado por la Xunta); y certificado o volante de convivencia, o informe de servicios sociales, si los padres o tutores no tienen DNI ni NIE.",
+        "Los datos económicos son del ejercicio fiscal 2024. La Xunta consulta tu renta, DNI y discapacidad; si te opones a esa consulta, aporta tú los documentos."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I) só por vía electrónica na sede da Xunta (sede.xunta.gal), con Chave365 ou outro sistema de identificación admitido. Unha única solicitude para todos os fillos/as do mesmo centro, presentada polo pai, nai, titor/a ou representante legal.",
+        "Anexo III: declaración responsable da entidade que xestiona o comedor (ANPA, concello, centro concertado ou a empresa contratada) cos días que o alumno/a usou o comedor, o prezo diario, o importe total pagado e os datos de quen pagou.",
+        "Declaración responsable co alumno/a e os demais membros da unidade familiar que contan para a renda.",
+        "Anexo II: documento asinado polo teu cónxuxe ou parella (ou outro membro da unidade familiar) que autorice ou se opoña á comprobación dos seus datos. Se se opón, presentas ti os documentos.",
+        "Se procede: certificado de discapacidade do alumno/a ou dun membro da familia cando non o expediu a Xunta, e documentación de violencia de xénero se o agresor forma parte da unidade familiar.",
+        "Se procede: resolución xudicial de curatela representativa ou de patria potestade prorrogada ou rehabilitada; resolución de acollemento ou certificado do centro de menores (alumnado tutelado pola Xunta); e certificado ou volante de convivencia, ou informe de servizos sociais, se os pais ou titores non teñen DNI nin NIE.",
+        "Os datos económicos son do exercicio fiscal 2024. A Xunta consulta a túa renda, DNI e discapacidade; se te opós a esa consulta, achega ti os documentos."
       ]
     },
     {
