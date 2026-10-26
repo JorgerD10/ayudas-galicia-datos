@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-25i",
+  "revision": "2026-10-26a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -5319,6 +5319,87 @@
         "Certificado do centro público coa matrícula do alumno/a no curso 2026/27.",
         "Documento bancario co IBAN que acredite que quen solicita é titular da conta.",
         "Facturas orixinais ou fotocopias compulsadas do gasto (emitidas desde o 1/07/2026) por un importe igual ou superior á axuda; se non as tes ao solicitar, hai 15 días hábiles desde a publicación da concesión."
+      ]
+    },
+    {
+      "id": "meano_material_escolar_2026_27",
+      "titulo": "Ayudas de material y equipamiento escolar 2026/27 (Meaño)",
+      "tituloGl": "Axudas de material e equipamento escolar 2026/27 (Meaño)",
+      "descripcion": "Ayuda del Concello de Meaño para libros, material escolar, mochila, vestuario básico (chándal, zapatillas...) y material informático del alumnado de 2.º ciclo de Infantil, Primaria, ESO, FP Básica y Educación Especial de centros públicos, para familias con rentas bajas.\n\nCuánto: por alumno/a, 80 € si la renta per cápita familiar de 2025 no pasa de 3.200 € y 60 € si está entre 3.201 y 6.500 €. En familias monoparentales (con certificado), 90 € hasta 3.500 € y 70 € entre 3.501 y 6.500 €. Se cobra por transferencia después de justificar el gasto con facturas (compras desde el 1 de julio de 2026) por un importe igual o superior. Crédito de 4.000 € (3.000 € para Infantil y Primaria, 1.000 € para ESO y FP Básica; lo que sobre de una línea pasa a la otra): se concede de menor a mayor renta per cápita hasta agotarlo.\n\nQuién puede pedirla: padres, madres o tutores con la familia empadronada y residiendo en Meaño y el alumno/a (menor de 18 años a 31/12/2026) matriculado en un centro público en 2026/27. Renta per cápita de hasta 6.500 € (renta familiar dividida entre los miembros). Además, ningún miembro con coche de más de 15,99 caballos fiscales y menos de 8 años, vivienda propia con valor catastral de hasta 150.000 € (unifamiliar) u 80.000 € (piso), ni otro inmueble urbano distinto de la vivienda familiar (salvo solares).\n\nCuándo se pide: plazo cerrado, del 20 de agosto al 18 de septiembre de 2026 (desde el día siguiente al extracto del BOP de Pontevedra del 19/08/2026). Quien ya la pidió debe justificar el gasto hasta el 30 de octubre de 2026.\n\nOjo: las bases están solo en gallego y tienen erratas (una frase dice «curso 2025-2026» y la base octava habla de renta de 2024); vigila agosto de 2027.",
+      "descripcionGl": "Axuda do Concello de Meaño para libros, material escolar, mochila, vestiario básico (chándal, zapatillas...) e material informático do alumnado de 2.º ciclo de Infantil, Primaria, ESO, FP Básica e Educación Especial de centros públicos, para familias con rendas baixas.\n\nCanto: por alumno/a, 80 € se a renda per cápita familiar de 2025 non pasa de 3.200 € e 60 € se está entre 3.201 e 6.500 €. En familias monoparentais (con certificado), 90 € ata 3.500 € e 70 € entre 3.501 e 6.500 €. Cóbrase por transferencia despois de xustificar o gasto con facturas (compras desde o 1 de xullo de 2026) por un importe igual ou superior. Crédito de 4.000 € (3.000 € para Infantil e Primaria, 1.000 € para ESO e FP Básica; o que sobre dunha liña pasa á outra): concédese de menor a maior renda per cápita ata esgotalo.\n\nQuen pode pedila: pais, nais ou titores coa familia empadroada e residindo en Meaño e o alumno/a (menor de 18 anos a 31/12/2026) matriculado nun centro público en 2026/27. Renda per cápita de ata 6.500 € (renda familiar dividida entre os membros). Ademais, ningún membro con coche de máis de 15,99 cabalos fiscais e menos de 8 anos, vivenda propia con valor catastral de ata 150.000 € (unifamiliar) ou 80.000 € (piso), nin outro inmoble urbano distinto da vivenda familiar (salvo soares).\n\nCando se pide: prazo pechado, do 20 de agosto ao 18 de setembro de 2026 (desde o día seguinte ao extracto do BOP de Pontevedra do 19/08/2026). Quen xa a pediu debe xustificar o gasto ata o 30 de outubro de 2026.\n\nOllo: as bases están só en galego e teñen erratas (unha frase di «curso 2025-2026» e a base oitava fala de renda de 2024); vixía agosto de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de Meaño",
+      "organismoGl": "Concello de Meaño",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/925169",
+      "municipios": [
+        "Meaño"
+      ],
+      "plazoInicio": "2026-08-20T00:00:00.000",
+      "plazoFin": "2026-09-18T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            17
+          ],
+          "textoExplicativo": "Tener un hijo/a en 2.º ciclo de Infantil, Primaria, ESO, FP Básica o Educación Especial, matriculado/a (o con reserva) en un centro público en 2026/27 y menor de 18 años a 31/12/2026",
+          "textoExplicativoGl": "Ter un fillo/a en 2.º ciclo de Infantil, Primaria, ESO, FP Básica ou Educación Especial, matriculado/a (ou con reserva) nun centro público en 2026/27 e menor de 18 anos a 31/12/2026"
+        },
+        {
+          "campo": "rentaMeano",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita familiar de 2025 (renta familiar dividida entre los miembros; con discapacidad del 33 % o más, cuentan doble) no supere 6.500 € al año",
+          "textoExplicativoGl": "Que a renda per cápita familiar de 2025 (renda familiar dividida entre os membros; con discapacidade do 33 % ou máis, contan dobre) non supere 6.500 € ao ano"
+        },
+        {
+          "campo": "empadronamientoMeano",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Familia empadronada y residiendo de modo efectivo en Meaño, conviviendo con el alumno/a",
+          "textoExplicativoGl": "Familia empadroada e residindo de modo efectivo en Meaño, convivindo co alumno/a"
+        },
+        {
+          "campo": "patrimonioMeano",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Ningún miembro con vehículo de más de 15,99 caballos fiscales y menos de 8 años; vivienda propia con valor catastral de hasta 150.000 € (unifamiliar) u 80.000 € (piso); y ningún otro inmueble urbano distinto de la vivienda familiar (salvo solar)",
+          "textoExplicativoGl": "Ningún membro con vehículo de máis de 15,99 cabalos fiscais e menos de 8 anos; vivenda propia con valor catastral de ata 150.000 € (unifamiliar) ou 80.000 € (piso); e ningún outro inmoble urbano distinto da vivenda familiar (salvo soar)"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Con el certificado de familia monoparental cobras más: 90 € (renta per cápita hasta 3.500 €) o 70 € (hasta 6.500 €), en vez de 80 € y 60 €. En violencia de género no se cuentan los ingresos del agresor y la familia se considera monoparental.",
+          "textoGl": "Co certificado de familia monoparental cobras máis: 90 € (renda per cápita ata 3.500 €) ou 70 € (ata 6.500 €), en vez de 80 € e 60 €. En violencia de xénero non se contan os ingresos do agresor e a familia considérase monoparental."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Para calcular la renta per cápita, cada miembro con discapacidad del 33 % o más (o con pensión de incapacidad permanente total, absoluta o gran invalidez) cuenta como dos personas.",
+          "textoGl": "Para calcular a renda per cápita, cada membro con discapacidade do 33 % ou máis (ou con pensión de incapacidade permanente total, absoluta ou gran invalidez) conta como dúas persoas."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo del Anexo I, en el Registro General del Concello o por cualquier vía del artículo 16 de la Ley 39/2015. Incluye las declaraciones y la autorización para que el Concello compruebe tus datos (Agencia Tributaria, Xunta y Seguridad Social).",
+        "DNI, NIE o pasaporte de quien solicita, y libro de familia completo o documentación oficial con los miembros y sus fechas de nacimiento.",
+        "Justificante de matrícula en el centro escolar del curso 2026/27.",
+        "Recibo del IBI de la vivienda (con valor catastral, 2026) y del impuesto de vehículos de los que tenga la familia; si no los traes, los comprueba el Concello con tu autorización.",
+        "Relación de bienes inmuebles urbanos de todos los miembros de la unidad familiar, de la Diputación (ORAL, gestión de tributos locales), que abarque la provincia.",
+        "Declaración de la renta de 2025 de todos los miembros mayores de 18 años o certificado negativo de la Agencia Tributaria; en su caso, certificado de imputaciones, pensiones del INSS, prestaciones del SEPE con vida laboral y tarjeta de demanda de empleo, o justificante de la RISGA. Si la situación empeoró, nóminas de los 4 meses anteriores.",
+        "Si el libro de familia no refleja la situación a 31/12/2025: sentencia o convenio regulador con la custodia, certificado de convivencia o informe de servicios sociales. Familia monoparental: certificado de familia monoparental.",
+        "Si procede: certificado de discapacidad del 33 % o más, o resolución de incapacidad permanente. Para cobrar (hasta el 30/10/2026): cuenta justificativa (Anexo II), facturas con prueba de pago, certificado bancario con IBAN y estar al corriente con Hacienda y la Seguridad Social."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo do Anexo I, no Rexistro Xeral do Concello ou por calquera vía do artigo 16 da Lei 39/2015. Inclúe as declaracións e a autorización para que o Concello comprobe os teus datos (Axencia Tributaria, Xunta e Seguridade Social).",
+        "DNI, NIE ou pasaporte de quen solicita, e libro de familia completo ou documentación oficial cos membros e as súas datas de nacemento.",
+        "Xustificante de matrícula no centro escolar do curso 2026/27.",
+        "Recibo do IBI da vivenda (con valor catastral, 2026) e do imposto de vehículos dos que teña a familia; se non os traes, compróbaos o Concello coa túa autorización.",
+        "Relación de bens inmobles urbanos de todos os membros da unidade familiar, da Deputación (ORAL, xestión de tributos locais), que abranga a provincia.",
+        "Declaración da renda de 2025 de todos os membros maiores de 18 anos ou certificado negativo da Axencia Tributaria; se é o caso, certificado de imputacións, pensións do INSS, prestacións do SEPE con vida laboral e tarxeta de demanda de emprego, ou xustificante da RISGA. Se a situación empeorou, nóminas dos 4 meses anteriores.",
+        "Se o libro de familia non reflicte a situación a 31/12/2025: sentenza ou convenio regulador coa custodia, certificado de convivencia ou informe de servizos sociais. Familia monoparental: certificado de familia monoparental.",
+        "Se procede: certificado de discapacidade do 33 % ou máis, ou resolución de incapacidade permanente. Para cobrar (ata o 30/10/2026): conta xustificativa (Anexo II), facturas con proba de pagamento, certificado bancario con IBAN e estar ao corrente coa Facenda e a Seguridade Social."
       ]
     }
   ]
