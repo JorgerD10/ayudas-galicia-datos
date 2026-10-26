@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-26f",
+  "revision": "2026-10-26g",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -365,6 +365,26 @@
           "texto": "Si el hijo/a tiene una discapacidad del 33 % o más, la ayuda llega hasta los 12 años, en vez de los 3.",
           "textoGl": "Se o fillo/a ten unha discapacidade do 33 % ou máis, a axuda chega ata os 12 anos, en vez dos 3."
         }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I) solo por vía electrónica en la sede de la Xunta (sede.xunta.gal), con Chave365 u otro sistema de identificación admitido.",
+        "Informe de datos de cotización (IDC) de la Seguridad Social, que te da la empresa, que acredite la reducción de jornada por cuidado de hijo/a durante todo el periodo solicitado. Si estás en Muface, Isfas, Muxexu u otro sistema, certificado en papel oficial del organismo, sellado y con la identificación de quien certifica. Si la reducción cambió de porcentaje o no fue continua, un documento por cada periodo.",
+        "Copia del libro de familia completo o de la inscripción en el registro.",
+        "Anexo II: comprobación de datos de tu cónyuge o pareja (solo si la familia no es monoparental y no hay custodia compartida).",
+        "Si procede: convenio regulador ratificado por el juzgado, o sentencia de nulidad, separación o divorcio.",
+        "Si procede: resolución judicial de adopción o de acogimiento familiar (o resolución administrativa si no la expidió la Xunta) de hijos/as menores de 12 años.",
+        "Si procede: resolución de reconocimiento de discapacidad del 33 % o más del hijo/a menor de 12 años, cuando no la expidió la Xunta.",
+        "La Xunta consulta sola tu DNI, empadronamiento en Galicia, IRPF de 2025 y el certificado de monoparentalidad (si lo expidió Galicia); si te opones, aporta tú los documentos. El Anexo III (solicitud de pago) se presenta después, con la justificación."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I) só por vía electrónica na sede da Xunta (sede.xunta.gal), con Chave365 ou outro sistema de identificación admitido.",
+        "Informe de datos de cotización (IDC) da Seguridade Social, que che dá a empresa, que acredite a redución de xornada por coidado de fillo/a durante todo o período solicitado. Se estás en Muface, Isfas, Muxexu ou outro sistema, certificado en papel oficial do organismo, selado e coa identificación de quen certifica. Se a redución cambiou de porcentaxe ou non foi continua, un documento por cada período.",
+        "Copia do libro de familia completo ou da inscrición no rexistro.",
+        "Anexo II: comprobación de datos do teu cónxuxe ou parella (só se a familia non é monoparental e non hai custodia compartida).",
+        "Se procede: convenio regulador ratificado polo xulgado, ou sentenza de nulidade, separación ou divorcio.",
+        "Se procede: resolución xudicial de adopción ou de acollemento familiar (ou resolución administrativa se non a expediu a Xunta) de fillos/as menores de 12 anos.",
+        "Se procede: resolución de recoñecemento de discapacidade do 33 % ou máis do fillo/a menor de 12 anos, cando non a expediu a Xunta.",
+        "A Xunta consulta soa o teu DNI, empadroamento en Galicia, IRPF de 2025 e o certificado de monoparentalidade (se o expediu Galicia); se te opós, achega ti os documentos. O Anexo III (solicitude de pagamento) preséntase despois, coa xustificación."
       ]
     },
     {
