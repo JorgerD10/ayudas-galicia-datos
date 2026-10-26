@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-26h",
+  "revision": "2026-10-26i",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -546,6 +546,26 @@
           "textoExplicativo": "Solo para la línea de conciliación: que ambos progenitores trabajen (o solo quien solicita, en familias monoparentales o con separación o divorcio)",
           "textoExplicativoGl": "Só para a liña de conciliación: que ambos proxenitores traballen (ou só quen solicita, en familias monoparentais ou con separación ou divorcio)"
         }
+      ],
+      "documentacion": [
+        "Impreso de solicitud cubierto y firmado por quien solicita (tutor/a, madre, padre o acogedor/a). Se presenta por vía telemática en el Registro Electrónico Común (REC) o en la sede electrónica del Concello (sede.santiagodecompostela.gal), o por cualquiera de los medios del artículo 16 de la Ley 39/2015.",
+        "DNI, NIE o pasaporte en vigor de cada miembro de la unidad familiar mayor de edad.",
+        "Libro de familia o, si no, certificación del Registro Civil u otro documento oficial que acredite el vínculo familiar.",
+        "Escasez de recursos: si procede, justificante de preinscripción o reserva de plaza en las actividades extraescolares del curso 2026/27.",
+        "Material escolar (solo 2.º ciclo de Infantil): certificación bancaria con el IBAN, con quien solicita como titular o cotitular.",
+        "Conciliación: certificado de la empresa o de quien emplea, con la jornada laboral de cada miembro computable (padre, madre o quienes ejerzan la tutela o guarda).",
+        "Opcional, para puntuar en el baremo sociofamiliar (si no lo presentas en el plazo de solicitud o de enmienda, no puntúa): carné de familia numerosa en vigor; acreditación de violencia de género; para familia monoparental, libro de familia con un solo progenitor, sentencia y convenio (o sentencia de guarda, custodia y alimentos) o certificado de monoparentalidad, o certificado de defunción en caso de viudedad; certificación o tarjeta de discapacidad del 33 % o más; y resolución de acogimiento familiar o permiso de convivencia.",
+        "El Concello consulta él mismo el empadronamiento y la convivencia. Al presentarte autorizas esas consultas. Si queda documentación pendiente, solo se puede aportar durante el plazo de solicitud; después hay 10 días naturales para corregir si te lo requieren."
+      ],
+      "documentacionGl": [
+        "Impreso de solicitude cuberto e asinado por quen solicita (titor/a, nai, pai ou acolledor/a). Preséntase por vía telemática no Rexistro Electrónico Común (REC) ou na sede electrónica do Concello (sede.santiagodecompostela.gal), ou por calquera dos medios do artigo 16 da Lei 39/2015.",
+        "DNI, NIE ou pasaporte en vigor de cada membro da unidade familiar maior de idade.",
+        "Libro de familia ou, se non, certificación do Rexistro Civil ou outro documento oficial que acredite o vínculo familiar.",
+        "Escaseza de recursos: se procede, xustificante de preinscrición ou reserva de praza nas actividades extraescolares do curso 2026/27.",
+        "Material escolar (só 2.º ciclo de Infantil): certificación bancaria co IBAN, con quen solicita como titular ou cotitular.",
+        "Conciliación: certificado da empresa ou de quen emprega, coa xornada laboral de cada membro computable (pai, nai ou quen exerza a titoría ou garda).",
+        "Opcional, para puntuar no baremo sociofamiliar (se non o presentas no prazo de solicitude ou de emenda, non puntúa): carné de familia numerosa en vigor; acreditación de violencia de xénero; para familia monoparental, libro de familia cun só proxenitor, sentenza e convenio (ou sentenza de garda, custodia e alimentos) ou certificado de monoparentalidade, ou certificado de defunción en caso de viuvez; certificación ou tarxeta de discapacidade do 33 % ou máis; e resolución de acollemento familiar ou permiso de convivencia.",
+        "O Concello consulta el mesmo o empadroamento e a convivencia. Ao presentarte autorizas esas consultas. Se queda documentación pendente, só se pode achegar durante o prazo de solicitude; despois hai 10 días naturais para corrixir se cho requiren."
       ]
     },
     {
