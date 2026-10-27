@@ -11,28 +11,6 @@
       "categoria": "familia",
       "organismo": "Xunta de Galicia",
       "enlaceOficial": "https://sede.xunta.gal/detalle-procedemento?langId=es_ES&codtram=BS412A",
-      "documentacion": [
-        "Solicitud (Anexo I) solo por vía electrónica en la sede de la Xunta (sede.xunta.gal), con Chave365 u otro sistema de identificación admitido. Una solicitud por niño/a y por un único tipo de gasto (en custodia compartida, cada progenitor presenta la suya). Va dirigida al departamento territorial de tu provincia.",
-        "Libro o libros de familia o, si no, otro documento oficial que acredite la situación familiar.",
-        "Si procede: sentencia de separación o divorcio, convenio regulador o resolución de medidas paternofiliales (custodia compartida o familia con un solo progenitor por separación o divorcio).",
-        "Si procede, solo cuando lo expidió otra comunidad autónoma: resolución de adopción, tutela o acogimiento, certificado de monoparentalidad, título de familia numerosa o certificado de discapacidad del hijo/a. Si lo expidió Galicia, lo consulta la Xunta.",
-        "Si procede: acreditación de violencia de género (orden de protección, sentencia, informe de servicios sociales o sanitarios, informe del Ministerio Fiscal u otros de los admitidos) y certificado de afiliación a Muxexu o Isfas.",
-        "Según el motivo: justificante médico de enfermedad o accidente del niño/a o del cuidador/a habitual; documento de la entrevista o curso con fecha y horas; resolución de incapacidad permanente absoluta o gran invalidez; o declaración responsable si hay una situación laboral puntual del cuidador/a.",
-        "Cuidador/a a domicilio, servicios de conciliación autorizados o campamentos: facturas con tu nombre y DNI/NIE, el del niño/a y los días del servicio, y justificante de pago (bancario siempre desde 1.000 €; por debajo, también vale la factura firmada, sellada y con «pagado»).",
-        "Persona empleada del hogar: contrato de trabajo con el periodo, el objeto de cuidado de menores y el horario, y justificantes bancarios del pago del salario y de las cuotas de la Seguridad Social.",
-        "Anexo II: documento firmado por tu cónyuge o pareja (u otro miembro de la unidad familiar) que autorice u oponga la comprobación de sus datos. Si se opone, presenta los documentos tú."
-      ],
-      "documentacionGl": [
-        "Solicitude (Anexo I) só por vía electrónica na sede da Xunta (sede.xunta.gal), con Chave365 ou outro sistema de identificación admitido. Unha solicitude por neno/a e por un único tipo de gasto (en custodia compartida, cada proxenitor presenta a súa). Vai dirixida ao departamento territorial da túa provincia.",
-        "Libro ou libros de familia ou, se non, outro documento oficial que acredite a situación familiar.",
-        "Se procede: sentenza de separación ou divorcio, convenio regulador ou resolución de medidas paterno-filiais (custodia compartida ou familia cun só proxenitor por separación ou divorcio).",
-        "Se procede, só cando o expediu outra comunidade autónoma: resolución de adopción, tutela ou acollemento, certificado de monoparentalidade, título de familia numerosa ou certificado de discapacidade do fillo/a. Se o expediu Galicia, consúltao a Xunta.",
-        "Se procede: acreditación de violencia de xénero (orde de protección, sentenza, informe de servizos sociais ou sanitarios, informe do Ministerio Fiscal ou outros dos admitidos) e certificado de afiliación a Muxexu ou Isfas.",
-        "Segundo o motivo: xustificante médico de enfermidade ou accidente do neno/a ou do coidador/a habitual; documento da entrevista ou curso con data e horas; resolución de incapacidade permanente absoluta ou gran invalidez; ou declaración responsable se hai unha situación laboral puntual do coidador/a.",
-        "Coidador/a a domicilio, servizos de conciliación autorizados ou campamentos: facturas co teu nome e DNI/NIE, o do neno/a e os días do servizo, e xustificante de pagamento (bancario sempre desde 1.000 €; por debaixo, tamén vale a factura asinada, selada e con «pagado»).",
-        "Persoa empregada do fogar: contrato de traballo co período, o obxecto de coidado de menores e o horario, e xustificantes bancarios do pagamento do salario e das cotas da Seguridade Social.",
-        "Anexo II: documento asinado polo teu cónxuxe ou parella (ou outro membro da unidade familiar) que autorice ou se opoña á comprobación dos seus datos. Se se opón, presentas ti os documentos."
-      ],
       "plazoInicio": "2026-09-09T00:00:00.000",
       "plazoFin": "2026-10-09T14:00:00.000",
       "requisitos": [
@@ -77,6 +55,28 @@
           "texto": "Si tienes hijos/as con discapacidad superior al 33 %, puedes recibir hasta el 100 % del gasto, en vez del 75 %.",
           "textoGl": "Se tes fillos/as con discapacidade superior ao 33 %, podes recibir ata o 100 % do gasto, en vez do 75 %."
         }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I) solo por vía electrónica en la sede de la Xunta (sede.xunta.gal), con Chave365 u otro sistema de identificación admitido. Una solicitud por niño/a y por un único tipo de gasto (en custodia compartida, cada progenitor presenta la suya). Va dirigida al departamento territorial de tu provincia.",
+        "Libro o libros de familia o, si no, otro documento oficial que acredite la situación familiar.",
+        "Si procede: sentencia de separación o divorcio, convenio regulador o resolución de medidas paternofiliales (custodia compartida o familia con un solo progenitor por separación o divorcio).",
+        "Si procede, solo cuando lo expidió otra comunidad autónoma: resolución de adopción, tutela o acogimiento, certificado de monoparentalidad, título de familia numerosa o certificado de discapacidad del hijo/a. Si lo expidió Galicia, lo consulta la Xunta.",
+        "Si procede: acreditación de violencia de género (orden de protección, sentencia, informe de servicios sociales o sanitarios, informe del Ministerio Fiscal u otros de los admitidos) y certificado de afiliación a Muxexu o Isfas.",
+        "Según el motivo: justificante médico de enfermedad o accidente del niño/a o del cuidador/a habitual; documento de la entrevista o curso con fecha y horas; resolución de incapacidad permanente absoluta o gran invalidez; o declaración responsable si hay una situación laboral puntual del cuidador/a.",
+        "Cuidador/a a domicilio, servicios de conciliación autorizados o campamentos: facturas con tu nombre y DNI/NIE, el del niño/a y los días del servicio, y justificante de pago (bancario siempre desde 1.000 €; por debajo, también vale la factura firmada, sellada y con «pagado»).",
+        "Persona empleada del hogar: contrato de trabajo con el periodo, el objeto de cuidado de menores y el horario, y justificantes bancarios del pago del salario y de las cuotas de la Seguridad Social.",
+        "Anexo II: documento firmado por tu cónyuge o pareja (u otro miembro de la unidad familiar) que autorice u oponga la comprobación de sus datos. Si se opone, presenta los documentos tú."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I) só por vía electrónica na sede da Xunta (sede.xunta.gal), con Chave365 ou outro sistema de identificación admitido. Unha solicitude por neno/a e por un único tipo de gasto (en custodia compartida, cada proxenitor presenta a súa). Vai dirixida ao departamento territorial da túa provincia.",
+        "Libro ou libros de familia ou, se non, outro documento oficial que acredite a situación familiar.",
+        "Se procede: sentenza de separación ou divorcio, convenio regulador ou resolución de medidas paterno-filiais (custodia compartida ou familia cun só proxenitor por separación ou divorcio).",
+        "Se procede, só cando o expediu outra comunidade autónoma: resolución de adopción, tutela ou acollemento, certificado de monoparentalidade, título de familia numerosa ou certificado de discapacidade do fillo/a. Se o expediu Galicia, consúltao a Xunta.",
+        "Se procede: acreditación de violencia de xénero (orde de protección, sentenza, informe de servizos sociais ou sanitarios, informe do Ministerio Fiscal ou outros dos admitidos) e certificado de afiliación a Muxexu ou Isfas.",
+        "Segundo o motivo: xustificante médico de enfermidade ou accidente do neno/a ou do coidador/a habitual; documento da entrevista ou curso con data e horas; resolución de incapacidade permanente absoluta ou gran invalidez; ou declaración responsable se hai unha situación laboral puntual do coidador/a.",
+        "Coidador/a a domicilio, servizos de conciliación autorizados ou campamentos: facturas co teu nome e DNI/NIE, o do neno/a e os días do servizo, e xustificante de pagamento (bancario sempre desde 1.000 €; por debaixo, tamén vale a factura asinada, selada e con «pagado»).",
+        "Persoa empregada do fogar: contrato de traballo co período, o obxecto de coidado de menores e o horario, e xustificantes bancarios do pagamento do salario e das cotas da Seguridade Social.",
+        "Anexo II: documento asinado polo teu cónxuxe ou parella (ou outro membro da unidade familiar) que autorice ou se opoña á comprobación dos seus datos. Se se opón, presentas ti os documentos."
       ]
     },
     {
@@ -252,24 +252,6 @@
       "categoria": "educacion",
       "organismo": "Xunta de Galicia",
       "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/914773",
-      "documentacion": [
-        "Solicitud (Anexo I) solo por vía electrónica en la sede de la Xunta (sede.xunta.gal), con Chave365 u otro sistema de identificación admitido. Una única solicitud para todos los hijos/as del mismo centro, presentada por el padre, madre, tutor/a o representante legal.",
-        "Anexo III: declaración responsable de la entidad que gestiona el comedor (ANPA, ayuntamiento, centro concertado o la empresa contratada) con los días que el alumno/a usó el comedor, el precio diario, el importe total pagado y los datos de quien pagó.",
-        "Declaración responsable con el alumno/a y los demás miembros de la unidad familiar que cuentan para la renta.",
-        "Anexo II: documento firmado por tu cónyuge o pareja (u otro miembro de la unidad familiar) que autorice u oponga la comprobación de sus datos. Si se opone, presenta los documentos tú.",
-        "Si procede: certificado de discapacidad del alumno/a o de un miembro de la familia cuando no lo expidió la Xunta, y documentación de violencia de género si el agresor forma parte de la unidad familiar.",
-        "Si procede: resolución judicial de curatela representativa o de patria potestad prorrogada o rehabilitada; resolución de acogimiento o certificado del centro de menores (alumnado tutelado por la Xunta); y certificado o volante de convivencia, o informe de servicios sociales, si los padres o tutores no tienen DNI ni NIE.",
-        "Los datos económicos son del ejercicio fiscal 2024. La Xunta consulta tu renta, DNI y discapacidad; si te opones a esa consulta, aporta tú los documentos."
-      ],
-      "documentacionGl": [
-        "Solicitude (Anexo I) só por vía electrónica na sede da Xunta (sede.xunta.gal), con Chave365 ou outro sistema de identificación admitido. Unha única solicitude para todos os fillos/as do mesmo centro, presentada polo pai, nai, titor/a ou representante legal.",
-        "Anexo III: declaración responsable da entidade que xestiona o comedor (ANPA, concello, centro concertado ou a empresa contratada) cos días que o alumno/a usou o comedor, o prezo diario, o importe total pagado e os datos de quen pagou.",
-        "Declaración responsable co alumno/a e os demais membros da unidade familiar que contan para a renda.",
-        "Anexo II: documento asinado polo teu cónxuxe ou parella (ou outro membro da unidade familiar) que autorice ou se opoña á comprobación dos seus datos. Se se opón, presentas ti os documentos.",
-        "Se procede: certificado de discapacidade do alumno/a ou dun membro da familia cando non o expediu a Xunta, e documentación de violencia de xénero se o agresor forma parte da unidade familiar.",
-        "Se procede: resolución xudicial de curatela representativa ou de patria potestade prorrogada ou rehabilitada; resolución de acollemento ou certificado do centro de menores (alumnado tutelado pola Xunta); e certificado ou volante de convivencia, ou informe de servizos sociais, se os pais ou titores non teñen DNI nin NIE.",
-        "Os datos económicos son do exercicio fiscal 2024. A Xunta consulta a túa renda, DNI e discapacidade; se te opós a esa consulta, achega ti os documentos."
-      ],
       "plazoInicio": "2026-07-06T00:00:00.000",
       "plazoFin": "2026-08-06T20:00:00.000",
       "requisitos": [
@@ -304,6 +286,24 @@
           "textoExplicativo": "Que la renta per cápita de la familia (renta de 2024) no supere 6.000 €",
           "textoExplicativoGl": "Que a renda per cápita da familia (renda de 2024) non supere os 6.000 €"
         }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I) solo por vía electrónica en la sede de la Xunta (sede.xunta.gal), con Chave365 u otro sistema de identificación admitido. Una única solicitud para todos los hijos/as del mismo centro, presentada por el padre, madre, tutor/a o representante legal.",
+        "Anexo III: declaración responsable de la entidad que gestiona el comedor (ANPA, ayuntamiento, centro concertado o la empresa contratada) con los días que el alumno/a usó el comedor, el precio diario, el importe total pagado y los datos de quien pagó.",
+        "Declaración responsable con el alumno/a y los demás miembros de la unidad familiar que cuentan para la renta.",
+        "Anexo II: documento firmado por tu cónyuge o pareja (u otro miembro de la unidad familiar) que autorice u oponga la comprobación de sus datos. Si se opone, presenta los documentos tú.",
+        "Si procede: certificado de discapacidad del alumno/a o de un miembro de la familia cuando no lo expidió la Xunta, y documentación de violencia de género si el agresor forma parte de la unidad familiar.",
+        "Si procede: resolución judicial de curatela representativa o de patria potestad prorrogada o rehabilitada; resolución de acogimiento o certificado del centro de menores (alumnado tutelado por la Xunta); y certificado o volante de convivencia, o informe de servicios sociales, si los padres o tutores no tienen DNI ni NIE.",
+        "Los datos económicos son del ejercicio fiscal 2024. La Xunta consulta tu renta, DNI y discapacidad; si te opones a esa consulta, aporta tú los documentos."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I) só por vía electrónica na sede da Xunta (sede.xunta.gal), con Chave365 ou outro sistema de identificación admitido. Unha única solicitude para todos os fillos/as do mesmo centro, presentada polo pai, nai, titor/a ou representante legal.",
+        "Anexo III: declaración responsable da entidade que xestiona o comedor (ANPA, concello, centro concertado ou a empresa contratada) cos días que o alumno/a usou o comedor, o prezo diario, o importe total pagado e os datos de quen pagou.",
+        "Declaración responsable co alumno/a e os demais membros da unidade familiar que contan para a renda.",
+        "Anexo II: documento asinado polo teu cónxuxe ou parella (ou outro membro da unidade familiar) que autorice ou se opoña á comprobación dos seus datos. Se se opón, presentas ti os documentos.",
+        "Se procede: certificado de discapacidade do alumno/a ou dun membro da familia cando non o expediu a Xunta, e documentación de violencia de xénero se o agresor forma parte da unidade familiar.",
+        "Se procede: resolución xudicial de curatela representativa ou de patria potestade prorrogada ou rehabilitada; resolución de acollemento ou certificado do centro de menores (alumnado tutelado pola Xunta); e certificado ou volante de convivencia, ou informe de servizos sociais, se os pais ou titores non teñen DNI nin NIE.",
+        "Os datos económicos son do exercicio fiscal 2024. A Xunta consulta a túa renda, DNI e discapacidade; se te opós a esa consulta, achega ti os documentos."
       ]
     },
     {
@@ -315,26 +315,6 @@
       "categoria": "familia",
       "organismo": "Xunta de Galicia",
       "enlaceOficial": "https://www.xunta.gal/dog/Publicados/2026/20260724/AnuncioG0762-090726-0006_gl.html",
-      "documentacion": [
-        "Solicitud (Anexo I) solo por vía electrónica en la sede de la Xunta (sede.xunta.gal), con Chave365 u otro sistema de identificación admitido.",
-        "Informe de datos de cotización (IDC) de la Seguridad Social, que te da la empresa, que acredite la reducción de jornada por cuidado de hijo/a durante todo el periodo solicitado. Si estás en Muface, Isfas, Muxexu u otro sistema, certificado en papel oficial del organismo, sellado y con la identificación de quien certifica. Si la reducción cambió de porcentaje o no fue continua, un documento por cada periodo.",
-        "Copia del libro de familia completo o de la inscripción en el registro.",
-        "Anexo II: comprobación de datos de tu cónyuge o pareja (solo si la familia no es monoparental y no hay custodia compartida).",
-        "Si procede: convenio regulador ratificado por el juzgado, o sentencia de nulidad, separación o divorcio.",
-        "Si procede: resolución judicial de adopción o de acogimiento familiar (o resolución administrativa si no la expidió la Xunta) de hijos/as menores de 12 años.",
-        "Si procede: resolución de reconocimiento de discapacidad del 33 % o más del hijo/a menor de 12 años, cuando no la expidió la Xunta.",
-        "La Xunta consulta sola tu DNI, empadronamiento en Galicia, IRPF de 2025 y el certificado de monoparentalidad (si lo expidió Galicia); si te opones, aporta tú los documentos. El Anexo III (solicitud de pago) se presenta después, con la justificación."
-      ],
-      "documentacionGl": [
-        "Solicitude (Anexo I) só por vía electrónica na sede da Xunta (sede.xunta.gal), con Chave365 ou outro sistema de identificación admitido.",
-        "Informe de datos de cotización (IDC) da Seguridade Social, que che dá a empresa, que acredite a redución de xornada por coidado de fillo/a durante todo o período solicitado. Se estás en Muface, Isfas, Muxexu ou outro sistema, certificado en papel oficial do organismo, selado e coa identificación de quen certifica. Se a redución cambiou de porcentaxe ou non foi continua, un documento por cada período.",
-        "Copia do libro de familia completo ou da inscrición no rexistro.",
-        "Anexo II: comprobación de datos do teu cónxuxe ou parella (só se a familia non é monoparental e non hai custodia compartida).",
-        "Se procede: convenio regulador ratificado polo xulgado, ou sentenza de nulidade, separación ou divorcio.",
-        "Se procede: resolución xudicial de adopción ou de acollemento familiar (ou resolución administrativa se non a expediu a Xunta) de fillos/as menores de 12 anos.",
-        "Se procede: resolución de recoñecemento de discapacidade do 33 % ou máis do fillo/a menor de 12 anos, cando non a expediu a Xunta.",
-        "A Xunta consulta soa o teu DNI, empadroamento en Galicia, IRPF de 2025 e o certificado de monoparentalidade (se o expediu Galicia); se te opós, achega ti os documentos. O Anexo III (solicitude de pagamento) preséntase despois, coa xustificación."
-      ],
       "plazoInicio": "2026-07-25T00:00:00.000",
       "plazoFin": "2026-08-24T23:59:00.000",
       "requisitos": [
@@ -385,6 +365,26 @@
           "texto": "Si el hijo/a tiene una discapacidad del 33 % o más, la ayuda llega hasta los 12 años, en vez de los 3.",
           "textoGl": "Se o fillo/a ten unha discapacidade do 33 % ou máis, a axuda chega ata os 12 anos, en vez dos 3."
         }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I) solo por vía electrónica en la sede de la Xunta (sede.xunta.gal), con Chave365 u otro sistema de identificación admitido.",
+        "Informe de datos de cotización (IDC) de la Seguridad Social, que te da la empresa, que acredite la reducción de jornada por cuidado de hijo/a durante todo el periodo solicitado. Si estás en Muface, Isfas, Muxexu u otro sistema, certificado en papel oficial del organismo, sellado y con la identificación de quien certifica. Si la reducción cambió de porcentaje o no fue continua, un documento por cada periodo.",
+        "Copia del libro de familia completo o de la inscripción en el registro.",
+        "Anexo II: comprobación de datos de tu cónyuge o pareja (solo si la familia no es monoparental y no hay custodia compartida).",
+        "Si procede: convenio regulador ratificado por el juzgado, o sentencia de nulidad, separación o divorcio.",
+        "Si procede: resolución judicial de adopción o de acogimiento familiar (o resolución administrativa si no la expidió la Xunta) de hijos/as menores de 12 años.",
+        "Si procede: resolución de reconocimiento de discapacidad del 33 % o más del hijo/a menor de 12 años, cuando no la expidió la Xunta.",
+        "La Xunta consulta sola tu DNI, empadronamiento en Galicia, IRPF de 2025 y el certificado de monoparentalidad (si lo expidió Galicia); si te opones, aporta tú los documentos. El Anexo III (solicitud de pago) se presenta después, con la justificación."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I) só por vía electrónica na sede da Xunta (sede.xunta.gal), con Chave365 ou outro sistema de identificación admitido.",
+        "Informe de datos de cotización (IDC) da Seguridade Social, que che dá a empresa, que acredite a redución de xornada por coidado de fillo/a durante todo o período solicitado. Se estás en Muface, Isfas, Muxexu ou outro sistema, certificado en papel oficial do organismo, selado e coa identificación de quen certifica. Se a redución cambiou de porcentaxe ou non foi continua, un documento por cada período.",
+        "Copia do libro de familia completo ou da inscrición no rexistro.",
+        "Anexo II: comprobación de datos do teu cónxuxe ou parella (só se a familia non é monoparental e non hai custodia compartida).",
+        "Se procede: convenio regulador ratificado polo xulgado, ou sentenza de nulidade, separación ou divorcio.",
+        "Se procede: resolución xudicial de adopción ou de acollemento familiar (ou resolución administrativa se non a expediu a Xunta) de fillos/as menores de 12 anos.",
+        "Se procede: resolución de recoñecemento de discapacidade do 33 % ou máis do fillo/a menor de 12 anos, cando non a expediu a Xunta.",
+        "A Xunta consulta soa o teu DNI, empadroamento en Galicia, IRPF de 2025 e o certificado de monoparentalidade (se o expediu Galicia); se te opós, achega ti os documentos. O Anexo III (solicitude de pagamento) preséntase despois, coa xustificación."
       ]
     },
     {
@@ -396,36 +396,6 @@
       "categoria": "educacion",
       "organismo": "Concello de Vigo",
       "enlaceOficial": "https://sede.vigo.org/expedientes/avisos/aviso.jsp?id=4913&lang=es",
-      "documentacion": [
-        "Solicitud en el modelo oficial (Anexo I), cubierta y firmada por la persona solicitante y por el resto de miembros mayores de edad de la unidad de convivencia. Una sola solicitud por unidad de convivencia. Se presenta en el Registro general municipal o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
-        "DNI, NIE o pasaporte de la persona solicitante y de los miembros mayores de 18 años (si no constan ya en la base de datos del Servicio de Bienestar Social).",
-        "Libro de familia completo o documentación oficial que acredite los miembros de la unidad familiar con sus fechas de nacimiento (si no constan ya en la base de datos).",
-        "Declaración del IRPF del último ejercicio de todos los miembros de la unidad familiar. Si no autorizas al Concello a obtener datos de otras administraciones, la aportas tú cuando la AEAT la tenga disponible.",
-        "Si procede: certificado anual de ingresos de 2025 de pensiones de la Seguridad Social, subsidio de desempleo, RISGA u otra prestación pública (solo si no autorizas al Concello a consultarlo).",
-        "Si pides ayuda de libros y material escolar: documento que acredite el IBAN de la cuenta de la persona solicitante (padre, madre o tutor).",
-        "Si pagas alquiler: contrato y 2 justificantes de transferencia o recibos de los 2 meses anteriores a la apertura del plazo, con nombre, apellidos, DNI y firma del arrendador, identificación del inquilino, dirección de la vivienda y mes e importe. Sin contrato escrito: Anexo II (contratos verbales).",
-        "Si tienes hipoteca sobre la vivienda habitual: justificante sellado y firmado por el banco (Anexo III) y recibos de amortización de los 2 meses anteriores a la apertura del plazo.",
-        "Si hay discapacidad en la unidad familiar: certificado de grado igual o superior al 33%, tarjeta acreditativa o certificado de pensión de incapacidad permanente (total, absoluta o gran invalidez).",
-        "Si hay violencia de género: sentencia condenatoria u orden de protección de los últimos 24 meses antes de la apertura del plazo (casos excepcionales, acreditados por el Centro Municipal de Información de los Derechos de la Mujer).",
-        "Si hay separación o divorcio: sentencia judicial y/o convenio regulador donde conste la custodia.",
-        "Si procede: resolución administrativa o judicial de acogimiento.",
-        "El Servicio de Bienestar Social puede pedirte otra documentación justificada. Si falta algo, tienes 10 días hábiles para subsanar; si no, se te tiene por desistido."
-      ],
-      "documentacionGl": [
-        "Solicitude no modelo oficial (Anexo I), cuberta e asinada pola persoa solicitante e polo resto de membros maiores de idade da unidade de convivencia. Unha soa solicitude por unidade de convivencia. Preséntase no Rexistro xeral municipal ou por calquera vía do artigo 16.4 da Lei 39/2015.",
-        "DNI, NIE ou pasaporte da persoa solicitante e dos membros maiores de 18 anos (se non constan xa na base de datos do Servizo de Benestar Social).",
-        "Libro de familia completo ou documentación oficial que acredite os membros da unidade familiar coas súas datas de nacemento (se non constan xa na base de datos).",
-        "Declaración do IRPF do último exercicio de todos os membros da unidade familiar. Se non autorizas o Concello a obter datos doutras administracións, achégala ti cando a AEAT a teña dispoñible.",
-        "Se procede: certificado anual de ingresos de 2025 de pensións da Seguridade Social, subsidio de desemprego, RISGA ou outra prestación pública (só se non autorizas o Concello a consultalo).",
-        "Se pides axuda de libros e material escolar: documento que acredite o IBAN da conta da persoa solicitante (pai, nai ou titor).",
-        "Se pagas aluguer: contrato e 2 xustificantes de transferencia ou recibos dos 2 meses anteriores á apertura do prazo, con nome, apelidos, DNI e sinatura do arrendador, identificación do inquilino, enderezo da vivenda e mes e importe. Sen contrato escrito: Anexo II (contratos verbais).",
-        "Se tes hipoteca sobre a vivenda habitual: xustificante selado e asinado polo banco (Anexo III) e recibos de amortización dos 2 meses anteriores á apertura do prazo.",
-        "Se hai discapacidade na unidade familiar: certificado de grao igual ou superior ao 33%, tarxeta acreditativa ou certificado de pensión de incapacidade permanente (total, absoluta ou gran invalidez).",
-        "Se hai violencia de xénero: sentenza condenatoria ou orde de protección dos últimos 24 meses antes da apertura do prazo (casos excepcionais, acreditados polo Centro Municipal de Información dos Dereitos da Muller).",
-        "Se hai separación ou divorcio: sentenza xudicial e/ou convenio regulador onde conste a custodia.",
-        "Se procede: resolución administrativa ou xudicial de acollemento.",
-        "O Servizo de Benestar Social pode pedirche outra documentación xustificada. Se falta algo, tes 10 días hábiles para emendar; se non, téselle por desistido."
-      ],
       "municipios": [
         "Vigo"
       ],
@@ -463,6 +433,36 @@
           "textoExplicativo": "Para la ayuda de comedor: tener plaza en el comedor del centro",
           "textoExplicativoGl": "Para a axuda de comedor: ter praza no comedor do centro"
         }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo oficial (Anexo I), cubierta y firmada por la persona solicitante y por el resto de miembros mayores de edad de la unidad de convivencia. Una sola solicitud por unidad de convivencia. Se presenta en el Registro general municipal o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
+        "DNI, NIE o pasaporte de la persona solicitante y de los miembros mayores de 18 años (si no constan ya en la base de datos del Servicio de Bienestar Social).",
+        "Libro de familia completo o documentación oficial que acredite los miembros de la unidad familiar con sus fechas de nacimiento (si no constan ya en la base de datos).",
+        "Declaración del IRPF del último ejercicio de todos los miembros de la unidad familiar. Si no autorizas al Concello a obtener datos de otras administraciones, la aportas tú cuando la AEAT la tenga disponible.",
+        "Si procede: certificado anual de ingresos de 2025 de pensiones de la Seguridad Social, subsidio de desempleo, RISGA u otra prestación pública (solo si no autorizas al Concello a consultarlo).",
+        "Si pides ayuda de libros y material escolar: documento que acredite el IBAN de la cuenta de la persona solicitante (padre, madre o tutor).",
+        "Si pagas alquiler: contrato y 2 justificantes de transferencia o recibos de los 2 meses anteriores a la apertura del plazo, con nombre, apellidos, DNI y firma del arrendador, identificación del inquilino, dirección de la vivienda y mes e importe. Sin contrato escrito: Anexo II (contratos verbales).",
+        "Si tienes hipoteca sobre la vivienda habitual: justificante sellado y firmado por el banco (Anexo III) y recibos de amortización de los 2 meses anteriores a la apertura del plazo.",
+        "Si hay discapacidad en la unidad familiar: certificado de grado igual o superior al 33%, tarjeta acreditativa o certificado de pensión de incapacidad permanente (total, absoluta o gran invalidez).",
+        "Si hay violencia de género: sentencia condenatoria u orden de protección de los últimos 24 meses antes de la apertura del plazo (casos excepcionales, acreditados por el Centro Municipal de Información de los Derechos de la Mujer).",
+        "Si hay separación o divorcio: sentencia judicial y/o convenio regulador donde conste la custodia.",
+        "Si procede: resolución administrativa o judicial de acogimiento.",
+        "El Servicio de Bienestar Social puede pedirte otra documentación justificada. Si falta algo, tienes 10 días hábiles para subsanar; si no, se te tiene por desistido."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo oficial (Anexo I), cuberta e asinada pola persoa solicitante e polo resto de membros maiores de idade da unidade de convivencia. Unha soa solicitude por unidade de convivencia. Preséntase no Rexistro xeral municipal ou por calquera vía do artigo 16.4 da Lei 39/2015.",
+        "DNI, NIE ou pasaporte da persoa solicitante e dos membros maiores de 18 anos (se non constan xa na base de datos do Servizo de Benestar Social).",
+        "Libro de familia completo ou documentación oficial que acredite os membros da unidade familiar coas súas datas de nacemento (se non constan xa na base de datos).",
+        "Declaración do IRPF do último exercicio de todos os membros da unidade familiar. Se non autorizas o Concello a obter datos doutras administracións, achégala ti cando a AEAT a teña dispoñible.",
+        "Se procede: certificado anual de ingresos de 2025 de pensións da Seguridade Social, subsidio de desemprego, RISGA ou outra prestación pública (só se non autorizas o Concello a consultalo).",
+        "Se pides axuda de libros e material escolar: documento que acredite o IBAN da conta da persoa solicitante (pai, nai ou titor).",
+        "Se pagas aluguer: contrato e 2 xustificantes de transferencia ou recibos dos 2 meses anteriores á apertura do prazo, con nome, apelidos, DNI e sinatura do arrendador, identificación do inquilino, enderezo da vivenda e mes e importe. Sen contrato escrito: Anexo II (contratos verbais).",
+        "Se tes hipoteca sobre a vivenda habitual: xustificante selado e asinado polo banco (Anexo III) e recibos de amortización dos 2 meses anteriores á apertura do prazo.",
+        "Se hai discapacidade na unidade familiar: certificado de grao igual ou superior ao 33%, tarxeta acreditativa ou certificado de pensión de incapacidade permanente (total, absoluta ou gran invalidez).",
+        "Se hai violencia de xénero: sentenza condenatoria ou orde de protección dos últimos 24 meses antes da apertura do prazo (casos excepcionais, acreditados polo Centro Municipal de Información dos Dereitos da Muller).",
+        "Se hai separación ou divorcio: sentenza xudicial e/ou convenio regulador onde conste a custodia.",
+        "Se procede: resolución administrativa ou xudicial de acollemento.",
+        "O Servizo de Benestar Social pode pedirche outra documentación xustificada. Se falta algo, tes 10 días hábiles para emendar; se non, téselle por desistido."
       ]
     },
     {
@@ -474,28 +474,6 @@
       "categoria": "educacion",
       "organismo": "Concello da Coruña",
       "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/886975",
-      "documentacion": [
-        "Solicitud específica (modelo 088) firmada por el alumno/a si es mayor de edad o, si es menor, por el progenitor custodio, acogedor o tutor. Se presenta en el registro municipal, en el registro telemático de la sede electrónica (sede.coruna.gal) o por cualquier vía del artículo 16.4 de la Ley 39/2015. Firma electrónica homologada (Autofirma, VALIDe...) o manuscrita. Una sola solicitud por alumno/a.",
-        "Si la presenta otra persona: escrito de aceptación de la representación firmado por ambas y copia de sus documentos de identidad.",
-        "Libro de familia completo o documento oficial que acredite la filiación (o la documentación judicial o administrativa que acredite el vínculo con quien solicita).",
-        "Anexo I: consentimiento para que el Concello consulte tus datos (IRPF de 2024, matrícula en un centro con comedor autorizado, discapacidad, familia numerosa) y situación de la custodia. Va con los datos completos, el DNI y la firma de los progenitores custodios; si te opones a una consulta, aportas el documento tú.",
-        "Según la custodia: con un solo progenitor, libro de familia completo (y certificado de defunción del otro, si procede); custodia exclusiva, sentencia o convenio regulador aprobado judicialmente; o copia de la demanda de medidas paternofiliales presentada antes del fin del plazo; custodia compartida, sentencia o convenio (sin sentencia, basta señalarlo en el anexo); violencia de género, cualquier acreditación del artículo 5 de la Ley 11/2007.",
-        "Anexo II (declaración jurada de ingresos): solo si los progenitores no constan en el censo de la Agencia Tributaria en 2024 y no se pudo consultar su renta. Incluye los ingresos de los 12 meses anteriores al fin del plazo, con nóminas de los últimos 6 meses (cuenta ajena) o declaraciones trimestrales (cuenta propia).",
-        "Si procede: copia del NIF provisional del menor; resolución de acogimiento o tutela por una institución pública (da la beca automática); resolución de la educación combinada en centros de educación especial.",
-        "Para puntuar: certificado de la empresa con fecha de 2026, firma y sello que acredite la incompatibilidad horaria (los autónomos lo indican en el Anexo I y aportan la vida laboral de 2026); certificado de monoparentalidad en vigor de la Xunta; título de familia numerosa en vigor (si te opones a la consulta o lo expidió otra comunidad); y certificado de discapacidad de la persona solicitante o de quien tiene la custodia.",
-        "El pago se hace directamente al comedor del centro, por delegación que firmas con la solicitud."
-      ],
-      "documentacionGl": [
-        "Solicitude específica (modelo 088) asinada polo alumno/a se é maior de idade ou, se é menor, polo proxenitor custodio, acolledor ou titor. Preséntase no rexistro municipal, no rexistro telemático da sede electrónica (sede.coruna.gal) ou por calquera vía do artigo 16.4 da Lei 39/2015. Sinatura electrónica homologada (Autofirma, VALIDe...) ou manuscrita. Unha soa solicitude por alumno/a.",
-        "Se a presenta outra persoa: escrito de aceptación da representación asinado por ambas e copia dos seus documentos de identidade.",
-        "Libro de familia completo ou documento oficial que acredite a filiación (ou a documentación xudicial ou administrativa que acredite o vínculo con quen solicita).",
-        "Anexo I: consentimento para que o Concello consulte os teus datos (IRPF de 2024, matrícula nun centro con comedor autorizado, discapacidade, familia numerosa) e situación da custodia. Vai cos datos completos, o DNI e a sinatura dos proxenitores custodios; se te opós a unha consulta, achegas ti o documento.",
-        "Segundo a custodia: cun só proxenitor, libro de familia completo (e certificado de defunción do outro, se procede); custodia exclusiva, sentenza ou convenio regulador aprobado xudicialmente; ou copia da demanda de medidas paterno-filiais presentada antes do fin do prazo; custodia compartida, sentenza ou convenio (sen sentenza, abonda sinalalo no anexo); violencia de xénero, calquera acreditación do artigo 5 da Lei 11/2007.",
-        "Anexo II (declaración xurada de ingresos): só se os proxenitores non constan no censo da Axencia Tributaria en 2024 e non se puido consultar a súa renda. Inclúe os ingresos dos 12 meses anteriores ao fin do prazo, con nóminas dos últimos 6 meses (conta allea) ou declaracións trimestrais (conta propia).",
-        "Se procede: copia do NIF provisional do menor; resolución de acollemento ou titela por unha institución pública (dá a bolsa automática); resolución da educación combinada en centros de educación especial.",
-        "Para puntuar: certificado da empresa con data de 2026, sinatura e selo que acredite a incompatibilidade horaria (os autónomos indícano no Anexo I e achegan a vida laboral de 2026); certificado de monoparentalidade en vigor da Xunta; título de familia numerosa en vigor (se te opós á consulta ou o expediu outra comunidade); e certificado de discapacidade da persoa solicitante ou de quen ten a custodia.",
-        "O pagamento faise directamente ao comedor do centro, por delegación que asinas coa solicitude."
-      ],
       "municipios": [
         "A Coruña"
       ],
@@ -550,6 +528,28 @@
           "texto": "Suma puntos en la valoración de las solicitudes.",
           "textoGl": "Suma puntos na valoración das solicitudes."
         }
+      ],
+      "documentacion": [
+        "Solicitud específica (modelo 088) firmada por el alumno/a si es mayor de edad o, si es menor, por el progenitor custodio, acogedor o tutor. Se presenta en el registro municipal, en el registro telemático de la sede electrónica (sede.coruna.gal) o por cualquier vía del artículo 16.4 de la Ley 39/2015. Firma electrónica homologada (Autofirma, VALIDe...) o manuscrita. Una sola solicitud por alumno/a.",
+        "Si la presenta otra persona: escrito de aceptación de la representación firmado por ambas y copia de sus documentos de identidad.",
+        "Libro de familia completo o documento oficial que acredite la filiación (o la documentación judicial o administrativa que acredite el vínculo con quien solicita).",
+        "Anexo I: consentimiento para que el Concello consulte tus datos (IRPF de 2024, matrícula en un centro con comedor autorizado, discapacidad, familia numerosa) y situación de la custodia. Va con los datos completos, el DNI y la firma de los progenitores custodios; si te opones a una consulta, aportas el documento tú.",
+        "Según la custodia: con un solo progenitor, libro de familia completo (y certificado de defunción del otro, si procede); custodia exclusiva, sentencia o convenio regulador aprobado judicialmente; o copia de la demanda de medidas paternofiliales presentada antes del fin del plazo; custodia compartida, sentencia o convenio (sin sentencia, basta señalarlo en el anexo); violencia de género, cualquier acreditación del artículo 5 de la Ley 11/2007.",
+        "Anexo II (declaración jurada de ingresos): solo si los progenitores no constan en el censo de la Agencia Tributaria en 2024 y no se pudo consultar su renta. Incluye los ingresos de los 12 meses anteriores al fin del plazo, con nóminas de los últimos 6 meses (cuenta ajena) o declaraciones trimestrales (cuenta propia).",
+        "Si procede: copia del NIF provisional del menor; resolución de acogimiento o tutela por una institución pública (da la beca automática); resolución de la educación combinada en centros de educación especial.",
+        "Para puntuar: certificado de la empresa con fecha de 2026, firma y sello que acredite la incompatibilidad horaria (los autónomos lo indican en el Anexo I y aportan la vida laboral de 2026); certificado de monoparentalidad en vigor de la Xunta; título de familia numerosa en vigor (si te opones a la consulta o lo expidió otra comunidad); y certificado de discapacidad de la persona solicitante o de quien tiene la custodia.",
+        "El pago se hace directamente al comedor del centro, por delegación que firmas con la solicitud."
+      ],
+      "documentacionGl": [
+        "Solicitude específica (modelo 088) asinada polo alumno/a se é maior de idade ou, se é menor, polo proxenitor custodio, acolledor ou titor. Preséntase no rexistro municipal, no rexistro telemático da sede electrónica (sede.coruna.gal) ou por calquera vía do artigo 16.4 da Lei 39/2015. Sinatura electrónica homologada (Autofirma, VALIDe...) ou manuscrita. Unha soa solicitude por alumno/a.",
+        "Se a presenta outra persoa: escrito de aceptación da representación asinado por ambas e copia dos seus documentos de identidade.",
+        "Libro de familia completo ou documento oficial que acredite a filiación (ou a documentación xudicial ou administrativa que acredite o vínculo con quen solicita).",
+        "Anexo I: consentimento para que o Concello consulte os teus datos (IRPF de 2024, matrícula nun centro con comedor autorizado, discapacidade, familia numerosa) e situación da custodia. Vai cos datos completos, o DNI e a sinatura dos proxenitores custodios; se te opós a unha consulta, achegas ti o documento.",
+        "Segundo a custodia: cun só proxenitor, libro de familia completo (e certificado de defunción do outro, se procede); custodia exclusiva, sentenza ou convenio regulador aprobado xudicialmente; ou copia da demanda de medidas paterno-filiais presentada antes do fin do prazo; custodia compartida, sentenza ou convenio (sen sentenza, abonda sinalalo no anexo); violencia de xénero, calquera acreditación do artigo 5 da Lei 11/2007.",
+        "Anexo II (declaración xurada de ingresos): só se os proxenitores non constan no censo da Axencia Tributaria en 2024 e non se puido consultar a súa renda. Inclúe os ingresos dos 12 meses anteriores ao fin do prazo, con nóminas dos últimos 6 meses (conta allea) ou declaracións trimestrais (conta propia).",
+        "Se procede: copia do NIF provisional do menor; resolución de acollemento ou titela por unha institución pública (dá a bolsa automática); resolución da educación combinada en centros de educación especial.",
+        "Para puntuar: certificado da empresa con data de 2026, sinatura e selo que acredite a incompatibilidade horaria (os autónomos indícano no Anexo I e achegan a vida laboral de 2026); certificado de monoparentalidade en vigor da Xunta; título de familia numerosa en vigor (se te opós á consulta ou o expediu outra comunidade); e certificado de discapacidade da persoa solicitante ou de quen ten a custodia.",
+        "O pagamento faise directamente ao comedor do centro, por delegación que asinas coa solicitude."
       ]
     },
     {
@@ -561,26 +561,6 @@
       "categoria": "educacion",
       "organismo": "Concello de Santiago de Compostela",
       "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/915247",
-      "documentacion": [
-        "Impreso de solicitud cubierto y firmado por quien solicita (tutor/a, madre, padre o acogedor/a). Se presenta por vía telemática en el Registro Electrónico Común (REC) o en la sede electrónica del Concello (sede.santiagodecompostela.gal), o por cualquiera de los medios del artículo 16 de la Ley 39/2015.",
-        "DNI, NIE o pasaporte en vigor de cada miembro de la unidad familiar mayor de edad.",
-        "Libro de familia o, si no, certificación del Registro Civil u otro documento oficial que acredite el vínculo familiar.",
-        "Escasez de recursos: si procede, justificante de preinscripción o reserva de plaza en las actividades extraescolares del curso 2026/27.",
-        "Material escolar (solo 2.º ciclo de Infantil): certificación bancaria con el IBAN, con quien solicita como titular o cotitular.",
-        "Conciliación: certificado de la empresa o de quien emplea, con la jornada laboral de cada miembro computable (padre, madre o quienes ejerzan la tutela o guarda).",
-        "Opcional, para puntuar en el baremo sociofamiliar (si no lo presentas en el plazo de solicitud o de enmienda, no puntúa): carné de familia numerosa en vigor; acreditación de violencia de género; para familia monoparental, libro de familia con un solo progenitor, sentencia y convenio (o sentencia de guarda, custodia y alimentos) o certificado de monoparentalidad, o certificado de defunción en caso de viudedad; certificación o tarjeta de discapacidad del 33 % o más; y resolución de acogimiento familiar o permiso de convivencia.",
-        "El Concello consulta él mismo el empadronamiento y la convivencia. Al presentarte autorizas esas consultas. Si queda documentación pendiente, solo se puede aportar durante el plazo de solicitud; después hay 10 días naturales para corregir si te lo requieren."
-      ],
-      "documentacionGl": [
-        "Impreso de solicitude cuberto e asinado por quen solicita (titor/a, nai, pai ou acolledor/a). Preséntase por vía telemática no Rexistro Electrónico Común (REC) ou na sede electrónica do Concello (sede.santiagodecompostela.gal), ou por calquera dos medios do artigo 16 da Lei 39/2015.",
-        "DNI, NIE ou pasaporte en vigor de cada membro da unidade familiar maior de idade.",
-        "Libro de familia ou, se non, certificación do Rexistro Civil ou outro documento oficial que acredite o vínculo familiar.",
-        "Escaseza de recursos: se procede, xustificante de preinscrición ou reserva de praza nas actividades extraescolares do curso 2026/27.",
-        "Material escolar (só 2.º ciclo de Infantil): certificación bancaria co IBAN, con quen solicita como titular ou cotitular.",
-        "Conciliación: certificado da empresa ou de quen emprega, coa xornada laboral de cada membro computable (pai, nai ou quen exerza a titoría ou garda).",
-        "Opcional, para puntuar no baremo sociofamiliar (se non o presentas no prazo de solicitude ou de emenda, non puntúa): carné de familia numerosa en vigor; acreditación de violencia de xénero; para familia monoparental, libro de familia cun só proxenitor, sentenza e convenio (ou sentenza de garda, custodia e alimentos) ou certificado de monoparentalidade, ou certificado de defunción en caso de viuvez; certificación ou tarxeta de discapacidade do 33 % ou máis; e resolución de acollemento familiar ou permiso de convivencia.",
-        "O Concello consulta el mesmo o empadroamento e a convivencia. Ao presentarte autorizas esas consultas. Se queda documentación pendente, só se pode achegar durante o prazo de solicitude; despois hai 10 días naturais para corrixir se cho requiren."
-      ],
       "municipios": [
         "Santiago de Compostela"
       ],
@@ -618,6 +598,26 @@
           "textoExplicativo": "Solo para la línea de conciliación: que ambos progenitores trabajen (o solo quien solicita, en familias monoparentales o con separación o divorcio)",
           "textoExplicativoGl": "Só para a liña de conciliación: que ambos proxenitores traballen (ou só quen solicita, en familias monoparentais ou con separación ou divorcio)"
         }
+      ],
+      "documentacion": [
+        "Impreso de solicitud cubierto y firmado por quien solicita (tutor/a, madre, padre o acogedor/a). Se presenta por vía telemática en el Registro Electrónico Común (REC) o en la sede electrónica del Concello (sede.santiagodecompostela.gal), o por cualquiera de los medios del artículo 16 de la Ley 39/2015.",
+        "DNI, NIE o pasaporte en vigor de cada miembro de la unidad familiar mayor de edad.",
+        "Libro de familia o, si no, certificación del Registro Civil u otro documento oficial que acredite el vínculo familiar.",
+        "Escasez de recursos: si procede, justificante de preinscripción o reserva de plaza en las actividades extraescolares del curso 2026/27.",
+        "Material escolar (solo 2.º ciclo de Infantil): certificación bancaria con el IBAN, con quien solicita como titular o cotitular.",
+        "Conciliación: certificado de la empresa o de quien emplea, con la jornada laboral de cada miembro computable (padre, madre o quienes ejerzan la tutela o guarda).",
+        "Opcional, para puntuar en el baremo sociofamiliar (si no lo presentas en el plazo de solicitud o de enmienda, no puntúa): carné de familia numerosa en vigor; acreditación de violencia de género; para familia monoparental, libro de familia con un solo progenitor, sentencia y convenio (o sentencia de guarda, custodia y alimentos) o certificado de monoparentalidad, o certificado de defunción en caso de viudedad; certificación o tarjeta de discapacidad del 33 % o más; y resolución de acogimiento familiar o permiso de convivencia.",
+        "El Concello consulta él mismo el empadronamiento y la convivencia. Al presentarte autorizas esas consultas. Si queda documentación pendiente, solo se puede aportar durante el plazo de solicitud; después hay 10 días naturales para corregir si te lo requieren."
+      ],
+      "documentacionGl": [
+        "Impreso de solicitude cuberto e asinado por quen solicita (titor/a, nai, pai ou acolledor/a). Preséntase por vía telemática no Rexistro Electrónico Común (REC) ou na sede electrónica do Concello (sede.santiagodecompostela.gal), ou por calquera dos medios do artigo 16 da Lei 39/2015.",
+        "DNI, NIE ou pasaporte en vigor de cada membro da unidade familiar maior de idade.",
+        "Libro de familia ou, se non, certificación do Rexistro Civil ou outro documento oficial que acredite o vínculo familiar.",
+        "Escaseza de recursos: se procede, xustificante de preinscrición ou reserva de praza nas actividades extraescolares do curso 2026/27.",
+        "Material escolar (só 2.º ciclo de Infantil): certificación bancaria co IBAN, con quen solicita como titular ou cotitular.",
+        "Conciliación: certificado da empresa ou de quen emprega, coa xornada laboral de cada membro computable (pai, nai ou quen exerza a titoría ou garda).",
+        "Opcional, para puntuar no baremo sociofamiliar (se non o presentas no prazo de solicitude ou de emenda, non puntúa): carné de familia numerosa en vigor; acreditación de violencia de xénero; para familia monoparental, libro de familia cun só proxenitor, sentenza e convenio (ou sentenza de garda, custodia e alimentos) ou certificado de monoparentalidade, ou certificado de defunción en caso de viuvez; certificación ou tarxeta de discapacidade do 33 % ou máis; e resolución de acollemento familiar ou permiso de convivencia.",
+        "O Concello consulta el mesmo o empadroamento e a convivencia. Ao presentarte autorizas esas consultas. Se queda documentación pendente, só se pode achegar durante o prazo de solicitude; despois hai 10 días naturais para corrixir se cho requiren."
       ]
     },
     {
@@ -751,24 +751,6 @@
       "categoria": "educacion",
       "organismo": "Concello de Lugo",
       "enlaceOficial": "https://concellodelugo.gal/es/tramites/solicitud-de-ayuda-para-material-escolar-en-el-segundo-ciclo-de-educacion-infantil-curso-2026-2027",
-      "documentacion": [
-        "Solicitud en el Modelo 352 firmada. La página del trámite indica presentación presencial en el Registro del Concello; si se presenta en versión digital, el Anexo I debe ir igualmente firmado por ambos progenitores.",
-        "Fotocopia del DNI o NIE de los dos progenitores o de quienes representen legalmente al niño/a. Con solo pasaporte no se puede participar.",
-        "Fotocopia del libro de familia o certificado de nacimiento de todos los menores de la unidad familiar (no vale el pasaporte ni el permiso de residencia del menor si no identifica a sus progenitores).",
-        "Anexo I: declaraciones responsables (no tener otras ayudas para lo mismo, estar al corriente con Hacienda, la Seguridad Social y el Concello, y no tener prohibición para recibir subvenciones) y autorización para que el Concello obtenga los datos de la unidad familiar. Lo firman ambos progenitores; solo el solicitante si es familia monoparental o tiene la custodia exclusiva (sentencia o convenio); ambos si hay custodia compartida.",
-        "Si procede: copia de la sentencia o convenio regulador, o del certificado de acogimiento, que confíe al solicitante la guarda y protección del menor.",
-        "Si un progenitor no reside en España: poder o documento judicial que acredite que el otro puede decidir en solitario sobre el menor.",
-        "Si procede: certificado de discapacidad del 33 % o más del niño/a (cuenta doble en la renta), o certificado de acogimiento o tutela de la Xunta, o informe de servicios sociales en una situación excepcional (da la ayuda sin valoración de renta)."
-      ],
-      "documentacionGl": [
-        "Solicitude no Modelo 352 asinada. A páxina do trámite indica presentación presencial no Rexistro do Concello; se se presenta en versión dixital, o Anexo I debe ir igualmente asinado por ambos proxenitores.",
-        "Fotocopia do DNI ou NIE dos dous proxenitores ou de quen represente legalmente ao neno/a. Con só pasaporte non se pode participar.",
-        "Fotocopia do libro de familia ou certificado de nacemento de todos os menores da unidade familiar (non vale o pasaporte nin o permiso de residencia do menor se non identifica os seus proxenitores).",
-        "Anexo I: declaracións responsables (non ter outras axudas para o mesmo, estar ao corrente coa Facenda, a Seguridade Social e o Concello, e non ter prohibición para recibir subvencións) e autorización para que o Concello obteña os datos da unidade familiar. Asínano ambos proxenitores; só o solicitante se é familia monoparental ou ten a custodia exclusiva (sentenza ou convenio); ambos se hai custodia compartida.",
-        "Se procede: copia da sentenza ou convenio regulador, ou do certificado de acollemento, que confíe ao solicitante a garda e protección do menor.",
-        "Se un proxenitor non reside en España: poder ou documento xudicial que acredite que o outro pode decidir en solitario sobre o menor.",
-        "Se procede: certificado de discapacidade do 33 % ou máis do neno/a (conta dobre na renda), ou certificado de acollemento ou tutela da Xunta, ou informe de servizos sociais nunha situación excepcional (dá a axuda sen valoración de renda)."
-      ],
       "municipios": [
         "Lugo"
       ],
@@ -813,6 +795,24 @@
           "textoExplicativo": "No recibir otras ayudas o subvenciones para la misma finalidad",
           "textoExplicativoGl": "Non recibir outras axudas ou subvencións para a mesma finalidade"
         }
+      ],
+      "documentacion": [
+        "Solicitud en el Modelo 352 firmada. La página del trámite indica presentación presencial en el Registro del Concello; si se presenta en versión digital, el Anexo I debe ir igualmente firmado por ambos progenitores.",
+        "Fotocopia del DNI o NIE de los dos progenitores o de quienes representen legalmente al niño/a. Con solo pasaporte no se puede participar.",
+        "Fotocopia del libro de familia o certificado de nacimiento de todos los menores de la unidad familiar (no vale el pasaporte ni el permiso de residencia del menor si no identifica a sus progenitores).",
+        "Anexo I: declaraciones responsables (no tener otras ayudas para lo mismo, estar al corriente con Hacienda, la Seguridad Social y el Concello, y no tener prohibición para recibir subvenciones) y autorización para que el Concello obtenga los datos de la unidad familiar. Lo firman ambos progenitores; solo el solicitante si es familia monoparental o tiene la custodia exclusiva (sentencia o convenio); ambos si hay custodia compartida.",
+        "Si procede: copia de la sentencia o convenio regulador, o del certificado de acogimiento, que confíe al solicitante la guarda y protección del menor.",
+        "Si un progenitor no reside en España: poder o documento judicial que acredite que el otro puede decidir en solitario sobre el menor.",
+        "Si procede: certificado de discapacidad del 33 % o más del niño/a (cuenta doble en la renta), o certificado de acogimiento o tutela de la Xunta, o informe de servicios sociales en una situación excepcional (da la ayuda sin valoración de renta)."
+      ],
+      "documentacionGl": [
+        "Solicitude no Modelo 352 asinada. A páxina do trámite indica presentación presencial no Rexistro do Concello; se se presenta en versión dixital, o Anexo I debe ir igualmente asinado por ambos proxenitores.",
+        "Fotocopia do DNI ou NIE dos dous proxenitores ou de quen represente legalmente ao neno/a. Con só pasaporte non se pode participar.",
+        "Fotocopia do libro de familia ou certificado de nacemento de todos os menores da unidade familiar (non vale o pasaporte nin o permiso de residencia do menor se non identifica os seus proxenitores).",
+        "Anexo I: declaracións responsables (non ter outras axudas para o mesmo, estar ao corrente coa Facenda, a Seguridade Social e o Concello, e non ter prohibición para recibir subvencións) e autorización para que o Concello obteña os datos da unidade familiar. Asínano ambos proxenitores; só o solicitante se é familia monoparental ou ten a custodia exclusiva (sentenza ou convenio); ambos se hai custodia compartida.",
+        "Se procede: copia da sentenza ou convenio regulador, ou do certificado de acollemento, que confíe ao solicitante a garda e protección do menor.",
+        "Se un proxenitor non reside en España: poder ou documento xudicial que acredite que o outro pode decidir en solitario sobre o menor.",
+        "Se procede: certificado de discapacidade do 33 % ou máis do neno/a (conta dobre na renda), ou certificado de acollemento ou tutela da Xunta, ou informe de servizos sociais nunha situación excepcional (dá a axuda sen valoración de renda)."
       ]
     },
     {
@@ -824,38 +824,6 @@
       "categoria": "educacion",
       "organismo": "Concello de Ferrol",
       "enlaceOficial": "https://bop.dacoruna.gal/bopportal/publicado/2026/05/15/2026_0000002995.pdf",
-      "documentacion": [
-        "Anexo I: solicitud normalizada, con el nombre de los menores, el centro y el curso, y marcando si pides material escolar y/o beca de comedor (desayuno y/o comida). Se presenta en el Registro general del Concello o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
-        "Anexo II (declaraciones responsables) y, si procede, Anexo III (autorización para consultar datos de la Agencia Tributaria), firmados por cada miembro de la unidad familiar mayor de 16 años.",
-        "DNI, permiso de residencia o pasaporte de todos los miembros de la unidad familiar.",
-        "Libro de familia completo o documento análogo (acta o partida de nacimiento).",
-        "Declaración del IRPF de 2025 de cada miembro computable. Si no estás obligado/a a presentarla: notificación-liquidación o certificado de rentas de la Agencia Tributaria, o el Anexo III firmado por todos los integrantes para que el Concello lo consulte.",
-        "Si procede: certificado anual de ingresos de 2025 de pensiones de la Seguridad Social, subsidio de desempleo, RISGA, IMV u otra prestación pública.",
-        "Si pagas alquiler: contrato y 2 justificantes de transferencia o recibos de los 2 meses anteriores a la apertura del plazo, con nombre, apellidos, DNI y firma del arrendador, identificación del inquilino, dirección de la vivienda y mes e importe.",
-        "Si tienes hipoteca sobre la vivienda habitual: justificante sellado y firmado por el banco y recibos de amortización de los 2 meses anteriores a la apertura del plazo.",
-        "Si hay discapacidad en la unidad familiar: certificado de grado igual o superior al 33%, tarjeta acreditativa o certificado de pensión de incapacidad permanente (total, absoluta o gran invalidez).",
-        "Si hay separación o divorcio: sentencia y convenio regulador (si no se paga la pensión, copia de la solicitud de ejecución de sentencia). Unión de hecho con hijos reconocidos: sentencia de guarda, custodia y alimentos y justificantes de los pagos. Separación de hecho: certificado de convivencia o auto de medidas provisionales.",
-        "Si hay acogimiento: certificado del organismo competente (y la cuantía de la remuneración, si la hay).",
-        "Certificado escolar o copia de la solicitud de matrícula del curso 2026-2027: se entrega al recoger el vale del material escolar (sin él no se entrega el vale).",
-        "Fuera de plazo por causa sobrevenida (traslado, violencia de género o riesgo social): se aporta la misma documentación más la acreditación de esa circunstancia.",
-        "El Departamento de Bienestar Social puede pedirte otra documentación justificada. Tras el listado provisional tienes 10 días hábiles para alegar o subsanar. El padrón y la convivencia los comprueba el propio Concello."
-      ],
-      "documentacionGl": [
-        "Anexo I: solicitude normalizada, co nome dos menores, o centro e o curso, e marcando se pides material escolar e/ou bolsa de comedor (almorzo e/ou xantar). Preséntase no Rexistro xeral do Concello ou por calquera vía do artigo 16.4 da Lei 39/2015.",
-        "Anexo II (declaracións responsables) e, se procede, Anexo III (autorización para consultar datos da Axencia Tributaria), asinados por cada membro da unidade familiar maior de 16 anos.",
-        "DNI, permiso de residencia ou pasaporte de todos os membros da unidade familiar.",
-        "Libro de familia completo ou documento análogo (acta ou partida de nacemento).",
-        "Declaración do IRPF de 2025 de cada membro computable. Se non estás obrigado/a a presentala: notificación-liquidación ou certificado de rendas da Axencia Tributaria, ou o Anexo III asinado por todos os integrantes para que o Concello o consulte.",
-        "Se procede: certificado anual de ingresos de 2025 de pensións da Seguridade Social, subsidio de desemprego, RISGA, IMV ou outra prestación pública.",
-        "Se pagas aluguer: contrato e 2 xustificantes de transferencia ou recibos dos 2 meses anteriores á apertura do prazo, con nome, apelidos, DNI e sinatura do arrendador, identificación do inquilino, enderezo da vivenda e mes e importe.",
-        "Se tes hipoteca sobre a vivenda habitual: xustificante selado e asinado polo banco e recibos de amortización dos 2 meses anteriores á apertura do prazo.",
-        "Se hai discapacidade na unidade familiar: certificado de grao igual ou superior ao 33%, tarxeta acreditativa ou certificado de pensión de incapacidade permanente (total, absoluta ou gran invalidez).",
-        "Se hai separación ou divorcio: sentenza e convenio regulador (se non se paga a pensión, copia da solicitude de execución de sentenza). Unión de feito con fillos recoñecidos: sentenza de garda, custodia e alimentos e xustificantes dos pagos. Separación de feito: certificado de convivencia ou auto de medidas provisionais.",
-        "Se hai acollemento: certificado do organismo competente (e a contía da remuneración, se a hai).",
-        "Certificado escolar ou copia da solicitude de matrícula do curso 2026-2027: entrégase ao recoller o vale do material escolar (sen el non se entrega o vale).",
-        "Fóra de prazo por causa sobrevida (traslado, violencia de xénero ou risco social): achégase a mesma documentación máis a acreditación desa circunstancia.",
-        "O Departamento de Benestar Social pode pedirche outra documentación xustificada. Tras o listado provisional tes 10 días hábiles para alegar ou emendar. O padrón e a convivencia compróbaos o propio Concello."
-      ],
       "municipios": [
         "Ferrol"
       ],
@@ -900,6 +868,38 @@
           "textoExplicativo": "No recibir otra ayuda pública o privada para la misma finalidad",
           "textoExplicativoGl": "Non recibir outra axuda pública ou privada para a mesma finalidade"
         }
+      ],
+      "documentacion": [
+        "Anexo I: solicitud normalizada, con el nombre de los menores, el centro y el curso, y marcando si pides material escolar y/o beca de comedor (desayuno y/o comida). Se presenta en el Registro general del Concello o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
+        "Anexo II (declaraciones responsables) y, si procede, Anexo III (autorización para consultar datos de la Agencia Tributaria), firmados por cada miembro de la unidad familiar mayor de 16 años.",
+        "DNI, permiso de residencia o pasaporte de todos los miembros de la unidad familiar.",
+        "Libro de familia completo o documento análogo (acta o partida de nacimiento).",
+        "Declaración del IRPF de 2025 de cada miembro computable. Si no estás obligado/a a presentarla: notificación-liquidación o certificado de rentas de la Agencia Tributaria, o el Anexo III firmado por todos los integrantes para que el Concello lo consulte.",
+        "Si procede: certificado anual de ingresos de 2025 de pensiones de la Seguridad Social, subsidio de desempleo, RISGA, IMV u otra prestación pública.",
+        "Si pagas alquiler: contrato y 2 justificantes de transferencia o recibos de los 2 meses anteriores a la apertura del plazo, con nombre, apellidos, DNI y firma del arrendador, identificación del inquilino, dirección de la vivienda y mes e importe.",
+        "Si tienes hipoteca sobre la vivienda habitual: justificante sellado y firmado por el banco y recibos de amortización de los 2 meses anteriores a la apertura del plazo.",
+        "Si hay discapacidad en la unidad familiar: certificado de grado igual o superior al 33%, tarjeta acreditativa o certificado de pensión de incapacidad permanente (total, absoluta o gran invalidez).",
+        "Si hay separación o divorcio: sentencia y convenio regulador (si no se paga la pensión, copia de la solicitud de ejecución de sentencia). Unión de hecho con hijos reconocidos: sentencia de guarda, custodia y alimentos y justificantes de los pagos. Separación de hecho: certificado de convivencia o auto de medidas provisionales.",
+        "Si hay acogimiento: certificado del organismo competente (y la cuantía de la remuneración, si la hay).",
+        "Certificado escolar o copia de la solicitud de matrícula del curso 2026-2027: se entrega al recoger el vale del material escolar (sin él no se entrega el vale).",
+        "Fuera de plazo por causa sobrevenida (traslado, violencia de género o riesgo social): se aporta la misma documentación más la acreditación de esa circunstancia.",
+        "El Departamento de Bienestar Social puede pedirte otra documentación justificada. Tras el listado provisional tienes 10 días hábiles para alegar o subsanar. El padrón y la convivencia los comprueba el propio Concello."
+      ],
+      "documentacionGl": [
+        "Anexo I: solicitude normalizada, co nome dos menores, o centro e o curso, e marcando se pides material escolar e/ou bolsa de comedor (almorzo e/ou xantar). Preséntase no Rexistro xeral do Concello ou por calquera vía do artigo 16.4 da Lei 39/2015.",
+        "Anexo II (declaracións responsables) e, se procede, Anexo III (autorización para consultar datos da Axencia Tributaria), asinados por cada membro da unidade familiar maior de 16 anos.",
+        "DNI, permiso de residencia ou pasaporte de todos os membros da unidade familiar.",
+        "Libro de familia completo ou documento análogo (acta ou partida de nacemento).",
+        "Declaración do IRPF de 2025 de cada membro computable. Se non estás obrigado/a a presentala: notificación-liquidación ou certificado de rendas da Axencia Tributaria, ou o Anexo III asinado por todos os integrantes para que o Concello o consulte.",
+        "Se procede: certificado anual de ingresos de 2025 de pensións da Seguridade Social, subsidio de desemprego, RISGA, IMV ou outra prestación pública.",
+        "Se pagas aluguer: contrato e 2 xustificantes de transferencia ou recibos dos 2 meses anteriores á apertura do prazo, con nome, apelidos, DNI e sinatura do arrendador, identificación do inquilino, enderezo da vivenda e mes e importe.",
+        "Se tes hipoteca sobre a vivenda habitual: xustificante selado e asinado polo banco e recibos de amortización dos 2 meses anteriores á apertura do prazo.",
+        "Se hai discapacidade na unidade familiar: certificado de grao igual ou superior ao 33%, tarxeta acreditativa ou certificado de pensión de incapacidade permanente (total, absoluta ou gran invalidez).",
+        "Se hai separación ou divorcio: sentenza e convenio regulador (se non se paga a pensión, copia da solicitude de execución de sentenza). Unión de feito con fillos recoñecidos: sentenza de garda, custodia e alimentos e xustificantes dos pagos. Separación de feito: certificado de convivencia ou auto de medidas provisionais.",
+        "Se hai acollemento: certificado do organismo competente (e a contía da remuneración, se a hai).",
+        "Certificado escolar ou copia da solicitude de matrícula do curso 2026-2027: entrégase ao recoller o vale do material escolar (sen el non se entrega o vale).",
+        "Fóra de prazo por causa sobrevida (traslado, violencia de xénero ou risco social): achégase a mesma documentación máis a acreditación desa circunstancia.",
+        "O Departamento de Benestar Social pode pedirche outra documentación xustificada. Tras o listado provisional tes 10 días hábiles para alegar ou emendar. O padrón e a convivencia compróbaos o propio Concello."
       ]
     },
     {
@@ -1660,32 +1660,6 @@
       "organismo": "Concello de Ordes",
       "organismoGl": "Concello de Ordes",
       "enlaceOficial": "https://sede.ordes.gal/",
-      "documentacion": [
-        "Anexo I: solicitud en el modelo normalizado, firmada y dirigida al Alcalde-Presidente. Se presenta en el Registro General del Concello de Ordes o por cualquier vía del artículo 16 de la Ley 39/2015. Los documentos pueden ser originales o copias debidamente compulsadas.",
-        "Certificado de convivencia de la unidad familiar, expedido por el Concello, donde figure la fecha de alta en el padrón de habitantes.",
-        "Libro de familia o documento equivalente (copia compulsada).",
-        "DNI o NIE de los progenitores (copia compulsada).",
-        "Si procede: copia del auto judicial de adopción del menor.",
-        "Declaración jurada de las ayudas solicitadas o recibidas para la misma finalidad (incluida en el Anexo I).",
-        "Compromiso de seguir empadronado/a en Ordes, tú y el menor, durante un mínimo de tres años (modelo incluido en el Anexo I).",
-        "Compromiso de devolver la ayuda si dejas de cumplir algún requisito o el Concello comprueba que no se cumple (mismo modelo).",
-        "Certificación de los datos bancarios donde quieres recibir la ayuda (IBAN, incluido en el Anexo I).",
-        "Certificados de estar al corriente con la Agencia Tributaria estatal, con la Agencia Tributaria de Galicia y con la Seguridad Social. También puedes firmar la autorización del Anexo I para que el Concello consulte esos datos.",
-        "El Concello comprueba de oficio que estás al corriente con la hacienda local. Si falta algo o se tienen en cuenta datos distintos de los que aportaste, tienes 10 días para presentar alegaciones o la documentación."
-      ],
-      "documentacionGl": [
-        "Anexo I: solicitude no modelo normalizado, asinada e dirixida ao Alcalde-Presidente. Preséntase no Rexistro Xeral do Concello de Ordes ou por calquera vía do artigo 16 da Lei 39/2015. Os documentos poden ser orixinais ou copias debidamente compulsadas.",
-        "Certificado de convivencia da unidade familiar, expedido polo Concello, onde figure a data de alta no padrón de habitantes.",
-        "Libro de familia ou documento equivalente (copia compulsada).",
-        "DNI ou NIE dos proxenitores (copia compulsada).",
-        "Se procede: copia do auto xudicial de adopción do menor.",
-        "Declaración xurada das axudas solicitadas ou recibidas pola mesma finalidade (incluída no Anexo I).",
-        "Compromiso de seguir empadroado/a en Ordes, ti e o menor, durante un mínimo de tres anos (modelo incluído no Anexo I).",
-        "Compromiso de devolver a axuda se deixas de cumprir algún requisito ou o Concello comproba que non se cumpre (mesmo modelo).",
-        "Certificación dos datos bancarios onde queres recibir a axuda (IBAN, incluído no Anexo I).",
-        "Certificados de estar ao corrente coa Axencia Tributaria estatal, coa Axencia Tributaria de Galicia e coa Seguridade Social. Tamén podes asinar a autorización do Anexo I para que o Concello consulte eses datos.",
-        "O Concello comproba de oficio que estás ao corrente coa facenda local. Se falta algo ou se teñen en conta datos distintos dos que achegaches, tes 10 días para presentar alegacións ou a documentación."
-      ],
       "municipios": [
         "Ordes"
       ],
@@ -1716,6 +1690,32 @@
           "texto": "Recibes 300 € por hijo/a con discapacidad, en vez de 250 €.",
           "textoGl": "Recibes 300 € por fillo/a con discapacidade, en vez de 250 €."
         }
+      ],
+      "documentacion": [
+        "Anexo I: solicitud en el modelo normalizado, firmada y dirigida al Alcalde-Presidente. Se presenta en el Registro General del Concello de Ordes o por cualquier vía del artículo 16 de la Ley 39/2015. Los documentos pueden ser originales o copias debidamente compulsadas.",
+        "Certificado de convivencia de la unidad familiar, expedido por el Concello, donde figure la fecha de alta en el padrón de habitantes.",
+        "Libro de familia o documento equivalente (copia compulsada).",
+        "DNI o NIE de los progenitores (copia compulsada).",
+        "Si procede: copia del auto judicial de adopción del menor.",
+        "Declaración jurada de las ayudas solicitadas o recibidas para la misma finalidad (incluida en el Anexo I).",
+        "Compromiso de seguir empadronado/a en Ordes, tú y el menor, durante un mínimo de tres años (modelo incluido en el Anexo I).",
+        "Compromiso de devolver la ayuda si dejas de cumplir algún requisito o el Concello comprueba que no se cumple (mismo modelo).",
+        "Certificación de los datos bancarios donde quieres recibir la ayuda (IBAN, incluido en el Anexo I).",
+        "Certificados de estar al corriente con la Agencia Tributaria estatal, con la Agencia Tributaria de Galicia y con la Seguridad Social. También puedes firmar la autorización del Anexo I para que el Concello consulte esos datos.",
+        "El Concello comprueba de oficio que estás al corriente con la hacienda local. Si falta algo o se tienen en cuenta datos distintos de los que aportaste, tienes 10 días para presentar alegaciones o la documentación."
+      ],
+      "documentacionGl": [
+        "Anexo I: solicitude no modelo normalizado, asinada e dirixida ao Alcalde-Presidente. Preséntase no Rexistro Xeral do Concello de Ordes ou por calquera vía do artigo 16 da Lei 39/2015. Os documentos poden ser orixinais ou copias debidamente compulsadas.",
+        "Certificado de convivencia da unidade familiar, expedido polo Concello, onde figure a data de alta no padrón de habitantes.",
+        "Libro de familia ou documento equivalente (copia compulsada).",
+        "DNI ou NIE dos proxenitores (copia compulsada).",
+        "Se procede: copia do auto xudicial de adopción do menor.",
+        "Declaración xurada das axudas solicitadas ou recibidas pola mesma finalidade (incluída no Anexo I).",
+        "Compromiso de seguir empadroado/a en Ordes, ti e o menor, durante un mínimo de tres anos (modelo incluído no Anexo I).",
+        "Compromiso de devolver a axuda se deixas de cumprir algún requisito ou o Concello comproba que non se cumpre (mesmo modelo).",
+        "Certificación dos datos bancarios onde queres recibir a axuda (IBAN, incluído no Anexo I).",
+        "Certificados de estar ao corrente coa Axencia Tributaria estatal, coa Axencia Tributaria de Galicia e coa Seguridade Social. Tamén podes asinar a autorización do Anexo I para que o Concello consulte eses datos.",
+        "O Concello comproba de oficio que estás ao corrente coa facenda local. Se falta algo ou se teñen en conta datos distintos dos que achegaches, tes 10 días para presentar alegacións ou a documentación."
       ]
     },
     {
@@ -4825,23 +4825,6 @@
       ],
       "plazoInicio": "2026-10-24T00:00:00.000",
       "plazoFin": "2026-11-13T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "Suma 1 punto en el baremo si lo acreditas con título, resolución o certificado.",
-          "textoGl": "Suma 1 punto no baremo se o acreditas con título, resolución ou certificado."
-        },
-        {
-          "situacion": "familiaNumerosa",
-          "texto": "Suma 1 punto en el baremo por título vigente.",
-          "textoGl": "Suma 1 punto no baremo por título vixente."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Suma 1 punto por cada miembro con discapacidad del 33 % o más (hasta 3 puntos).",
-          "textoGl": "Suma 1 punto por cada membro con discapacidade do 33 % ou máis (ata 3 puntos)."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -4904,6 +4887,23 @@
           "textoExplicativoGl": "Sen obrigas de reintegro pendentes nin ningunha subvención municipal vencida sen xustificar"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma 1 punto en el baremo si lo acreditas con título, resolución o certificado.",
+          "textoGl": "Suma 1 punto no baremo se o acreditas con título, resolución ou certificado."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma 1 punto en el baremo por título vigente.",
+          "textoGl": "Suma 1 punto no baremo por título vixente."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Suma 1 punto por cada miembro con discapacidad del 33 % o más (hasta 3 puntos).",
+          "textoGl": "Suma 1 punto por cada membro con discapacidade do 33 % ou máis (ata 3 puntos)."
+        }
+      ],
       "documentacion": [
         "Solicitud en el modelo normalizado del Concello, presencial o por la sede electrónica (ortigueira.sedelectronica.es) o por cualquier vía del artículo 16.4 de la Ley 39/2015. Incluye la orden para que el Concello pague al comercio adherido y la declaración responsable de no tener prohibiciones, deudas ni otras ayudas incompatibles.",
         "DNI de quien presenta la solicitud y del alumno/a, y libro de familia o documento de tutela, acogimiento o representación.",
@@ -4938,18 +4938,6 @@
       ],
       "plazoInicio": "2026-09-25T00:00:00.000",
       "plazoFin": "2026-10-16T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "familiaNumerosa",
-          "texto": "Suma puntos en el baremo: 4 si es categoría especial y 2 si es general.",
-          "textoGl": "Suma puntos no baremo: 4 se é categoría especial e 2 se é xeral."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Si algún miembro (incluido el alumno/a) tiene discapacidad del 33 % o más a 31/12/2025, cuenta doble al calcular la renta per cápita, y si la tiene la persona solicitante suma 4 puntos.",
-          "textoGl": "Se algún membro (incluído o alumno/a) ten discapacidade do 33 % ou máis a 31/12/2025, conta dobre ao calcular a renda per cápita, e se a ten a persoa solicitante suma 4 puntos."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -4988,6 +4976,18 @@
           "valor": true,
           "textoExplicativo": "Sin deudas con Hacienda (municipal, autonómica o estatal) ni con la Seguridad Social, y sin ninguna ayuda del Concello de Ordes pendiente de justificar",
           "textoExplicativoGl": "Sen débedas con Facenda (municipal, autonómica ou estatal) nin coa Seguridade Social, e sen ningunha axuda do Concello de Ordes pendente de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma puntos en el baremo: 4 si es categoría especial y 2 si es general.",
+          "textoGl": "Suma puntos no baremo: 4 se é categoría especial e 2 se é xeral."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si algún miembro (incluido el alumno/a) tiene discapacidad del 33 % o más a 31/12/2025, cuenta doble al calcular la renta per cápita, y si la tiene la persona solicitante suma 4 puntos.",
+          "textoGl": "Se algún membro (incluído o alumno/a) ten discapacidade do 33 % ou máis a 31/12/2025, conta dobre ao calcular a renda per cápita, e se a ten a persoa solicitante suma 4 puntos."
         }
       ],
       "documentacion": [
@@ -5085,23 +5085,6 @@
       ],
       "plazoInicio": "2026-09-18T00:00:00.000",
       "plazoFin": "2026-10-07T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "Si el crédito no alcanza para todas las solicitudes, las familias de especial consideración (como las monoparentales) tienen prioridad.",
-          "textoGl": "Se o crédito non chega para todas as solicitudes, as familias de especial consideración (como as monoparentais) teñen prioridade."
-        },
-        {
-          "situacion": "familiaNumerosa",
-          "texto": "Si el crédito no alcanza para todas las solicitudes, las familias de especial consideración (como las numerosas) tienen prioridad.",
-          "textoGl": "Se o crédito non chega para todas as solicitudes, as familias de especial consideración (como as numerosas) teñen prioridade."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Si el estudiante tiene discapacidad del 33 % o más y depende de sus padres, cuenta como dos miembros al calcular la renta per cápita.",
-          "textoGl": "Se o estudante ten discapacidade do 33 % ou máis e depende dos seus pais, conta como dous membros ao calcular a renda per cápita."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -5133,6 +5116,23 @@
           "valor": true,
           "textoExplicativo": "Al corriente con el Concello de Cabanas, la Agencia Tributaria, la Seguridad Social y la Hacienda de Galicia, y sin prohibición para recibir subvenciones",
           "textoExplicativoGl": "Ao corrente co Concello de Cabanas, a Axencia Tributaria, a Seguridade Social e a Facenda de Galicia, e sen prohibición para recibir subvencións"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Si el crédito no alcanza para todas las solicitudes, las familias de especial consideración (como las monoparentales) tienen prioridad.",
+          "textoGl": "Se o crédito non chega para todas as solicitudes, as familias de especial consideración (como as monoparentais) teñen prioridade."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Si el crédito no alcanza para todas las solicitudes, las familias de especial consideración (como las numerosas) tienen prioridad.",
+          "textoGl": "Se o crédito non chega para todas as solicitudes, as familias de especial consideración (como as numerosas) teñen prioridade."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si el estudiante tiene discapacidad del 33 % o más y depende de sus padres, cuenta como dos miembros al calcular la renta per cápita.",
+          "textoGl": "Se o estudante ten discapacidade do 33 % ou máis e depende dos seus pais, conta como dous membros ao calcular a renda per cápita."
         }
       ],
       "documentacion": [
@@ -5169,23 +5169,6 @@
       ],
       "plazoInicio": "2026-09-16T00:00:00.000",
       "plazoFin": "2026-09-29T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "Suma 1 punto en el baremo si lo acreditas con el certificado de familia monoparental (o la documentación de ausencia de un progenitor).",
-          "textoGl": "Suma 1 punto no baremo se o acreditas co certificado de familia monoparental (ou a documentación de ausencia dun proxenitor)."
-        },
-        {
-          "situacion": "familiaNumerosa",
-          "texto": "Suma 1 punto en el baremo con el título en vigor.",
-          "textoGl": "Suma 1 punto no baremo co título en vigor."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Suma 1 punto en el baremo por cada miembro de la familia con discapacidad reconocida.",
-          "textoGl": "Suma 1 punto no baremo por cada membro da familia con discapacidade recoñecida."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -5248,6 +5231,23 @@
           "textoExplicativoGl": "Ao corrente con Facenda (estatal e autonómica), a Seguridade Social e o Concello, e sen ningunha axuda do Concello pendente de xustificar"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma 1 punto en el baremo si lo acreditas con el certificado de familia monoparental (o la documentación de ausencia de un progenitor).",
+          "textoGl": "Suma 1 punto no baremo se o acreditas co certificado de familia monoparental (ou a documentación de ausencia dun proxenitor)."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma 1 punto en el baremo con el título en vigor.",
+          "textoGl": "Suma 1 punto no baremo co título en vigor."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Suma 1 punto en el baremo por cada miembro de la familia con discapacidad reconocida.",
+          "textoGl": "Suma 1 punto no baremo por cada membro da familia con discapacidade recoñecida."
+        }
+      ],
       "documentacion": [
         "Solicitud y declaración responsable en el modelo del Anexo I, en el Registro General del Concello, en la sede electrónica o por cualquier vía del artículo 16 de la Ley 39/2015.",
         "Libro de familia y, si es familia numerosa, el título en vigor.",
@@ -5282,23 +5282,6 @@
       ],
       "plazoInicio": "2026-09-04T00:00:00.000",
       "plazoFin": "2026-09-24T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "El límite de renta sube un 10 %, cada miembro puntúa 0,8 en vez de 0,5 y suma 1 punto más por ser familia monoparental (con sentencia, convenio o resolución que lo acredite).",
-          "textoGl": "O límite de renda sobe un 10 %, cada membro puntúa 0,8 en vez de 0,5 e suma 1 punto máis por ser familia monoparental (con sentenza, convenio ou resolución que o acredite)."
-        },
-        {
-          "situacion": "familiaNumerosa",
-          "texto": "Suma 1 punto si es categoría general y 2 si es especial (con el título).",
-          "textoGl": "Suma 1 punto se é categoría xeral e 2 se é especial (co título)."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Si un menor tiene discapacidad, el límite de renta sube un 10 %; además, cada miembro con discapacidad del 33 % o más suma 1 punto.",
-          "textoGl": "Se un menor ten discapacidade, o límite de renda sobe un 10 %; ademais, cada membro con discapacidade do 33 % ou máis suma 1 punto."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -5330,6 +5313,23 @@
           "valor": true,
           "textoExplicativo": "Al corriente con las obligaciones tributarias (estatales, provinciales y municipales) y sin ninguna ayuda del Concello pendiente de justificar",
           "textoExplicativoGl": "Ao corrente coas obrigas tributarias (estatais, provinciais e municipais) e sen ningunha axuda do Concello pendente de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "El límite de renta sube un 10 %, cada miembro puntúa 0,8 en vez de 0,5 y suma 1 punto más por ser familia monoparental (con sentencia, convenio o resolución que lo acredite).",
+          "textoGl": "O límite de renda sobe un 10 %, cada membro puntúa 0,8 en vez de 0,5 e suma 1 punto máis por ser familia monoparental (con sentenza, convenio ou resolución que o acredite)."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma 1 punto si es categoría general y 2 si es especial (con el título).",
+          "textoGl": "Suma 1 punto se é categoría xeral e 2 se é especial (co título)."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si un menor tiene discapacidad, el límite de renta sube un 10 %; además, cada miembro con discapacidad del 33 % o más suma 1 punto.",
+          "textoGl": "Se un menor ten discapacidade, o límite de renda sobe un 10 %; ademais, cada membro con discapacidade do 33 % ou máis suma 1 punto."
         }
       ],
       "documentacion": [
@@ -5368,18 +5368,6 @@
       ],
       "plazoInicio": "2026-08-28T00:00:00.000",
       "plazoFin": "2026-09-30T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "Si el otro progenitor no convive con el hijo/a (separación, divorcio, viudedad, familia monoparental), su renta no se cuenta; presenta la documentación que lo acredite (certificado de familia monoparental, sentencia, etc.). En custodia compartida cuentan ambos.",
-          "textoGl": "Se o outro proxenitor non convive co fillo/a (separación, divorcio, viuvez, familia monoparental), a súa renda non se conta; presenta a documentación que o acredite (certificado de familia monoparental, sentenza, etc.). En custodia compartida contan ambos."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Si el alumno/a tiene reconocido un grado de discapacidad del 33 % o más, cobra la cuantía máxima de su curso y no hay límite de ingresos (aporta el certificado de discapacidad).",
-          "textoGl": "Se o alumno/a ten recoñecido un grao de discapacidade do 33 % ou máis, cobra a contía máxima do seu curso e non hai límite de ingresos (achega o certificado de discapacidade)."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -5434,6 +5422,18 @@
           "textoExplicativoGl": "Sen débedas co Concello nin con outras administracións, e sen ningunha axuda do Concello pendente de xustificar"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Si el otro progenitor no convive con el hijo/a (separación, divorcio, viudedad, familia monoparental), su renta no se cuenta; presenta la documentación que lo acredite (certificado de familia monoparental, sentencia, etc.). En custodia compartida cuentan ambos.",
+          "textoGl": "Se o outro proxenitor non convive co fillo/a (separación, divorcio, viuvez, familia monoparental), a súa renda non se conta; presenta a documentación que o acredite (certificado de familia monoparental, sentenza, etc.). En custodia compartida contan ambos."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si el alumno/a tiene reconocido un grado de discapacidad del 33 % o más, cobra la cuantía máxima de su curso y no hay límite de ingresos (aporta el certificado de discapacidad).",
+          "textoGl": "Se o alumno/a ten recoñecido un grao de discapacidade do 33 % ou máis, cobra a contía máxima do seu curso e non hai límite de ingresos (achega o certificado de discapacidade)."
+        }
+      ],
       "documentacion": [
         "Solicitud en el modelo del Concello, en el Registro General o en la sede electrónica (assomozas.sedelectronica.gal).",
         "DNI de la persona solicitante, de la pareja o cónyuge y de los hijos/as, y libro o libros de familia completos.",
@@ -5470,13 +5470,6 @@
       ],
       "plazoInicio": "2026-08-27T00:00:00.000",
       "plazoFin": "2026-09-30T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "discapacidad",
-          "texto": "Para calcular la renta per cápita, cada miembro de la familia con discapacidad del 33 % o más, o con dependencia reconocida, cuenta como dos personas (aporta el certificado).",
-          "textoGl": "Para calcular a renda per cápita, cada membro da familia con discapacidade do 33 % ou máis, ou con dependencia recoñecida, conta como dúas persoas (achega o certificado)."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -5508,6 +5501,13 @@
           "valor": true,
           "textoExplicativo": "Al corriente con Hacienda, la Seguridad Social y el Concello, y sin ninguna ayuda del Concello pendiente de justificar",
           "textoExplicativoGl": "Ao corrente coa Facenda, a Seguridade Social e o Concello, e sen ningunha axuda do Concello pendente de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Para calcular la renta per cápita, cada miembro de la familia con discapacidad del 33 % o más, o con dependencia reconocida, cuenta como dos personas (aporta el certificado).",
+          "textoGl": "Para calcular a renda per cápita, cada membro da familia con discapacidade do 33 % ou máis, ou con dependencia recoñecida, conta como dúas persoas (achega o certificado)."
         }
       ],
       "documentacion": [
@@ -5544,18 +5544,6 @@
       ],
       "plazoInicio": "2026-08-20T00:00:00.000",
       "plazoFin": "2026-09-18T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "Con el certificado de familia monoparental cobras más: 90 € (renta per cápita hasta 3.500 €) o 70 € (hasta 6.500 €), en vez de 80 € y 60 €. En violencia de género no se cuentan los ingresos del agresor y la familia se considera monoparental.",
-          "textoGl": "Co certificado de familia monoparental cobras máis: 90 € (renda per cápita ata 3.500 €) ou 70 € (ata 6.500 €), en vez de 80 € e 60 €. En violencia de xénero non se contan os ingresos do agresor e a familia considérase monoparental."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Para calcular la renta per cápita, cada miembro con discapacidad del 33 % o más (o con pensión de incapacidad permanente total, absoluta o gran invalidez) cuenta como dos personas.",
-          "textoGl": "Para calcular a renda per cápita, cada membro con discapacidade do 33 % ou máis (ou con pensión de incapacidade permanente total, absoluta ou gran invalidez) conta como dúas persoas."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -5587,6 +5575,18 @@
           "valor": true,
           "textoExplicativo": "Ningún miembro con vehículo de más de 15,99 caballos fiscales y menos de 8 años; vivienda propia con valor catastral de hasta 150.000 € (unifamiliar) u 80.000 € (piso); y ningún otro inmueble urbano distinto de la vivienda familiar (salvo solar)",
           "textoExplicativoGl": "Ningún membro con vehículo de máis de 15,99 cabalos fiscais e menos de 8 anos; vivenda propia con valor catastral de ata 150.000 € (unifamiliar) ou 80.000 € (piso); e ningún outro inmoble urbano distinto da vivenda familiar (salvo soar)"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Con el certificado de familia monoparental cobras más: 90 € (renta per cápita hasta 3.500 €) o 70 € (hasta 6.500 €), en vez de 80 € y 60 €. En violencia de género no se cuentan los ingresos del agresor y la familia se considera monoparental.",
+          "textoGl": "Co certificado de familia monoparental cobras máis: 90 € (renda per cápita ata 3.500 €) ou 70 € (ata 6.500 €), en vez de 80 € e 60 €. En violencia de xénero non se contan os ingresos do agresor e a familia considérase monoparental."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Para calcular la renta per cápita, cada miembro con discapacidad del 33 % o más (o con pensión de incapacidad permanente total, absoluta o gran invalidez) cuenta como dos personas.",
+          "textoGl": "Para calcular a renda per cápita, cada membro con discapacidade do 33 % ou máis (ou con pensión de incapacidade permanente total, absoluta ou gran invalidez) conta como dúas persoas."
         }
       ],
       "documentacion": [
@@ -5625,23 +5625,6 @@
       ],
       "plazoInicio": "2026-08-13T00:00:00.000",
       "plazoFin": "2026-09-30T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "Con el certificado de familia monoparental de la Xunta, la familia cuenta 0,5 miembros más para la renta per cápita y suma 1 punto en el baremo. En violencia de género pasa lo mismo (1,5 puntos) y no cuenta el agresor como miembro.",
-          "textoGl": "Co certificado de familia monoparental da Xunta, a familia conta 0,5 membros máis para a renda per cápita e suma 1 punto no baremo. En violencia de xénero pasa o mesmo (1,5 puntos) e non conta o agresor como membro."
-        },
-        {
-          "situacion": "familiaNumerosa",
-          "texto": "El límite de renta per cápita sube 602 € por cada hijo a partir del tercero y suma 1 punto en el baremo (con la tarjeta de familia numerosa). Si sobra crédito, puede recibir una segunda ayuda.",
-          "textoGl": "O límite de renda per cápita sobe 602 € por cada fillo a partir do terceiro e suma 1 punto no baremo (coa tarxeta de familia numerosa). Se sobra crédito, pode recibir unha segunda axuda."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Si el alumno/a tiene discapacidad del 33 % o más, cuenta 0,5 miembros más en la renta per cápita, suma 1,5 puntos y puede optar a la ayuda de 350 € de necesidades educativas especiales (con el certificado).",
-          "textoGl": "Se o alumno/a ten discapacidade do 33 % ou máis, conta 0,5 membros máis na renda per cápita, suma 1,5 puntos e pode optar á axuda de 350 € de necesidades educativas especiais (co certificado)."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -5673,6 +5656,23 @@
           "valor": true,
           "textoExplicativo": "Al corriente con la Agencia Tributaria, la Seguridad Social y el Concello (la solicitud autoriza al Concello a comprobarlo)",
           "textoExplicativoGl": "Ao corrente coa Axencia Tributaria, a Seguridade Social e o Concello (a solicitude autoriza o Concello a comprobalo)"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Con el certificado de familia monoparental de la Xunta, la familia cuenta 0,5 miembros más para la renta per cápita y suma 1 punto en el baremo. En violencia de género pasa lo mismo (1,5 puntos) y no cuenta el agresor como miembro.",
+          "textoGl": "Co certificado de familia monoparental da Xunta, a familia conta 0,5 membros máis para a renda per cápita e suma 1 punto no baremo. En violencia de xénero pasa o mesmo (1,5 puntos) e non conta o agresor como membro."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "El límite de renta per cápita sube 602 € por cada hijo a partir del tercero y suma 1 punto en el baremo (con la tarjeta de familia numerosa). Si sobra crédito, puede recibir una segunda ayuda.",
+          "textoGl": "O límite de renda per cápita sobe 602 € por cada fillo a partir do terceiro e suma 1 punto no baremo (coa tarxeta de familia numerosa). Se sobra crédito, pode recibir unha segunda axuda."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si el alumno/a tiene discapacidad del 33 % o más, cuenta 0,5 miembros más en la renta per cápita, suma 1,5 puntos y puede optar a la ayuda de 350 € de necesidades educativas especiales (con el certificado).",
+          "textoGl": "Se o alumno/a ten discapacidade do 33 % ou máis, conta 0,5 membros máis na renda per cápita, suma 1,5 puntos e pode optar á axuda de 350 € de necesidades educativas especiais (co certificado)."
         }
       ],
       "documentacion": [
@@ -5711,23 +5711,6 @@
       ],
       "plazoInicio": "2026-06-11T00:00:00.000",
       "plazoFin": "2026-07-09T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "Para calcular los ingresos, se cuenta 1 miembro más que los reales (con el certificado de familia monoparental de la Xunta). En violencia de género no cuenta el agresor y la familia se considera monoparental.",
-          "textoGl": "Para calcular os ingresos, conta 1 membro máis que os reais (co certificado de familia monoparental da Xunta). En violencia de xénero non conta o agresor e a familia considérase monoparental."
-        },
-        {
-          "situacion": "familiaNumerosa",
-          "texto": "Para calcular los ingresos, se cuenta 1 miembro más que los reales, así que se aplica el límite de la fila siguiente de la tabla.",
-          "textoGl": "Para calcular os ingresos, conta 1 membro máis que os reais, así que se aplica o límite da fila seguinte da táboa."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Si algún miembro tiene discapacidad del 33 % o más, o dependencia reconocida, se cuenta 1 miembro más que los reales para calcular los ingresos.",
-          "textoGl": "Se algún membro ten discapacidade do 33 % ou máis, ou dependencia recoñecida, conta 1 membro máis que os reais para calcular os ingresos."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -5783,6 +5766,23 @@
           "textoExplicativoGl": "Que os ingresos anuais da familia (bases impoñibles xeral e do aforro do IRPF de 2024 de todos os membros) non superen 23.724 € con 2 membros, 32.201 € con 3, 38.242 € con 4, 42.743 € con 5 ou 46.142 € con 6; tamén poden pedila as familias en programas de intervención familiar dos Servizos Sociais aínda que superen eses ingresos"
         }
       ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Para calcular los ingresos, se cuenta 1 miembro más que los reales (con el certificado de familia monoparental de la Xunta). En violencia de género no cuenta el agresor y la familia se considera monoparental.",
+          "textoGl": "Para calcular os ingresos, conta 1 membro máis que os reais (co certificado de familia monoparental da Xunta). En violencia de xénero non conta o agresor e a familia considérase monoparental."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Para calcular los ingresos, se cuenta 1 miembro más que los reales, así que se aplica el límite de la fila siguiente de la tabla.",
+          "textoGl": "Para calcular os ingresos, conta 1 membro máis que os reais, así que se aplica o límite da fila seguinte da táboa."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si algún miembro tiene discapacidad del 33 % o más, o dependencia reconocida, se cuenta 1 miembro más que los reales para calcular los ingresos.",
+          "textoGl": "Se algún membro ten discapacidade do 33 % ou máis, ou dependencia recoñecida, conta 1 membro máis que os reais para calcular os ingresos."
+        }
+      ],
       "documentacion": [
         "Solicitud en el modelo oficial (Anexo I), preferentemente por la sede electrónica del Concello; presencial con cita previa en el Registro (981 79 12 52, ext. 2, de 9:00 a 14:30, o cita.previa@bergondo.gal).",
         "DNI del miembro de la familia que solicita en nombre del alumno/a y libro de familia.",
@@ -5815,23 +5815,6 @@
       ],
       "plazoInicio": "2026-09-14T00:00:00.000",
       "plazoFin": "2026-09-30T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "Suma 5 puntos en el baremo. Es monoparental si hay un solo progenitor, sin pareja, y el otro no contribuye económicamente al sustento (con el certificado de familia monoparental o la sentencia). En violencia de género no se cuentan los ingresos del agresor.",
-          "textoGl": "Suma 5 puntos no baremo. É monoparental se hai un só proxenitor, sen parella, e o outro non contribúe economicamente ao sustento (co certificado de familia monoparental ou a sentenza). En violencia de xénero non se contan os ingresos do agresor."
-        },
-        {
-          "situacion": "familiaNumerosa",
-          "texto": "Suma 5 puntos en el baremo con el título de familia numerosa.",
-          "textoGl": "Suma 5 puntos no baremo co título de familia numerosa."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Para la renta per cápita, cada miembro con discapacidad del 33 % o más (o con pensión por incapacidad permanente total, absoluta o gran invalidez) cuenta como dos personas (aporta el certificado).",
-          "textoGl": "Para a renda per cápita, cada membro con discapacidade do 33 % ou máis (ou con pensión por incapacidade permanente total, absoluta ou gran invalidez) conta como dúas persoas (achega o certificado)."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -5863,6 +5846,23 @@
           "valor": true,
           "textoExplicativo": "Al corriente con Hacienda y la Seguridad Social, y sin ninguna otra ayuda pública o privada para la misma finalidad",
           "textoExplicativoGl": "Ao corrente coa Facenda e a Seguridade Social, e sen ningunha outra axuda pública ou privada para a mesma finalidade"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma 5 puntos en el baremo. Es monoparental si hay un solo progenitor, sin pareja, y el otro no contribuye económicamente al sustento (con el certificado de familia monoparental o la sentencia). En violencia de género no se cuentan los ingresos del agresor.",
+          "textoGl": "Suma 5 puntos no baremo. É monoparental se hai un só proxenitor, sen parella, e o outro non contribúe economicamente ao sustento (co certificado de familia monoparental ou a sentenza). En violencia de xénero non se contan os ingresos do agresor."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma 5 puntos en el baremo con el título de familia numerosa.",
+          "textoGl": "Suma 5 puntos no baremo co título de familia numerosa."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Para la renta per cápita, cada miembro con discapacidad del 33 % o más (o con pensión por incapacidad permanente total, absoluta o gran invalidez) cuenta como dos personas (aporta el certificado).",
+          "textoGl": "Para a renda per cápita, cada membro con discapacidade do 33 % ou máis (ou con pensión por incapacidade permanente total, absoluta ou gran invalidez) conta como dúas persoas (achega o certificado)."
         }
       ],
       "documentacion": [
@@ -5961,18 +5961,6 @@
       ],
       "plazoInicio": "2026-07-17T00:00:00.000",
       "plazoFin": "2026-08-30T23:59:00.000",
-      "avisosSituacion": [
-        {
-          "situacion": "monoparental",
-          "texto": "Con el certificado de familia monoparental se suma medio miembro a la familia para calcular la renta per cápita (lo mismo si la solicitante es víctima de violencia de género).",
-          "textoGl": "Co certificado de familia monoparental sóase medio membro á familia para calcular a renda per cápita (o mesmo se a solicitante é vítima de violencia de xénero)."
-        },
-        {
-          "situacion": "discapacidad",
-          "texto": "Cada persona conviviente con discapacidad del 65 % o más, o con dependencia de grado II o III, suma medio miembro para la renta per cápita (aporta el certificado).",
-          "textoGl": "Cada persoa convivinte con discapacidade do 65 % ou máis, ou con dependencia de grao II ou III, soma medio membro para a renda per cápita (achega o certificado)."
-        }
-      ],
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -6004,6 +5992,18 @@
           "valor": true,
           "textoExplicativo": "Al corriente con la Seguridad Social y Hacienda, sin deudas con el Concello de Brión ni ayudas municipales anteriores pendientes de justificar",
           "textoExplicativoGl": "Ao corrente coa Seguridade Social e a Facenda, sen débedas co Concello de Brión nin axudas municipais anteriores pendentes de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Con el certificado de familia monoparental se suma medio miembro a la familia para calcular la renta per cápita (lo mismo si la solicitante es víctima de violencia de género).",
+          "textoGl": "Co certificado de familia monoparental sóase medio membro á familia para calcular a renda per cápita (o mesmo se a solicitante é vítima de violencia de xénero)."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Cada persona conviviente con discapacidad del 65 % o más, o con dependencia de grado II o III, suma medio miembro para la renta per cápita (aporta el certificado).",
+          "textoGl": "Cada persoa convivinte con discapacidade do 65 % ou máis, ou con dependencia de grao II ou III, soma medio membro para a renda per cápita (achega o certificado)."
         }
       ],
       "documentacion": [
