@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27e",
+  "revision": "2026-10-27f",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -5882,6 +5882,68 @@
         "Documentación da renda de 2025 dos membros da unidade familiar; se non hai declaración, certificado de imputacións ou, segundo valoración dos Servizos Sociais, nóminas, xustificantes de ingresos ou declaración xurada.",
         "Se procede: título de familia numerosa, sentenza de separación ou divorcio (ou xustificante de viuvez) coa pensión de mantemento, certificado de discapacidade, xustificante de pensións, RISGA ou RAI.",
         "Para cobrar: certificación bancaria do IBAN a nome de quen solicita e factura do material escolar co xustificante de pagamento por transferencia, presentadas no Rexistro Xeral."
+      ]
+    },
+    {
+      "id": "cenlle_material_escolar_2026_27",
+      "titulo": "Ayudas de material escolar 2026/27 (Cenlle)",
+      "tituloGl": "Axudas de material escolar 2026/27 (Cenlle)",
+      "descripcion": "Ayuda del Concello de Cenlle para material escolar del alumnado de 2.º ciclo de Educación Infantil y de Primaria matriculado en el CEIP de Cenlle.\n\nCuánto: hasta 150 € por alumno/a en Infantil y hasta 50 € en Primaria. El crédito es de 2.200 € y se reparte entre todas las solicitudes que cumplan los requisitos, respetando esos máximos. Se cobra por transferencia después de justificar el gasto con la factura original; si justificas menos que la ayuda concedida, se reduce hasta lo justificado. Es compatible con otras ayudas para lo mismo, siempre que entre todas no superen el 100 % del gasto.\n\nQuién puede pedirla: familias con el alumno/a matriculado en 2026/27 en Infantil (2.º ciclo) o Primaria del CEIP de Cenlle, con el padre, la madre, el tutor o el alumno/a empadronados en Cenlle a 30 de junio de 2026, al corriente de los tributos y tasas municipales. No hay límite de renta.\n\nCuándo se pide: plazo cerrado, del 6 de agosto al 4 de septiembre de 2026 (30 días naturales desde el día siguiente al extracto del BOP de Ourense del 05/08/2026). La factura se puede justificar hasta el 30 de noviembre de 2026.\n\nOjo: los anexos II y III de las bases traen fechas de modelos antiguos (curso 2023/2024, año 2025); es una errata. Vigila julio-agosto de 2027.",
+      "descripcionGl": "Axuda do Concello de Cenlle para material escolar do alumnado de 2.º ciclo de Educación Infantil e de Primaria matriculado no CEIP de Cenlle.\n\nCanto: ata 150 € por alumno/a en Infantil e ata 50 € en Primaria. O crédito é de 2.200 € e repártese entre todas as solicitudes que cumpran os requisitos, respectando eses máximos. Cóbrase por transferencia despois de xustificar o gasto coa factura orixinal; se xustificas menos que a axuda concedida, redúcese ata o xustificado. É compatible con outras axudas para o mesmo, sempre que entre todas non superen o 100 % do gasto.\n\nQuen pode pedila: familias co alumno/a matriculado en 2026/27 en Infantil (2.º ciclo) ou Primaria do CEIP de Cenlle, co pai, a nai, o titor ou o alumno/a empadroados en Cenlle a 30 de xuño de 2026, ao corrente dos tributos e taxas municipais. Non hai límite de renda.\n\nCando se pide: prazo pechado, do 6 de agosto ao 4 de setembro de 2026 (30 días naturais desde o día seguinte ao extracto do BOP de Ourense do 05/08/2026). A factura pódese xustificar ata o 30 de novembro de 2026.\n\nOllo: os anexos II e III das bases traen datas de modelos antigos (curso 2023/2024, ano 2025); é unha errata. Vixía xullo-agosto de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de Cenlle",
+      "organismoGl": "Concello de Cenlle",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/921805",
+      "municipios": [
+        "Cenlle"
+      ],
+      "plazoInicio": "2026-08-06T00:00:00.000",
+      "plazoFin": "2026-09-04T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            12
+          ],
+          "textoExplicativo": "Tener un hijo/a matriculado/a en 2.º ciclo de Educación Infantil o en Primaria del CEIP de Cenlle en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a matriculado/a no 2.º ciclo de Educación Infantil ou en Primaria do CEIP de Cenlle no curso 2026/27"
+        },
+        {
+          "campo": "empadronamientoCenlle",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Padre, madre, tutor o alumno/a empadronados en Cenlle a 30 de junio de 2026",
+          "textoExplicativoGl": "Pai, nai, titor ou alumno/a empadroados en Cenlle a 30 de xuño de 2026"
+        },
+        {
+          "campo": "corrienteObligacionesCenlle",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente en el pago de los tributos y tasas municipales de Cenlle",
+          "textoExplicativoGl": "Ao corrente no pagamento dos tributos e taxas municipais de Cenlle"
+        }
+      ],
+      "documentacion": [
+        "Solicitud debidamente cubierta y firmada (Anexo I), con tus datos bancarios (IBAN). Se presenta en el Registro General del Concello de Cenlle, en la sede electrónica (cenlle.sedelectronica.gal) o por cualquier vía del artículo 16 de la Ley 39/2015.",
+        "Certificado o informe del centro escolar donde estudia el alumno/a, con el curso en el que está matriculado.",
+        "Certificado o informe del centro escolar sobre si recibió ayudas para lo mismo y su cantidad (o que no recibió ninguna).",
+        "Fotocopia del DNI de quien solicita (padre, madre, tutor/a o persona acogedora).",
+        "Fotocopia del libro de familia.",
+        "Certificado de empadronamiento del alumno/a y del padre, madre o tutor/a (el Concello lo incorpora de oficio; el pago de los impuestos municipales también lo comprueba él).",
+        "Anexo II: declaración responsable de no estar incurso en las prohibiciones del artículo 10 de la Ley 9/2007 y de estar al corriente con el Concello, la Agencia Tributaria, la Xunta y la Seguridad Social.",
+        "Para cobrar (hasta el 30/11/2026): factura original del gasto, con los datos del establecimiento y a nombre del padre, madre, tutor/a o solicitante, y declaración formal firmada de todas las ayudas solicitadas y concedidas para lo mismo (Anexo III)."
+      ],
+      "documentacionGl": [
+        "Solicitude debidamente cuberta e asinada (Anexo I), cos teus datos bancarios (IBAN). Preséntase no Rexistro Xeral do Concello de Cenlle, na sede electrónica (cenlle.sedelectronica.gal) ou por calquera vía do artigo 16 da Lei 39/2015.",
+        "Certificado ou informe do centro escolar onde estuda o alumno/a, co curso no que está matriculado.",
+        "Certificado ou informe do centro escolar sobre se recibiu axudas para o mesmo e a súa contía (ou que non recibiu ningunha).",
+        "Fotocopia do DNI de quen solicita (pai, nai, titor/a ou persoa acolledora).",
+        "Fotocopia do libro de familia.",
+        "Certificado de empadroamento do alumno/a e do pai, nai ou titor/a (o Concello incorpórao de oficio; o pagamento dos impostos municipais tamén o comproba el).",
+        "Anexo II: declaración responsable de non estar incurso nas prohibicións do artigo 10 da Lei 9/2007 e de estar ao corrente co Concello, a Axencia Tributaria, a Xunta e a Seguridade Social.",
+        "Para cobrar (ata o 30/11/2026): factura orixinal do gasto, cos datos do establecemento e a nome do pai, nai, titor/a ou solicitante, e declaración formal asinada de todas as axudas solicitadas e concedidas para o mesmo (Anexo III)."
       ]
     }
   ]
