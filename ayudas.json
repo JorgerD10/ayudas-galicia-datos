@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27c",
+  "revision": "2026-10-27d",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1690,6 +1690,32 @@
           "texto": "Recibes 300 € por hijo/a con discapacidad, en vez de 250 €.",
           "textoGl": "Recibes 300 € por fillo/a con discapacidade, en vez de 250 €."
         }
+      ],
+      "documentacion": [
+        "Anexo I: solicitud en el modelo normalizado, firmada y dirigida al Alcalde-Presidente. Se presenta en el Registro General del Concello de Ordes o por cualquier vía del artículo 16 de la Ley 39/2015. Los documentos pueden ser originales o copias debidamente compulsadas.",
+        "Certificado de convivencia de la unidad familiar, expedido por el Concello, donde figure la fecha de alta en el padrón de habitantes.",
+        "Libro de familia o documento equivalente (copia compulsada).",
+        "DNI o NIE de los progenitores (copia compulsada).",
+        "Si procede: copia del auto judicial de adopción del menor.",
+        "Declaración jurada de las ayudas solicitadas o recibidas para la misma finalidad (incluida en el Anexo I).",
+        "Compromiso de seguir empadronado/a en Ordes, tú y el menor, durante un mínimo de tres años (modelo incluido en el Anexo I).",
+        "Compromiso de devolver la ayuda si dejas de cumplir algún requisito o el Concello comprueba que no se cumple (mismo modelo).",
+        "Certificación de los datos bancarios donde quieres recibir la ayuda (IBAN, incluido en el Anexo I).",
+        "Certificados de estar al corriente con la Agencia Tributaria estatal, con la Agencia Tributaria de Galicia y con la Seguridad Social. También puedes firmar la autorización del Anexo I para que el Concello consulte esos datos.",
+        "El Concello comprueba de oficio que estás al corriente con la hacienda local. Si falta algo o se tienen en cuenta datos distintos de los que aportaste, tienes 10 días para presentar alegaciones o la documentación."
+      ],
+      "documentacionGl": [
+        "Anexo I: solicitude no modelo normalizado, asinada e dirixida ao Alcalde-Presidente. Preséntase no Rexistro Xeral do Concello de Ordes ou por calquera vía do artigo 16 da Lei 39/2015. Os documentos poden ser orixinais ou copias debidamente compulsadas.",
+        "Certificado de convivencia da unidade familiar, expedido polo Concello, onde figure a data de alta no padrón de habitantes.",
+        "Libro de familia ou documento equivalente (copia compulsada).",
+        "DNI ou NIE dos proxenitores (copia compulsada).",
+        "Se procede: copia do auto xudicial de adopción do menor.",
+        "Declaración xurada das axudas solicitadas ou recibidas pola mesma finalidade (incluída no Anexo I).",
+        "Compromiso de seguir empadroado/a en Ordes, ti e o menor, durante un mínimo de tres anos (modelo incluído no Anexo I).",
+        "Compromiso de devolver a axuda se deixas de cumprir algún requisito ou o Concello comproba que non se cumpre (mesmo modelo).",
+        "Certificación dos datos bancarios onde queres recibir a axuda (IBAN, incluído no Anexo I).",
+        "Certificados de estar ao corrente coa Axencia Tributaria estatal, coa Axencia Tributaria de Galicia e coa Seguridade Social. Tamén podes asinar a autorización do Anexo I para que o Concello consulte eses datos.",
+        "O Concello comproba de oficio que estás ao corrente coa facenda local. Se falta algo ou se teñen en conta datos distintos dos que achegaches, tes 10 días para presentar alegacións ou a documentación."
       ]
     },
     {
