@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27d",
+  "revision": "2026-10-27e",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -5798,6 +5798,90 @@
         "Se non autorizas a consulta: xustificante de empadroamento e xustificante de matrícula nun centro público do municipio.",
         "Se procede: certificado de familia monoparental da Xunta, e outra documentación que pidan os Servizos Sociais segundo a situación familiar.",
         "Tras a concesión: canxear o bono nunha libraría de Bergondo e entregar a factura co modelo de delegación de pago (Anexo III) aos Servizos Sociais antes do 30/09/2026."
+      ]
+    },
+    {
+      "id": "santa_comba_infantil_2026_27",
+      "titulo": "Becas de material escolar de Educación Infantil 2026/27 (Santa Comba)",
+      "tituloGl": "Bolsas de material escolar de Educación Infantil 2026/27 (Santa Comba)",
+      "descripcion": "Beca del Concello de Santa Comba para comprar material escolar (cuadernos, lápices, material de dibujo y musical, mochilas, estuches, pendrives, libros de lectura...) del alumnado de Educación Infantil, para familias con rentas bajas. No vale para ordenadores, impresoras ni tablets.\n\nCuánto: 70 € por alumno/a, ingresados en tu cuenta después de presentar la factura y el justificante de pago por transferencia bancaria. Solo hay 100 becas (7.000 € de crédito) y se dan por puntos: renta per cápita de hasta 8.000 € da 25 puntos, de 8.000,01 a 9.000 € da 15 y de 9.000,01 a 10.000 € da 10; familia numerosa suma 5 y familia monoparental suma 5. Cumplir los requisitos no garantiza la beca; en caso de empate se prefiere la renta per cápita más baja.\n\nQuién puede pedirla: padres, madres o tutores con el alumno/a empadronado en Santa Comba (al menos el alumno y uno de los progenitores, antes de presentar la solicitud), matriculado en Educación Infantil en un centro del municipio (o, por proximidad, en otro centro público) y que conviva con quien solicita. Renta per cápita anual de la familia de hasta 10.000 € (bases imponibles general y del ahorro del IRPF de 2025 divididas entre los miembros; con discapacidad del 33 % o más cuenta doble). Al corriente con Hacienda y la Seguridad Social.\n\nCuándo se pide: plazo cerrado, del 14 al 30 de septiembre de 2026.\n\nOjo: es incompatible con cualquier otra ayuda para la misma finalidad, y las bases no dicen hasta cuándo hay que presentar la factura; confirma con el Concello al abrirse la próxima convocatoria (vigila julio-septiembre de 2027).",
+      "descripcionGl": "Bolsa do Concello de Santa Comba para mercar material escolar (cadernos, lapis, material de debuxo e musical, mochilas, estoxos, pendrives, libros de lectura...) do alumnado de Educación Infantil, para familias con rendas baixas. Non vale para ordenadores, impresoras nin tablets.\n\nCanto: 70 € por alumno/a, ingresados na túa conta despois de presentar a factura e o xustificante de pagamento por transferencia bancaria. Só hai 100 bolsas (7.000 € de crédito) e dánse por puntos: renda per cápita de ata 8.000 € dá 25 puntos, de 8.000,01 a 9.000 € dá 15 e de 9.000,01 a 10.000 € dá 10; familia numerosa suma 5 e familia monoparental suma 5. Cumprir os requisitos non garante a bolsa; en caso de empate prefírese a renda per cápita máis baixa.\n\nQuen pode pedila: pais, nais ou titores co alumno/a empadroado en Santa Comba (polo menos o alumno e un dos proxenitores, antes de presentar a solicitude), matriculado en Educación Infantil nun centro do municipio (ou, por proximidade, noutro centro público) e que conviva con quen solicita. Renda per cápita anual da familia de ata 10.000 € (bases impoñibles xeral e do aforro do IRPF de 2025 divididas entre os membros; con discapacidade do 33 % ou máis conta dobre). Ao corrente coa Facenda e a Seguridade Social.\n\nCando se pide: prazo pechado, do 14 ao 30 de setembro de 2026.\n\nOllo: é incompatible con calquera outra axuda para a mesma finalidade, e as bases non din ata cando hai que presentar a factura; confirma co Concello cando se abra a próxima convocatoria (vixía xullo-setembro de 2027).",
+      "categoria": "educacion",
+      "organismo": "Concello de Santa Comba",
+      "organismoGl": "Concello de Santa Comba",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/922226",
+      "municipios": [
+        "Santa Comba"
+      ],
+      "plazoInicio": "2026-09-14T00:00:00.000",
+      "plazoFin": "2026-09-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a matriculado/a en Educación Infantil (3, 4 o 5 años) en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a matriculado/a en Educación Infantil (3, 4 ou 5 anos) no curso 2026/27"
+        },
+        {
+          "campo": "rentaSantaComba",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita anual de la familia (bases imponibles general y del ahorro del IRPF de 2025 divididas entre los miembros; con discapacidad del 33 % o más cuenta doble) no supere 10.000 €",
+          "textoExplicativoGl": "Que a renda per cápita anual da familia (bases impoñibles xeral e do aforro do IRPF de 2025 divididas entre os membros; con discapacidade do 33 % ou máis conta dobre) non supere 10.000 €"
+        },
+        {
+          "campo": "empadronamientoSantaComba",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Alumno/a y uno de los progenitores empadronados en Santa Comba antes de presentar la solicitud, conviviendo con quien solicita; matrícula en un centro del municipio (o, por proximidad, en otro centro público)",
+          "textoExplicativoGl": "Alumno/a e un dos proxenitores empadroados en Santa Comba antes de presentar a solicitude, convivindo con quen solicita; matrícula nun centro do municipio (ou, por proximidade, noutro centro público)"
+        },
+        {
+          "campo": "corrienteObligacionesSantaComba",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con Hacienda y la Seguridad Social, y sin ninguna otra ayuda pública o privada para la misma finalidad",
+          "textoExplicativoGl": "Ao corrente coa Facenda e a Seguridade Social, e sen ningunha outra axuda pública ou privada para a mesma finalidade"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Suma 5 puntos en el baremo. Es monoparental si hay un solo progenitor, sin pareja, y el otro no contribuye económicamente al sustento (con el certificado de familia monoparental o la sentencia). En violencia de género no se cuentan los ingresos del agresor.",
+          "textoGl": "Suma 5 puntos no baremo. É monoparental se hai un só proxenitor, sen parella, e o outro non contribúe economicamente ao sustento (co certificado de familia monoparental ou a sentenza). En violencia de xénero non se contan os ingresos do agresor."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Suma 5 puntos en el baremo con el título de familia numerosa.",
+          "textoGl": "Suma 5 puntos no baremo co título de familia numerosa."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Para la renta per cápita, cada miembro con discapacidad del 33 % o más (o con pensión por incapacidad permanente total, absoluta o gran invalidez) cuenta como dos personas (aporta el certificado).",
+          "textoGl": "Para a renda per cápita, cada membro con discapacidade do 33 % ou máis (ou con pensión por incapacidade permanente total, absoluta ou gran invalidez) conta como dúas persoas (achega o certificado)."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (Anexo I), en la sede electrónica de Santa Comba, en el Registro municipal o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
+        "Anexo II: declaración jurada de estar al corriente con Hacienda y la Seguridad Social. Anexo III: autorización para que el Concello pida al centro los datos de matrícula (si no la firmas, certificado de matrícula).",
+        "DNI, NIE o pasaporte de quien solicita y de los alumnos/as (si por edad lo tienen), y libro de familia o documento equivalente.",
+        "Volante de empadronamiento colectivo de la unidad familiar en Santa Comba.",
+        "Documentación de la renta de 2025 de los miembros de la unidad familiar; si no hay declaración, certificado de imputaciones o, según valoración de Servicios Sociales, nóminas, justificantes de ingresos o declaración jurada.",
+        "Si procede: título de familia numerosa, sentencia de separación o divorcio (o justificante de viudedad) con la pensión de manutención, certificado de discapacidad, justificante de pensiones, RISGA o RAI.",
+        "Para cobrar: certificación bancaria del IBAN a nombre de quien solicita y factura del material escolar con el justificante de pago por transferencia, presentadas en el Registro General."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (Anexo I), na sede electrónica de Santa Comba, no Rexistro municipal ou por calquera vía do artigo 16.4 da Lei 39/2015.",
+        "Anexo II: declaración xurada de estar ao corrente coa Facenda e a Seguridade Social. Anexo III: autorización para que o Concello pida ao centro os datos de matrícula (se non a asinas, certificado de matrícula).",
+        "DNI, NIE ou pasaporte de quen solicita e dos alumnos/as (se por idade o teñen), e libro de familia ou documento equivalente.",
+        "Volante de empadroamento colectivo da unidade familiar en Santa Comba.",
+        "Documentación da renda de 2025 dos membros da unidade familiar; se non hai declaración, certificado de imputacións ou, segundo valoración dos Servizos Sociais, nóminas, xustificantes de ingresos ou declaración xurada.",
+        "Se procede: título de familia numerosa, sentenza de separación ou divorcio (ou xustificante de viuvez) coa pensión de mantemento, certificado de discapacidade, xustificante de pensións, RISGA ou RAI.",
+        "Para cobrar: certificación bancaria do IBAN a nome de quen solicita e factura do material escolar co xustificante de pagamento por transferencia, presentadas no Rexistro Xeral."
       ]
     }
   ]
