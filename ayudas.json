@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27a",
+  "revision": "2026-10-27b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -433,6 +433,36 @@
           "textoExplicativo": "Para la ayuda de comedor: tener plaza en el comedor del centro",
           "textoExplicativoGl": "Para a axuda de comedor: ter praza no comedor do centro"
         }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo oficial (Anexo I), cubierta y firmada por la persona solicitante y por el resto de miembros mayores de edad de la unidad de convivencia. Una sola solicitud por unidad de convivencia. Se presenta en el Registro general municipal o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
+        "DNI, NIE o pasaporte de la persona solicitante y de los miembros mayores de 18 años (si no constan ya en la base de datos del Servicio de Bienestar Social).",
+        "Libro de familia completo o documentación oficial que acredite los miembros de la unidad familiar con sus fechas de nacimiento (si no constan ya en la base de datos).",
+        "Declaración del IRPF del último ejercicio de todos los miembros de la unidad familiar. Si no autorizas al Concello a obtener datos de otras administraciones, la aportas tú cuando la AEAT la tenga disponible.",
+        "Si procede: certificado anual de ingresos de 2025 de pensiones de la Seguridad Social, subsidio de desempleo, RISGA u otra prestación pública (solo si no autorizas al Concello a consultarlo).",
+        "Si pides ayuda de libros y material escolar: documento que acredite el IBAN de la cuenta de la persona solicitante (padre, madre o tutor).",
+        "Si pagas alquiler: contrato y 2 justificantes de transferencia o recibos de los 2 meses anteriores a la apertura del plazo, con nombre, apellidos, DNI y firma del arrendador, identificación del inquilino, dirección de la vivienda y mes e importe. Sin contrato escrito: Anexo II (contratos verbales).",
+        "Si tienes hipoteca sobre la vivienda habitual: justificante sellado y firmado por el banco (Anexo III) y recibos de amortización de los 2 meses anteriores a la apertura del plazo.",
+        "Si hay discapacidad en la unidad familiar: certificado de grado igual o superior al 33%, tarjeta acreditativa o certificado de pensión de incapacidad permanente (total, absoluta o gran invalidez).",
+        "Si hay violencia de género: sentencia condenatoria u orden de protección de los últimos 24 meses antes de la apertura del plazo (casos excepcionales, acreditados por el Centro Municipal de Información de los Derechos de la Mujer).",
+        "Si hay separación o divorcio: sentencia judicial y/o convenio regulador donde conste la custodia.",
+        "Si procede: resolución administrativa o judicial de acogimiento.",
+        "El Servicio de Bienestar Social puede pedirte otra documentación justificada. Si falta algo, tienes 10 días hábiles para subsanar; si no, se te tiene por desistido."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo oficial (Anexo I), cuberta e asinada pola persoa solicitante e polo resto de membros maiores de idade da unidade de convivencia. Unha soa solicitude por unidade de convivencia. Preséntase no Rexistro xeral municipal ou por calquera vía do artigo 16.4 da Lei 39/2015.",
+        "DNI, NIE ou pasaporte da persoa solicitante e dos membros maiores de 18 anos (se non constan xa na base de datos do Servizo de Benestar Social).",
+        "Libro de familia completo ou documentación oficial que acredite os membros da unidade familiar coas súas datas de nacemento (se non constan xa na base de datos).",
+        "Declaración do IRPF do último exercicio de todos os membros da unidade familiar. Se non autorizas o Concello a obter datos doutras administracións, achégala ti cando a AEAT a teña dispoñible.",
+        "Se procede: certificado anual de ingresos de 2025 de pensións da Seguridade Social, subsidio de desemprego, RISGA ou outra prestación pública (só se non autorizas o Concello a consultalo).",
+        "Se pides axuda de libros e material escolar: documento que acredite o IBAN da conta da persoa solicitante (pai, nai ou titor).",
+        "Se pagas aluguer: contrato e 2 xustificantes de transferencia ou recibos dos 2 meses anteriores á apertura do prazo, con nome, apelidos, DNI e sinatura do arrendador, identificación do inquilino, enderezo da vivenda e mes e importe. Sen contrato escrito: Anexo II (contratos verbais).",
+        "Se tes hipoteca sobre a vivenda habitual: xustificante selado e asinado polo banco (Anexo III) e recibos de amortización dos 2 meses anteriores á apertura do prazo.",
+        "Se hai discapacidade na unidade familiar: certificado de grao igual ou superior ao 33%, tarxeta acreditativa ou certificado de pensión de incapacidade permanente (total, absoluta ou gran invalidez).",
+        "Se hai violencia de xénero: sentenza condenatoria ou orde de protección dos últimos 24 meses antes da apertura do prazo (casos excepcionais, acreditados polo Centro Municipal de Información dos Dereitos da Muller).",
+        "Se hai separación ou divorcio: sentenza xudicial e/ou convenio regulador onde conste a custodia.",
+        "Se procede: resolución administrativa ou xudicial de acollemento.",
+        "O Servizo de Benestar Social pode pedirche outra documentación xustificada. Se falta algo, tes 10 días hábiles para emendar; se non, téselle por desistido."
       ]
     },
     {
