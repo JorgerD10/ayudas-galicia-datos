@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-26i",
+  "revision": "2026-10-27a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -498,6 +498,28 @@
           "texto": "Suma puntos en la valoración de las solicitudes.",
           "textoGl": "Suma puntos na valoración das solicitudes."
         }
+      ],
+      "documentacion": [
+        "Solicitud específica (modelo 088) firmada por el alumno/a si es mayor de edad o, si es menor, por el progenitor custodio, acogedor o tutor. Se presenta en el registro municipal, en el registro telemático de la sede electrónica (sede.coruna.gal) o por cualquier vía del artículo 16.4 de la Ley 39/2015. Firma electrónica homologada (Autofirma, VALIDe...) o manuscrita. Una sola solicitud por alumno/a.",
+        "Si la presenta otra persona: escrito de aceptación de la representación firmado por ambas y copia de sus documentos de identidad.",
+        "Libro de familia completo o documento oficial que acredite la filiación (o la documentación judicial o administrativa que acredite el vínculo con quien solicita).",
+        "Anexo I: consentimiento para que el Concello consulte tus datos (IRPF de 2024, matrícula en un centro con comedor autorizado, discapacidad, familia numerosa) y situación de la custodia. Va con los datos completos, el DNI y la firma de los progenitores custodios; si te opones a una consulta, aportas el documento tú.",
+        "Según la custodia: con un solo progenitor, libro de familia completo (y certificado de defunción del otro, si procede); custodia exclusiva, sentencia o convenio regulador aprobado judicialmente; o copia de la demanda de medidas paternofiliales presentada antes del fin del plazo; custodia compartida, sentencia o convenio (sin sentencia, basta señalarlo en el anexo); violencia de género, cualquier acreditación del artículo 5 de la Ley 11/2007.",
+        "Anexo II (declaración jurada de ingresos): solo si los progenitores no constan en el censo de la Agencia Tributaria en 2024 y no se pudo consultar su renta. Incluye los ingresos de los 12 meses anteriores al fin del plazo, con nóminas de los últimos 6 meses (cuenta ajena) o declaraciones trimestrales (cuenta propia).",
+        "Si procede: copia del NIF provisional del menor; resolución de acogimiento o tutela por una institución pública (da la beca automática); resolución de la educación combinada en centros de educación especial.",
+        "Para puntuar: certificado de la empresa con fecha de 2026, firma y sello que acredite la incompatibilidad horaria (los autónomos lo indican en el Anexo I y aportan la vida laboral de 2026); certificado de monoparentalidad en vigor de la Xunta; título de familia numerosa en vigor (si te opones a la consulta o lo expidió otra comunidad); y certificado de discapacidad de la persona solicitante o de quien tiene la custodia.",
+        "El pago se hace directamente al comedor del centro, por delegación que firmas con la solicitud."
+      ],
+      "documentacionGl": [
+        "Solicitude específica (modelo 088) asinada polo alumno/a se é maior de idade ou, se é menor, polo proxenitor custodio, acolledor ou titor. Preséntase no rexistro municipal, no rexistro telemático da sede electrónica (sede.coruna.gal) ou por calquera vía do artigo 16.4 da Lei 39/2015. Sinatura electrónica homologada (Autofirma, VALIDe...) ou manuscrita. Unha soa solicitude por alumno/a.",
+        "Se a presenta outra persoa: escrito de aceptación da representación asinado por ambas e copia dos seus documentos de identidade.",
+        "Libro de familia completo ou documento oficial que acredite a filiación (ou a documentación xudicial ou administrativa que acredite o vínculo con quen solicita).",
+        "Anexo I: consentimento para que o Concello consulte os teus datos (IRPF de 2024, matrícula nun centro con comedor autorizado, discapacidade, familia numerosa) e situación da custodia. Vai cos datos completos, o DNI e a sinatura dos proxenitores custodios; se te opós a unha consulta, achegas ti o documento.",
+        "Segundo a custodia: cun só proxenitor, libro de familia completo (e certificado de defunción do outro, se procede); custodia exclusiva, sentenza ou convenio regulador aprobado xudicialmente; ou copia da demanda de medidas paterno-filiais presentada antes do fin do prazo; custodia compartida, sentenza ou convenio (sen sentenza, abonda sinalalo no anexo); violencia de xénero, calquera acreditación do artigo 5 da Lei 11/2007.",
+        "Anexo II (declaración xurada de ingresos): só se os proxenitores non constan no censo da Axencia Tributaria en 2024 e non se puido consultar a súa renda. Inclúe os ingresos dos 12 meses anteriores ao fin do prazo, con nóminas dos últimos 6 meses (conta allea) ou declaracións trimestrais (conta propia).",
+        "Se procede: copia do NIF provisional do menor; resolución de acollemento ou titela por unha institución pública (dá a bolsa automática); resolución da educación combinada en centros de educación especial.",
+        "Para puntuar: certificado da empresa con data de 2026, sinatura e selo que acredite a incompatibilidade horaria (os autónomos indícano no Anexo I e achegan a vida laboral de 2026); certificado de monoparentalidade en vigor da Xunta; título de familia numerosa en vigor (se te opós á consulta ou o expediu outra comunidade); e certificado de discapacidade da persoa solicitante ou de quen ten a custodia.",
+        "O pagamento faise directamente ao comedor do centro, por delegación que asinas coa solicitude."
       ]
     },
     {
