@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27b",
+  "revision": "2026-10-27c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -868,6 +868,38 @@
           "textoExplicativo": "No recibir otra ayuda pública o privada para la misma finalidad",
           "textoExplicativoGl": "Non recibir outra axuda pública ou privada para a mesma finalidade"
         }
+      ],
+      "documentacion": [
+        "Anexo I: solicitud normalizada, con el nombre de los menores, el centro y el curso, y marcando si pides material escolar y/o beca de comedor (desayuno y/o comida). Se presenta en el Registro general del Concello o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
+        "Anexo II (declaraciones responsables) y, si procede, Anexo III (autorización para consultar datos de la Agencia Tributaria), firmados por cada miembro de la unidad familiar mayor de 16 años.",
+        "DNI, permiso de residencia o pasaporte de todos los miembros de la unidad familiar.",
+        "Libro de familia completo o documento análogo (acta o partida de nacimiento).",
+        "Declaración del IRPF de 2025 de cada miembro computable. Si no estás obligado/a a presentarla: notificación-liquidación o certificado de rentas de la Agencia Tributaria, o el Anexo III firmado por todos los integrantes para que el Concello lo consulte.",
+        "Si procede: certificado anual de ingresos de 2025 de pensiones de la Seguridad Social, subsidio de desempleo, RISGA, IMV u otra prestación pública.",
+        "Si pagas alquiler: contrato y 2 justificantes de transferencia o recibos de los 2 meses anteriores a la apertura del plazo, con nombre, apellidos, DNI y firma del arrendador, identificación del inquilino, dirección de la vivienda y mes e importe.",
+        "Si tienes hipoteca sobre la vivienda habitual: justificante sellado y firmado por el banco y recibos de amortización de los 2 meses anteriores a la apertura del plazo.",
+        "Si hay discapacidad en la unidad familiar: certificado de grado igual o superior al 33%, tarjeta acreditativa o certificado de pensión de incapacidad permanente (total, absoluta o gran invalidez).",
+        "Si hay separación o divorcio: sentencia y convenio regulador (si no se paga la pensión, copia de la solicitud de ejecución de sentencia). Unión de hecho con hijos reconocidos: sentencia de guarda, custodia y alimentos y justificantes de los pagos. Separación de hecho: certificado de convivencia o auto de medidas provisionales.",
+        "Si hay acogimiento: certificado del organismo competente (y la cuantía de la remuneración, si la hay).",
+        "Certificado escolar o copia de la solicitud de matrícula del curso 2026-2027: se entrega al recoger el vale del material escolar (sin él no se entrega el vale).",
+        "Fuera de plazo por causa sobrevenida (traslado, violencia de género o riesgo social): se aporta la misma documentación más la acreditación de esa circunstancia.",
+        "El Departamento de Bienestar Social puede pedirte otra documentación justificada. Tras el listado provisional tienes 10 días hábiles para alegar o subsanar. El padrón y la convivencia los comprueba el propio Concello."
+      ],
+      "documentacionGl": [
+        "Anexo I: solicitude normalizada, co nome dos menores, o centro e o curso, e marcando se pides material escolar e/ou bolsa de comedor (almorzo e/ou xantar). Preséntase no Rexistro xeral do Concello ou por calquera vía do artigo 16.4 da Lei 39/2015.",
+        "Anexo II (declaracións responsables) e, se procede, Anexo III (autorización para consultar datos da Axencia Tributaria), asinados por cada membro da unidade familiar maior de 16 anos.",
+        "DNI, permiso de residencia ou pasaporte de todos os membros da unidade familiar.",
+        "Libro de familia completo ou documento análogo (acta ou partida de nacemento).",
+        "Declaración do IRPF de 2025 de cada membro computable. Se non estás obrigado/a a presentala: notificación-liquidación ou certificado de rendas da Axencia Tributaria, ou o Anexo III asinado por todos os integrantes para que o Concello o consulte.",
+        "Se procede: certificado anual de ingresos de 2025 de pensións da Seguridade Social, subsidio de desemprego, RISGA, IMV ou outra prestación pública.",
+        "Se pagas aluguer: contrato e 2 xustificantes de transferencia ou recibos dos 2 meses anteriores á apertura do prazo, con nome, apelidos, DNI e sinatura do arrendador, identificación do inquilino, enderezo da vivenda e mes e importe.",
+        "Se tes hipoteca sobre a vivenda habitual: xustificante selado e asinado polo banco e recibos de amortización dos 2 meses anteriores á apertura do prazo.",
+        "Se hai discapacidade na unidade familiar: certificado de grao igual ou superior ao 33%, tarxeta acreditativa ou certificado de pensión de incapacidade permanente (total, absoluta ou gran invalidez).",
+        "Se hai separación ou divorcio: sentenza e convenio regulador (se non se paga a pensión, copia da solicitude de execución de sentenza). Unión de feito con fillos recoñecidos: sentenza de garda, custodia e alimentos e xustificantes dos pagos. Separación de feito: certificado de convivencia ou auto de medidas provisionais.",
+        "Se hai acollemento: certificado do organismo competente (e a contía da remuneración, se a hai).",
+        "Certificado escolar ou copia da solicitude de matrícula do curso 2026-2027: entrégase ao recoller o vale do material escolar (sen el non se entrega o vale).",
+        "Fóra de prazo por causa sobrevida (traslado, violencia de xénero ou risco social): achégase a mesma documentación máis a acreditación desa circunstancia.",
+        "O Departamento de Benestar Social pode pedirche outra documentación xustificada. Tras o listado provisional tes 10 días hábiles para alegar ou emendar. O padrón e a convivencia compróbaos o propio Concello."
       ]
     },
     {
