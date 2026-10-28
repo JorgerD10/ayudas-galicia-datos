@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27h",
+  "revision": "2026-10-27i",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -6104,6 +6104,77 @@
         "Autorización de pagamento delegado (Anexo V) a favor dos establecementos onde canxearás o vale. Anexo II: autorización para que o Concello pida ao centro o certificado de matrícula. Anexo III: compromisos do beneficiario.",
         "Se pagas aluguer: contrato en vigor e xustificante de pagamento (preferible transferencia) das 2 mensualidades anteriores á solicitude, con nome, apelidos, DNI e sinatura de arrendador e inquilino, enderezo da vivenda e mes e importe. Se tes hipoteca: escritura de constitución e xustificante das cotas das 2 últimas mensualidades.",
         "Os técnicos municipais poden pedirche outra documentación. Se falta algo, tes 10 días (improrrogables) desde a notificación para emendar; se non, téselle por desistido."
+      ]
+    },
+    {
+      "id": "as_pontes_escolarizacion_2026_27",
+      "titulo": "Ayudas a las familias para la escolarización 2026/27 (As Pontes)",
+      "tituloGl": "Axudas ás familias para a escolarización 2026/27 (As Pontes)",
+      "descripcion": "Ayuda del Concello de As Pontes de García Rodríguez para libros, material escolar, material informático y material de conservatorio del alumnado de Infantil, Primaria, ESO, FP Básica, Bachillerato, ciclos formativos y Conservatorio Profesional de Música.\n\nCuánto (por alumno/a, según el curso): Infantil de 0 a 3 años, 30 €; Infantil de 3 a 6 años, Primaria y ESO, 100 €; FP Básica, 80 €; Bachillerato y ciclos formativos, 140 €; Conservatorio, 40 € (grado elemental) o 60 € (grado profesional). Se da un bono indivisible que se retira en Servicios Sociales y se canjea en los comercios con convenio con el Concello. Crédito de 35.000 €, que se puede ampliar; si aun así no llega, se prioriza por ingresos de la unidad familiar y por fecha y hora de presentación. Es compatible con otras ayudas mientras no superen el coste del material.\n\nQuién puede pedirla: padre, madre o tutor/a legal con la unidad familiar empadronada y residiendo en As Pontes en el momento de la solicitud, con DNI o NIE, y renta de la unidad familiar de hasta 22.500 € (suma de la base imponible general y la del ahorro del IRPF; en familia numerosa, el límite sube 2.500 € a partir del tercer hijo/a).\n\nCuándo se pide: plazo cerrado, del 3 al 30 de julio de 2026 (20 días hábiles desde el día siguiente al extracto del BOP de A Coruña del 02/07/2026). Hubo un plazo extraordinario del 21 al 30 de septiembre de 2026 para el alumnado que formaliza la matrícula en septiembre. El bono se podía canjear hasta el 30 de noviembre de 2026.\n\nOjo: los comercios entregan las facturas hasta el 15 de diciembre de 2026. Vigila junio-julio de 2027.",
+      "descripcionGl": "Axuda do Concello das Pontes de García Rodríguez para libros, material escolar, material informático e material de conservatorio do alumnado de Infantil, Primaria, ESO, FP Básica, Bacharelato, ciclos formativos e Conservatorio Profesional de Música.\n\nCanto (por alumno/a, segundo o curso): Infantil de 0 a 3 anos, 30 €; Infantil de 3 a 6 anos, Primaria e ESO, 100 €; FP Básica, 80 €; Bacharelato e ciclos formativos, 140 €; Conservatorio, 40 € (grao elemental) ou 60 € (grao profesional). Dáse un vale indivisible que se retira en Servizos Sociais e se canxea nos comercios con convenio co Concello. Crédito de 35.000 €, que se pode ampliar; se aínda así non chega, priorízase polos ingresos da unidade familiar e pola data e hora de presentación. É compatible con outras axudas mentres non superen o custo do material.\n\nQuen pode pedila: pai, nai ou titor/a legal coa unidade familiar empadroada e residindo nas Pontes no momento da solicitude, con DNI ou NIE, e renda da unidade familiar de ata 22.500 € (suma da base impoñible xeral e a do aforro do IRPF; en familia numerosa, o límite sobe 2.500 € a partir do terceiro fillo/a).\n\nCando se pide: prazo pechado, do 3 ao 30 de xullo de 2026 (20 días hábiles desde o día seguinte ao extracto do BOP da Coruña do 02/07/2026). Houbo un prazo extraordinario do 21 ao 30 de setembro de 2026 para o alumnado que formaliza a matrícula en setembro. O vale podíase canxear ata o 30 de novembro de 2026.\n\nOllo: os comercios entregan as facturas ata o 15 de decembro de 2026. Vixía xuño-xullo de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de As Pontes de García Rodríguez",
+      "organismoGl": "Concello das Pontes de García Rodríguez",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/915979",
+      "municipios": [
+        "As Pontes de García Rodríguez"
+      ],
+      "plazoInicio": "2026-07-03T00:00:00.000",
+      "plazoFin": "2026-07-30T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            0,
+            17
+          ],
+          "textoExplicativo": "Tener un hijo/a que vaya a cursar Infantil, Primaria, ESO, FP Básica, Bachillerato, ciclo formativo o Conservatorio Profesional de Música en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a que vaia cursar Infantil, Primaria, ESO, FP Básica, Bacharelato, ciclo formativo ou Conservatorio Profesional de Música no curso 2026/27"
+        },
+        {
+          "campo": "rentaAsPontes",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta de la unidad familiar (base imponible general más la del ahorro del IRPF) no supere 22.500 € (2.500 € más a partir del tercer hijo/a en familia numerosa)",
+          "textoExplicativoGl": "Que a renda da unidade familiar (base impoñible xeral máis a do aforro do IRPF) non supere 22.500 € (2.500 € máis a partir do terceiro fillo/a en familia numerosa)"
+        },
+        {
+          "campo": "empadronamientoAsPontes",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Unidad familiar empadronada y residiendo de forma efectiva en As Pontes de García Rodríguez en el momento de la solicitud",
+          "textoExplicativoGl": "Unidade familiar empadroada e residindo de forma efectiva nas Pontes de García Rodríguez no momento da solicitude"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Con el título de familia numerosa, el límite de renta sube 2.500 € a partir del tercer hijo/a.",
+          "textoGl": "Co título de familia numerosa, o límite de renda sobe 2.500 € a partir do terceiro fillo/a."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo establecido, en el registro del Concello (Parque Municipal s/n, bajo, con cita previa en los teléfonos 667 129 389 / 667 129 380) o por la sede electrónica.",
+        "DNI del solicitante.",
+        "Libro de familia completo o certificación literal de nacimiento; en familia numerosa, el título.",
+        "Certificado de matrícula del centro (no vale la solicitud de admisión), solo para Bachillerato, FP Básica, ciclos formativos y Conservatorio Profesional de Música.",
+        "Si hay familia monoparental: sentencia judicial (separación o divorcio), certificado de defunción o certificado de familia monoparental.",
+        "Anexo II: declaración responsable.",
+        "Si no autorizas al Concello a consultar tu situación tributaria, el empadronamiento y las deudas con otras administraciones: declaración completa del IRPF de 2024 de todos los miembros de la unidad familiar (o certificado de imputaciones de rentas de 2024 de la Agencia Tributaria de los mayores de edad que no la presentaron), certificado de no tener deudas con la AEAT, la Seguridad Social y el Concello de todos los mayores de edad, y certificado de empadronamiento colectivo.",
+        "La comisión de evaluación puede pedirte otra documentación. Si falta algo, tienes 10 días hábiles para alegar o subsanar. La falsedad u ocultación de datos excluye de futuras convocatorias.",
+        "Para canjear: retira el bono en Servicios Sociales y cámbialo en un comercio con convenio con el Concello antes del 30/11/2026."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo establecido, no rexistro do Concello (Parque Municipal s/n, baixo, con cita previa nos teléfonos 667 129 389 / 667 129 380) ou pola sede electrónica.",
+        "DNI do solicitante.",
+        "Libro de familia completo ou certificación literal de nacemento; en familia numerosa, o título.",
+        "Certificado de matrícula do centro (non vale a solicitude de admisión), só para Bacharelato, FP Básica, ciclos formativos e Conservatorio Profesional de Música.",
+        "Se hai familia monoparental: sentenza xudicial (separación ou divorcio), certificado de defunción ou certificado de familia monoparental.",
+        "Anexo II: declaración responsable.",
+        "Se non autorizas o Concello a consultar a túa situación tributaria, o empadroamento e as débedas con outras administracións: declaración completa do IRPF de 2024 de todos os membros da unidade familiar (ou certificado de imputacións de rendas de 2024 da Axencia Tributaria dos maiores de idade que non a presentaron), certificado de non ter débedas coa AEAT, a Seguridade Social e o Concello de todos os maiores de idade, e certificado de empadroamento colectivo.",
+        "A comisión de avaliación pode pedirche outra documentación. Se falta algo, tes 10 días hábiles para alegar ou emendar. A falsidade ou ocultación de datos exclúe de futuras convocatorias.",
+        "Para canxear: retira o vale en Servizos Sociais e cámbiao nun comercio con convenio co Concello antes do 30/11/2026."
       ]
     }
   ]
