@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27g",
+  "revision": "2026-10-27h",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -6027,6 +6027,83 @@
         "Se procede: recibos de aluguer ou hipoteca de 2025 (12 meses); xustificantes de ingresos de 2026 que mostren unha baixada de polo menos o 30 % respecto a 2025; certificados de discapacidade ou dependencia; convenio regulador e pagamentos de pensións de alimentos de 2025 (ou solicitude de execución de sentenza se non se pagan); acreditación de violencia de xénero; resolución ou auto de acollemento coa remuneración recoñecida; certificado de monoparentalidade.",
         "Para cobrar: facturas do gasto (cos requisitos do RD 1619/2012 e a nome de quen solicita) co seu xustificante de pagamento, o Anexo III (declaración doutras axudas) e o Anexo IV (xustificación), nos 20 días naturais seguintes á resolución definitiva.",
         "O Concello comproba de oficio o padrón e a convivencia, as débedas coa Axencia Tributaria, a Seguridade Social e o propio Concello, as axudas municipais anteriores e a matrícula. Se falta algo, tes 10 días naturais para alegar ou emendar."
+      ]
+    },
+    {
+      "id": "lalin_escolarizacion_2026_27",
+      "titulo": "Becas de escolarización 2026/27 (Lalín)",
+      "tituloGl": "Bolsas de escolarización 2026/27 (Lalín)",
+      "descripcion": "Ayuda del Concello de Lalín para material escolar, libros de texto, material deportivo, ropa de abrigo y calzado del alumnado de 2.º ciclo de Infantil, Primaria, ESO y FP Básica de centros públicos y concertados de Lalín, para familias con rentas bajas.\n\nCuánto: 100 € por alumno/a matriculado/a, que se entregan en un bono para canjear en librerías o comercio minorista de Lalín (los que figuren en el documento de pago delegado). Hay dos tipos: el bono 1 (100 % en libros de texto y material escolar, o 100 % en material deportivo, ropa de abrigo y calzado) y el bono 2 (50 % de cada grupo). Si compras por más del bono, la diferencia la pagas tú. Crédito de 25.000 €: se concede por orden inversa de renta hasta agotarlo (si alcanza para todas las solicitudes, no hay orden de prelación).\n\nQuién puede pedirla: padre, madre o tutor/a que conviva con el alumno/a, con todos los miembros de la unidad familiar empadronados y residiendo en Lalín desde al menos un año antes de presentar la solicitud (los extranjeros, con situación administrativa regular), y alumnado matriculado en 2026/27 en un centro de Lalín. Ingresos netos mensuales de la unidad familiar de hasta: 1.831 € con 2 miembros, 2.136,75 € con 3, 2.442 € con 4, 2.747,25 € con 5, 3.052,50 € con 6, 3.357,75 € con 7 y 3.663 € con 8 (renta del IRPF dividida entre 12, más pensiones de alimentos o compensatorias, menos alquiler o hipoteca hasta 350 € al mes). No se puede tener pendiente de justificar una ayuda social del Concello de 2025. Es compatible con otras ayudas mientras no superen el gasto.\n\nCuándo se pide: plazo cerrado, del 8 al 27 de julio de 2026 (20 días naturales desde el día siguiente al extracto del BOP de Pontevedra del 07/07/2026). Los bonos se entregaban hasta el 31 de octubre de 2026.\n\nOjo: en custodia compartida, los dos progenitores deben estar empadronados en Lalín con el tiempo mínimo. Vigila junio-julio de 2027.",
+      "descripcionGl": "Axuda do Concello de Lalín para material escolar, libros de texto, material deportivo, roupa de abrigo e calzado do alumnado de 2.º ciclo de Infantil, Primaria, ESO e FP Básica de centros públicos e concertados de Lalín, para familias con rendas baixas.\n\nCanto: 100 € por alumno/a matriculado/a, que se entregan nun vale para canxear en librarías ou comercio minorista de Lalín (os que figuren no documento de pagamento delegado). Hai dous tipos: o vale 1 (100 % en libros de texto e material escolar, ou 100 % en material deportivo, roupa de abrigo e calzado) e o vale 2 (50 % de cada grupo). Se compras por máis do vale, a diferenza pagas ti. Crédito de 25.000 €: concédese por orde inversa de renda ata esgotalo (se chega para todas as solicitudes, non hai orde de prelación).\n\nQuen pode pedila: pai, nai ou titor/a que convivan co alumno/a, con todos os membros da unidade familiar empadroados e residindo en Lalín desde polo menos un ano antes de presentar a solicitude (os estranxeiros, con situación administrativa regular), e alumnado matriculado en 2026/27 nun centro de Lalín. Ingresos netos mensuais da unidade familiar de ata: 1.831 € con 2 membros, 2.136,75 € con 3, 2.442 € con 4, 2.747,25 € con 5, 3.052,50 € con 6, 3.357,75 € con 7 e 3.663 € con 8 (renda do IRPF dividida entre 12, máis pensións de alimentos ou compensatorias, menos aluguer ou hipoteca ata 350 € ao mes). Non se pode ter pendente de xustificar unha axuda social do Concello de 2025. É compatible con outras axudas mentres non superen o gasto.\n\nCando se pide: prazo pechado, do 8 ao 27 de xullo de 2026 (20 días naturais desde o día seguinte ao extracto do BOP de Pontevedra do 07/07/2026). Os vales entregábanse ata o 31 de outubro de 2026.\n\nOllo: en custodia compartida, os dous proxenitores deben estar empadroados en Lalín co tempo mínimo. Vixía xuño-xullo de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de Lalín",
+      "organismoGl": "Concello de Lalín",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/916881",
+      "municipios": [
+        "Lalín"
+      ],
+      "plazoInicio": "2026-07-08T00:00:00.000",
+      "plazoFin": "2026-07-27T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            17
+          ],
+          "textoExplicativo": "Tener un hijo/a matriculado/a en 2.º ciclo de Infantil, Primaria, ESO o FP Básica en un centro público o concertado de Lalín en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a matriculado/a no 2.º ciclo de Infantil, Primaria, ESO ou FP Básica nun centro público ou concertado de Lalín no curso 2026/27"
+        },
+        {
+          "campo": "rentaLalin",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los ingresos netos mensuales de la unidad familiar (renta del IRPF dividida entre 12, más pensiones de alimentos o compensatorias, menos alquiler o hipoteca hasta 350 €) no superen: 1.831 € con 2 miembros, 2.136,75 € con 3, 2.442 € con 4, 2.747,25 € con 5, 3.052,50 € con 6, 3.357,75 € con 7 o 3.663 € con 8",
+          "textoExplicativoGl": "Que os ingresos netos mensuais da unidade familiar (renda do IRPF dividida entre 12, máis pensións de alimentos ou compensatorias, menos aluguer ou hipoteca ata 350 €) non superen: 1.831 € con 2 membros, 2.136,75 € con 3, 2.442 € con 4, 2.747,25 € con 5, 3.052,50 € con 6, 3.357,75 € con 7 ou 3.663 € con 8"
+        },
+        {
+          "campo": "empadronamientoLalin",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Todos los miembros de la unidad familiar empadronados y residiendo en Lalín desde al menos un año antes de presentar la solicitud, y conviviendo con el alumno/a (en custodia compartida, ambos progenitores)",
+          "textoExplicativoGl": "Todos os membros da unidade familiar empadroados e residindo en Lalín desde polo menos un ano antes de presentar a solicitude, e convivindo co alumno/a (en custodia compartida, ambos proxenitores)"
+        },
+        {
+          "campo": "corrienteObligacionesLalin",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con Hacienda, la Seguridad Social y el Concello de Lalín, y sin ninguna ayuda social del Concello de 2025 pendiente de justificar",
+          "textoExplicativoGl": "Ao corrente coa Facenda, a Seguridade Social e o Concello de Lalín, e sen ningunha axuda social do Concello de 2025 pendente de xustificar"
+        }
+      ],
+      "documentacion": [
+        "Anexo I (solicitud) y el resto de anexos, siempre en los modelos normalizados (se facilitan en la Concejalía de Política Social, en el Registro General, en www.lalin.gal y en la sede electrónica). Se presenta preferentemente por la sede electrónica del Concello de Lalín o, si no, en cualquier registro del procedimiento administrativo común. Los documentos, originales o copia compulsada.",
+        "Copia del NIF en vigor (españoles), certificado del Registro Central de Extranjeros y pasaporte o tarjeta de identidad (ciudadanos de la UE) o tarjeta de residencia (otros extranjeros). Solo si autorizas al Concello a pedir tus datos tributarios a la AEAT.",
+        "Libro de familia completo o documentación oficial que acredite los miembros de la unidad familiar con sus fechas de nacimiento (si hay hijos mayores de edad que no conviven, certificado de convivencia).",
+        "Si hay custodia compartida: sentencia judicial y convenio regulador, y la autorización del otro progenitor custodio (Anexo IV).",
+        "Si hay separación de hecho: justificante de la demanda de divorcio u otra documentación. Si hay separación legal o divorcio: sentencia completa y convenio regulador con la guarda y custodia. Si falleció un progenitor: certificado de defunción.",
+        "Anexo VI: declaración de otras ayudas solicitadas, concedidas o recibidas para lo mismo; declaración de estar al corriente con Hacienda, la Seguridad Social y el Concello (vale seis meses); y declaración de no estar incurso en las prohibiciones del artículo 13 de la Ley 38/2003 y del artículo 10 de la Ley 9/2007.",
+        "Declaración del IRPF del último ejercicio de los miembros computables o, si no hay, certificado tributario de imputaciones (el Concello puede pedirlo con tu autorización: Anexo VII).",
+        "Si procede: certificado anual de 2025 de la Seguridad Social (pensiones o prestaciones) o del Servicio Público de Empleo (desempleo), o resolución de la renta de integración social u otra prestación pública. Si no puedes documentar ingresos, se computa como mínimo el SMI anual.",
+        "Certificado de la entidad financiera de la pensión alimenticia cobrada u otro justificante; si no hay, declaración jurada de no percibirla.",
+        "Autorización de pago delegado (Anexo V) a favor de los establecimientos donde canjearás el bono. Anexo II: autorización para que el Concello pida al centro el certificado de matrícula. Anexo III: compromisos del beneficiario.",
+        "Si pagas alquiler: contrato en vigor y justificante de pago (preferible transferencia) de las 2 mensualidades anteriores a la solicitud, con nombre, apellidos, DNI y firma de arrendador e inquilino, dirección de la vivienda y mes e importe. Si tienes hipoteca: escritura de constitución y justificante de las cuotas de las 2 últimas mensualidades.",
+        "Los técnicos municipales pueden pedirte otra documentación. Si falta algo, tienes 10 días (improrrogables) desde la notificación para subsanar; si no, se te tiene por desistido."
+      ],
+      "documentacionGl": [
+        "Anexo I (solicitude) e o resto de anexos, sempre nos modelos normalizados (facilítanse na Concellaría de Política Social, no Rexistro Xeral, en www.lalin.gal e na sede electrónica). Preséntase preferentemente pola sede electrónica do Concello de Lalín ou, se non, en calquera rexistro do procedemento administrativo común. Os documentos, orixinais ou copia compulsada.",
+        "Copia do NIF en vigor (españois), certificado do Rexistro Central de Estranxeiros e pasaporte ou tarxeta de identidade (cidadáns da UE) ou tarxeta de residencia (outros estranxeiros). Só se autorizas o Concello a pedir os teus datos tributarios á AEAT.",
+        "Libro de familia completo ou documentación oficial que acredite os membros da unidade familiar coas súas datas de nacemento (se hai fillos maiores de idade que non conviven, certificado de convivencia).",
+        "Se hai custodia compartida: sentenza xudicial e convenio regulador, e a autorización do outro proxenitor custodio (Anexo IV).",
+        "Se hai separación de feito: xustificante da demanda de divorcio ou outra documentación. Se hai separación legal ou divorcio: sentenza completa e convenio regulador coa garda e custodia. Se faleceu un proxenitor: certificado de defunción.",
+        "Anexo VI: declaración doutras axudas solicitadas, concedidas ou recibidas para o mesmo; declaración de estar ao corrente coa Facenda, a Seguridade Social e o Concello (vale seis meses); e declaración de non estar incurso nas prohibicións do artigo 13 da Lei 38/2003 e do artigo 10 da Lei 9/2007.",
+        "Declaración do IRPF do último exercicio dos membros computables ou, se non hai, certificado tributario de imputacións (o Concello pode pedilo coa túa autorización: Anexo VII).",
+        "Se procede: certificado anual de 2025 da Seguridade Social (pensións ou prestacións) ou do Servizo Público de Emprego (desemprego), ou resolución da renda de integración social ou outra prestación pública. Se non podes documentar ingresos, compútase como mínimo o SMI anual.",
+        "Certificado da entidade financeira da pensión alimenticia cobrada ou outro xustificante; se non hai, declaración xurada de non percibila.",
+        "Autorización de pagamento delegado (Anexo V) a favor dos establecementos onde canxearás o vale. Anexo II: autorización para que o Concello pida ao centro o certificado de matrícula. Anexo III: compromisos do beneficiario.",
+        "Se pagas aluguer: contrato en vigor e xustificante de pagamento (preferible transferencia) das 2 mensualidades anteriores á solicitude, con nome, apelidos, DNI e sinatura de arrendador e inquilino, enderezo da vivenda e mes e importe. Se tes hipoteca: escritura de constitución e xustificante das cotas das 2 últimas mensualidades.",
+        "Os técnicos municipais poden pedirche outra documentación. Se falta algo, tes 10 días (improrrogables) desde a notificación para emendar; se non, téselle por desistido."
       ]
     }
   ]
