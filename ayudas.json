@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27k",
+  "revision": "2026-10-27l",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -6366,6 +6366,84 @@
         "Certificación da conta bancaria.",
         "Se procede: documentación de situacións declaradas, como discapacidade, separación ou divorcio.",
         "Ao presentar a solicitude autorizas o Concello a obter os teus datos de renda da Axencia Tributaria e do Catastro. Se falta algo, tes 10 días hábiles para emendar; se non, rexéitase a solicitude."
+      ]
+    },
+    {
+      "id": "lugo_material_escolar_infantil_2026_27",
+      "titulo": "Ayudas de libros y material escolar de Infantil 2026/27 (Lugo)",
+      "tituloGl": "Axudas de libros e material escolar de Infantil 2026/27 (Lugo)",
+      "descripcion": "Ayuda del Concello de Lugo para libros de texto y material educativo (fichas, estuches, mochilas, botella de agua, papelería) del alumnado de 2.º ciclo de Infantil en centros sostenidos con fondos públicos de Lugo, para familias con escasos recursos. No vale vestuario, juguetes ni paraguas.\n\nCuánto: hasta 100 € por niño/a en un vale descuento que se canjea en una librería o comercio del municipio de Lugo (en un solo establecimiento; si la factura es menor, se paga solo ese importe). Crédito de 40.000 €: 400 ayudas, por orden de menor renta per cápita y, en caso de empate, por sorteo. Acogimiento o tutela (certificado de la Xunta) y situaciones excepcionales acreditadas por servicios sociales la reciben directamente. No se pierden ni duplican vales.\n\nQuién puede pedirla: solicitante y menor empadronados en Lugo, con la solicitud de reserva de plaza o de admisión presentada para 2.º ciclo de Infantil en un centro sostenido con fondos públicos de Lugo; solicitante y cónyuge con DNI o NIE (no vale solo pasaporte); sin otra ayuda pública o privada para lo mismo. La renta de la unidad familiar del último ejercicio fiscal (base imponible general más la del ahorro del IRPF) no puede superar 7.140 € por miembro (0,85 veces el IPREM de 2026); un niño/a con discapacidad del 33 % o más cuenta por dos miembros.\n\nCuándo se pide: plazo cerrado, del 1 al 19 de junio de 2026 (15 días hábiles desde el extracto del BOP de Lugo del 30/05/2026), preferiblemente por la sede electrónica lugo.gal (modelo 352). Los vales se recogen en el Servicio de Educación con el DNI y el certificado del colegio del curso 2026/27; las fechas las fija la resolución de concesión.\n\nOjo: la resolución definitiva fija las fechas de recogida y uso de los vales. Vigila abril-mayo de 2027.",
+      "descripcionGl": "Axuda do Concello de Lugo para libros de texto e material educativo (fichas, estoxos, mochilas, botella de auga, papelaría) do alumnado de 2.º ciclo de Infantil en centros sostidos con fondos públicos de Lugo, para familias con escasos recursos. Non vale vestiario, xoguetes nin paraugas.\n\nCanto: ata 100 € por neno/a nun vale desconto que se canxea nunha libraría ou comercio do municipio de Lugo (só nun establecemento; se a factura é menor, págase só ese importe). Crédito de 40.000 €: 400 axudas, por orde de menor renda per cápita e, en caso de empate, por sorteo. Acollemento ou titela (certificado da Xunta) e situacións excepcionais acreditadas por servizos sociais recíbenna directamente. Non se perden nin duplican vales.\n\nQuen pode pedila: solicitante e menor empadroados en Lugo, coa solicitude de reserva de praza ou de admisión presentada para 2.º ciclo de Infantil nun centro sostido con fondos públicos de Lugo; solicitante e cónxuxe con DNI ou NIE (non vale só pasaporte); sen outra axuda pública ou privada para o mesmo. A renda da unidade familiar do último exercicio fiscal (base impoñible xeral máis a do aforro do IRPF) non pode superar 7.140 € por membro (0,85 veces o IPREM de 2026); un neno/a con discapacidade do 33 % ou máis conta por dous membros.\n\nCando se pide: prazo pechado, do 1 ao 19 de xuño de 2026 (15 días hábiles desde o extracto do BOP de Lugo do 30/05/2026), preferiblemente pola sede electrónica lugo.gal (modelo 352). Os vales recóllense no Servizo de Educación co DNI e o certificado do colexio do curso 2026/27; as datas fíxaas a resolución de concesión.\n\nOllo: a resolución definitiva fixa as datas de recollida e uso dos vales. Vixía abril-maio de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de Lugo",
+      "organismoGl": "Concello de Lugo",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/909368",
+      "municipios": [
+        "Lugo"
+      ],
+      "plazoInicio": "2026-06-01T00:00:00.000",
+      "plazoFin": "2026-06-19T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a en 2.º ciclo de Infantil (3 a 5 años) en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a en 2.º ciclo de Infantil (3 a 5 anos) no curso 2026/27"
+        },
+        {
+          "campo": "rentaLugo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Renta de la unidad familiar (base imponible general más la del ahorro del IRPF del último ejercicio) de hasta 7.140 € por miembro; un niño/a con discapacidad del 33 % o más cuenta por dos",
+          "textoExplicativoGl": "Renda da unidade familiar (base impoñible xeral máis a do aforro do IRPF do último exercicio) de ata 7.140 € por membro; un neno/a con discapacidade do 33 % ou máis conta por dous"
+        },
+        {
+          "campo": "empadronamientoLugo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Solicitante y menor empadronados en el Concello de Lugo, con la reserva de plaza o admisión presentada en un centro sostenido con fondos públicos de Lugo",
+          "textoExplicativoGl": "Solicitante e menor empadroados no Concello de Lugo, coa reserva de praza ou admisión presentada nun centro sostido con fondos públicos de Lugo"
+        },
+        {
+          "campo": "corrienteObligacionesLugo",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con Hacienda, la Seguridad Social y el Concello de Lugo, y sin otra ayuda pública o privada para la misma finalidad",
+          "textoExplicativoGl": "Ao corrente coa Facenda, a Seguridade Social e o Concello de Lugo, e sen outra axuda pública ou privada para a mesma finalidade"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Un niño/a con certificado de discapacidad del 33 % o más cuenta por dos miembros al calcular la renta (aporta el certificado).",
+          "textoGl": "Un neno/a con certificado de discapacidade do 33 % ou máis conta por dous membros ao calcular a renda (achega o certificado)."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo 352, firmada, preferiblemente por la sede electrónica lugo.gal o en cualquier registro del artículo 16.4 de la Ley 39/2015.",
+        "DNI o NIE de los dos progenitores o de quienes representen legalmente al niño/a (no vale solo pasaporte).",
+        "Libro o libros de familia, inscripción en el Registro Civil o documentos oficiales que acrediten el nacimiento de todos los menores de la unidad familiar.",
+        "Si procede: convenio regulador, sentencia judicial o certificado de acogimiento que confíe la guarda del menor.",
+        "Anexo I (declaraciones responsables y autorización para que el Concello obtenga los datos de la unidad familiar y los fiscales de la Agencia Tributaria), firmado por ambos progenitores; solo por el solicitante si es familia monoparental o tiene la custodia exclusiva; por ambos en custodia compartida.",
+        "Si un progenitor no reside en España: poder o documento judicial que acredite que el otro puede decidir sobre el menor.",
+        "Documentación que acredite la custodia del menor (convenio regulador, certificado de monoparentalidad u otra sentencia).",
+        "Si procede: certificado de discapacidad del menor.",
+        "Si falta documentación, tienes 10 días hábiles para subsanar tras la lista provisional; después no se admite documentación nueva."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo 352, asinada, preferiblemente pola sede electrónica lugo.gal ou en calquera rexistro do artigo 16.4 da Lei 39/2015.",
+        "DNI ou NIE dos dous proxenitores ou de quen represente legalmente ao neno/a (non vale só pasaporte).",
+        "Libro ou libros de familia, inscrición no Rexistro Civil ou documentos oficiais que acrediten o nacemento de todos os menores da unidade familiar.",
+        "Se procede: convenio regulador, sentenza xudicial ou certificado de acollemento que confíe a garda do menor.",
+        "Anexo I (declaracións responsables e autorización para que o Concello obteña os datos da unidade familiar e os fiscais da Axencia Tributaria), asinado por ambos os proxenitores; só polo solicitante se é familia monoparental ou ten a custodia exclusiva; por ambos en custodia compartida.",
+        "Se un proxenitor non reside en España: poder ou documento xudicial que acredite que o outro pode decidir sobre o menor.",
+        "Documentación que acredite a custodia do menor (convenio regulador, certificado de monoparentalidade ou outra sentenza).",
+        "Se procede: certificado de discapacidade do menor.",
+        "Se falta documentación, tes 10 días hábiles para emendar tras a lista provisional; despois non se admite documentación nova."
       ]
     }
   ]
