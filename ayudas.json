@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27l",
+  "revision": "2026-10-27m",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -6444,6 +6444,108 @@
         "Documentación que acredite a custodia do menor (convenio regulador, certificado de monoparentalidade ou outra sentenza).",
         "Se procede: certificado de discapacidade do menor.",
         "Se falta documentación, tes 10 días hábiles para emendar tras a lista provisional; despois non se admite documentación nova."
+      ]
+    },
+    {
+      "id": "soutomaior_material_escolar_2026_27",
+      "titulo": "Ayudas de material escolar 2026/27 (Soutomaior)",
+      "tituloGl": "Axudas de material escolar 2026/27 (Soutomaior)",
+      "descripcion": "Ayuda del Concello de Soutomaior para comprar material escolar fungible (papel, lápices, bolígrafos, cuadernos, material de manualidades, libros de lectura obligatoria...; los libros de texto no entran) del alumnado de Infantil, Primaria, ESO y Bachillerato de los centros del municipio, y de quien, estando empadronado en Soutomaior, cursa Bachillerato, FP o PCPI en otro centro.\n\nCuánto: hasta 50 € por alumno/a en Infantil de 1.er ciclo y hasta 70 € en Infantil de 2.º ciclo, Primaria, ESO, Bachillerato y FP, sin pasar nunca del 100 % del gasto justificado. Crédito de 4.500 €: si no alcanza, se prioriza por menor renta per cápita, luego familia monoparental y luego mayor número de hijos. El material hay que comprarlo en establecimientos de Soutomaior.\n\nQuién puede pedirla: madre, padre o tutor/a del alumnado, con toda la unidad familiar empadronada en Soutomaior durante todo el curso (con residencia efectiva) y conviviendo con el alumno/a. Renta de la unidad familiar de 2025 (base imponible general más la del ahorro) de hasta 14.400 € con 2 personas, 21.600 € con 3, 28.800 € con 4 y 36.000 € con 5 (la convocatoria no fija el límite para más personas). Los miembros con discapacidad del 33 % o más, o con pensión de incapacidad permanente, cuentan por dos. Hay que estar al corriente con el Concello, Hacienda y la Seguridad Social, y sin ninguna ayuda del Concello pendiente de justificar del ejercicio anterior.\n\nCuándo se pide: plazo cerrado, del 2 al 15 de junio de 2026 (10 días hábiles desde el extracto del BOP de Pontevedra del 01/06/2026). Los gastos se justificaban con facturas originales hasta el 30 de octubre de 2026, o con pago delegado al comercio.\n\nOjo: las bases también hablan de renta per cápita, pero la tabla da el máximo anual por tamaño de familia: confírmalo con Servicios Sociales. Vigila mayo-junio de 2027.",
+      "descripcionGl": "Axuda do Concello de Soutomaior para mercar material escolar funxible (papel, lapis, bolígrafos, cadernos, material de manualidades, libros de lectura obrigatoria...; os libros de texto non entran) do alumnado de Infantil, Primaria, ESO e Bacharelato dos centros do municipio, e de quen, estando empadroado en Soutomaior, cursa Bacharelato, FP ou PCPI noutro centro.\n\nCanto: ata 50 € por alumno/a en Infantil de 1.º ciclo e ata 70 € en Infantil de 2.º ciclo, Primaria, ESO, Bacharelato e FP, sen pasar nunca do 100 % do gasto xustificado. Crédito de 4.500 €: se non chega, priorízase por menor renda per cápita, logo familia monoparental e logo maior número de fillos. O material hai que mercalo en establecementos de Soutomaior.\n\nQuen pode pedila: nai, pai ou titor/a do alumnado, con toda a unidade familiar empadroada en Soutomaior durante todo o curso (con residencia efectiva) e convivindo co alumno/a. Renda da unidade familiar de 2025 (base impoñible xeral máis a do aforro) de ata 14.400 € con 2 persoas, 21.600 € con 3, 28.800 € con 4 e 36.000 € con 5 (a convocatoria non fixa o límite para máis persoas). Os membros con discapacidade do 33 % ou máis, ou con pensión de incapacidade permanente, contan por dous. Hai que estar ao corrente co Concello, a Facenda e a Seguridade Social, e sen ningunha axuda do Concello pendente de xustificar do exercicio anterior.\n\nCando se pide: prazo pechado, do 2 ao 15 de xuño de 2026 (10 días hábiles desde o extracto do BOP de Pontevedra do 01/06/2026). Os gastos xustificábanse con facturas orixinais ata o 30 de outubro de 2026, ou con pagamento delegado ao comercio.\n\nOllo: as bases tamén falan de renda per cápita, pero a táboa dá o máximo anual por tamaño de familia: confírmao con Servizos Sociais. Vixía maio-xuño de 2027.",
+      "categoria": "educacion",
+      "organismo": "Concello de Soutomaior",
+      "organismoGl": "Concello de Soutomaior",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/908417",
+      "municipios": [
+        "Soutomaior"
+      ],
+      "plazoInicio": "2026-06-02T00:00:00.000",
+      "plazoFin": "2026-06-15T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            0,
+            17
+          ],
+          "textoExplicativo": "Tener un hijo/a que curse Infantil, Primaria, ESO, Bachillerato o FP en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a que curse Infantil, Primaria, ESO, Bacharelato ou FP no curso 2026/27"
+        },
+        {
+          "campo": "rentaSoutomaior",
+          "operador": "limiteAnualPorMiembros",
+          "valor": [
+            [
+              2,
+              14400
+            ],
+            [
+              3,
+              21600
+            ],
+            [
+              4,
+              28800
+            ],
+            [
+              5,
+              36000
+            ]
+          ],
+          "textoExplicativo": "Renta de la unidad familiar de 2025 (base imponible general más la del ahorro) por debajo del límite según los miembros (2: 14.400 €; 3: 21.600 €; 4: 28.800 €; 5: 36.000 €)",
+          "textoExplicativoGl": "Renda da unidade familiar de 2025 (base impoñible xeral máis a do aforro) por debaixo do límite segundo os membros (2: 14.400 €; 3: 21.600 €; 4: 28.800 €; 5: 36.000 €)"
+        },
+        {
+          "campo": "empadronamientoSoutomaior",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Unidad familiar empadronada en Soutomaior durante todo el curso, con residencia efectiva, y conviviendo con el alumno/a",
+          "textoExplicativoGl": "Unidade familiar empadroada en Soutomaior durante todo o curso, con residencia efectiva, e convivindo co alumno/a"
+        },
+        {
+          "campo": "corrienteObligacionesSoutomaior",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con el Concello de Soutomaior, Hacienda y la Seguridad Social, y sin ninguna ayuda del Concello pendiente de justificar del ejercicio anterior",
+          "textoExplicativoGl": "Ao corrente co Concello de Soutomaior, a Facenda e a Seguridade Social, e sen ningunha axuda do Concello pendente de xustificar do exercicio anterior"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Si no hay crédito para todas las solicitudes, la familia monoparental tiene prioridad (segundo criterio, tras la menor renta). Aporta el certificado.",
+          "textoGl": "Se non hai crédito para todas as solicitudes, a familia monoparental ten prioridade (segundo criterio, tras a menor renda). Achega o certificado."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Los miembros de la unidad familiar con discapacidad del 33 % o más (o pensión de incapacidad permanente) cuentan por dos al calcular la renta (aporta el certificado).",
+          "textoGl": "Os membros da unidade familiar con discapacidade do 33 % ou máis (ou pensión de incapacidade permanente) contan por dous ao calcular a renda (achega o certificado)."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (anexo I), en el Registro de Servicios Sociales del Concello de Soutomaior o por cualquiera de los medios del artículo 16 de la Ley 39/2015.",
+        "DNI de la persona solicitante y autorización para consultar el padrón (anexo I).",
+        "Libro de familia o partida de nacimiento de las personas de la unidad familiar.",
+        "Justificante de matrícula del alumnado del curso 2026/27.",
+        "Copia de la declaración de la renta (IRPF) de 2025 de la persona solicitante, del otro progenitor y de los hermanos/as de hasta 25 años (salvo discapacidad); certificado negativo de renta si alguno no la presentó y no está obligado.",
+        "Declaración jurada de las ayudas solicitadas o recibidas para lo mismo y acreditación de estar al corriente con Hacienda y la Seguridad Social (anexo II).",
+        "IBAN de la cuenta donde cobrar, salvo que se opte por el pago delegado al comercio.",
+        "Si procede: título de familia numerosa, certificado de familia monoparental, certificado de discapacidad, sentencia de separación o divorcio y/o convenio regulador con la custodia, e informe de Servicios Sociales sobre la situación familiar.",
+        "Para cobrar: facturas originales del material (a nombre del solicitante, con detalle e IVA, y sello de pagada) antes del 30/10/2026, o solicitud de pago delegado al proveedor.",
+        "Si falta documentación, tienes 5 días para subsanar; si no, se te tiene por desistido."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (anexo I), no Rexistro de Servizos Sociais do Concello de Soutomaior ou por calquera dos medios do artigo 16 da Lei 39/2015.",
+        "DNI da persoa solicitante e autorización para consultar o padrón (anexo I).",
+        "Libro de familia ou partida de nacemento das persoas da unidade familiar.",
+        "Xustificante de matrícula do alumnado do curso 2026/27.",
+        "Copia da declaración da renda (IRPF) de 2025 da persoa solicitante, do outro proxenitor e dos irmáns/ás de ata 25 anos (salvo discapacidade); certificado negativo de renda se algún non a presentou e non está obrigado.",
+        "Declaración xurada das axudas solicitadas ou recibidas para o mesmo e acreditación de estar ao corrente coa Facenda e a Seguridade Social (anexo II).",
+        "IBAN da conta onde cobrar, salvo que se opte polo pagamento delegado ao comercio.",
+        "Se procede: título de familia numerosa, certificado de familia monoparental, certificado de discapacidade, sentenza de separación ou divorcio e/ou convenio regulador coa custodia, e informe de Servizos Sociais sobre a situación familiar.",
+        "Para cobrar: facturas orixinais do material (a nome do solicitante, con detalle e IVE, e selo de paga) antes do 30/10/2026, ou solicitude de pagamento delegado ao provedor.",
+        "Se falta documentación, tes 5 días para emendar; se non, téselle por desistido."
       ]
     }
   ]
