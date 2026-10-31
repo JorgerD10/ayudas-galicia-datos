@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-27m",
+  "revision": "2026-10-31a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -90,6 +90,7 @@
       "organismo": "Xunta de Galicia",
       "organismoGl": "Xunta de Galicia",
       "enlaceOficial": "https://sede.xunta.gal/detalle-procedemento?codtram=BS403B",
+      "sinPlazoFijo": true,
       "requisitos": [
         {
           "campo": "hijoOEmbarazo",
@@ -168,6 +169,7 @@
       "organismo": "Xunta de Galicia",
       "organismoGl": "Xunta de Galicia",
       "enlaceOficial": "https://politicasocial.xunta.gal/es/temas/familia-e-infancia/escuelas-infantiles/gratuidad-de-las-escuelas-infantiles",
+      "sinPlazoFijo": true,
       "requisitos": [
         {
           "campo": "edadesHijos",
@@ -2088,6 +2090,7 @@
         "Boqueixón"
       ],
       "plazoInicio": "2026-05-14T00:00:00.000",
+      "sinPlazoFijo": true,
       "requisitos": [
         {
           "campo": "anioNacimientoHijos",
@@ -2159,6 +2162,7 @@
       "municipios": [
         "Chantada"
       ],
+      "sinPlazoFijo": true,
       "requisitos": [
         {
           "campo": "anioNacimientoHijos",
@@ -2277,6 +2281,7 @@
         "As Somozas"
       ],
       "plazoInicio": "2026-02-05T00:00:00.000",
+      "sinPlazoFijo": true,
       "requisitos": [
         {
           "campo": "anioNacimientoHijos",
@@ -2346,6 +2351,7 @@
       "municipios": [
         "O Pino"
       ],
+      "sinPlazoFijo": true,
       "requisitos": [
         {
           "campo": "anioNacimientoHijos",
