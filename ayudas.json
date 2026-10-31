@@ -186,6 +186,14 @@
           "textoExplicativo": "Que el hijo/a esté inscrito en una escuela infantil de Galicia adherida a la gratuidad",
           "textoExplicativoGl": "Que o fillo/a estea inscrito nunha escola infantil de Galicia adherida á gratuidade"
         }
+      ],
+      "documentacion": [
+        "No hay que presentar solicitud de gratuidad: la escuela infantil aplica el descuento del 100 % de la matrícula y de la atención educativa, y la Xunta se lo abona a la escuela.",
+        "Lo único que se tramita es la matrícula en la escuela. En las escuelas públicas de la Xunta se entrega el impreso de matrícula y una copia de la cartilla de vacunación; en las demás, confirma qué piden en la escuela."
+      ],
+      "documentacionGl": [
+        "Non hai que presentar solicitude de gratuidade: a escola infantil aplica o desconto do 100 % da matrícula e da atención educativa, e a Xunta abónalle o importe á escola.",
+        "O único que se tramita é a matrícula na escola. Nas escolas públicas da Xunta entrégase o impreso de matrícula e unha copia da cartilla de vacinación; nas demais, confirma que piden na escola."
       ]
     },
     {
