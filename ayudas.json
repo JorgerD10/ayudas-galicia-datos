@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-01c",
+  "revision": "2026-11-01d",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2561,6 +2561,61 @@
         "Autorización para a cesión de datos persoais (publicación na web municipal, o taboleiro e a BDNS), asinada por quen solicita.",
         "Declaración responsable (Anexo II) de non ter solicitado nin obtido outra axuda incompatible para a mesma finalidade, de comprometerte a cumprir as obrigas dos beneficiarios e de cumprir os requisitos da Lei Xeral de Subvencións.",
         "Para cobrar: tiques ou facturas detalladas de compras en comercios do municipio, con nome e CIF do establecemento, data e produtos, por un importe igual ou superior á axuda."
+      ]
+    },
+    {
+      "id": "cenlle_natalidad_2026",
+      "titulo": "Ayuda municipal por nacimiento o adopción 2026 (Cenlle)",
+      "tituloGl": "Axuda municipal por nacemento ou adopción 2026 (Cenlle)",
+      "descripcion": "Ayuda del Concello de Cenlle por cada hijo/a nacido/a o adoptado/a entre el 1 de diciembre de 2025 y el 30 de noviembre de 2026.\n\nCuánto: 250 € por hijo/a, en un único pago. Presupuesto total de 1.400 €, que se puede ampliar si no llega para todas las solicitudes.\n\nCómo se cobra: no es un ingreso en cuenta. Recibes una tarjeta \"Cheque bebé\" que solo vale en las farmacias del Concello de Cenlle, para comprar productos relacionados con la maternidad y las necesidades básicas del menor. Tienes 6 meses desde la entrega de la tarjeta para gastarla.\n\nQuién puede pedirla: madres o padres de un hijo/a nacido/a o de un menor de 4 años adoptado en ese periodo, o tutores si los progenitores han fallecido. Hay que ser español o extranjero con residencia legal en España, con la unidad familiar empadronada en Cenlle desde al menos 1 año antes del nacimiento o la adopción, y con el niño/a empadronado/a en tu domicilio cuando solicites la ayuda.\n\nCuándo se pide: desde el día siguiente a la publicación del extracto en el BOP de Ourense (5 de agosto de 2026) hasta el 15 de diciembre de 2026. Se presenta en el Registro del Concello o por cualquier vía del artículo 16.4 de la Ley 39/2015. Se resuelve en un máximo de un mes desde cada solicitud.",
+      "descripcionGl": "Axuda do Concello de Cenlle por cada fillo/a nado/a ou adoptado/a entre o 1 de decembro de 2025 e o 30 de novembro de 2026.\n\nCanto: 250 € por fillo/a, nun único pagamento. Orzamento total de 1.400 €, que se pode ampliar se non chega para todas as solicitudes.\n\nComo se cobra: non é un ingreso en conta. Recibes unha tarxeta \"Cheque bebé\" que só vale nas farmacias do Concello de Cenlle, para comprar produtos relacionados coa maternidade e as necesidades básicas do menor. Tes 6 meses desde a entrega da tarxeta para gastala.\n\nQuen pode pedila: nais ou pais dun fillo/a nado/a ou dun menor de 4 anos adoptado nese período, ou titores se os proxenitores faleceron. Hai que ser español ou estranxeiro con residencia legal en España, coa unidade familiar empadroada en Cenlle desde polo menos 1 ano antes do nacemento ou da adopción, e co neno/a empadroado/a no teu domicilio cando solicites a axuda.\n\nCando se pide: desde o día seguinte á publicación do extracto no BOP de Ourense (5 de agosto de 2026) ata o 15 de decembro de 2026. Preséntase no Rexistro do Concello ou por calquera vía do artigo 16.4 da Lei 39/2015. Resólvese nun máximo dun mes desde cada solicitude.",
+      "categoria": "familia",
+      "organismo": "Concello de Cenlle",
+      "organismoGl": "Concello de Cenlle",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/921814",
+      "municipios": [
+        "Cenlle"
+      ],
+      "plazoInicio": "2026-08-06T00:00:00.000",
+      "plazoFin": "2026-12-15T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a o adoptado/a (menor de 4 años) entre el 1 de diciembre de 2025 y el 30 de noviembre de 2026",
+          "textoExplicativoGl": "Ter un fillo/a nado/a ou adoptado/a (menor de 4 anos) entre o 1 de decembro de 2025 e o 30 de novembro de 2026"
+        },
+        {
+          "campo": "empadronamientoCenlle",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la unidad familiar estuviese empadronada en Cenlle al menos 1 año antes del nacimiento o la adopción, y que el niño/a esté empadronado/a con quien solicita",
+          "textoExplicativoGl": "Que a unidade familiar estivese empadroada en Cenlle polo menos 1 ano antes do nacemento ou da adopción, e que o neno/a estea empadroado/a con quen solicita"
+        }
+      ],
+      "documentacion": [
+        "Anexo I: solicitud en el modelo normalizado, que se publica en la sede electrónica del Concello (cenlle.sedelectronica.gal). Se presenta en el Registro del Concello o por cualquier vía del artículo 16.4 de la Ley 39/2015.",
+        "DNI o tarjeta de residencia de la persona solicitante (fotocopia).",
+        "Libro de familia, certificado de nacimiento o resolución judicial de la adopción (fotocopia).",
+        "El certificado de empadronamiento lo consulta el Concello de oficio si firmas el consentimiento del Anexo I.",
+        "Declaración responsable de que cumples los requisitos de las bases.",
+        "Declaración responsable de estar al corriente con la Hacienda estatal, autonómica y local, y con la Seguridad Social.",
+        "Declaración responsable de no estar incurso en las causas de exclusión del artículo 13.2 de la Ley General de Subvenciones y de comprometerte a cumplir las obligaciones del artículo 14.",
+        "Declaración responsable de no haber solicitado ni obtenido otra ayuda incompatible para la misma finalidad."
+      ],
+      "documentacionGl": [
+        "Anexo I: solicitude no modelo normalizado, que se publica na sede electrónica do Concello (cenlle.sedelectronica.gal). Preséntase no Rexistro do Concello ou por calquera vía do artigo 16.4 da Lei 39/2015.",
+        "DNI ou tarxeta de residencia da persoa solicitante (fotocopia).",
+        "Libro de familia, certificado de nacemento ou resolución xudicial da adopción (fotocopia).",
+        "O certificado de empadroamento consúltao o Concello de oficio se asinas o consentimento do Anexo I.",
+        "Declaración responsable de que cumpres os requisitos das bases.",
+        "Declaración responsable de estar ao corrente coa Facenda estatal, autonómica e local, e coa Seguridade Social.",
+        "Declaración responsable de non estar incurso nas causas de exclusión do artigo 13.2 da Lei Xeral de Subvencións e de comprometerte a cumprir as obrigas do artigo 14.",
+        "Declaración responsable de non ter solicitado nin obtido outra axuda incompatible para a mesma finalidade."
       ]
     },
     {
