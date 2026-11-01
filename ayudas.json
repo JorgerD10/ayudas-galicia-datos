@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-01b",
+  "revision": "2026-11-01c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1683,8 +1683,8 @@
       "id": "ordes_natalidad_2026",
       "titulo": "Ayuda municipal a la natalidad (Ordes)",
       "tituloGl": "Axuda municipal á natalidade (Ordes)",
-      "descripcion": "Ayuda del Concello de Ordes por cada hijo/a nacido/a o adoptado/a entre el 1 de enero y el 31 de diciembre de 2025.\n\nCuánto: hasta 250 € por hijo/a (300 € si tiene discapacidad). Presupuesto total de 24.000 €.\n\nQuién puede pedirla: un progenitor empadronado/a en Ordes al menos 6 meses antes del parto o la adopción, con el niño/a empadronado/a y compromiso de seguir empadronados 3 años.\n\nCuándo se pide: un mes desde el día siguiente a la publicación del extracto en el BOP de A Coruña (24/09/2026), es decir, hasta el 25 de octubre de 2026 aproximadamente: confirma la fecha exacta en el Concello. Se presenta en el Registro del Concello; los documentos que piden están en las bases (BOP de A Coruña del 16/09/2026).",
-      "descripcionGl": "Axuda do Concello de Ordes por cada fillo/a nado/a ou adoptado/a entre o 1 de xaneiro e o 31 de decembro de 2025.\n\nCanto: ata 250 € por fillo/a (300 € se ten discapacidade). Orzamento total de 24.000 €.\n\nQuen pode pedila: un proxenitor empadroado/a en Ordes polo menos 6 meses antes do parto ou da adopción, co neno/a empadroado/a e compromiso de seguir empadroados 3 anos.\n\nCando se pide: un mes desde o día seguinte á publicación do extracto no BOP da Coruña (24/09/2026), é dicir, ata o 25 de outubro de 2026 aproximadamente: confirma a data exacta no Concello. Preséntase no Rexistro do Concello; os documentos que piden están nas bases (BOP da Coruña do 16/09/2026).",
+      "descripcion": "Ayuda del Concello de Ordes por cada hijo/a nacido/a o adoptado/a entre el 1 de enero y el 31 de diciembre de 2025.\n\nCuánto: hasta 250 € por hijo/a (300 € si tiene discapacidad). Presupuesto total de 24.000 €.\n\nQuién puede pedirla: un progenitor empadronado/a en Ordes al menos 6 meses antes del parto o la adopción, con el niño/a empadronado/a y compromiso de seguir empadronados 3 años.\n\nCuándo se pide: un mes desde el día siguiente a la publicación del extracto en el BOP de A Coruña (24/09/2026), es decir, hasta el 26 de octubre de 2026 (fecha que figura en la BDNS). Se presenta en el Registro del Concello; los documentos que piden están en las bases (BOP de A Coruña del 16/09/2026).",
+      "descripcionGl": "Axuda do Concello de Ordes por cada fillo/a nado/a ou adoptado/a entre o 1 de xaneiro e o 31 de decembro de 2025.\n\nCanto: ata 250 € por fillo/a (300 € se ten discapacidade). Orzamento total de 24.000 €.\n\nQuen pode pedila: un proxenitor empadroado/a en Ordes polo menos 6 meses antes do parto ou da adopción, co neno/a empadroado/a e compromiso de seguir empadroados 3 anos.\n\nCando se pide: un mes desde o día seguinte á publicación do extracto no BOP da Coruña (24/09/2026), é dicir, ata o 26 de outubro de 2026 (data que figura na BDNS). Preséntase no Rexistro do Concello; os documentos que piden están nas bases (BOP da Coruña do 16/09/2026).",
       "categoria": "familia",
       "organismo": "Concello de Ordes",
       "organismoGl": "Concello de Ordes",
@@ -1693,7 +1693,7 @@
         "Ordes"
       ],
       "plazoInicio": "2026-09-25T00:00:00.000",
-      "plazoFin": "2026-10-25T23:59:00.000",
+      "plazoFin": "2026-10-26T23:59:00.000",
       "requisitos": [
         {
           "campo": "anioNacimientoHijos",
@@ -2486,6 +2486,81 @@
         "Facturas ou xustificantes dos gastos para os que se pide a axuda.",
         "Declaración responsable de estar ao corrente con Facenda e a Seguridade Social.",
         "Se procede: documentos que acrediten os puntos (desemprego, violencia de xénero, discapacidade, etc.)."
+      ]
+    },
+    {
+      "id": "vilarino_conso_natalidad_2026",
+      "titulo": "Ayuda municipal a la natalidad 2026 (Vilariño de Conso)",
+      "tituloGl": "Axuda municipal á natalidade 2026 (Vilariño de Conso)",
+      "descripcion": "Ayuda del Concello de Vilariño de Conso por cada hijo/a nacido/a, adoptado/a o acogido/a entre el 1 de diciembre de 2025 y el 30 de noviembre de 2026.\n\nCuánto: hasta 500 € por hijo/a (una ayuda por niño/a en partos, adopciones o acogimientos múltiples). Presupuesto total de 3.600 €, que se reparte entre las solicitudes válidas hasta agotar el crédito.\n\nQuién puede pedirla: los progenitores residentes en el municipio, ya sean casados, pareja de hecho, convivientes o familia monoparental, con el niño/a conviviendo con quien solicita y con su primer empadronamiento en Vilariño de Conso. También adoptantes o acogedores de niños de hasta 5 años con resolución judicial en ese periodo. Hay que estar al corriente con Hacienda, la Xunta, la Seguridad Social y el Concello.\n\nCómo se cobra: la ayuda hay que gastarla en comercios del propio municipio, en productos para el bebé (alimentación, accesorios, ropa, salud e higiene, incluidos productos de farmacia como las vacunas). Los tiques o facturas deben ser posteriores al nacimiento, adopción o acogimiento y recoger solo productos subvencionables. Se justifica en 5 días desde la notificación de la concesión y, en todo caso, antes del 18 de diciembre de 2026; después se ingresa en tu cuenta.\n\nCuándo se pide: desde el día siguiente a la publicación del anuncio en el BOP de Ourense hasta el 4 de diciembre de 2026. La BDNS todavía no muestra ese anuncio: confirma la fecha de inicio en el Concello. Se presenta en las oficinas municipales.",
+      "descripcionGl": "Axuda do Concello de Vilariño de Conso por cada fillo/a nado/a, adoptado/a ou acollido/a entre o 1 de decembro de 2025 e o 30 de novembro de 2026.\n\nCanto: ata 500 € por fillo/a (unha axuda por neno/a en partos, adopcións ou acollementos múltiples). Orzamento total de 3.600 €, que se reparte entre as solicitudes válidas ata esgotar o crédito.\n\nQuen pode pedila: os proxenitores residentes no municipio, sexan casados, parella de feito, convivintes ou familia monoparental, co neno/a convivindo con quen solicita e co seu primeiro empadroamento en Vilariño de Conso. Tamén adoptantes ou acolledores de nenos de ata 5 anos con resolución xudicial nese período. Hai que estar ao corrente con Facenda, a Xunta, a Seguridade Social e o Concello.\n\nComo se cobra: a axuda hai que gastala en comercios do propio municipio, en produtos para o bebé (alimentación, accesorios, roupa, saúde e hixiene, incluídos produtos de farmacia como as vacinas). Os tiques ou facturas deben ser posteriores ao nacemento, adopción ou acollemento e recoller só produtos subvencionables. Xustifícase en 5 días desde a notificación da concesión e, en todo caso, antes do 18 de decembro de 2026; despois ingrésase na túa conta.\n\nCando se pide: desde o día seguinte á publicación do anuncio no BOP de Ourense ata o 4 de decembro de 2026. A BDNS aínda non mostra ese anuncio: confirma a data de inicio no Concello. Preséntase nas oficinas municipais.",
+      "categoria": "familia",
+      "organismo": "Concello de Vilariño de Conso",
+      "organismoGl": "Concello de Vilariño de Conso",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/935690",
+      "municipios": [
+        "Vilariño de Conso"
+      ],
+      "plazoInicio": "2026-10-16T00:00:00.000",
+      "plazoFin": "2026-12-04T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a nacido/a, adoptado/a o acogido/a entre el 1 de diciembre de 2025 y el 30 de noviembre de 2026",
+          "textoExplicativoGl": "Ter un fillo/a nado/a, adoptado/a ou acollido/a entre o 1 de decembro de 2025 e o 30 de novembro de 2026"
+        },
+        {
+          "campo": "empadronamientoVilarinoConso",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Residir en Vilariño de Conso, con el niño/a conviviendo con quien solicita y con su primer empadronamiento en el municipio",
+          "textoExplicativoGl": "Residir en Vilariño de Conso, co neno/a convivindo con quen solicita e co seu primeiro empadroamento no municipio"
+        },
+        {
+          "campo": "corrienteObligacionesVilarinoConso",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar al corriente con Hacienda, la Xunta, la Seguridad Social y el Concello",
+          "textoExplicativoGl": "Estar ao corrente con Facenda, a Xunta, a Seguridade Social e o Concello"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Las familias monoparentales pueden pedirla. En caso de separación o divorcio, la solicita quien tenga la custodia (aporta la sentencia o el convenio regulador).",
+          "textoGl": "As familias monoparentais poden pedila. En caso de separación ou divorcio, solícitaa quen teña a custodia (achega a sentenza ou o convenio regulador)."
+        }
+      ],
+      "documentacion": [
+        "Anexo I: solicitud en el modelo normalizado, que se recoge en las oficinas municipales o en la web del Concello. Se presenta en las oficinas municipales.",
+        "DNI de todos los miembros de la unidad familiar mayores de edad (copia compulsada).",
+        "Libro de familia o certificado de nacimiento (copia compulsada).",
+        "Si procede: documentación acreditativa de la adopción, el acogimiento o la tutela legal (compulsada).",
+        "Certificado de empadronamiento donde figure la primera alta del recién nacido o el alta del adoptado, y certificado de convivencia que acredite que residís en el mismo domicilio en Vilariño de Conso.",
+        "Certificación de estar al corriente de las obligaciones tributarias y con la Seguridad Social (la hacienda local la comprueba el Concello de oficio).",
+        "Certificado de la cuenta bancaria donde quieres recibir la ayuda.",
+        "Si procede: copia de la sentencia de nulidad, separación o divorcio y del convenio regulador.",
+        "Autorización para la cesión de datos personales (publicación en la web municipal, el tablón y la BDNS), firmada por quien solicita.",
+        "Declaración responsable (Anexo II) de no haber solicitado ni obtenido otra ayuda incompatible para la misma finalidad, de comprometerte a cumplir las obligaciones de los beneficiarios y de cumplir los requisitos de la Ley General de Subvenciones.",
+        "Para cobrar: tiques o facturas detallados de compras en comercios del municipio, con nombre y CIF del establecimiento, fecha y productos, por un importe igual o superior a la ayuda."
+      ],
+      "documentacionGl": [
+        "Anexo I: solicitude no modelo normalizado, que se recolle nas oficinas municipais ou na web do Concello. Preséntase nas oficinas municipais.",
+        "DNI de todos os membros da unidade familiar maiores de idade (copia compulsada).",
+        "Libro de familia ou certificado de nacemento (copia compulsada).",
+        "Se procede: documentación acreditativa da adopción, o acollemento ou a titela legal (compulsada).",
+        "Certificado de empadroamento onde figure a primeira alta do recén nado ou a alta do adoptado, e certificado de convivencia que acredite que residides no mesmo domicilio en Vilariño de Conso.",
+        "Certificación de estar ao corrente das obrigas tributarias e coa Seguridade Social (a facenda local compróbaa o Concello de oficio).",
+        "Certificado da conta bancaria onde queres recibir a axuda.",
+        "Se procede: copia da sentenza de nulidade, separación ou divorcio e do convenio regulador.",
+        "Autorización para a cesión de datos persoais (publicación na web municipal, o taboleiro e a BDNS), asinada por quen solicita.",
+        "Declaración responsable (Anexo II) de non ter solicitado nin obtido outra axuda incompatible para a mesma finalidade, de comprometerte a cumprir as obrigas dos beneficiarios e de cumprir os requisitos da Lei Xeral de Subvencións.",
+        "Para cobrar: tiques ou facturas detalladas de compras en comercios do municipio, con nome e CIF do establecemento, data e produtos, por un importe igual ou superior á axuda."
       ]
     },
     {
