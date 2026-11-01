@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-31a",
+  "revision": "2026-11-01a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2408,6 +2408,80 @@
         "Declaración xurada das axudas solicitadas ou recibidas para o mesmo fin.",
         "Certificado de titularidade da conta bancaria.",
         "Certificado de estar ao corrente con Facenda e a Seguridade Social (o Concello comproba de oficio a débeda local)."
+      ]
+    },
+    {
+      "id": "boiro_natalidad_2026",
+      "titulo": "Ayuda municipal a la natalidad y conciliación 2026 (Boiro)",
+      "tituloGl": "Axuda municipal á natalidade e conciliación 2026 (Boiro)",
+      "descripcion": "Ayuda del Concello de Boiro para familias con hijos/as menores de 12 meses. Cubre una parte de los gastos de cuidado del bebé (alimentación infantil, higiene, cuna, carro, sillas de coche) y de conciliación.\n\nCuánto: hasta 300 € por menor y familia. Para llegar a 300 € hay que justificar más de 700 € en gastos (el Concello aporta el 42,86 %); con menos de 700 €, se aplica el mismo porcentaje. El presupuesto total es de 3.000 €.\n\nQuién puede pedirla: al menos un progenitor empadronado en Boiro desde hace 1 año como mínimo, con el menor empadronado en Boiro antes de pedirla, menor de 12 meses y progenitores sin deudas con el Concello ni con otras administraciones.\n\nGastos: desde 4 meses antes del nacimiento hasta el fin del plazo. No cuentan los gastos médicos, los desplazamientos ni la vivienda o el alquiler.\n\nCómo se concede: concurrencia competitiva por puntos, sin prorrateo. Puntúan, entre otros, la familia monoparental, no haber recibido la Tarjeta Benvida, los ingresos bajos, el desempleo, la discapacidad del 33 % o más y la violencia de género.\n\nPlazo de la convocatoria 2026: del 19/09 al 19/10/2026.",
+      "descripcionGl": "Axuda do Concello de Boiro para familias con fillos/as menores de 12 meses. Cubre unha parte dos gastos de coidado do bebé (alimentación infantil, hixiene, cuña, carro, cadeiras de coche) e de conciliación.\n\nCanto: ata 300 € por menor e familia. Para chegar a 300 € hai que xustificar máis de 700 € en gastos (o Concello achega o 42,86 %); con menos de 700 €, aplícase a mesma porcentaxe. O orzamento total é de 3.000 €.\n\nQuen pode pedila: polo menos un proxenitor empadroado en Boiro desde hai 1 ano como mínimo, co menor empadroado en Boiro antes de pedila, menor de 12 meses e proxenitores sen débedas co Concello nin con outras administracións.\n\nGastos: desde 4 meses antes do nacemento ata o fin do prazo. Non contan os gastos médicos, os desprazamentos nin a vivenda ou o aluguer.\n\nComo se concede: concorrencia competitiva por puntos, sen prorrateo. Puntúan, entre outros, a familia monoparental, non ter recibido a Tarxeta Benvida, os ingresos baixos, o desemprego, a discapacidade do 33 % ou máis e a violencia de xénero.\n\nPrazo da convocatoria 2026: do 19/09 ao 19/10/2026.",
+      "categoria": "familia",
+      "organismo": "Concello de Boiro",
+      "organismoGl": "Concello de Boiro",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/929497",
+      "municipios": [
+        "Boiro"
+      ],
+      "plazoInicio": "2026-09-19T00:00:00.000",
+      "plazoFin": "2026-10-19T00:00:00.000",
+      "requisitos": [
+        {
+          "campo": "anioNacimientoHijos",
+          "operador": "algunoNacidoEntre",
+          "valor": [
+            2025,
+            2026
+          ],
+          "textoExplicativo": "Tener un hijo/a menor de 12 meses (nacido/a en 2025 o 2026)",
+          "textoExplicativoGl": "Ter un fillo/a menor de 12 meses (nado/a en 2025 ou 2026)"
+        },
+        {
+          "campo": "empadronamientoBoiro",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al menos un progenitor empadronado en Boiro desde hace 1 año, con el menor empadronado en Boiro antes de pedir la ayuda",
+          "textoExplicativoGl": "Polo menos un proxenitor empadroado en Boiro desde hai 1 ano, co menor empadroado en Boiro antes de pedir a axuda"
+        },
+        {
+          "campo": "corrienteObligacionesBoiro",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Los progenitores no tienen deudas con el Concello ni con otras administraciones públicas",
+          "textoExplicativoGl": "Os proxenitores non teñen débedas co Concello nin con outras administracións públicas"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "La familia monoparental suma 1 punto en el baremo.",
+          "textoGl": "A familia monoparental suma 1 punto no baremo."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Una persona con discapacidad del 33 % o más suma 0,5 puntos.",
+          "textoGl": "Unha persoa con discapacidade do 33 % ou máis suma 0,5 puntos."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado, en el Registro General del Concello o en la sede electrónica (boiro.sedelectronica.gal).",
+        "DNI de quien solicita (padre, madre o tutor/a).",
+        "Certificado o volante de empadronamiento histórico de la unidad familiar o, al menos, de uno de los progenitores.",
+        "Libro de familia o documento equivalente que acredite el nacimiento.",
+        "Justificantes de ingresos de todos los miembros de la unidad familiar (nóminas, IRPF, certificados de prestaciones).",
+        "Facturas o justificantes de los gastos para los que se pide la ayuda.",
+        "Declaración responsable de estar al corriente con Hacienda y la Seguridad Social.",
+        "Si procede: documentos que acrediten los puntos (desempleo, violencia de género, discapacidad, etc.)."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado, no Rexistro Xeral do Concello ou na sede electrónica (boiro.sedelectronica.gal).",
+        "DNI de quen solicita (pai, nai ou titor/a).",
+        "Certificado ou volante de empadroamento histórico da unidade familiar ou, polo menos, de un dos proxenitores.",
+        "Libro de familia ou documento equivalente que acredite o nacemento.",
+        "Xustificantes de ingresos de todos os membros da unidade familiar (nóminas, IRPF, certificados de prestacións).",
+        "Facturas ou xustificantes dos gastos para os que se pide a axuda.",
+        "Declaración responsable de estar ao corrente con Facenda e a Seguridade Social.",
+        "Se procede: documentos que acrediten os puntos (desemprego, violencia de xénero, discapacidade, etc.)."
       ]
     },
     {
