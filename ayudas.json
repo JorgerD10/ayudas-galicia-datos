@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-01a",
+  "revision": "2026-11-01b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -202,12 +202,12 @@
       "id": "gal_respiro_familiar_2026",
       "titulo": "Respiro familiar para personas cuidadoras 2026",
       "tituloGl": "Respiro familiar para persoas coidadoras 2026",
-      "descripcion": "Ayuda para que las personas que cuidan de forma habitual y no profesional a alguien dependiente o con discapacidad puedan descansar. Financia atención puntual en casa, en un centro de día o una estancia temporal en residencia.\n\nCuánto: hasta el 100 % del coste, con un máximo de 1.000 € al año en atención a domicilio o centro de día y de 1.500 € en residencia. Es compatible con otras ayudas, sin superar el coste del servicio.\n\nQué gastos entran: los realizados entre el 1 de enero y el 21 de noviembre de 2026. Las solicitudes se atienden por orden de presentación hasta agotar el crédito.",
-      "descripcionGl": "Axuda para que as persoas que coidan de forma habitual e non profesional a alguén dependente ou con discapacidade poidan descansar. Financia atención puntual na casa, nun centro de día ou unha estadía temporal nunha residencia.\n\nCanto: ata o 100 % do custo, cun máximo de 1.000 € ao ano en atención a domicilio ou centro de día e de 1.500 € en residencia. É compatible con outras axudas, sen superar o custo do servizo.\n\nQue gastos entran: os realizados entre o 1 de xaneiro e o 21 de novembro de 2026. As solicitudes aténdense por orde de presentación ata esgotar o crédito.",
+      "descripcion": "Ayuda para que las personas que cuidan de forma habitual y no profesional a alguien dependiente o con discapacidad puedan descansar. Financia atención puntual en casa, en un centro de día o una estancia temporal en residencia.\n\nCuánto: hasta el 100 % del coste, con un máximo de 1.000 € al año en atención a domicilio o centro de día y de 1.500 € en residencia. Es compatible con otras ayudas, sin superar el coste del servicio.\n\nQué gastos entran: los realizados entre el 1 de enero y el 21 de noviembre de 2026. Las solicitudes se atienden por orden de presentación hasta agotar el crédito.\n\nCómo se cobra: primero pagas el servicio; cuando te notifiquen la concesión, presentas las facturas (con nombre y DNI de la persona atendida, día y horas del servicio y datos de quien lo presta) y los justificantes de pago, como máximo el 1 de diciembre de 2026. Las tres modalidades son incompatibles entre sí.",
+      "descripcionGl": "Axuda para que as persoas que coidan de forma habitual e non profesional a alguén dependente ou con discapacidade poidan descansar. Financia atención puntual na casa, nun centro de día ou unha estadía temporal nunha residencia.\n\nCanto: ata o 100 % do custo, cun máximo de 1.000 € ao ano en atención a domicilio ou centro de día e de 1.500 € en residencia. É compatible con outras axudas, sen superar o custo do servizo.\n\nQue gastos entran: os realizados entre o 1 de xaneiro e o 21 de novembro de 2026. As solicitudes aténdense por orde de presentación ata esgotar o crédito.\n\nComo se cobra: primeiro pagas o servizo; cando che notifiquen a concesión, presentas as facturas (con nome e DNI da persoa atendida, día e horas do servizo e datos de quen o presta) e os xustificantes de pagamento, como máximo o 1 de decembro de 2026. As tres modalidades son incompatibles entre si.",
       "categoria": "dependencia",
       "organismo": "Xunta de Galicia",
       "organismoGl": "Xunta de Galicia",
-      "enlaceOficial": "https://sede.xunta.gal/detalle-procedemento?codtram=BS614B",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/923182",
       "plazoInicio": "2026-08-12T00:00:00.000",
       "plazoFin": "2026-10-15T23:59:00.000",
       "requisitos": [
@@ -241,20 +241,24 @@
         }
       ],
       "documentacion": [
+        "Solicitud (Anexo I), preferiblemente por vía electrónica en sede.xunta.gal (procedimiento BS614B), con Chave365 u otro sistema admitido.",
         "Anexo II, para la comprobación de datos de otras personas interesadas de la persona atendida.",
         "Contrato firmado del servicio de respiro que uses, que cubra el periodo subvencionable: residencia, ayuda a domicilio (con una entidad o con una persona habilitada) o centro de día.",
         "Declaración responsable de la situación de respiro o descanso personal.",
         "Declaración responsable o documento que acredite el vínculo familiar con la persona atendida.",
         "Solo si procede: informe social (si no hay grado de dependencia reconocido o han cambiado las circunstancias), informe médico del Servizo Galego de Saúde (si no hay grado de dependencia reconocido) y certificado de discapacidad (si no lo expidió la Xunta).",
-        "DNI o NIE, padrón y certificados de estar al corriente con Hacienda y la Seguridad Social: los consulta la Administración, salvo que te opongas."
+        "DNI o NIE, padrón y certificados de estar al corriente con Hacienda y la Seguridad Social: los consulta la Administración, salvo que te opongas.",
+        "Para cobrar (hasta el 1/12/2026): solicitud de pago (Anexo IV), facturas a tu nombre y justificantes bancarios del pago."
       ],
       "documentacionGl": [
+        "Solicitude (Anexo I), preferiblemente por vía electrónica en sede.xunta.gal (procedemento BS614B), con Chave365 ou outro sistema admitido.",
         "Anexo II, para a comprobación de datos doutras persoas interesadas da persoa atendida.",
         "Contrato asinado do servizo de respiro que uses, que cubra o período subvencionable: residencia, axuda no fogar (cunha entidade ou cunha persoa habilitada) ou centro de día.",
         "Declaración responsable da situación de respiro ou descanso persoal.",
         "Declaración responsable ou documento que acredite o vínculo familiar coa persoa atendida.",
         "Só se procede: informe social (se non hai grao de dependencia recoñecido ou variaron as circunstancias), informe médico do Servizo Galego de Saúde (se non hai grao de dependencia recoñecido) e certificado de discapacidade (se non o expediu a Xunta).",
-        "DNI ou NIE, padrón e certificados de estar ao corrente coa Facenda e a Seguridade Social: consúltaos a Administración, agás que te opoñas."
+        "DNI ou NIE, padrón e certificados de estar ao corrente coa Facenda e a Seguridade Social: consúltaos a Administración, agás que te opoñas.",
+        "Para cobrar (ata o 1/12/2026): solicitude de pagamento (Anexo IV), facturas ao teu nome e xustificantes bancarios do pagamento."
       ]
     },
     {
