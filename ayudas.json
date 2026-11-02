@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-02a",
+  "revision": "2026-11-02b",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -1551,8 +1551,8 @@
       "id": "covelo_natalidad_2026",
       "titulo": "Ayuda municipal a la natalidad 2026 (Covelo)",
       "tituloGl": "Axuda municipal á natalidade 2026 (Covelo)",
-      "descripcion": "Ayuda del Concello de Covelo por cada hijo/a nacido/a o adoptado/a entre el 30 de noviembre de 2025 y el final del plazo de solicitud.\n\nCuánto: hasta 500 € por hijo/a. Es de concurrencia competitiva con crédito limitado (4.000 € en total, que se reparte entre las solicitudes admitidas si no llega), así que no está garantizada.\n\nQuién puede pedirla: empadronado/a en Covelo al menos 9 meses antes del parto o la adopción, con compromiso de seguir 2 años y sin superar los límites de renta (IRPF 2025).\n\nCuándo se pide: la convocatoria está registrada (BDNS 935266, 14/10/2026), pero el plazo aún no ha empezado: se abre al día siguiente de publicarse el extracto en el BOP de Pontevedra y dura 15 días hábiles. Consulta las fechas en la sede electrónica del Concello.",
-      "descripcionGl": "Axuda do Concello de Covelo por cada fillo/a nado/a ou adoptado/a entre o 30 de novembro de 2025 e o final do prazo de solicitude.\n\nCanto: ata 500 € por fillo/a. É de concorrencia competitiva con crédito limitado (4.000 € en total, que se reparte entre as solicitudes admitidas se non chega), así que non está garantida.\n\nQuen pode pedila: empadroado/a en Covelo polo menos 9 meses antes do parto ou da adopción, con compromiso de seguir 2 anos e sen superar os límites de renda (IRPF 2025).\n\nCando se pide: a convocatoria está rexistrada (BDNS 935266, 14/10/2026), pero o prazo aínda non comezou: ábrese ao día seguinte de publicarse o extracto no BOP de Pontevedra e dura 15 días hábiles. Consulta as datas na sede electrónica do Concello.",
+      "descripcion": "Ayuda del Concello de Covelo por cada hijo/a nacido/a o adoptado/a entre el 30 de noviembre de 2025 y el final del plazo de solicitud.\n\nCuánto: hasta 500 € por hijo/a. Es de concurrencia competitiva con crédito limitado (4.000 € en total, que se reparte entre las solicitudes admitidas si no llega), así que no está garantizada.\n\nQuién puede pedirla: empadronado/a en Covelo al menos 9 meses antes del parto o la adopción, con compromiso de seguir 2 años y sin superar los límites de renta (IRPF 2025).\n\nCuándo se pide: desde el 20 de octubre de 2026 (día siguiente a la publicación del extracto en el BOP de Pontevedra, el 19/10/2026) durante 15 días hábiles, es decir, hasta el 9 de noviembre de 2026 (fecha calculada a partir del extracto: confirma el último día en la sede electrónica del Concello).",
+      "descripcionGl": "Axuda do Concello de Covelo por cada fillo/a nado/a ou adoptado/a entre o 30 de novembro de 2025 e o final do prazo de solicitude.\n\nCanto: ata 500 € por fillo/a. É de concorrencia competitiva con crédito limitado (4.000 € en total, que se reparte entre as solicitudes admitidas se non chega), así que non está garantida.\n\nQuen pode pedila: empadroado/a en Covelo polo menos 9 meses antes do parto ou da adopción, con compromiso de seguir 2 anos e sen superar os límites de renda (IRPF 2025).\n\nCando se pide: desde o 20 de outubro de 2026 (día seguinte á publicación do extracto no BOP de Pontevedra, o 19/10/2026) durante 15 días hábiles, é dicir, ata o 9 de novembro de 2026 (data calculada a partir do extracto: confirma o último día na sede electrónica do Concello).",
       "categoria": "familia",
       "organismo": "Concello de Covelo",
       "organismoGl": "Concello de Covelo",
@@ -1560,7 +1560,8 @@
       "municipios": [
         "Covelo"
       ],
-      "plazoPendiente": true,
+      "plazoInicio": "2026-10-20T00:00:00.000",
+      "plazoFin": "2026-11-09T23:59:00.000",
       "requisitos": [
         {
           "campo": "anioNacimientoHijos",
