@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-01d",
+  "revision": "2026-11-02a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2616,6 +2616,74 @@
         "Declaración responsable de estar ao corrente coa Facenda estatal, autonómica e local, e coa Seguridade Social.",
         "Declaración responsable de non estar incurso nas causas de exclusión do artigo 13.2 da Lei Xeral de Subvencións e de comprometerte a cumprir as obrigas do artigo 14.",
         "Declaración responsable de non ter solicitado nin obtido outra axuda incompatible para a mesma finalidade."
+      ]
+    },
+    {
+      "id": "nigran_emergencia_social_2026",
+      "titulo": "Ayudas de inserción y emergencia social 2026 (Nigrán)",
+      "tituloGl": "Axudas de inserción e emerxencia social 2026 (Nigrán)",
+      "descripcion": "Ayuda del Concello de Nigrán para personas y familias empadronadas que no pueden afrontar gastos urgentes (vivienda, suministros, alimentación, salud…). Es una prestación urgente y extraordinaria, ligada a un proceso de intervención con los Servicios Sociales municipales.\n\nCuánto: depende del gasto, de la situación de la familia y del informe social, con estos máximos anuales por unidad familiar (el SMI es el mensual): vivienda (deudas, alquiler, hipoteca, fianza, comunidad) y habitabilidad o equipamiento del hogar, hasta 1,5 veces el SMI; necesidades básicas urgentes (alimentación, higiene, ropa, luz, gas, agua…), hasta el 75 % del SMI por ayuda en familias de 1 a 2 personas, el 100 % en 3 a 4 y el 120 % en 5 o más; odontología, gafas, audífonos, ayudas técnicas y farmacia (con prescripción médica), hasta 1 SMI; transporte para formación o tratamientos, hasta el 50 % del SMI; casos excepcionales, lo que fije el informe técnico, sin pasar del 200 % del SMI. Como norma general, máximo 2 ayudas al año por unidad familiar. Es compatible con otras ayudas para el mismo fin, siempre que el total no supere el 100 % del gasto.\n\nCómo se cobra: en un único pago anticipado a tu cuenta (en 72 horas desde la resolución si es urgente; como mucho en un mes si es ordinaria). A veces se paga directamente a la empresa o persona que presta el servicio. Hay que justificar el gasto en el plazo de un mes desde el pago (como límite, el 20 de diciembre si se cobra en noviembre).\n\nQuién puede pedirla: personas mayores de edad o menores emancipadas, empadronadas y con residencia efectiva en Nigrán desde al menos 6 meses antes de la solicitud, que no tengan ingresos suficientes para el gasto y hayan justificado las ayudas de este tipo recibidas antes. Los ingresos mensuales de toda la unidad familiar (los de los 3 meses anteriores; se descuenta el alquiler o la hipoteca hasta 400 €/mes) no pueden superar: 1 miembro, 660 €; 2, 870 €; 3, 1.140 €; 4, 1.410 €; 5, 1.710 €; 6, 2.010 €; 7, 2.310 €; 8, 2.610 €. Se tiene en cuenta también el dinero en cuentas bancarias.\n\nCuándo se pide: desde el 8 de junio hasta el 31 de diciembre de 2026, con un presupuesto total de 33.600 €. Se presenta en el Registro General del Concello o por cualquier vía del artículo 16.4 de la Ley 39/2015 (sede electrónica: nigran.sedelectronica.gal).",
+      "descripcionGl": "Axuda do Concello de Nigrán para persoas e familias empadroadas que non poden afrontar gastos urxentes (vivenda, subministracións, alimentación, saúde…). É unha prestación urxente e extraordinaria, ligada a un proceso de intervención cos Servizos Sociais municipais.\n\nCanto: depende do gasto, da situación da familia e do informe social, con estes máximos anuais por unidade familiar (o SMI é o mensual): vivenda (débedas, aluguer, hipoteca, fianza, comunidade) e habitabilidade ou equipamento do fogar, ata 1,5 veces o SMI; necesidades básicas urxentes (alimentación, hixiene, roupa, luz, gas, auga…), ata o 75 % do SMI por axuda en familias de 1 a 2 persoas, o 100 % en 3 a 4 e o 120 % en 5 ou máis; odontoloxía, lentes, audífonos, axudas técnicas e farmacia (con prescrición médica), ata 1 SMI; transporte para formación ou tratamentos, ata o 50 % do SMI; casos excepcionais, o que fixe o informe técnico, sen pasar do 200 % do SMI. Como norma xeral, máximo 2 axudas ao ano por unidade familiar. É compatible con outras axudas para o mesmo fin, sempre que o total non supere o 100 % do gasto.\n\nComo se cobra: nun único pagamento anticipado á túa conta (en 72 horas desde a resolución se é urxente; como moito nun mes se é ordinaria). Ás veces págase directamente á empresa ou persoa que presta o servizo. Hai que xustificar o gasto no prazo dun mes desde o pagamento (como límite, o 20 de decembro se se cobra en novembro).\n\nQuen pode pedila: persoas maiores de idade ou menores emancipadas, empadroadas e con residencia efectiva en Nigrán desde polo menos 6 meses antes da solicitude, que non teñan ingresos suficientes para o gasto e xustificasen as axudas deste tipo recibidas antes. Os ingresos mensuais de toda a unidade familiar (os dos 3 meses anteriores; descóntase o aluguer ou a hipoteca ata 400 €/mes) non poden superar: 1 membro, 660 €; 2, 870 €; 3, 1.140 €; 4, 1.410 €; 5, 1.710 €; 6, 2.010 €; 7, 2.310 €; 8, 2.610 €. Tamén se ten en conta o diñeiro en contas bancarias.\n\nCando se pide: desde o 8 de xuño ata o 31 de decembro de 2026, cun orzamento total de 33.600 €. Preséntase no Rexistro Xeral do Concello ou por calquera vía do artigo 16.4 da Lei 39/2015 (sede electrónica: nigran.sedelectronica.gal).",
+      "categoria": "familia",
+      "organismo": "Concello de Nigrán",
+      "organismoGl": "Concello de Nigrán",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/910121",
+      "municipios": [
+        "Nigrán"
+      ],
+      "plazoInicio": "2026-06-08T00:00:00.000",
+      "plazoFin": "2026-12-31T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "empadronamientoNigran",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronado/a y residir de forma efectiva en Nigrán desde al menos 6 meses antes de la solicitud",
+          "textoExplicativoGl": "Estar empadroado/a e residir de forma efectiva en Nigrán desde polo menos 6 meses antes da solicitude"
+        },
+        {
+          "campo": "ingresosNigranEmergencia",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los ingresos mensuales de la unidad familiar (últimos 3 meses) no superen el límite según el número de miembros (de 660 € para 1 persona a 2.610 € para 8) y no tener recursos suficientes para el gasto",
+          "textoExplicativoGl": "Que os ingresos mensuais da unidade familiar (últimos 3 meses) non superen o límite segundo o número de membros (de 660 € para 1 persoa a 2.610 € para 8) e non ter recursos suficientes para o gasto"
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado de la sede electrónica del Concello (nigran.sedelectronica.gal), dirigida al Alcalde.",
+        "DNI, tarjeta de identificación de extranjero o pasaporte de todas las personas de la unidad familiar (fotocopia).",
+        "Libro de familia, certificado de nacimiento o documentos de acogimiento o tutela (fotocopia).",
+        "Declaración de la renta (IRPF) del año en curso o del anterior. Si no estás obligado/a a presentarla, certificado negativo de la Agencia Tributaria de los miembros mayores de 16 años.",
+        "Certificado actual de haberes de la empresa o nóminas. Si no los tienes, justificación de los ingresos de los últimos 3 meses de cada miembro mayor de 16 años, sean regulares o irregulares.",
+        "Certificados actuales de pensiones, prestaciones o subsidios (INEM, Seguridad Social, Xunta de Galicia) de cada miembro de la unidad familiar.",
+        "Si no se pueden acreditar los ingresos con documentos, declaración responsable sobre ellos.",
+        "Certificado de discapacidad y/o dependencia, título de familia numerosa y denuncia por malos tratos o violencia de género o doméstica, si es tu caso.",
+        "Vida laboral de las personas mayores de 16 años.",
+        "Convenio regulador sobre guarda y custodia de menores y pensión de alimentos, si procede.",
+        "Contrato de alquiler o último recibo de la hipoteca.",
+        "Extracto de movimientos de todas las cuentas bancarias de todas las personas de la unidad familiar de los 3 meses anteriores a la solicitud.",
+        "Si la ayuda es para adecuar la vivienda: documento que acredite la propiedad o el alquiler y, en este caso, autorización del propietario.",
+        "Como regla general, al menos tres presupuestos detallados del bien o servicio que se quiere pagar (sobre todo en equipamiento del hogar y odontología, gafas o audífonos).",
+        "Prescripción médica del SERGAS si es para asistencia sanitaria.",
+        "Certificado de la cuenta bancaria de la persona solicitante y declaración jurada con el IBAN de todas las cuentas de las que sea titular o autorizada la unidad familiar."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado da sede electrónica do Concello (nigran.sedelectronica.gal), dirixida ao Alcalde.",
+        "DNI, tarxeta de identificación de estranxeiro ou pasaporte de todas as persoas da unidade familiar (fotocopia).",
+        "Libro de familia, certificado de nacemento ou documentos de acollemento ou titela (fotocopia).",
+        "Declaración da renda (IRPF) do ano corrente ou do anterior. Se non estás obrigado/a a presentala, certificado negativo da Axencia Tributaria dos membros maiores de 16 anos.",
+        "Certificado actual de haberes da empresa ou nóminas. Se non os tes, xustificación dos ingresos dos últimos 3 meses de cada membro maior de 16 anos, sexan regulares ou irregulares.",
+        "Certificados actuais de pensións, prestacións ou subsidios (INEM, Seguridade Social, Xunta de Galicia) de cada membro da unidade familiar.",
+        "Se non se poden acreditar os ingresos con documentos, declaración responsable sobre eles.",
+        "Certificado de discapacidade e/ou dependencia, título de familia numerosa e denuncia por maltrato ou violencia de xénero ou doméstica, se é o teu caso.",
+        "Vida laboral das persoas maiores de 16 anos.",
+        "Convenio regulador sobre garda e custodia de menores e pensión de alimentos, se procede.",
+        "Contrato de aluguer ou último recibo da hipoteca.",
+        "Extracto de movementos de todas as contas bancarias de todas as persoas da unidade familiar dos 3 meses anteriores á solicitude.",
+        "Se a axuda é para adecuar a vivenda: documento que acredite a propiedade ou o aluguer e, neste caso, autorización do propietario.",
+        "Como regra xeral, polo menos tres orzamentos detallados do ben ou servizo que se quere pagar (sobre todo en equipamento do fogar e odontoloxía, lentes ou audífonos).",
+        "Prescrición médica do SERGAS se é para asistencia sanitaria.",
+        "Certificado da conta bancaria da persoa solicitante e declaración xurada co IBAN de todas as contas das que sexa titular ou autorizada a unidade familiar."
       ]
     },
     {
