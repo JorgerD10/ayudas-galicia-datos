@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-02b",
+  "revision": "2026-11-02c",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2691,8 +2691,8 @@
       "id": "covelo_libros_infantil_2026",
       "titulo": "Ayuda municipal para libros y material de Infantil 2026/27 (Covelo)",
       "tituloGl": "Axuda municipal para libros e material de Infantil 2026/27 (Covelo)",
-      "descripcion": "Ayuda del Concello de Covelo para libros y material escolar del alumnado de 3 a 5 años (segunda etapa de Infantil) matriculado en el centro público de Covelo en el curso 2026/27.\n\nCuánto: hasta 100 € por alumno/a, y hasta 125 € si tiene discapacidad del 33 % o más o es familia numerosa. Se cobra después de justificar el gasto con facturas. Crédito total de 1.825 €; si no llega, se reparte proporcionalmente.\n\nQuién puede pedirla: renta por persona (IRPF 2025, dividida entre los miembros computables; quien tiene discapacidad del 33 % o más cuenta por dos) de hasta 14.400 €. Hay que convivir con el alumno/a y estar al corriente con Hacienda, la Seguridad Social y el Concello.\n\nCuándo se pide: convocatoria registrada el 14 de octubre de 2026. El plazo empieza al publicarse el extracto en el BOP de Pontevedra (a 17/10 aún no publicado) y dura 15 días hábiles.",
-      "descripcionGl": "Axuda do Concello de Covelo para libros e material escolar do alumnado de 3 a 5 anos (segunda etapa de Infantil) matriculado no centro público de Covelo no curso 2026/27.\n\nCanto: ata 100 € por alumno/a, e ata 125 € se ten discapacidade do 33 % ou máis ou é familia numerosa. Cóbrase despois de xustificar o gasto con facturas. Crédito total de 1.825 €; se non chega, repártese proporcionalmente.\n\nQuen pode pedila: renda por persoa (IRPF 2025, dividida entre os membros computables; quen ten discapacidade do 33 % ou máis conta por dous) de ata 14.400 €. Hai que convivir co alumno/a e estar ao corrente con Facenda, a Seguridade Social e o Concello.\n\nCando se pide: convocatoria rexistrada o 14 de outubro de 2026. O prazo comeza ao publicarse o extracto no BOP de Pontevedra (a 17/10 aínda non publicado) e dura 15 días hábiles.",
+      "descripcion": "Ayuda del Concello de Covelo para libros y material escolar del alumnado de 3 a 5 años (segunda etapa de Infantil) matriculado en el centro público de Covelo en el curso 2026/27.\n\nCuánto: hasta 100 € por alumno/a, y hasta 125 € si tiene discapacidad del 33 % o más o es familia numerosa. Se cobra después de justificar el gasto con facturas. Crédito total de 1.825 €; si no llega, se reparte proporcionalmente.\n\nQuién puede pedirla: renta por persona (IRPF 2025, dividida entre los miembros computables; quien tiene discapacidad del 33 % o más cuenta por dos) de hasta 14.400 €. Hay que convivir con el alumno/a y estar al corriente con Hacienda, la Seguridad Social y el Concello.\n\nCuándo se pide: desde el 20 de octubre de 2026 (día siguiente a la publicación del extracto en el BOP de Pontevedra, el 19/10/2026) durante 15 días hábiles, es decir, hasta el 9 de noviembre de 2026 (fecha calculada a partir del extracto: confirma el último día en la sede electrónica del Concello).",
+      "descripcionGl": "Axuda do Concello de Covelo para libros e material escolar do alumnado de 3 a 5 anos (segunda etapa de Infantil) matriculado no centro público de Covelo no curso 2026/27.\n\nCanto: ata 100 € por alumno/a, e ata 125 € se ten discapacidade do 33 % ou máis ou é familia numerosa. Cóbrase despois de xustificar o gasto con facturas. Crédito total de 1.825 €; se non chega, repártese proporcionalmente.\n\nQuen pode pedila: renda por persoa (IRPF 2025, dividida entre os membros computables; quen ten discapacidade do 33 % ou máis conta por dous) de ata 14.400 €. Hai que convivir co alumno/a e estar ao corrente con Facenda, a Seguridade Social e o Concello.\n\nCando se pide: desde o 20 de outubro de 2026 (día seguinte á publicación do extracto no BOP de Pontevedra, o 19/10/2026) durante 15 días hábiles, é dicir, ata o 9 de novembro de 2026 (data calculada a partir do extracto: confirma o último día na sede electrónica do Concello).",
       "categoria": "educacion",
       "organismo": "Concello de Covelo",
       "organismoGl": "Concello de Covelo",
@@ -2700,7 +2700,8 @@
       "municipios": [
         "Covelo"
       ],
-      "plazoPendiente": true,
+      "plazoInicio": "2026-10-20T00:00:00.000",
+      "plazoFin": "2026-11-09T23:59:00.000",
       "requisitos": [
         {
           "campo": "edadesHijos",
