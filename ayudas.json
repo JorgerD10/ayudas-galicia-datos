@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-02c",
+  "revision": "2026-11-02d",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -2685,6 +2685,100 @@
         "Como regra xeral, polo menos tres orzamentos detallados do ben ou servizo que se quere pagar (sobre todo en equipamento do fogar e odontoloxía, lentes ou audífonos).",
         "Prescrición médica do SERGAS se é para asistencia sanitaria.",
         "Certificado da conta bancaria da persoa solicitante e declaración xurada co IBAN de todas as contas das que sexa titular ou autorizada a unidade familiar."
+      ]
+    },
+    {
+      "id": "cuntis_material_escolar_2026_27",
+      "titulo": "Ayudas municipales de apoyo al estudio 2026/27 (Cuntis)",
+      "tituloGl": "Axudas municipais de apoio ao estudo 2026/27 (Cuntis)",
+      "descripcion": "Ayuda del Concello de Cuntis para familias con dificultades económicas que tienen hijos/as de 3 a 5 años (segunda etapa de Infantil) en el CPI Don Aurelio. Sirve para gastos del curso: fichas, mandilón, chándal, calzado de gimnasia, mochilas, material fungible…\n\nCuánto: hasta 150 € por menor, en un único pago. Se paga por transferencia después de presentar la factura del material escolar a nombre de quien solicita; si el gasto justificado es menor, la ayuda se reduce. Crédito total de 1.800 €: si no llega, tienen prioridad las solicitudes con más puntos (menos renta, más miembros, hijos estudiando y situaciones sociales como desempleo, monoparentalidad, familia numerosa, discapacidad o violencia de género). Es compatible con otras ayudas para el mismo fin si entre todas no superan el coste del material.\n\nQuién puede pedirla: familias empadronadas y con residencia efectiva en Cuntis, con el hijo/a matriculado/a (o con reserva de plaza) en Infantil 3-5 años del CPI Don Aurelio y conviviendo con la familia. La renta per cápita anual (situación a 31 de diciembre de 2025: bases imponibles general y del ahorro del IRPF de 2025 entre los miembros) no puede pasar de 9.000 €, el 125 % del IPREM anual. Se descuenta el alquiler o la hipoteca de la primera vivienda (hasta 500 € al mes) y los gastos de tratamientos por enfermedad, discapacidad o dependencia que no cubra la sanidad pública. Tampoco puedes tener pendiente de justificar otra ayuda de inclusión social del Concello de 2025.\n\nCuándo se pide: la convocatoria de 2026/27 estuvo abierta del 4 de septiembre al 2 de octubre de 2026 (extracto en el BOP de Pontevedra el 3 de septiembre) y ya está cerrada. Vigila la del próximo curso en la sede electrónica del Concello (concellodecuntis.sedelectronica.gal).",
+      "descripcionGl": "Axuda do Concello de Cuntis para familias con dificultades económicas que teñen fillos/as de 3 a 5 anos (segunda etapa de Infantil) no CPI Don Aurelio. Serve para gastos do curso: fichas, mandilón, chándal, calzado de ximnasia, mochilas, material funxible…\n\nCanto: ata 150 € por menor, nun único pagamento. Págase por transferencia despois de presentar a factura do material escolar a nome de quen solicita; se o gasto xustificado é menor, a axuda redúcese. Crédito total de 1.800 €: se non chega, teñen prioridade as solicitudes con máis puntos (menos renda, máis membros, fillos estudando e situacións sociais como desemprego, monoparentalidade, familia numerosa, discapacidade ou violencia de xénero). É compatible con outras axudas para o mesmo fin se entre todas non superan o custo do material.\n\nQuen pode pedila: familias empadroadas e con residencia efectiva en Cuntis, co fillo/a matriculado/a (ou con reserva de praza) en Infantil 3-5 anos do CPI Don Aurelio e convivindo coa familia. A renda per cápita anual (situación a 31 de decembro de 2025: bases impoñibles xeral e do aforro do IRPF de 2025 entre os membros) non pode pasar de 9.000 €, o 125 % do IPREM anual. Descóntase o aluguer ou a hipoteca da primeira vivenda (ata 500 € ao mes) e os gastos de tratamentos por enfermidade, discapacidade ou dependencia que non cubra a sanidade pública. Tampouco podes ter pendente de xustificar outra axuda de inclusión social do Concello de 2025.\n\nCando se pide: a convocatoria de 2026/27 estivo aberta do 4 de setembro ao 2 de outubro de 2026 (extracto no BOP de Pontevedra o 3 de setembro) e xa está pechada. Vixía a do próximo curso na sede electrónica do Concello (concellodecuntis.sedelectronica.gal).",
+      "categoria": "educacion",
+      "organismo": "Concello de Cuntis",
+      "organismoGl": "Concello de Cuntis",
+      "enlaceOficial": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/927081",
+      "municipios": [
+        "Cuntis"
+      ],
+      "plazoInicio": "2026-09-04T00:00:00.000",
+      "plazoFin": "2026-10-02T23:59:00.000",
+      "requisitos": [
+        {
+          "campo": "edadesHijos",
+          "operador": "algunoEntre",
+          "valor": [
+            3,
+            5
+          ],
+          "textoExplicativo": "Tener un hijo/a de 3 a 5 años matriculado/a (o con reserva de plaza) en Infantil del CPI Don Aurelio de Cuntis en el curso 2026/27",
+          "textoExplicativoGl": "Ter un fillo/a de 3 a 5 anos matriculado/a (ou con reserva de praza) en Infantil do CPI Don Aurelio de Cuntis no curso 2026/27"
+        },
+        {
+          "campo": "empadronamientoCuntis",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la unidad familiar esté empadronada y resida de forma efectiva en Cuntis, y el alumno/a conviva con ella",
+          "textoExplicativoGl": "Que a unidade familiar estea empadroada e resida de forma efectiva en Cuntis, e o alumno/a conviva con ela"
+        },
+        {
+          "campo": "rentaCuntis",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que la renta per cápita anual de la familia (IRPF 2025, situación a 31/12/2025) no supere 9.000 € (125 % del IPREM anual)",
+          "textoExplicativoGl": "Que a renda per cápita anual da familia (IRPF 2025, situación a 31/12/2025) non supere 9.000 € (125 % do IPREM anual)"
+        },
+        {
+          "campo": "corrienteObligacionesCuntis",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Al corriente con Hacienda, la Seguridad Social y el Concello, y sin ninguna ayuda de inclusión social del Concello de 2025 pendiente de justificar",
+          "textoExplicativoGl": "Ao corrente con Facenda, a Seguridade Social e o Concello, e sen ningunha axuda de inclusión social do Concello de 2025 pendente de xustificar"
+        }
+      ],
+      "avisosSituacion": [
+        {
+          "situacion": "monoparental",
+          "texto": "Las familias monoparentales suman 5 puntos en el baremo, que decide el reparto si el crédito no llega.",
+          "textoGl": "As familias monoparentais suman 5 puntos no baremo, que decide o reparto se o crédito non chega."
+        },
+        {
+          "situacion": "familiaNumerosa",
+          "texto": "Las familias numerosas suman 5 puntos en el baremo, que decide el reparto si el crédito no llega.",
+          "textoGl": "As familias numerosas suman 5 puntos no baremo, que decide o reparto se o crédito non chega."
+        },
+        {
+          "situacion": "discapacidad",
+          "texto": "Si algún miembro tiene una discapacidad del 65 % o más, o es persona dependiente, la familia suma 5 puntos en el baremo.",
+          "textoGl": "Se algún membro ten unha discapacidade do 65 % ou máis, ou é persoa dependente, a familia suma 5 puntos no baremo."
+        }
+      ],
+      "documentacion": [
+        "Solicitud en el modelo normalizado (Anexo I). Se presenta preferentemente por la sede electrónica del Concello (concellodecuntis.sedelectronica.gal) o en cualquiera de los registros que permite la normativa de procedimiento administrativo.",
+        "DNI, NIE o pasaporte vigente de la persona solicitante (fotocopia).",
+        "Libro de familia completo (fotocopia).",
+        "Justificante de la matrícula o de la reserva de plaza.",
+        "Declaración de la renta (IRPF) de 2025 de las personas de la unidad familiar. Si no la presentaron, se tienen en cuenta los ingresos netos de todos los miembros.",
+        "Informe actualizado de vida laboral de las personas de la unidad familiar en edad de trabajar que no trabajen.",
+        "Justificantes del alquiler o de las cuotas de la hipoteca de la vivienda y, si procede, de los gastos de tratamientos por enfermedad, discapacidad o dependencia no cubiertos por la sanidad pública.",
+        "Justificante de la condición de persona dependiente o con discapacidad, si procede.",
+        "Si la situación económica ha cambiado mucho respecto a la renta de 2025: documentación que lo acredite del primer semestre de 2026.",
+        "Certificado de la cuenta bancaria de la persona solicitante.",
+        "Anexo II: declaración responsable de estar al corriente con Hacienda, la Seguridad Social y el Concello, de no estar en las prohibiciones para recibir subvenciones y de otras ayudas recibidas para el mismo fin.",
+        "Para cobrar: factura del material escolar del curso a nombre de la persona solicitante."
+      ],
+      "documentacionGl": [
+        "Solicitude no modelo normalizado (Anexo I). Preséntase preferentemente pola sede electrónica do Concello (concellodecuntis.sedelectronica.gal) ou en calquera dos rexistros que permite a normativa de procedemento administrativo.",
+        "DNI, NIE ou pasaporte vixente da persoa solicitante (fotocopia).",
+        "Libro de familia completo (fotocopia).",
+        "Xustificante da matrícula ou da reserva de praza.",
+        "Declaración da renda (IRPF) de 2025 das persoas da unidade familiar. Se non a presentaron, teñense en conta os ingresos netos de todos os membros.",
+        "Informe actualizado de vida laboral das persoas da unidade familiar en idade de traballar que non traballen.",
+        "Xustificantes do aluguer ou das cotas da hipoteca da vivenda e, se procede, dos gastos de tratamentos por enfermidade, discapacidade ou dependencia non cubertos pola sanidade pública.",
+        "Xustificante da condición de persoa dependente ou con discapacidade, se procede.",
+        "Se a situación económica cambiou moito respecto á renda de 2025: documentación que o acredite do primeiro semestre de 2026.",
+        "Certificado da conta bancaria da persoa solicitante.",
+        "Anexo II: declaración responsable de estar ao corrente con Facenda, a Seguridade Social e o Concello, de non estar nas prohibicións para recibir subvencións e doutras axudas recibidas para o mesmo fin.",
+        "Para cobrar: factura do material escolar do curso a nome da persoa solicitante."
       ]
     },
     {
