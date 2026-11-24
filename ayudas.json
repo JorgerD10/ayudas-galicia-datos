@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-02d",
+  "revision": "2026-11-24a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -6947,6 +6947,107 @@
         "Se procede: título de familia numerosa, certificado de familia monoparental, certificado de discapacidade, sentenza de separación ou divorcio e/ou convenio regulador coa custodia, e informe de Servizos Sociais sobre a situación familiar.",
         "Para cobrar: facturas orixinais do material (a nome do solicitante, con detalle e IVE, e selo de paga) antes do 30/10/2026, ou solicitude de pagamento delegado ao provedor.",
         "Se falta documentación, tes 5 días para emendar; se non, téselle por desistido."
+      ]
+    },
+    {
+      "id": "gal_risga_renta_inclusion_social",
+      "titulo": "Renta de inclusión social de Galicia (RISGA)",
+      "tituloGl": "Renda de inclusión social de Galicia (RISGA)",
+      "descripcion": "Prestación económica de la Xunta para personas en situación o riesgo de exclusión social que tienen muy pocos recursos. Va unida a un proyecto de integración social que se diseña con los servicios sociales de tu concello.\n\nQuién puede pedirla: personas de más de 25 años (y menos de 65) a las que los servicios sociales valoran técnicamente en situación o riesgo de exclusión social, con residencia legal y empadronadas en Galicia al menos los seis meses anteriores, cuyos ingresos y patrimonio no bastan para vivir y que no tienen familiares obligados a darles alimentos que puedan hacerlo. La ley prevé excepciones.\n\nCuánto: en 2026, desde 469,20 € al mes para una persona sola hasta un máximo de 750 € al mes (840 € si hay menores), según las personas que convivan. Se descuentan los demás ingresos del hogar. No se puede cobrar a la vez que una pensión no contributiva.\n\nCómo se pide: el plazo está abierto todo el año. Lo más práctico es empezar por los servicios sociales de tu concello, que te orientan con los trámites. La solicitud va a la Xunta, preferiblemente por la sede electrónica. La Xunta tiene dos meses para resolver; si no responde en ese plazo, la solicitud se entiende concedida.",
+      "descripcionGl": "Prestación económica da Xunta para persoas en situación ou risco de exclusión social que teñen moi poucos recursos. Vai unida a un proxecto de integración social que se deseña cos servizos sociais do teu concello.\n\nQuen pode pedila: persoas de máis de 25 anos (e menos de 65) ás que os servizos sociais valoran tecnicamente en situación ou risco de exclusión social, con residencia legal e empadroadas en Galicia polo menos os seis meses anteriores, cuxos ingresos e patrimonio non chegan para vivir e que non teñen familiares obrigados a darlles alimentos que poidan facelo. A lei prevé excepcións.\n\nCanto: en 2026, desde 469,20 € ao mes para unha persoa soa ata un máximo de 750 € ao mes (840 € se hai menores), segundo as persoas que convivan. Descóntanse os demais ingresos do fogar. Non se pode cobrar á vez que unha pensión non contributiva.\n\nComo se pide: o prazo está aberto todo o ano. O máis práctico é comezar polos servizos sociais do teu concello, que te orientan cos trámites. A solicitude vai á Xunta, preferiblemente pola sede electrónica. A Xunta ten dous meses para resolver; se non responde nese prazo, a solicitude enténdese concedida.",
+      "categoria": "inclusion",
+      "organismo": "Xunta de Galicia (Consellería de Política Social e Igualdade, Dirección Xeral de Inclusión Social)",
+      "organismoGl": "Xunta de Galicia (Consellería de Política Social e Igualdade, Dirección Xeral de Inclusión Social)",
+      "enlaceOficial": "https://sede.xunta.gal/detalle-procedemento?codtram=BS626F&langId=es_ES",
+      "sinPlazoFijo": true,
+      "requisitos": [
+        {
+          "campo": "ingresos",
+          "operador": "menorQue",
+          "valor": 1000,
+          "textoExplicativo": "Ingresos netos del hogar de menos de 1.000 € al mes (la RISGA es como máximo de 750 € al mes, o 840 € si hay menores, y se descuentan los demás ingresos)",
+          "textoExplicativoGl": "Ingresos netos do fogar de menos de 1.000 € ao mes (a RISGA é como máximo de 750 € ao mes, ou 840 € se hai menores, e descóntanse os demais ingresos)"
+        },
+        {
+          "campo": "valoracionExclusionRisga",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Que los servicios sociales valoren que estás en situación o riesgo de exclusión social (se hace con la trabajadora social de tu concello)",
+          "textoExplicativoGl": "Que os servizos sociais valoren que estás en situación ou risco de exclusión social (faise coa traballadora social do teu concello)"
+        },
+        {
+          "campo": "edadRisga",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Tener más de 25 años y menos de 65 en la fecha de la solicitud",
+          "textoExplicativoGl": "Ter máis de 25 anos e menos de 65 na data da solicitude"
+        },
+        {
+          "campo": "empadronamientoRisga",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Vivir de forma efectiva y estar empadronada/o en Galicia al menos los seis meses anteriores, con residencia legal",
+          "textoExplicativoGl": "Vivir de forma efectiva e estar empadroada/o en Galicia polo menos os seis meses anteriores, con residencia legal"
+        },
+        {
+          "campo": "patrimonioRisga",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "No tener bienes ni ahorros con los que puedas vivir (se considera que sí si tienes más de cuatro veces el IPREM, unos 2.400 €, en liquidez)",
+          "textoExplicativoGl": "Non ter bens nin aforros cos que poidas vivir (considérase que si se tes máis de catro veces o IPREM, uns 2.400 €, en liquidez)"
+        },
+        {
+          "campo": "sinObligadosAlimentosRisga",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "No tener familiares obligados por ley a darte alimentos (padres, hijos, hermanos) que puedan hacerlo realmente",
+          "textoExplicativoGl": "Non ter familiares obrigados por lei a darche alimentos (pais, fillos, irmáns) que poidan facelo realmente"
+        },
+        {
+          "campo": "sinPensionNoContributivaRisga",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "No cobrar una pensión no contributiva, con la que la RISGA es incompatible",
+          "textoExplicativoGl": "Non cobrar unha pensión non contributiva, coa que a RISGA é incompatible"
+        }
+      ],
+      "fuenteOficial": "Sede electrónica de la Xunta (procedimiento BS626F), Ley 10/2013 y Decreto 14/2019, y página de la Consellería de Política Social e Igualdade",
+      "verificadaEl": "2026-11-24T00:00:00.000",
+      "avisosSituacion": [
+        {
+          "situacion": "discapacidad",
+          "texto": "Tener una discapacidad superior al 33 % cuenta como uno de los factores de exclusión que valoran los servicios sociales.",
+          "textoGl": "Ter unha discapacidade superior ao 33 % conta como un dos factores de exclusión que valoran os servizos sociais."
+        },
+        {
+          "situacion": "monoparental",
+          "texto": "Si eres familia monoparental, tendrás que acreditarlo con el documento que corresponda (artículo 13 de la Ley 3/2011). Los servicios sociales valoran las cargas familiares no compartidas como factor de exclusión.",
+          "textoGl": "Se es familia monoparental, terás que acreditalo co documento que corresponda (artigo 13 da Lei 3/2011). Os servizos sociais valoran as cargas familiares non compartidas como factor de exclusión."
+        }
+      ],
+      "documentacion": [
+        "Solicitud (Anexo I), dirigida a la jefatura territorial de Política Social de la provincia donde vives. Preferiblemente por vía electrónica en la sede electrónica de la Xunta (sede.xunta.gal) con Chave365 o certificado; también se puede presentar en cualquier registro, incluido el de tu concello. Los servicios sociales del concello te orientan e informan con los trámites y aportan la documentación mínima de la solicitud (informe social y propuesta de proyecto de integración).",
+        "Anexo II: comprobación de datos de las personas de tu unidad familiar y de tus parientes hasta el segundo grado. Anexo III: comprobación de datos de los familiares obligados a darte alimentos (padres, madres, hijos/as y hermanos/as), con el consentimiento de cada uno. Anexo IV: solo si presenta la solicitud un empleado público en tu nombre.",
+        "Certificado de empadronamiento de los seis meses anteriores a la solicitud y certificado de convivencia.",
+        "Residencia legal: si eres residente comunitario, certificado de residencia y documento de identidad de tu país en vigor; si no, permiso de residencia en vigor. Lo mismo para las demás personas de la unidad familiar, salvo menores.",
+        "Vivienda, según tu caso: último recibo del IBI si es tuya; recibo del IBI y declaración de cesión si es cedida; contrato de alquiler en vigor si estás de alquiler; factura si vives en hotel, pensión o casa particular en régimen de pensión; contrato de alquiler del cuarto (y autorización de realquiler si es un cuarto realquilado). Si vives en una infravivienda o compartes domicilio con otra unidad sin contrato, compromiso por escrito de buscar una vivienda independiente en doce meses (prorrogable otros doce si lo justificas).",
+        "Ingresos y patrimonio: extracto de movimientos de todas las cuentas bancarias de cualquier persona de la unidad familiar de los doce meses anteriores, última nómina de quienes trabajen y tarjeta de demandante de empleo tuya y de las personas mayores de 18 años, cuando proceda.",
+        "Autorización para que la Xunta consulte ingresos y patrimonio (declaración de la renta o datos fiscales del último ejercicio, prestaciones por desempleo, Registro de Prestaciones Sociales Públicas, catastro de inmuebles y datos de conductores). Si no autorizas, hay que aportar copia de esos documentos.",
+        "Solo si te corresponde: acreditación de violencia doméstica o de género; certificado de renta mínima de otra comunidad autónoma; baja consular si eres emigrante retornado; reconocimiento de refugiado o autorización de permanencia por razones humanitarias; acreditación de víctima de trata o de mujer extranjera víctima de violencia de género; acreditación de familia monoparental; certificado de discapacidad tuyo o de alguien de la unidad familiar si no lo expidió la Xunta.",
+        "Solo si tienes más de 18 años y te corresponde: acreditación de orfandad absoluta, justificante de proceder de un centro penitenciario, acreditación de llevar tres años en un domicilio independiente con al menos dos años cotizados a la Seguridad Social, o de ser víctima de trata.",
+        "Si ya presentaste antes el pasaporte, el libro de familia (solo menores sin DNI) o la sentencia de separación o divorcio con el convenio regulador, no hace falta repetirlos: indica cuándo y ante qué órgano. La Xunta consulta de oficio el DNI o NIE, el empadronamiento, la discapacidad si la expidió Galicia, la tutela y la vida laboral, salvo que te opongas."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo I), dirixida á xefatura territorial de Política Social da provincia onde vives. Preferiblemente por vía electrónica na sede electrónica da Xunta (sede.xunta.gal) con Chave365 ou certificado; tamén se pode presentar en calquera rexistro, incluído o do teu concello. Os servizos sociais do concello oriéntante e infórmante cos trámites e achegan a documentación mínima da solicitude (informe social e proposta de proxecto de integración).",
+        "Anexo II: comprobación de datos das persoas da túa unidade familiar e dos teus parentes ata o segundo grao. Anexo III: comprobación de datos dos familiares obrigados a darche alimentos (pais, nais, fillos/as e irmáns/ás), co consentimento de cada un. Anexo IV: só se presenta a solicitude un empregado público no teu nome.",
+        "Certificado de empadroamento dos seis meses anteriores á solicitude e certificado de convivencia.",
+        "Residencia legal: se es residente comunitario, certificado de residencia e documento de identidade do teu país en vigor; se non, permiso de residencia en vigor. O mesmo para as demais persoas da unidade familiar, salvo menores.",
+        "Vivenda, segundo o teu caso: último recibo do IBI se é túa; recibo do IBI e declaración de cesión se é cedida; contrato de alugueiro en vigor se estás de alugueiro; factura se vives en hotel, pensión ou casa particular en réxime de pensión; contrato de alugueiro do cuarto (e autorización de realugueiro se é un cuarto realugado). Se vives nunha infravivenda ou compartes domicilio con outra unidade sen contrato, compromiso por escrito de buscar unha vivenda independente en doce meses (prorrogable outros doce se o xustificas).",
+        "Ingresos e patrimonio: extracto de movementos de todas as contas bancarias de calquera persoa da unidade familiar dos doce meses anteriores, última nómina de quen traballe e tarxeta de demandante de emprego túa e das persoas maiores de 18 anos, cando proceda.",
+        "Autorización para que a Xunta consulte ingresos e patrimonio (declaración da renda ou datos fiscais do último exercicio, prestacións por desemprego, Rexistro de Prestacións Sociais Públicas, catastro de inmobles e datos de condutores). Se non autorizas, hai que achegar copia eses documentos.",
+        "Só se che corresponde: acreditación de violencia doméstica ou de xénero; certificado de renda mínima doutra comunidade autónoma; baixa consular se es emigrante retornado; recoñecemento de refuxiado ou autorización de permanencia por razóns humanitarias; acreditación de vítima de tráfico ou de muller estranxeira vítima de violencia de xénero; acreditación de familia monoparental; certificado de discapacidade teu ou de alguén da unidade familiar se non o expediu a Xunta.",
+        "Só se tes máis de 18 anos e che corresponde: acreditación de orfandade absoluta, xustificante de proceder dun centro penitenciario, acreditación de levar tres anos nun domicilio independente con polo menos dous anos cotizados á Seguridade Social, ou de ser vítima de tráfico.",
+        "Se xa presentaches antes o pasaporte, o libro de familia (só menores sen DNI) ou a sentenza de separación ou divorcio co convenio regulador, non fai falta repetilos: indica cando e ante que órgano. A Xunta consulta de oficio o DNI ou NIE, o empadroamento, a discapacidade se a expediu Galicia, a titela e a vida laboral, salvo que te opoñas."
       ]
     }
   ]
