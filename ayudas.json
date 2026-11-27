@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-25a",
+  "revision": "2026-11-27a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -202,8 +202,8 @@
       "id": "gal_respiro_familiar_2026",
       "titulo": "Respiro familiar para personas cuidadoras 2026",
       "tituloGl": "Respiro familiar para persoas coidadoras 2026",
-      "descripcion": "Ayuda para que las personas que cuidan de forma habitual y no profesional a alguien dependiente o con discapacidad puedan descansar. Financia atención puntual en casa, en un centro de día o una estancia temporal en residencia.\n\nCuánto: hasta el 100 % del coste, con un máximo de 1.000 € al año en atención a domicilio o centro de día y de 1.500 € en residencia. Es compatible con otras ayudas, sin superar el coste del servicio.\n\nQué gastos entran: los realizados entre el 1 de enero y el 21 de noviembre de 2026. Las solicitudes se atienden por orden de presentación hasta agotar el crédito.\n\nCómo se cobra: primero pagas el servicio; cuando te notifiquen la concesión, presentas las facturas (con nombre y DNI de la persona atendida, día y horas del servicio y datos de quien lo presta) y los justificantes de pago, como máximo el 1 de diciembre de 2026. Las tres modalidades son incompatibles entre sí.",
-      "descripcionGl": "Axuda para que as persoas que coidan de forma habitual e non profesional a alguén dependente ou con discapacidade poidan descansar. Financia atención puntual na casa, nun centro de día ou unha estadía temporal nunha residencia.\n\nCanto: ata o 100 % do custo, cun máximo de 1.000 € ao ano en atención a domicilio ou centro de día e de 1.500 € en residencia. É compatible con outras axudas, sen superar o custo do servizo.\n\nQue gastos entran: os realizados entre o 1 de xaneiro e o 21 de novembro de 2026. As solicitudes aténdense por orde de presentación ata esgotar o crédito.\n\nComo se cobra: primeiro pagas o servizo; cando che notifiquen a concesión, presentas as facturas (con nome e DNI da persoa atendida, día e horas do servizo e datos de quen o presta) e os xustificantes de pagamento, como máximo o 1 de decembro de 2026. As tres modalidades son incompatibles entre si.",
+      "descripcion": "Ayuda para que las personas que cuidan de forma habitual y no profesional a alguien dependiente o con discapacidad puedan descansar. Financia atención puntual en casa, en un centro de día o una estancia temporal en residencia.\n\nCuánto: hasta el 100 % del coste, con un máximo de 1.000 € por persona beneficiaria y año en atención a domicilio o centro de día y de 1.500 € en residencia. Es compatible con otras ayudas, sin superar el coste del servicio. Cada persona atendida da derecho a una única ayuda, que pueden compartir varias personas cuidadoras: se reparte según el gasto justificado de cada una.\n\nQué gastos entran: los de servicios prestados entre el 1 de enero y el 21 de noviembre de 2026. Las solicitudes se atienden por orden de presentación hasta agotar el crédito. La Xunta tiene tres meses para resolver; si no responde en ese plazo, la solicitud puede considerarse desestimada.\n\nCómo se cobra: primero pagas el servicio; cuando te notifiquen la concesión, presentas las facturas (con nombre y DNI de la persona atendida, día y horas del servicio y nombre y NIF de quien lo presta) y los justificantes de pago, como máximo el 1 de diciembre de 2026. Si pagaste en efectivo, vale un recibí firmado sobre la factura (con nombre, apellidos y DNI de quien cobra) solo para gastos inferiores a 1.000 €. Las tres modalidades son incompatibles entre sí: solo puedes pedir una.",
+      "descripcionGl": "Axuda para que as persoas que coidan de forma habitual e non profesional a alguén dependente ou con discapacidade poidan descansar. Financia atención puntual na casa, nun centro de día ou unha estadía temporal nunha residencia.\n\nCanto: ata o 100 % do custo, cun máximo de 1.000 € por persoa beneficiaria e ano en atención a domicilio ou centro de día e de 1.500 € en residencia. É compatible con outras axudas, sen superar o custo do servizo. Cada persoa atendida dá dereito a unha única axuda, que poden compartir varias persoas coidadoras: repártese segundo o gasto xustificado de cada unha.\n\nQue gastos entran: os de servizos prestados entre o 1 de xaneiro e o 21 de novembro de 2026. As solicitudes aténdense por orde de presentación ata esgotar o crédito. A Xunta ten tres meses para resolver; se non responde nese prazo, a solicitude pode considerarse desestimada.\n\nComo se cobra: primeiro pagas o servizo; cando che notifiquen a concesión, presentas as facturas (con nome e DNI da persoa atendida, día e horas do servizo e nome e NIF de quen o presta) e os xustificantes de pagamento, como máximo o 1 de decembro de 2026. Se pagaches en efectivo, vale un recibín asinado sobre a factura (con nome, apelidos e DNI de quen cobra) só para gastos inferiores a 1.000 €. As tres modalidades son incompatibles entre si: só podes pedir unha.",
       "categoria": "dependencia",
       "organismo": "Xunta de Galicia",
       "organismoGl": "Xunta de Galicia",
@@ -229,15 +229,15 @@
           "campo": "situacionPersonaAtendida",
           "operador": "confirmar",
           "valor": true,
-          "textoExplicativo": "Que la persona atendida tenga una discapacidad del 75 % o más con necesidad de ayuda de terceros, dependencia reconocida de grado II o III, o necesidad de terceros acreditada con informe médico y social",
-          "textoExplicativoGl": "Que a persoa atendida teña unha discapacidade do 75 % ou máis con necesidade de axuda de terceiros, dependencia recoñecida de grao II ou III, ou necesidade de terceiros acreditada con informe médico e social"
+          "textoExplicativo": "Que la persona atendida tenga reconocida una discapacidad del 75 % o más con necesidad de ayuda de terceros, dependencia reconocida de grado II o III, o necesidad de terceros acreditada con informe médico y social",
+          "textoExplicativoGl": "Que a persoa atendida teña recoñecida unha discapacidade do 75 % ou máis con necesidade de axuda de terceiros, dependencia recoñecida de grao II ou III, ou necesidade de terceiros acreditada con informe médico e social"
         },
         {
           "campo": "gastoRespiro",
           "operador": "confirmar",
           "valor": true,
-          "textoExplicativo": "Haber pagado en 2026 un servicio de respiro: atención a domicilio, centro de día o estancia temporal en residencia",
-          "textoExplicativoGl": "Ter pagado en 2026 un servizo de respiro: atención a domicilio, centro de día ou estadía temporal en residencia"
+          "textoExplicativo": "Haber recibido y pagado un servicio de respiro entre el 1 de enero y el 21 de noviembre de 2026: atención a domicilio, centro de día o estancia temporal en residencia",
+          "textoExplicativoGl": "Ter recibido e pagado un servizo de respiro entre o 1 de xaneiro e o 21 de novembro de 2026: atención a domicilio, centro de día ou estadía temporal en residencia"
         }
       ],
       "documentacion": [
@@ -248,7 +248,7 @@
         "Declaración responsable o documento que acredite el vínculo familiar con la persona atendida.",
         "Solo si procede: informe social (si no hay grado de dependencia reconocido o han cambiado las circunstancias), informe médico del Servizo Galego de Saúde (si no hay grado de dependencia reconocido) y certificado de discapacidad (si no lo expidió la Xunta).",
         "DNI o NIE, padrón y certificados de estar al corriente con Hacienda y la Seguridad Social: los consulta la Administración, salvo que te opongas.",
-        "Para cobrar (hasta el 1/12/2026): solicitud de pago (Anexo IV), facturas a tu nombre y justificantes bancarios del pago."
+        "Para cobrar (hasta el 1/12/2026): solicitud de pago (Anexo IV), facturas a tu nombre y justificantes bancarios del pago (en efectivo vale un recibí firmado sobre la factura, solo para gastos inferiores a 1.000 €). Si no diste tu número de cuenta en la solicitud, indícalo."
       ],
       "documentacionGl": [
         "Solicitude (Anexo I), preferiblemente por vía electrónica en sede.xunta.gal (procedemento BS614B), con Chave365 ou outro sistema admitido.",
@@ -258,7 +258,7 @@
         "Declaración responsable ou documento que acredite o vínculo familiar coa persoa atendida.",
         "Só se procede: informe social (se non hai grao de dependencia recoñecido ou variaron as circunstancias), informe médico do Servizo Galego de Saúde (se non hai grao de dependencia recoñecido) e certificado de discapacidade (se non o expediu a Xunta).",
         "DNI ou NIE, padrón e certificados de estar ao corrente coa Facenda e a Seguridade Social: consúltaos a Administración, agás que te opoñas.",
-        "Para cobrar (ata o 1/12/2026): solicitude de pagamento (Anexo IV), facturas ao teu nome e xustificantes bancarios do pagamento."
+        "Para cobrar (ata o 1/12/2026): solicitude de pagamento (Anexo IV), facturas ao teu nome e xustificantes bancarios do pagamento (en efectivo vale un recibín asinado sobre a factura, só para gastos inferiores a 1.000 €). Se non deches o teu número de conta na solicitude, indícao."
       ]
     },
     {
