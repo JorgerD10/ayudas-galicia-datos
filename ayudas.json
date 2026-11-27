@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-24a",
+  "revision": "2026-11-25a",
   "ayudas": [
     {
       "id": "gal_bono_concilia_2026",
@@ -7048,6 +7048,81 @@
         "Só se che corresponde: acreditación de violencia doméstica ou de xénero; certificado de renda mínima doutra comunidade autónoma; baixa consular se es emigrante retornado; recoñecemento de refuxiado ou autorización de permanencia por razóns humanitarias; acreditación de vítima de tráfico ou de muller estranxeira vítima de violencia de xénero; acreditación de familia monoparental; certificado de discapacidade teu ou de alguén da unidade familiar se non o expediu a Xunta.",
         "Só se tes máis de 18 anos e che corresponde: acreditación de orfandade absoluta, xustificante de proceder dun centro penitenciario, acreditación de levar tres anos nun domicilio independente con polo menos dous anos cotizados á Seguridade Social, ou de ser vítima de tráfico.",
         "Se xa presentaches antes o pasaporte, o libro de familia (só menores sen DNI) ou a sentenza de separación ou divorcio co convenio regulador, non fai falta repetilos: indica cando e ante que órgano. A Xunta consulta de oficio o DNI ou NIE, o empadroamento, a discapacidade se a expediu Galicia, a titela e a vida laboral, salvo que te opoñas."
+      ]
+    },
+    {
+      "id": "gal_ais_ayudas_inclusion_social",
+      "titulo": "Ayudas de inclusión social (AIS) de la Xunta",
+      "tituloGl": "Axudas de inclusión social (AIS) da Xunta",
+      "descripcion": "Prestación económica de la Xunta, de pago único, para personas o familias vulnerables que necesitan cubrir un gasto concreto y urgente o reforzar su proceso de inclusión social. No es una subvención: es una prestación social.\n\nPara qué: hay siete tipos. (1) Vivienda: deudas de alquiler y conceptos similares (gastos de comunidad, agua, luz) que impidan un desahucio o la pérdida de suministros básicos, o que refuercen el paso a una vivienda normalizada de personas que viven en chabolas o infraviviendas. Excepcionalmente, si hay una crisis económica sobrevenida que impide pagar la hipoteca, hasta tres cuotas mensuales si con ello se evita el desahucio. (2) Habitabilidad: adecuación imprescindible de tu vivienda habitual, o mejora de su accesibilidad, si afecta a la salud de quien vive en ella. Vivienda propia o cedida con autorización; nunca para una rehabilitación integral ni en chabolas o infraviviendas. (3) Mobiliario y electrodomésticos básicos que no tengas en la vivienda (no en chabolas o infraviviendas). Excepcionalmente también otros que no sean básicos, si es urgente por menores o por personas con problemas de salud o discapacidad. (4) Alimentos, vestido y ajuar doméstico básicos. (5) Atención sanitaria o sociosanitaria que no cubre la sanidad pública: tratamientos, prótesis o ayudas técnicas decisivos para evitar un déficit sensorial, de movilidad o de salud. Solo si no tienes acceso a otras ayudas similares; prioridad para menores. (6) Gastos de acompañamiento de tu itinerario de inclusión o formación: material didáctico, transporte, atención de menores o mayores, apoyo domiciliario y otros, si no los cubre ya la RISGA, el programa formativo u otros sistemas públicos. Incluye acompañamiento y refuerzo para víctimas de violencia de género. (7) Gastos extraordinarios de ajuste personal de personas perceptoras de la RISGA, sobre todo por drogodependencia.\n\nQuién puede pedirla: personas mayores de edad, empadronadas y con residencia comprobada por la trabajadora social, con ingresos que no superen el 125 % de la RISGA que les correspondería (586,50 € al mes para una persona sola) y sin bienes con los que cubrir el gasto. En alimentación, vestido y ajuar cuentan los ingresos efectivamente percibidos. La atención sanitaria tiene regla propia: solo cuentan los recursos de las personas adultas solicitantes, con los ingresos totales del hogar por debajo del doble del IPREM mensual y bienes por valor inferior a diez veces el importe de la ayuda.\n\nCuánto: con el IPREM de 2026 (600 € al mes), el máximo es de 1.500 € para vivienda (una ayuda cada dos años); 6.000 € para habitabilidad (una cada cinco años, salvo caso fortuito o de fuerza mayor acreditado); 1.200 € para mobiliario, alimentación, vestido, ajuar y atención sanitaria (una cada dos años; en alimentación, vestido, ajuar y atención sanitaria para menores se puede repetir antes si el informe social acredita una situación urgente y extraordinaria de grave necesidad); y 1.200 € para acompañamiento y ajuste personal (una al año). Siempre en la misma unidad de convivencia. Son límites: el importe concreto lo fija la Xunta según tu situación económica y familiar y, en mobiliario, alimentación, vestido, ajuar y atención sanitaria, con los precios mínimos de mercado. La ayuda solo se puede usar para lo que te concedan.\n\nCómo se pide: el plazo está abierto todo el año. Lo más práctico es empezar por los servicios sociales de tu concello, que te orientan e informan de los trámites y la documentación. La Xunta tiene dos meses para resolver; si no responde en ese plazo, la solicitud se entiende denegada.",
+      "descripcionGl": "Prestación económica da Xunta, de pagamento único, para persoas ou familias vulnerables que precisan cubrir un gasto concreto e urxente ou reforzar o seu proceso de inclusión social. Non é unha subvención: é unha prestación social.\n\nPara que: hai sete tipos. (1) Vivenda: débedas de alugueiro e conceptos similares (gastos da comunidade, auga, luz) que impidan un desafiuzamento ou a perda de subministracións básicas, ou que reforcen o tránsito a unha vivenda normalizada de persoas que viven en chabolas ou infravivendas. Excepcionalmente, se hai unha crise económica sobrevida que impide pagar a hipoteca, ata tres cotas mensuais se con iso se evita o desafiuzamento. (2) Habitabilidade: adecuación imprescindible da túa vivenda habitual, ou mellora da súa accesibilidade, se afecta á saúde de quen vive nela. Vivenda propia ou cedida con autorización; nunca para unha rehabilitación integral nin en chabolas ou infravivendas. (3) Mobiliario e electrodomésticos básicos que non teñas na vivenda (non en chabolas ou infravivendas). Excepcionalmente tamén outros que non sexan básicos, se é urxente por menores ou por persoas con problemas de saúde ou discapacidade. (4) Alimentos, vestido e enxoval doméstico básicos. (5) Atención sanitaria ou sociosanitaria que non cobre a sanidade pública: tratamentos, elementos protésicos ou axudas técnicas decisivos para evitar un déficit sensorial, de mobilidade ou de saúde. Só se non tes acceso a outras axudas similares; prioridade para menores. (6) Gastos de acompañamento do teu itinerario de inclusión ou formación: material didáctico, transporte, atención de menores ou maiores, apoio domiciliario e outros, se non os cobre xa a RISGA, o programa formativo ou outros sistemas públicos. Inclúe acompañamento e reforzo para vítimas de violencia de xénero. (7) Gastos extraordinarios de axuste persoal de persoas perceptoras da RISGA, sobre todo por drogodependencia.\n\nQuen pode pedila: persoas maiores de idade, empadroadas e con residencia constatada pola traballadora social, con ingresos que non superen o 125 % da RISGA que lles corresponderían (586,50 € ao mes para unha persoa soa) e sen bens cos que cubrir o gasto. En alimentación, vestido e enxoval contan os ingresos efectivamente percibidos. A atención sanitaria ten regra propia: só contan os recursos das persoas adultas solicitantes, cos ingresos totais do fogar por debaixo do dobre do IPREM mensual e bens por valor inferior a dez veces o importe da axuda.\n\nCanto: co IPREM de 2026 (600 € ao mes), o máximo é de 1.500 € para vivenda (unha axuda cada dous anos); 6.000 € para habitabilidade (unha cada cinco anos, salvo caso fortuíto ou de forza maior acreditado); 1.200 € para mobiliario, alimentación, vestido, enxoval e atención sanitaria (unha cada dous anos; en alimentación, vestido, enxoval e atención sanitaria para menores pódese repetir antes se o informe social acredita unha situación urxente e extraordinaria de grave necesidade); e 1.200 € para acompañamento e axuste persoal (unha ao ano). Sempre na mesma unidade de convivencia. Son límites: o importe concreto fíxao a Xunta segundo a túa situación económica e familiar e, en mobiliario, alimentación, vestido, enxoval e atención sanitaria, cos prezos mínimos de mercado. A axuda só se pode usar para o que che concedan.\n\nComo se pide: o prazo está aberto todo o ano. O máis práctico é comezar polos servizos sociais do teu concello, que te orientan e informan dos trámites e da documentación. A Xunta ten dous meses para resolver; se non responde nese prazo, a solicitude enténdese denegada.",
+      "categoria": "inclusion",
+      "organismo": "Xunta de Galicia (Consellería de Política Social e Igualdade, Dirección Xeral de Inclusión Social)",
+      "organismoGl": "Xunta de Galicia (Consellería de Política Social e Igualdade, Dirección Xeral de Inclusión Social)",
+      "enlaceOficial": "https://sede.xunta.gal/detalle-procedemento?codtram=BS618D&ano=2019&numpub=1&lang=gl",
+      "sinPlazoFijo": true,
+      "requisitos": [
+        {
+          "campo": "ingresos",
+          "operador": "menorQue",
+          "valor": 1800,
+          "textoExplicativo": "Ingresos netos del hogar de menos de 1.800 € al mes. El límite real es más bajo y depende del tipo de ayuda y de cuántas personas viváis: para una persona sola, el 125 % de la RISGA son 586,50 € al mes",
+          "textoExplicativoGl": "Ingresos netos do fogar de menos de 1.800 € ao mes. O límite real é máis baixo e depende do tipo de axuda e de cantas persoas vivades: para unha persoa soa, o 125 % da RISGA son 586,50 € ao mes"
+        },
+        {
+          "campo": "situacionVulnerabilidadAis",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Ser mayor de edad y ser una persona o familia vulnerable",
+          "textoExplicativoGl": "Ser maior de idade e ser unha persoa ou familia vulnerable"
+        },
+        {
+          "campo": "empadronamientoAis",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Estar empadronada/o en un concello de Galicia y vivir allí de forma efectiva, según conste en el informe social",
+          "textoExplicativoGl": "Estar empadroada/o nun concello de Galicia e vivir alí de forma efectiva, segundo conste no informe social"
+        },
+        {
+          "campo": "gastoCubiertoPorAis",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "Necesitar la ayuda para un gasto de los previstos: alquiler y conceptos similares atrasados, habitabilidad de tu vivienda, mobiliario y electrodomésticos básicos, alimentación, vestido o ajuar doméstico, atención sanitaria no cubierta, acompañamiento o ajuste personal",
+          "textoExplicativoGl": "Precisar a axuda para un gasto dos previstos: alugueiro e conceptos similares atrasados, habitabilidade da túa vivenda, mobiliario e electrodomésticos básicos, alimentación, vestido ou enxoval doméstico, atención sanitaria non cuberta, acompañamento ou axuste persoal"
+        },
+        {
+          "campo": "sinPatrimonioAis",
+          "operador": "confirmar",
+          "valor": true,
+          "textoExplicativo": "No tener bienes con los que puedas pagar el gasto (se considera que sí si su valor supera 12 veces el 125 % de la RISGA mensual que te correspondería). En atención sanitaria, bienes por valor inferior a diez veces el importe de la ayuda",
+          "textoExplicativoGl": "Non ter bens cos que poidas pagar o gasto (considérase que si se o seu valor supera 12 veces o 125 % da RISGA mensual que che correspondería). En atención sanitaria, bens por valor inferior a dez veces o importe da axuda"
+        }
+      ],
+      "fuenteOficial": "Sede electrónica de la Xunta (procedimiento BS618D), página oficial de AIS de la Consellería de Política Social, Ley 10/2013 y Decreto 14/2019 (arts. 68, 69, 70, 72 y 84)",
+      "verificadaEl": "2026-11-25T00:00:00.000",
+      "documentacion": [
+        "Solicitud (Anexo VIII) indicando el tipo de ayuda que pides, dirigida a la jefatura territorial de Política Social de la provincia donde vives. Preferiblemente por vía electrónica en la sede electrónica de la Xunta (sede.xunta.gal) con Chave365 o certificado; también se puede presentar en cualquier registro, incluido el de tu concello. Se pueden pedir varias necesidades en una misma solicitud.",
+        "Documentación mínima que aportan los servicios sociales de tu concello. La trabajadora social de referencia te orienta e informa de los trámites y la documentación.",
+        "Certificado de convivencia. Si tú o alguien de tu unidad familiar tenéis discapacidad y el certificado no lo expidió la Xunta, también ese certificado.",
+        "Si la vivienda es tuya, copia del último recibo del IBI.",
+        "Extracto de movimientos de todas las cuentas bancarias de cualquier persona de la unidad familiar de los doce meses anteriores a la solicitud.",
+        "Presupuesto de los gastos para los que pides la ayuda.",
+        "Si la ayuda tiene que ver con la salud tuya o de un menor a tu cargo, informe del personal facultativo del Servizo Galego de Saúde.",
+        "Anexo II: comprobación de datos de las personas de tu unidad familiar y de tus parientes hasta el segundo grado. Anexo IV: solo si presenta la solicitud un empleado público en tu nombre.",
+        "Autorización para que la Xunta consulte ingresos y patrimonio (declaración de la renta o datos fiscales del último ejercicio, desempleo, prestaciones públicas, catastro y datos de conductores). Si no autorizas, hay que aportar copia. La Xunta consulta de oficio el DNI o NIE, el empadronamiento, la discapacidad si la expidió Galicia y la vida laboral, salvo que te opongas.",
+        "Si ya presentaste antes el pasaporte, el libro de familia (solo menores sin DNI) o la sentencia de separación o divorcio con el convenio regulador, no hace falta repetirlos: indica cuándo y ante qué órgano."
+      ],
+      "documentacionGl": [
+        "Solicitude (Anexo VIII) indicando o tipo de axuda que pides, dirixida á xefatura territorial de Política Social da provincia onde vives. Preferiblemente por vía electrónica na sede electrónica da Xunta (sede.xunta.gal) con Chave365 ou certificado; tamén se pode presentar en calquera rexistro, incluído o do teu concello. Pódense pedir varias necesidades nunha mesma solicitude.",
+        "Documentación mínima que achegan os servizos sociais do teu concello. A traballadora social de referencia oriéntate e infórmate dos trámites e da documentación.",
+        "Certificado de convivencia. Se ti ou alguén da túa unidade familiar tedes discapacidade e o certificado non o expediu a Xunta, tamén ese certificado.",
+        "Se a vivenda é túa, copia do último recibo do IBI.",
+        "Extracto de movementos de todas as contas bancarias de calquera persoa da unidade familiar dos doce meses anteriores á solicitude.",
+        "Orzamento dos gastos para os que pides a axuda.",
+        "Se a axuda ten que ver coa saúde túa ou dun menor ao teu cargo, informe do persoal facultativo do Servizo Galego de Saúde.",
+        "Anexo II: comprobación de datos das persoas da túa unidade familiar e dos teus parentes ata o segundo grao. Anexo IV: só se presenta a solicitude un empregado público no teu nome.",
+        "Autorización para que a Xunta consulte ingresos e patrimonio (declaración da renda ou datos fiscais do último exercicio, desemprego, prestacións públicas, catastro e datos de condutores). Se non autorizas, hai que achegar copia. A Xunta consulta de oficio o DNI ou NIE, o empadroamento, a discapacidade se a expediu Galicia e a vida laboral, salvo que te opoñas.",
+        "Se xa presentaches antes o pasaporte, o libro de familia (só menores sen DNI) ou a sentenza de separación ou divorcio co convenio regulador, non fai falta repetilos: indica cando e ante que órgano."
       ]
     }
   ]
